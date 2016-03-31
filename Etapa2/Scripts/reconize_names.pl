@@ -53,22 +53,16 @@ while (<$jb_file>){
 }
 
 close ($jb_file);
-print "___________________NOMES__________________________\n";
-print "| Nome\t| Total\t| Freq\t| Log\t|\n";
-print "__________________________________________________\n";
-my $tnomes;
+
 foreach my $name (keys %nomes){
   if($nomes{$name} > 0){
-    $tnomes++;
     my $freq = ($nomes{$name}*1000000)/$total_palavras;
     $freq = sprintf("%.2f",$freq);
     my $log = log10($nomes{$name});
     $log = sprintf("%.2f",$log);
-    print "| $name\t| $nomes{$name}\t| $freq\t| $log\t|\n";
+    print "$name|$nomes{$name}|$freq|$log\n";
   }
 }
-print "__________________________________________________\n";
-print "Total de nomes: $tnomes\n";
 
 sub log10{
   my $n = shift;

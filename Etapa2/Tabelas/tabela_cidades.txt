@@ -1,157 +1,152 @@
-___________________CIDADES__________________________
-| Cidade	| Total	| Freq	| Log	|
-____________________________________________________
-| milagres	| 3	| 5.33	| 0.48	|
-| glória	| 1	| 1.78	| 0.00	|
-| estreito	| 5	| 8.89	| 0.70	|
-| delta	| 1	| 1.78	| 0.00	|
-| oriente	| 5	| 8.89	| 0.70	|
-| pintadas	| 1	| 1.78	| 0.00	|
-| posse	| 118	| 209.84	| 2.07	|
-| imigrante	| 6	| 10.67	| 0.78	|
-| placas	| 7	| 12.45	| 0.85	|
-| recreio	| 1	| 1.78	| 0.00	|
-| salgado	| 1	| 1.78	| 0.00	|
-| patrocínio	| 1	| 1.78	| 0.00	|
-| roteiro	| 9	| 16.00	| 0.95	|
-| pedra	| 8	| 14.23	| 0.90	|
-| queimados	| 4	| 7.11	| 0.60	|
-| mata	| 56	| 99.58	| 1.75	|
-| arame	| 5	| 8.89	| 0.70	|
-| ilhota	| 1	| 1.78	| 0.00	|
-| nobres	| 1	| 1.78	| 0.00	|
-| datas	| 8	| 14.23	| 0.90	|
-| palestina	| 8	| 14.23	| 0.90	|
-| barra	| 2	| 3.56	| 0.30	|
-| reduto	| 11	| 19.56	| 1.04	|
-| russas	| 12	| 21.34	| 1.08	|
-| lajes	| 1	| 1.78	| 0.00	|
-| horizonte	| 4	| 7.11	| 0.60	|
-| independência	| 37	| 65.80	| 1.57	|
-| sério	| 7	| 12.45	| 0.85	|
-| almas	| 3	| 5.33	| 0.48	|
-| bonito	| 5	| 8.89	| 0.70	|
-| indiana	| 6	| 10.67	| 0.78	|
-| caridade	| 14	| 24.90	| 1.15	|
-| primavera	| 14	| 24.90	| 1.15	|
-| jardim	| 5	| 8.89	| 0.70	|
-| estância	| 2	| 3.56	| 0.30	|
-| central	| 44	| 78.24	| 1.64	|
-| capela	| 5	| 8.89	| 0.70	|
-| farol	| 1	| 1.78	| 0.00	|
-| quadra	| 1	| 1.78	| 0.00	|
-| una	| 1	| 1.78	| 0.00	|
-| ouro	| 8	| 14.23	| 0.90	|
-| leme	| 3	| 5.33	| 0.48	|
-| descoberto	| 9	| 16.00	| 0.95	|
-| painel	| 6	| 10.67	| 0.78	|
-| palmas	| 1	| 1.78	| 0.00	|
-| barreira	| 11	| 19.56	| 1.04	|
-| aurora	| 1	| 1.78	| 0.00	|
-| pilar	| 2	| 3.56	| 0.30	|
-| flores	| 18	| 32.01	| 1.26	|
-| contagem	| 20	| 35.57	| 1.30	|
-| vigia	| 2	| 3.56	| 0.30	|
-| floresta	| 9	| 16.00	| 0.95	|
-| cruzeiro	| 1	| 1.78	| 0.00	|
-| travesseiro	| 3	| 5.33	| 0.48	|
-| óleo	| 2	| 3.56	| 0.30	|
-| extrema	| 37	| 65.80	| 1.57	|
-| barreiras	| 11	| 19.56	| 1.04	|
-| união	| 129	| 229.40	| 2.11	|
-| princesa	| 8	| 14.23	| 0.90	|
-| catalão	| 10	| 17.78	| 1.00	|
-| alecrim	| 1	| 1.78	| 0.00	|
-| riqueza	| 7	| 12.45	| 0.85	|
-| porto	| 11	| 19.56	| 1.04	|
-| passos	| 24	| 42.68	| 1.38	|
-| corrente	| 10	| 17.78	| 1.00	|
-| coluna	| 6	| 10.67	| 0.78	|
-| modelo	| 38	| 67.57	| 1.58	|
-| cristais	| 1	| 1.78	| 0.00	|
-| arco-íris	| 1	| 1.78	| 0.00	|
-| reserva	| 10	| 17.78	| 1.00	|
-| conquista	| 7	| 12.45	| 0.85	|
-| fronteiras	| 116	| 206.28	| 2.06	|
-| arcos	| 1	| 1.78	| 0.00	|
-| ventania	| 1	| 1.78	| 0.00	|
-| encruzilhada	| 4	| 7.11	| 0.60	|
-| natal	| 26	| 46.23	| 1.41	|
-| correntes	| 5	| 8.89	| 0.70	|
-| derrubadas	| 3	| 5.33	| 0.48	|
-| portão	| 1	| 1.78	| 0.00	|
-| tiros	| 48	| 85.36	| 1.68	|
-| panorama	| 10	| 17.78	| 1.00	|
-| barro	| 1	| 1.78	| 0.00	|
-| saúde	| 125	| 222.28	| 2.10	|
-| chaves	| 4	| 7.11	| 0.60	|
-| queimadas	| 3	| 5.33	| 0.48	|
-| barras	| 3	| 5.33	| 0.48	|
-| alumínio	| 1	| 1.78	| 0.00	|
-| fortaleza	| 3	| 5.33	| 0.48	|
-| londrina	| 1	| 1.78	| 0.00	|
-| sombrio	| 4	| 7.11	| 0.60	|
-| colina	| 2	| 3.56	| 0.30	|
-| cruz	| 7	| 12.45	| 0.85	|
-| areia	| 8	| 14.23	| 0.90	|
-| estação	| 52	| 92.47	| 1.72	|
-| realeza	| 2	| 3.56	| 0.30	|
-| cordeiro	| 2	| 3.56	| 0.30	|
-| acre	| 1	| 1.78	| 0.00	|
-| salto	| 4	| 7.11	| 0.60	|
-| marcação	| 1	| 1.78	| 0.00	|
-| fama	| 5	| 8.89	| 0.70	|
-| passagem	| 46	| 81.80	| 1.66	|
-| alegre	| 2	| 3.56	| 0.30	|
-| montanha	| 3	| 5.33	| 0.48	|
-| franca	| 2	| 3.56	| 0.30	|
-| escada	| 1	| 1.78	| 0.00	|
-| fronteira	| 155	| 275.63	| 2.19	|
-| agudo	| 1	| 1.78	| 0.00	|
-| agudos	| 1	| 1.78	| 0.00	|
-| aliança	| 50	| 88.91	| 1.70	|
-| esplanada	| 3	| 5.33	| 0.48	|
-| progresso	| 9	| 16.00	| 0.95	|
-| montadas	| 1	| 1.78	| 0.00	|
-| vertentes	| 4	| 7.11	| 0.60	|
-| redenção	| 1	| 1.78	| 0.00	|
-| florestal	| 4	| 7.11	| 0.60	|
-| armazém	| 2	| 3.56	| 0.30	|
-| saudades	| 1	| 1.78	| 0.00	|
-| amparo	| 1	| 1.78	| 0.00	|
-| paraíso	| 2	| 3.56	| 0.30	|
-| vinhedo	| 1	| 1.78	| 0.00	|
-| fortuna	| 6	| 10.67	| 0.78	|
-| castelo	| 1	| 1.78	| 0.00	|
-| mineiros	| 6	| 10.67	| 0.78	|
-| montanhas	| 3	| 5.33	| 0.48	|
-| torres	| 3	| 5.33	| 0.48	|
-| prata	| 2	| 3.56	| 0.30	|
-| juramento	| 14	| 24.90	| 1.15	|
-| condado	| 15	| 26.67	| 1.18	|
-| capitão	| 11	| 19.56	| 1.04	|
-| triunfo	| 9	| 16.00	| 0.95	|
-| cristal	| 1	| 1.78	| 0.00	|
-| segredo	| 10	| 17.78	| 1.00	|
-| batalha	| 38	| 67.57	| 1.58	|
-| moeda	| 24	| 42.68	| 1.38	|
-| registro	| 35	| 62.24	| 1.54	|
-| paulista	| 3	| 5.33	| 0.48	|
-| campanha	| 179	| 318.31	| 2.25	|
-| lagoa	| 1	| 1.78	| 0.00	|
-| brasileira	| 58	| 103.14	| 1.76	|
-| divino	| 2	| 3.56	| 0.30	|
-| dourado	| 1	| 1.78	| 0.00	|
-| contenda	| 2	| 3.56	| 0.30	|
-| altos	| 25	| 44.46	| 1.40	|
-| sorriso	| 1	| 1.78	| 0.00	|
-| tesouro	| 1	| 1.78	| 0.00	|
-| bandeira	| 31	| 55.13	| 1.49	|
-| harmonia	| 5	| 8.89	| 0.70	|
-| casca	| 2	| 3.56	| 0.30	|
-| mesquita	| 35	| 62.24	| 1.54	|
-| americana	| 21	| 37.34	| 1.32	|
-| serrana	| 3	| 5.33	| 0.48	|
-| custódia	| 13	| 23.12	| 1.11	|
-____________________________________________________
-Total de cidades: 152
+barreiras|11|19.56|1.04
+tiros|48|85.36|1.68
+colina|2|3.56|0.30
+queimados|4|7.11|0.60
+arcos|1|1.78|0.00
+jardim|5|8.89|0.70
+recreio|1|1.78|0.00
+divino|2|3.56|0.30
+horizonte|4|7.11|0.60
+areia|8|14.23|0.90
+barreira|11|19.56|1.04
+floresta|9|16.00|0.95
+sombrio|4|7.11|0.60
+mineiros|6|10.67|0.78
+ilhota|1|1.78|0.00
+almas|3|5.33|0.48
+nobres|1|1.78|0.00
+barras|3|5.33|0.48
+riqueza|7|12.45|0.85
+franca|2|3.56|0.30
+torres|3|5.33|0.48
+marcação|1|1.78|0.00
+altos|25|44.46|1.40
+modelo|38|67.57|1.58
+óleo|2|3.56|0.30
+saudades|1|1.78|0.00
+agudos|1|1.78|0.00
+cruz|7|12.45|0.85
+esplanada|3|5.33|0.48
+extrema|37|65.80|1.57
+brasileira|58|103.14|1.76
+estação|52|92.47|1.72
+posse|118|209.84|2.07
+bonito|5|8.89|0.70
+pedra|8|14.23|0.90
+sorriso|1|1.78|0.00
+armazém|2|3.56|0.30
+serrana|3|5.33|0.48
+lajes|1|1.78|0.00
+fortaleza|3|5.33|0.48
+londrina|1|1.78|0.00
+derrubadas|3|5.33|0.48
+contenda|2|3.56|0.30
+coluna|6|10.67|0.78
+mesquita|35|62.24|1.54
+cruzeiro|1|1.78|0.00
+cristais|1|1.78|0.00
+imigrante|6|10.67|0.78
+alumínio|1|1.78|0.00
+conquista|7|12.45|0.85
+estreito|5|8.89|0.70
+redenção|1|1.78|0.00
+salgado|1|1.78|0.00
+capitão|11|19.56|1.04
+catalão|10|17.78|1.00
+painel|6|10.67|0.78
+custódia|13|23.12|1.11
+vinhedo|1|1.78|0.00
+palmas|1|1.78|0.00
+arco-íris|1|1.78|0.00
+escada|1|1.78|0.00
+vigia|2|3.56|0.30
+encruzilhada|4|7.11|0.60
+natal|26|46.23|1.41
+palestina|8|14.23|0.90
+casca|2|3.56|0.30
+triunfo|9|16.00|0.95
+central|44|78.24|1.64
+juramento|14|24.90|1.15
+pintadas|1|1.78|0.00
+progresso|9|16.00|0.95
+correntes|5|8.89|0.70
+farol|1|1.78|0.00
+ventania|1|1.78|0.00
+pilar|2|3.56|0.30
+dourado|1|1.78|0.00
+paulista|3|5.33|0.48
+arame|5|8.89|0.70
+passagem|46|81.80|1.66
+amparo|1|1.78|0.00
+vertentes|4|7.11|0.60
+lagoa|1|1.78|0.00
+corrente|10|17.78|1.00
+acre|1|1.78|0.00
+montanha|3|5.33|0.48
+delta|1|1.78|0.00
+flores|18|32.01|1.26
+portão|1|1.78|0.00
+agudo|1|1.78|0.00
+passos|24|42.68|1.38
+alecrim|1|1.78|0.00
+patrocínio|1|1.78|0.00
+russas|12|21.34|1.08
+chaves|4|7.11|0.60
+realeza|2|3.56|0.30
+montadas|1|1.78|0.00
+barra|2|3.56|0.30
+união|129|229.40|2.11
+condado|15|26.67|1.18
+castelo|1|1.78|0.00
+panorama|10|17.78|1.00
+independência|37|65.80|1.57
+fronteiras|116|206.28|2.06
+capela|5|8.89|0.70
+barro|1|1.78|0.00
+datas|8|14.23|0.90
+contagem|20|35.57|1.30
+cristal|1|1.78|0.00
+segredo|10|17.78|1.00
+fortuna|6|10.67|0.78
+americana|21|37.34|1.32
+quadra|1|1.78|0.00
+tesouro|1|1.78|0.00
+harmonia|5|8.89|0.70
+batalha|38|67.57|1.58
+placas|7|12.45|0.85
+ouro|8|14.23|0.90
+montanhas|3|5.33|0.48
+salto|4|7.11|0.60
+porto|11|19.56|1.04
+fama|5|8.89|0.70
+reduto|11|19.56|1.04
+sério|7|12.45|0.85
+prata|2|3.56|0.30
+queimadas|3|5.33|0.48
+descoberto|9|16.00|0.95
+indiana|6|10.67|0.78
+estância|2|3.56|0.30
+fronteira|155|275.63|2.19
+aurora|1|1.78|0.00
+leme|3|5.33|0.48
+aliança|50|88.91|1.70
+cordeiro|2|3.56|0.30
+florestal|4|7.11|0.60
+glória|1|1.78|0.00
+campanha|179|318.31|2.25
+travesseiro|3|5.33|0.48
+reserva|10|17.78|1.00
+roteiro|9|16.00|0.95
+caridade|14|24.90|1.15
+saúde|125|222.28|2.10
+oriente|5|8.89|0.70
+mata|56|99.58|1.75
+bandeira|31|55.13|1.49
+alegre|2|3.56|0.30
+registro|35|62.24|1.54
+paraíso|2|3.56|0.30
+milagres|3|5.33|0.48
+princesa|8|14.23|0.90
+una|1|1.78|0.00
+primavera|14|24.90|1.15
+moeda|24|42.68|1.38

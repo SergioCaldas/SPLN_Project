@@ -54,22 +54,15 @@ while (<$jb_file>){
 
 close ($jb_file);
 
-print "___________________CIDADES__________________________\n";
-print "| Cidade\t| Total\t| Freq\t| Log\t|\n";
-print "____________________________________________________\n";
-my $tcidades;
 foreach my $cidade (keys %cidades){
   if($cidades{$cidade} > 0){
-    $tcidades++;
     my $freq = ($cidades{$cidade}*1000000)/$total_palavras;
     $freq = sprintf("%.2f",$freq);
     my $log = log10($cidades{$cidade});
     $log = sprintf("%.2f",$log);
-    print "| $cidade\t| $cidades{$cidade}\t| $freq\t| $log\t|\n";
+    print "$cidade|$cidades{$cidade}|$freq|$log\n";
   }
 }
-print "____________________________________________________\n";
-print "Total de cidades: $tcidades\n";
 
 sub log10{
   my $n = shift;
