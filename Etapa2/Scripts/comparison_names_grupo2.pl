@@ -13,11 +13,11 @@ my $total = "Total";
 my $freq_abs = "Freq Abs";
 my $freq_log = "Freq Log";
 
-open (my $my_tabela_nomes, "<", "../Tabelas/tabela_nomes.txt") or die ("Impossivel abrir o ficheiro tabela_nomes.txt\n");
+open (my $my_tabela_nomes, "<", "../Tabelas/tabela_nomes_g7.txt") or die ("Impossivel abrir o ficheiro tabela_nomes.txt\n");
 
 while(<$my_tabela_nomes>){
   chomp;
-  @my_campos = split (/\|/, $_,4);
+  @my_campos = split (/\,/, $_,4);
   $my_hash{$my_campos[0]}{$total}=$my_campos[1];
   $my_hash{$my_campos[0]}{$freq_abs}=$my_campos[2];
   $my_hash{$my_campos[0]}{$freq_log}=$my_campos[3];
@@ -38,7 +38,7 @@ close ($his_tabela_nomes);
 
 my $tnomes = 0;
 
-foreach my $my_name (keys %my_hash){
+foreach my $my_name (sort keys %my_hash){
   if(exists $his_hash{lc $my_name}){
     $tnomes++;
     print "$my_name\n";
@@ -48,4 +48,4 @@ foreach my $my_name (keys %my_hash){
   }
 }
 
-print "Total de Nomes em Comum entre os dois Grupos: $tnomes\n";
+print "\nTotal de Nomes em Comum entre os dois Grupos: $tnomes\n";

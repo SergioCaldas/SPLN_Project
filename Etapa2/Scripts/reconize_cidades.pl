@@ -54,7 +54,7 @@ while (<$jb_file>){
 
 close ($jb_file);
 
-foreach my $cidade (keys %cidades){
+foreach my $cidade (sort keys %cidades){
   if($cidades{$cidade} > 0){
     my $freq = ($cidades{$cidade}*1000000)/$total_palavras;
     $freq = sprintf("%.4f",$freq);

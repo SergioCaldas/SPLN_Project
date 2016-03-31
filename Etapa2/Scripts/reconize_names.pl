@@ -54,7 +54,7 @@ while (<$jb_file>){
 
 close ($jb_file);
 
-foreach my $name (keys %nomes){
+foreach my $name (sort keys %nomes){
   if($nomes{$name} > 0){
     my $freq = ($nomes{$name}*1000000)/$total_palavras;
     $freq = sprintf("%.4f",$freq);
