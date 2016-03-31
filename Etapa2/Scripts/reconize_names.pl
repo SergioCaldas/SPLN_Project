@@ -15,21 +15,21 @@ open (my $file_nomes, "<", "../DBs/nomes.txt") or die ("Impossivel abrir o fiche
 open (my $file_cidades, "<", "../DBs/cidades.txt") or die ("Impossivel abrir o ficheiro cidades.txt\n");
 
 while(<$file_paises>){
-  $_ = lc substr($_,0,(length($_)-1));
+  $_ = substr($_,0,(length($_)-1));
   $paises{$_}=0;
 }
 
 close ($file_paises);
 
 while(<$file_nomes>){
-  $_ = lc substr($_,0,(length($_)-1));
+  $_ = substr($_,0,(length($_)-1));
   $nomes{$_}=0;
 }
 
 close ($file_paises);
 
 while(<$file_cidades>){
-  $_ = lc substr($_,0,(length($_)-1));
+  $_ = substr($_,0,(length($_)-1));
   $cidades{$_}=0;
 }
 

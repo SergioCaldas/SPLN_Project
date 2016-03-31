@@ -1,0 +1,459 @@
+Abreu e Lima - 2 - 1.93 - 0.66
+Adolfo - 8 - 7.74 - 2.05
+Água - 341 - 329.85 - 5.80
+Aguiar - 10 - 9.67 - 2.27
+Ajuda - 110 - 106.40 - 4.67
+Alagoas - 4 - 3.87 - 1.35
+Albertina - 2 - 1.93 - 0.66
+Alcântara - 1 - 0.97 - -0.03
+Alegre - 13 - 12.58 - 2.53
+Alegria - 28 - 27.08 - 3.30
+Alexandria - 3 - 2.90 - 1.07
+Alho - 1 - 0.97 - -0.03
+Aliança - 23 - 22.25 - 3.10
+Almas - 5 - 4.84 - 1.58
+Altos - 55 - 53.20 - 3.97
+Alumínio - 11 - 10.64 - 2.36
+Alvorada - 2 - 1.93 - 0.66
+Amapá - 1 - 0.97 - -0.03
+Amazonas - 2 - 1.93 - 0.66
+Americana - 21 - 20.31 - 3.01
+Amparo - 2 - 1.93 - 0.66
+Ananás - 4 - 3.87 - 1.35
+Anastácio - 6 - 5.80 - 1.76
+Anta - 1 - 0.97 - -0.03
+Araguari - 1 - 0.97 - -0.03
+Arame - 1 - 0.97 - -0.03
+Arco - 2 - 1.93 - 0.66
+Areia - 18 - 17.41 - 2.86
+Areias - 5 - 4.84 - 1.58
+Armazém - 2 - 1.93 - 0.66
+Assis - 10 - 9.67 - 2.27
+Assunção - 7 - 6.77 - 1.91
+Atalaia - 1 - 0.97 - -0.03
+Atibaia - 2 - 1.93 - 0.66
+Áurea - 1 - 0.97 - -0.03
+Aurora - 1 - 0.97 - -0.03
+Aveiro - 3 - 2.90 - 1.07
+Avelino Lopes - 1 - 0.97 - -0.03
+Ávila - 1 - 0.97 - -0.03
+Bagre - 4 - 3.87 - 1.35
+Bahia - 14 - 13.54 - 2.61
+Baliza - 8 - 7.74 - 2.05
+Bananeiras - 2 - 1.93 - 0.66
+Bandeira - 48 - 46.43 - 3.84
+Bandeirantes - 1 - 0.97 - -0.03
+Barbosa - 9 - 8.71 - 2.16
+Barcelona - 23 - 22.25 - 3.10
+Barra - 13 - 12.58 - 2.53
+Barra d - 1 - 0.97 - -0.03
+Barras - 4 - 3.87 - 1.35
+Barreira - 16 - 15.48 - 2.74
+Barreiras - 12 - 11.61 - 2.45
+Barreirinha - 1 - 0.97 - -0.03
+Barro - 2 - 1.93 - 0.66
+Barroso - 16 - 15.48 - 2.74
+Barão - 1 - 0.97 - -0.03
+Bastos - 23 - 22.25 - 3.10
+Batalha - 43 - 41.59 - 3.73
+Bebedouro - 2 - 1.93 - 0.66
+Belo Horizonte - 2 - 1.93 - 0.66
+Belo Monte - 1 - 0.97 - -0.03
+Belém - 4 - 3.87 - 1.35
+Boa Vista - 2 - 1.93 - 0.66
+Bom Jesus - 6 - 5.80 - 1.76
+Bonito - 4 - 3.87 - 1.35
+Braga - 5 - 4.84 - 1.58
+Bragança - 4 - 3.87 - 1.35
+Brasileira - 70 - 67.71 - 4.22
+Brasília - 15 - 14.51 - 2.67
+Breves - 4 - 3.87 - 1.35
+Bálsamo - 1 - 0.97 - -0.03
+Cabo Verde - 144 - 139.29 - 4.94
+Caldas - 5 - 4.84 - 1.58
+Califórnia - 13 - 12.58 - 2.53
+Calçado - 2 - 1.93 - 0.66
+Camargo - 3 - 2.90 - 1.07
+Campanha - 165 - 159.61 - 5.07
+Campinas - 2 - 1.93 - 0.66
+Campo Grande - 1 - 0.97 - -0.03
+Canoas - 3 - 2.90 - 1.07
+Capela - 2 - 1.93 - 0.66
+Capim - 7 - 6.77 - 1.91
+Capitão - 24 - 23.22 - 3.14
+Caracol - 9 - 8.71 - 2.16
+Caravelas - 2 - 1.93 - 0.66
+Caraíbas - 1 - 0.97 - -0.03
+Cardoso - 36 - 34.82 - 3.55
+Caridade - 9 - 8.71 - 2.16
+Carmo - 23 - 22.25 - 3.10
+Carneiros - 2 - 1.93 - 0.66
+Carolina - 21 - 20.31 - 3.01
+Casa Branca - 16 - 15.48 - 2.74
+Casca - 2 - 1.93 - 0.66
+Castanheira - 1 - 0.97 - -0.03
+Castelo - 2 - 1.93 - 0.66
+Castro - 100 - 96.73 - 4.57
+Catalão - 4 - 3.87 - 1.35
+Catarina - 14 - 13.54 - 2.61
+Cavalcante - 1 - 0.97 - -0.03
+Caçador - 3 - 2.90 - 1.07
+Ceará - 1 - 0.97 - -0.03
+Central - 337 - 325.98 - 5.79
+Charrua - 2 - 1.93 - 0.66
+Chaves - 6 - 5.80 - 1.76
+Chuí - 1 - 0.97 - -0.03
+Clementina - 6 - 5.80 - 1.76
+Cláudia - 5 - 4.84 - 1.58
+Cláudio - 15 - 14.51 - 2.67
+Coimbra - 10 - 9.67 - 2.27
+Colina - 1 - 0.97 - -0.03
+Coluna - 15 - 14.51 - 2.67
+Colômbia - 6 - 5.80 - 1.76
+Combinado - 12 - 11.61 - 2.45
+Comodoro - 1 - 0.97 - -0.03
+Conceição - 46 - 44.50 - 3.80
+Conchas - 1 - 0.97 - -0.03
+Conde - 4 - 3.87 - 1.35
+Congo - 166 - 160.57 - 5.08
+Congonhas - 5 - 4.84 - 1.58
+Conquista - 54 - 52.23 - 3.96
+Consolação - 1 - 0.97 - -0.03
+Constantina - 1 - 0.97 - -0.03
+Contagem - 12 - 11.61 - 2.45
+Coração de Jesus - 4 - 3.87 - 1.35
+Cordeiro - 7 - 6.77 - 1.91
+Corrente - 77 - 74.48 - 4.31
+Correntes - 27 - 26.12 - 3.26
+Cortês - 2 - 1.93 - 0.66
+Costa Marques - 2 - 1.93 - 0.66
+Cristal - 1 - 0.97 - -0.03
+Cristalina - 2 - 1.93 - 0.66
+Cristina - 13 - 12.58 - 2.53
+Cruz - 118 - 114.14 - 4.74
+Cruzeiro - 12 - 11.61 - 2.45
+Cruzeiro do Sul - 2 - 1.93 - 0.66
+Cunha - 38 - 36.76 - 3.60
+Curitiba - 6 - 5.80 - 1.76
+Custódia - 6 - 5.80 - 1.76
+Damião - 7 - 6.77 - 1.91
+Datas - 14 - 13.54 - 2.61
+Delta - 5 - 4.84 - 1.58
+Descanso - 2 - 1.93 - 0.66
+Descoberto - 16 - 15.48 - 2.74
+Diamante - 26 - 25.15 - 3.22
+Diamante d - 1 - 0.97 - -0.03
+Dias d - 32 - 30.95 - 3.43
+Dionísio - 3 - 2.90 - 1.07
+Divino - 10 - 9.67 - 2.27
+Dom Joaquim - 4 - 3.87 - 1.35
+Dona Inês - 1 - 0.97 - -0.03
+Dourado - 1 - 0.97 - -0.03
+Dourados - 2 - 1.93 - 0.66
+Encanto - 2 - 1.93 - 0.66
+Equador - 8 - 7.74 - 2.05
+Ernestina - 2 - 1.93 - 0.66
+Escada - 2 - 1.93 - 0.66
+Esperança - 159 - 153.80 - 5.04
+Esplanada - 2 - 1.93 - 0.66
+Espírito Santo - 46 - 44.50 - 3.80
+Estação - 27 - 26.12 - 3.26
+Esteio - 1 - 0.97 - -0.03
+Estiva - 1 - 0.97 - -0.03
+Estreito - 4 - 3.87 - 1.35
+Estrela - 12 - 11.61 - 2.45
+Estrela d - 2 - 1.93 - 0.66
+Estância - 6 - 5.80 - 1.76
+Eusébio - 22 - 21.28 - 3.06
+Extrema - 33 - 31.92 - 3.46
+Faina - 1 - 0.97 - -0.03
+Fama - 14 - 13.54 - 2.61
+Faro - 5 - 4.84 - 1.58
+Farol - 3 - 2.90 - 1.07
+Fartura - 3 - 2.90 - 1.07
+Feijó - 5 - 4.84 - 1.58
+Feliz - 23 - 22.25 - 3.10
+Ferros - 1 - 0.97 - -0.03
+Figueira - 27 - 26.12 - 3.26
+Filadélfia - 1 - 0.97 - -0.03
+Flores - 7 - 6.77 - 1.91
+Floresta - 16 - 15.48 - 2.74
+Florestal - 8 - 7.74 - 2.05
+Flórida - 7 - 6.77 - 1.91
+Fortaleza - 8 - 7.74 - 2.05
+Fortuna - 43 - 41.59 - 3.73
+Franca - 1 - 0.97 - -0.03
+Francisco Sá - 1 - 0.97 - -0.03
+Fronteira - 70 - 67.71 - 4.22
+Fronteiras - 37 - 35.79 - 3.58
+Fátima - 24 - 23.22 - 3.14
+Galvão - 9 - 8.71 - 2.16
+Gaspar - 30 - 29.02 - 3.37
+Gentil - 1 - 0.97 - -0.03
+Getúlio Vargas - 2 - 1.93 - 0.66
+Glória - 4 - 3.87 - 1.35
+Goiás - 3 - 2.90 - 1.07
+Gonzaga - 1 - 0.97 - -0.03
+Gonçalves - 94 - 90.93 - 4.51
+Gouveia - 10 - 9.67 - 2.27
+Granito - 3 - 2.90 - 1.07
+Granja - 1 - 0.97 - -0.03
+Graça - 27 - 26.12 - 3.26
+Guarujá - 11 - 10.64 - 2.36
+Guimarães - 12 - 11.61 - 2.45
+Harmonia - 18 - 17.41 - 2.86
+Horizonte - 21 - 20.31 - 3.01
+Imaculada - 2 - 1.93 - 0.66
+Imigrante - 1 - 0.97 - -0.03
+Imperatriz - 1 - 0.97 - -0.03
+Independência - 305 - 295.03 - 5.69
+Inocência - 13 - 12.58 - 2.53
+Ipu - 1 - 0.97 - -0.03
+Iracema - 2 - 1.93 - 0.66
+Jacinto - 22 - 21.28 - 3.06
+Jardim - 22 - 21.28 - 3.06
+Joaquim Gomes - 1 - 0.97 - -0.03
+Jordânia - 4 - 3.87 - 1.35
+Jordão - 3 - 2.90 - 1.07
+João Dias - 1 - 0.97 - -0.03
+Juramento - 2 - 1.93 - 0.66
+Jóia - 2 - 1.93 - 0.66
+Ladainha - 6 - 5.80 - 1.76
+Lagarto - 2 - 1.93 - 0.66
+Lages - 1 - 0.97 - -0.03
+Lagoa - 6 - 5.80 - 1.76
+Laje - 2 - 1.93 - 0.66
+Lapa - 2 - 1.93 - 0.66
+Laranjeiras - 2 - 1.93 - 0.66
+Lavras - 2 - 1.93 - 0.66
+Leme - 2 - 1.93 - 0.66
+Lençóis - 4 - 3.87 - 1.35
+Liberdade - 356 - 344.36 - 5.84
+Loanda - 2 - 1.93 - 0.66
+Lorena - 2 - 1.93 - 0.66
+Lourdes - 2 - 1.93 - 0.66
+Lucrécia - 4 - 3.87 - 1.35
+Luz - 112 - 108.34 - 4.69
+Luís Correia - 1 - 0.97 - -0.03
+Luís Gomes - 10 - 9.67 - 2.27
+Macau - 22 - 21.28 - 3.06
+Machado - 19 - 18.38 - 2.91
+Machados - 14 - 13.54 - 2.61
+Madalena - 3 - 2.90 - 1.07
+Malta - 8 - 7.74 - 2.05
+Manga - 4 - 3.87 - 1.35
+Maracanã - 4 - 3.87 - 1.35
+Maranhão - 4 - 3.87 - 1.35
+Maravilha - 3 - 2.90 - 1.07
+Maravilhas - 5 - 4.84 - 1.58
+Marcação - 5 - 4.84 - 1.58
+Marco - 31 - 29.99 - 3.40
+Maria Helena - 6 - 5.80 - 1.76
+Mariana - 4 - 3.87 - 1.35
+Martins - 52 - 50.30 - 3.92
+Marília - 1 - 0.97 - -0.03
+Mascote - 1 - 0.97 - -0.03
+Mata - 47 - 45.46 - 3.82
+Mato Grosso - 2 - 1.93 - 0.66
+Medeiros - 5 - 4.84 - 1.58
+Medina - 2 - 1.93 - 0.66
+Mendes - 114 - 110.27 - 4.70
+Mendonça - 16 - 15.48 - 2.74
+Mercedes - 6 - 5.80 - 1.76
+Mercês - 1 - 0.97 - -0.03
+Mesquita - 22 - 21.28 - 3.06
+Messias - 1 - 0.97 - -0.03
+Milagres - 10 - 9.67 - 2.27
+Minas Gerais - 8 - 7.74 - 2.05
+Mineiros - 7 - 6.77 - 1.91
+Mirador - 1 - 0.97 - -0.03
+Miranda - 18 - 17.41 - 2.86
+Modelo - 114 - 110.27 - 4.70
+Moeda - 133 - 128.65 - 4.86
+Mombaça - 1 - 0.97 - -0.03
+Montadas - 3 - 2.90 - 1.07
+Montanha - 5 - 4.84 - 1.58
+Montanhas - 6 - 5.80 - 1.76
+Monte Belo - 1 - 0.97 - -0.03
+Monteiro - 24 - 23.22 - 3.14
+Montenegro - 2 - 1.93 - 0.66
+Morros - 1 - 0.97 - -0.03
+Mãe d - 3 - 2.90 - 1.07
+Nantes - 1 - 0.97 - -0.03
+Natal - 37 - 35.79 - 3.58
+Nazaré - 4 - 3.87 - 1.35
+Nobres - 5 - 4.84 - 1.58
+Nossa Senhora das Graças - 1 - 0.97 - -0.03
+Nova Aliança - 1 - 0.97 - -0.03
+Nova Iorque - 65 - 62.88 - 4.14
+Novais - 2 - 1.93 - 0.66
+Novo Acordo - 1 - 0.97 - -0.03
+Novo Horizonte - 1 - 0.97 - -0.03
+Oeiras - 1 - 0.97 - -0.03
+Oeste - 23 - 22.25 - 3.10
+Oiapoque - 1 - 0.97 - -0.03
+Olaria - 1 - 0.97 - -0.03
+Óleo - 26 - 25.15 - 3.22
+Olinda - 1 - 0.97 - -0.03
+Oliveira - 60 - 58.04 - 4.06
+Olímpia - 1 - 0.97 - -0.03
+Oriente - 26 - 25.15 - 3.22
+Osório - 8 - 7.74 - 2.05
+Ouro - 55 - 53.20 - 3.97
+Painel - 14 - 13.54 - 2.61
+Paiva - 5 - 4.84 - 1.58
+Palestina - 8 - 7.74 - 2.05
+Palma - 6 - 5.80 - 1.76
+Palmares - 1 - 0.97 - -0.03
+Palmas - 9 - 8.71 - 2.16
+Palmeira - 1 - 0.97 - -0.03
+Palmeiras - 1 - 0.97 - -0.03
+Panamá - 2 - 1.93 - 0.66
+Panelas - 1 - 0.97 - -0.03
+Panorama - 14 - 13.54 - 2.61
+Papagaios - 1 - 0.97 - -0.03
+Paraná - 7 - 6.77 - 1.91
+Paraíso - 3 - 2.90 - 1.07
+Pará - 4 - 3.87 - 1.35
+Passagem - 70 - 67.71 - 4.22
+Passos - 54 - 52.23 - 3.96
+Patrocínio - 14 - 13.54 - 2.61
+Paulista - 3 - 2.90 - 1.07
+Paulo Jacinto - 2 - 1.93 - 0.66
+Pedra - 28 - 27.08 - 3.30
+Pedro Gomes - 1 - 0.97 - -0.03
+Peixe - 54 - 52.23 - 3.96
+Perdigão - 1 - 0.97 - -0.03
+Pernambuco - 5 - 4.84 - 1.58
+Pescador - 5 - 4.84 - 1.58
+Pesqueira - 8 - 7.74 - 2.05
+Piedade - 21 - 20.31 - 3.01
+Pilar - 11 - 10.64 - 2.36
+Pimenta - 3 - 2.90 - 1.07
+Pinheiro - 13 - 12.58 - 2.53
+Pintadas - 2 - 1.93 - 0.66
+Piquete - 1 - 0.97 - -0.03
+Piçarra - 3 - 2.90 - 1.07
+Placas - 4 - 3.87 - 1.35
+Planalto - 29 - 28.05 - 3.33
+Platina - 1 - 0.97 - -0.03
+Pombal - 3 - 2.90 - 1.07
+Pontão - 2 - 1.93 - 0.66
+Porto - 115 - 111.24 - 4.71
+Porto Alegre - 11 - 10.64 - 2.36
+Porto Rico - 6 - 5.80 - 1.76
+Portão - 4 - 3.87 - 1.35
+Posse - 104 - 100.60 - 4.61
+Prado - 1 - 0.97 - -0.03
+Prata - 20 - 19.35 - 2.96
+Presidente Getúlio - 2 - 1.93 - 0.66
+Primavera - 20 - 19.35 - 2.96
+Princesa - 8 - 7.74 - 2.05
+Progresso - 176 - 170.25 - 5.14
+Pureza - 8 - 7.74 - 2.05
+Pérola - 4 - 3.87 - 1.35
+Quadra - 11 - 10.64 - 2.36
+Queimadas - 3 - 2.90 - 1.07
+Queiroz - 26 - 25.15 - 3.22
+Quilombo - 1 - 0.97 - -0.03
+Raposa - 1 - 0.97 - -0.03
+Recife - 4 - 3.87 - 1.35
+Recreio - 2 - 1.93 - 0.66
+Reduto - 17 - 16.44 - 2.80
+Regeneração - 1 - 0.97 - -0.03
+Relvado - 2 - 1.93 - 0.66
+Remanso - 1 - 0.97 - -0.03
+Renascença - 3 - 2.90 - 1.07
+Resende - 16 - 15.48 - 2.74
+Reserva - 44 - 42.56 - 3.75
+Rincão - 1 - 0.97 - -0.03
+Rio de Janeiro - 34 - 32.89 - 3.49
+Riqueza - 87 - 84.16 - 4.43
+Rolante - 3 - 2.90 - 1.07
+Romaria - 1 - 0.97 - -0.03
+Rosana - 1 - 0.97 - -0.03
+Rosário - 20 - 19.35 - 2.96
+Roteiro - 7 - 6.77 - 1.91
+Russas - 12 - 11.61 - 2.45
+Sabino - 5 - 4.84 - 1.58
+Sacramento - 1 - 0.97 - -0.03
+Salgado - 4 - 3.87 - 1.35
+Salgueiro - 1 - 0.97 - -0.03
+Salinas - 4 - 3.87 - 1.35
+Salitre - 1 - 0.97 - -0.03
+Salto - 9 - 8.71 - 2.16
+Salvador - 19 - 18.38 - 2.91
+Sampaio - 6 - 5.80 - 1.76
+Santa Bárbara - 2 - 1.93 - 0.66
+Santa Cruz - 1 - 0.97 - -0.03
+Santa Isabel - 2 - 1.93 - 0.66
+Santa Maria - 6 - 5.80 - 1.76
+Santa Teresinha - 1 - 0.97 - -0.03
+Santana - 7 - 6.77 - 1.91
+Santarém - 3 - 2.90 - 1.07
+Santiago - 12 - 11.61 - 2.45
+Santos - 1198 - 1158.84 - 7.06
+Saudades - 5 - 4.84 - 1.58
+Saúde - 567 - 548.46 - 6.31
+Seara - 2 - 1.93 - 0.66
+Segredo - 15 - 14.51 - 2.67
+Sergipe - 4 - 3.87 - 1.35
+Serra - 33 - 31.92 - 3.46
+Silves - 1 - 0.97 - -0.03
+Simões - 17 - 16.44 - 2.80
+Sobral - 1 - 0.97 - -0.03
+Socorro - 20 - 19.35 - 2.96
+Solidão - 4 - 3.87 - 1.35
+Sombrio - 2 - 1.93 - 0.66
+Sonora - 7 - 6.77 - 1.91
+Sorriso - 6 - 5.80 - 1.76
+Sousa - 127 - 122.85 - 4.81
+Sumé - 1 - 0.97 - -0.03
+São Bernardo - 4 - 3.87 - 1.35
+São Domingos - 1 - 0.97 - -0.03
+São Francisco - 2 - 1.93 - 0.66
+São Jorge - 1 - 0.97 - -0.03
+São José - 6 - 5.80 - 1.76
+São Miguel - 1 - 0.97 - -0.03
+São Nicolau - 2 - 1.93 - 0.66
+São Paulo - 87 - 84.16 - 4.43
+São Pedro - 9 - 8.71 - 2.16
+São Sebastião - 1 - 0.97 - -0.03
+São Tomé - 105 - 101.57 - 4.62
+São Vicente - 2 - 1.93 - 0.66
+Sério - 40 - 38.69 - 3.66
+Tabuleiro - 1 - 0.97 - -0.03
+Tailândia - 3 - 2.90 - 1.07
+Tavares - 56 - 54.17 - 3.99
+Teixeira - 55 - 53.20 - 3.97
+Telha - 2 - 1.93 - 0.66
+Terra Nova - 4 - 3.87 - 1.35
+Tesouro - 64 - 61.91 - 4.13
+Tietê - 1 - 0.97 - -0.03
+Timóteo - 2 - 1.93 - 0.66
+Tiros - 27 - 26.12 - 3.26
+Tocantins - 3 - 2.90 - 1.07
+Torres - 16 - 15.48 - 2.74
+Travesseiro - 1 - 0.97 - -0.03
+Trindade - 2 - 1.93 - 0.66
+Triunfo - 16 - 15.48 - 2.74
+Tubarão - 1 - 0.97 - -0.03
+Tucano - 1 - 0.97 - -0.03
+Turvo - 1 - 0.97 - -0.03
+Una - 1 - 0.97 - -0.03
+União - 270 - 261.17 - 5.57
+Valente - 2 - 1.93 - 0.66
+Ventania - 1 - 0.97 - -0.03
+Vera - 12 - 11.61 - 2.45
+Vera Cruz - 2 - 1.93 - 0.66
+Vereda - 1 - 0.97 - -0.03
+Vertentes - 16 - 15.48 - 2.74
+Veríssimo - 4 - 3.87 - 1.35
+Viana - 109 - 105.44 - 4.66
+Videira - 2 - 1.93 - 0.66
+Vila Flor - 1 - 0.97 - -0.03
+Virgínia - 4 - 3.87 - 1.35
+Vitorino - 6 - 5.80 - 1.76
+Vitória - 193 - 186.69 - 5.23
+Wagner - 3 - 2.90 - 1.07
+Zacarias - 17 - 16.44 - 2.80

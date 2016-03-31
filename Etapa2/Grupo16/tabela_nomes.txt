@@ -1,0 +1,2663 @@
+//--- NOMES (COMPLETOS) REFERENCIADOS NOS TEXTOS FONTE ---//
+Total de palavras = 1041327
+Total de referências = 8986
+
+Palavra - Freq. Absoluta - Freq. Relativa (por Milhão) - Log 10 da Freq. Relativa
+
+AIDA - 2 - 1.92 - 0.65
+ALICE - 1 - 0.96 - -0.04
+AMOR POR ANGOLA - 1 - 0.96 - -0.04
+AMORA - 1 - 0.96 - -0.04
+Abdul - 1 - 0.96 - -0.04
+Abel - 3 - 2.88 - 1.06
+Abel Chivukuvuku - 17 - 16.33 - 2.79
+Abel Epalanga Chivukuvuku - 1 - 0.96 - -0.04
+Abel Fernando Muhongo - 1 - 0.96 - -0.04
+Abel Joaquim - 2 - 1.92 - 0.65
+Abel Xavier - 2 - 1.92 - 0.65
+Abel do Carmo - 1 - 0.96 - -0.04
+Abraão - 1 - 0.96 - -0.04
+Abraão Gourgel - 5 - 4.80 - 1.57
+Abraão Vicente - 6 - 5.76 - 1.75
+Abílio - 2 - 1.92 - 0.65
+Abílio Camalata Numa - 2 - 1.92 - 0.65
+Abílio Cambambe - 1 - 0.96 - -0.04
+Abílio José Augusto Kamalata Numa Tão - 1 - 0.96 - -0.04
+Abílio Kamalata Numa - 6 - 5.76 - 1.75
+Abílio Numa - 1 - 0.96 - -0.04
+Ada Nambundo - 1 - 0.96 - -0.04
+Adalberto Ceita - 1 - 0.96 - -0.04
+Adalberto Cláudio Miguel Lourenço - 1 - 0.96 - -0.04
+Adalberto Júnior - 4 - 3.84 - 1.35
+Adalberto da Costa Júnior - 4 - 3.84 - 1.35
+Adelaide de Carvalho - 3 - 2.88 - 1.06
+Adelina - 1 - 0.96 - -0.04
+Adelina Cassinda - 1 - 0.96 - -0.04
+Adelina Inácio - 3 - 2.88 - 1.06
+Adelina Mualimusi - 1 - 0.96 - -0.04
+Adelina Popyeinawa - 3 - 2.88 - 1.06
+Adelino Caracol - 1 - 0.96 - -0.04
+Adelino Waleca - 1 - 0.96 - -0.04
+Adelino de Almeida - 3 - 2.88 - 1.06
+Adolfo Campos - 1 - 0.96 - -0.04
+Adolfo Hitler - 2 - 1.92 - 0.65
+Adolfo Lopes - 4 - 3.84 - 1.35
+Adolfo Maria - 1 - 0.96 - -0.04
+Adolfo Mundombe - 1 - 0.96 - -0.04
+Adriana Bento - 1 - 0.96 - -0.04
+Adriano Barbosa - 1 - 0.96 - -0.04
+Adriano Fernandes - 1 - 0.96 - -0.04
+Adriano Kiluanje - 1 - 0.96 - -0.04
+Adriano Mixinge - 2 - 1.92 - 0.65
+Adriano Parreira - 3 - 2.88 - 1.06
+Adriano Sapalo - 1 - 0.96 - -0.04
+Adriano Sapinãla - 1 - 0.96 - -0.04
+Adriano Sapiñala - 1 - 0.96 - -0.04
+Adriano Xavier Dokas - 1 - 0.96 - -0.04
+Adriano dos Santos - 3 - 2.88 - 1.06
+Adão - 2 - 1.92 - 0.65
+Adão Adriano António - 1 - 0.96 - -0.04
+Adão Fortunato - 1 - 0.96 - -0.04
+Adão Nzo Yami - 1 - 0.96 - -0.04
+Adão Sofia - 4 - 3.84 - 1.35
+Adão Vicente - 1 - 0.96 - -0.04
+Adão Victor - 1 - 0.96 - -0.04
+Adão da Silva - 1 - 0.96 - -0.04
+Adão do Nascimento - 5 - 4.80 - 1.57
+Adélio Kiteculo - 1 - 0.96 - -0.04
+Adérito Ferreira - 1 - 0.96 - -0.04
+Afonso - 3 - 2.88 - 1.06
+Afonso António - 1 - 0.96 - -0.04
+Afonso Canga - 1 - 0.96 - -0.04
+Afonso Chicucuma - 4 - 3.84 - 1.35
+Afonso Costa - 1 - 0.96 - -0.04
+Afonso Cruz - 1 - 0.96 - -0.04
+Afonso Dhlakama - 32 - 30.73 - 3.43
+Afonso Dlakhama - 1 - 0.96 - -0.04
+Afonso Florence - 3 - 2.88 - 1.06
+Afonso Matias - 7 - 6.72 - 1.91
+Afonso Neto - 2 - 1.92 - 0.65
+Afonso Nzuzi - 2 - 1.92 - 0.65
+Afonso Pedro Canga - 3 - 2.88 - 1.06
+Afonso Pinto - 8 - 7.68 - 2.04
+Afonso Quintas - 1 - 0.96 - -0.04
+Afonso Van-Dúnem - 1 - 0.96 - -0.04
+Afra Sound Star - 2 - 1.92 - 0.65
+Afra Sound Stars - 3 - 2.88 - 1.06
+Africana - 2 - 1.92 - 0.65
+Africano - 6 - 5.76 - 1.75
+Africano da Argélia - 1 - 0.96 - -0.04
+Agna Carvalho - 3 - 2.88 - 1.06
+Agnelo Regalla - 1 - 0.96 - -0.04
+Agostinho - 5 - 4.80 - 1.57
+Agostinho Alexandre - 2 - 1.92 - 0.65
+Agostinho André Mendes de Carvalho - 1 - 0.96 - -0.04
+Agostinho António Santos - 1 - 0.96 - -0.04
+Agostinho Chicaia - 1 - 0.96 - -0.04
+Agostinho Fernandes Nelumba - 1 - 0.96 - -0.04
+Agostinho Filipe - 1 - 0.96 - -0.04
+Agostinho Jonas Pensador - 1 - 0.96 - -0.04
+Agostinho Kangombe - 1 - 0.96 - -0.04
+Agostinho Kapaia - 3 - 2.88 - 1.06
+Agostinho Kapaya - 1 - 0.96 - -0.04
+Agostinho Mendes de Carvalho - 1 - 0.96 - -0.04
+Agostinho Miguel da Rosa - 1 - 0.96 - -0.04
+Agostinho Neto - 61 - 58.58 - 4.07
+Agostinho Paulo - 2 - 1.92 - 0.65
+Agostinho Rosário - 1 - 0.96 - -0.04
+Agostinho Santos - 1 - 0.96 - -0.04
+Agostinho da Rosa - 2 - 1.92 - 0.65
+Agostinho do Rosário - 2 - 1.92 - 0.65
+Albano - 1 - 0.96 - -0.04
+Albano Binbo Bingo - 1 - 0.96 - -0.04
+Albano Bingo - 1 - 0.96 - -0.04
+Albano Bingo Bingo - 1 - 0.96 - -0.04
+Albano Bingo-Bingo - 1 - 0.96 - -0.04
+Albano Bingobingo - 1 - 0.96 - -0.04
+Albano Chitongo - 1 - 0.96 - -0.04
+Albano César - 3 - 2.88 - 1.06
+Albano Evaristo Bingo Bingo - 1 - 0.96 - -0.04
+Albano Evaristo Bingobingo - 3 - 2.88 - 1.06
+Albano Evaristo Bingocabingo - 1 - 0.96 - -0.04
+Albano Machado - 1 - 0.96 - -0.04
+Albano Pedro - 2 - 1.92 - 0.65
+Alberto - 1 - 0.96 - -0.04
+Alberto Babo - 3 - 2.88 - 1.06
+Alberto Bambi - 4 - 3.84 - 1.35
+Alberto Baptista - 2 - 1.92 - 0.65
+Alberto Evaristo - 1 - 0.96 - -0.04
+Alberto Ganga - 1 - 0.96 - -0.04
+Alberto Gonçalves - 1 - 0.96 - -0.04
+Alberto Lucamba Alberto - 1 - 0.96 - -0.04
+Alberto Marcos - 1 - 0.96 - -0.04
+Alberto Marcos Limão - 1 - 0.96 - -0.04
+Alberto Mendes - 1 - 0.96 - -0.04
+Alberto Ngongo - 11 - 10.56 - 2.36
+Alberto Oliveira Pinto - 1 - 0.96 - -0.04
+Alberto Pedro - 1 - 0.96 - -0.04
+Alberto Tonino Luneta - 2 - 1.92 - 0.65
+Alberto Youssef - 2 - 1.92 - 0.65
+Alberto Yousseff - 1 - 0.96 - -0.04
+Alberto da Silva Paulo - 1 - 0.96 - -0.04
+Alberto de Carvalho - 1 - 0.96 - -0.04
+Alcides Safeca - 1 - 0.96 - -0.04
+Alcides Sakala - 8 - 7.68 - 2.04
+Alcides Vieira - 1 - 0.96 - -0.04
+Alegria - 1 - 0.96 - -0.04
+Alegria Bastos - 1 - 0.96 - -0.04
+Alex - 1 - 0.96 - -0.04
+Alexandra - 1 - 0.96 - -0.04
+Alexandra Moura - 2 - 1.92 - 0.65
+Alexandra Simeão - 5 - 4.80 - 1.57
+Alexandra de Victoria Pereira - 1 - 0.96 - -0.04
+Alexandre - 3 - 2.88 - 1.06
+Alexandre Chicuna - 1 - 0.96 - -0.04
+Alexandre Cose - 3 - 2.88 - 1.06
+Alexandre Dáskalos - 1 - 0.96 - -0.04
+Alexandre Grasseli - 1 - 0.96 - -0.04
+Alexandre João - 1 - 0.96 - -0.04
+Alexandre Lourenço - 4 - 3.84 - 1.35
+Alexandre Machado - 1 - 0.96 - -0.04
+Alexandre Novak - 2 - 1.92 - 0.65
+Alexandre Quintanilha - 2 - 1.92 - 0.65
+Alexandre Rodrigues Kito - 1 - 0.96 - -0.04
+Alexandre Tati Builo - 1 - 0.96 - -0.04
+Alexandre do Nascimento - 4 - 3.84 - 1.35
+Alexandrina Fernandes - 2 - 1.92 - 0.65
+Alexandrino Alencar - 6 - 5.76 - 1.75
+Alice - 3 - 2.88 - 1.06
+Alice Bomba - 2 - 1.92 - 0.65
+Alice Cruz - 1 - 0.96 - -0.04
+Alice Nquele - 2 - 1.92 - 0.65
+Aline Frazão - 1 - 0.96 - -0.04
+Alma - 1 - 0.96 - -0.04
+Altino Matos - 3 - 2.88 - 1.06
+Alva Rodrigues - 1 - 0.96 - -0.04
+Amadeu António - 1 - 0.96 - -0.04
+Amadeu Batatinha - 2 - 1.92 - 0.65
+Amadeu Tabi - 2 - 1.92 - 0.65
+Amado - 2 - 1.92 - 0.65
+Amarildo Araújo - 1 - 0.96 - -0.04
+Amaro - 1 - 0.96 - -0.04
+Amaro Taty - 3 - 2.88 - 1.06
+Amor - 22 - 21.13 - 3.05
+Amor de João Melo - 1 - 0.96 - -0.04
+Amor de Perdição - 1 - 0.96 - -0.04
+Amorim - 5 - 4.80 - 1.57
+Amorim Agnelo - 2 - 1.92 - 0.65
+Amélia Dalomba - 1 - 0.96 - -0.04
+Amélia Mingas - 3 - 2.88 - 1.06
+Amélia Rita - 1 - 0.96 - -0.04
+Amélia Russo de Sá - 1 - 0.96 - -0.04
+Amélia da Lomba - 1 - 0.96 - -0.04
+América - 22 - 21.13 - 3.05
+América Central - 3 - 2.88 - 1.06
+América Latina - 10 - 9.60 - 2.26
+América de Steinbeck - 2 - 1.92 - 0.65
+América do Norte - 3 - 2.88 - 1.06
+América do Sul - 4 - 3.84 - 1.35
+Américo Alves Sardinha - 1 - 0.96 - -0.04
+Américo Amorim - 3 - 2.88 - 1.06
+Américo Boa Vida - 1 - 0.96 - -0.04
+Américo Chivukuvuku - 1 - 0.96 - -0.04
+Américo Gonçalves - 13 - 12.48 - 2.52
+Américo José Gaspar - 1 - 0.96 - -0.04
+Ana - 2 - 1.92 - 0.65
+Ana Bela Aya - 1 - 0.96 - -0.04
+Ana Bela Mendes - 1 - 0.96 - -0.04
+Ana Benavente - 5 - 4.80 - 1.57
+Ana Biscaia - 1 - 0.96 - -0.04
+Ana Clara Guerra Marques - 5 - 4.80 - 1.57
+Ana Gega Sebastião - 2 - 1.92 - 0.65
+Ana Gomes - 39 - 37.45 - 3.62
+Ana Gomes Ferreira - 1 - 0.96 - -0.04
+Ana Mafalda Leite - 1 - 0.96 - -0.04
+Ana Margarida - 2 - 1.92 - 0.65
+Ana Maria Machado - 1 - 0.96 - -0.04
+Ana Maria de Lemos Rodrigues de Gouveia - 1 - 0.96 - -0.04
+Ana Monteiro - 1 - 0.96 - -0.04
+Ana Paula - 2 - 1.92 - 0.65
+Ana Paula Godinho - 4 - 3.84 - 1.35
+Ana Paula Godinho Ninguém - 1 - 0.96 - -0.04
+Ana Paula Pereira - 1 - 0.96 - -0.04
+Ana Paula Silva do Sacramento Neto - 1 - 0.96 - -0.04
+Ana Paula Tavares - 5 - 4.80 - 1.57
+Ana Paula dos Santos - 3 - 2.88 - 1.06
+Ana Paulo - 2 - 1.92 - 0.65
+Ana Pedro - 1 - 0.96 - -0.04
+Ana Sebastião - 1 - 0.96 - -0.04
+Ana Vidigal - 1 - 0.96 - -0.04
+Anabela Aya - 3 - 2.88 - 1.06
+Anabela Ethianeth Ferreira Bento - 1 - 0.96 - -0.04
+Anabela Fonseca - 2 - 1.92 - 0.65
+André Brandão - 1 - 0.96 - -0.04
+André Catueira - 1 - 0.96 - -0.04
+André Centeno - 1 - 0.96 - -0.04
+André Dala - 1 - 0.96 - -0.04
+André Gaspar Mendes de Carvalho - 2 - 1.92 - 0.65
+André JotalFininho - 1 - 0.96 - -0.04
+André Lua - 2 - 1.92 - 0.65
+André Marcos - 2 - 1.92 - 0.65
+André Mendes De Carvalho - 1 - 0.96 - -0.04
+André Mendes de Carvalho - 9 - 8.64 - 2.16
+André Mingas - 1 - 0.96 - -0.04
+André Mussamo - 11 - 10.56 - 2.36
+André Mussamo-foto de Pedro Nicodemos - 1 - 0.96 - -0.04
+André Mussamo_ - 1 - 0.96 - -0.04
+André Mussamo_foto de Daniel Miguel - 1 - 0.96 - -0.04
+André Nzuzi - 2 - 1.92 - 0.65
+André Soares - 4 - 3.84 - 1.35
+André Soma - 2 - 1.92 - 0.65
+André Zua Bulo - 1 - 0.96 - -0.04
+André da Costa - 3 - 2.88 - 1.06
+André da Loba - 1 - 0.96 - -0.04
+André de Jesus Moda - 1 - 0.96 - -0.04
+André dos Anjos - 1 - 0.96 - -0.04
+Anita Brookner - 2 - 1.92 - 0.65
+Anita Filipe - 1 - 0.96 - -0.04
+Anselmo - 1 - 0.96 - -0.04
+Anselmo Ralph - 9 - 8.64 - 2.16
+Antónia - 1 - 0.96 - -0.04
+Antónia Barradas - 4 - 3.84 - 1.35
+Antónia Hebo - 1 - 0.96 - -0.04
+Antónia Soma - 1 - 0.96 - -0.04
+Antónia Sónia - 1 - 0.96 - -0.04
+Antónia de Carvalho - 1 - 0.96 - -0.04
+António - 9 - 8.64 - 2.16
+António Afonso - 1 - 0.96 - -0.04
+António Agostinho Neto - 26 - 24.97 - 3.22
+António Agostinho Neto Eduardo Simões - 1 - 0.96 - -0.04
+António Agostinho Neto do MPLA - 1 - 0.96 - -0.04
+António Alegre - 2 - 1.92 - 0.65
+António Alves Kamulingue - 1 - 0.96 - -0.04
+António Alves da Silva - 1 - 0.96 - -0.04
+António Baptista - 1 - 0.96 - -0.04
+António Barreto - 2 - 1.92 - 0.65
+António Bento Bembe - 3 - 2.88 - 1.06
+António Braça - 2 - 1.92 - 0.65
+António Burity da Silva - 1 - 0.96 - -0.04
+António Cabuani - 2 - 1.92 - 0.65
+António Caldas - 1 - 0.96 - -0.04
+António Capitão - 1 - 0.96 - -0.04
+António Carvalho - 1 - 0.96 - -0.04
+António Casal - 2 - 1.92 - 0.65
+António Castro Guerra - 1 - 0.96 - -0.04
+António Catraio - 1 - 0.96 - -0.04
+António Champalimaud - 2 - 1.92 - 0.65
+António Costa - 21 - 20.17 - 3.00
+António Cristóvão - 9 - 8.64 - 2.16
+António Dembo - 3 - 2.88 - 1.06
+António Didalelwa - 1 - 0.96 - -0.04
+António Domingos - 1 - 0.96 - -0.04
+António Dominique - 1 - 0.96 - -0.04
+António Fernandes - 2 - 1.92 - 0.65
+António Ferreira Gonçalves - 1 - 0.96 - -0.04
+António Fonseca - 3 - 2.88 - 1.06
+António Félix - 1 - 0.96 - -0.04
+António Gabriel - 1 - 0.96 - -0.04
+António Gaioso Henriques - 2 - 1.92 - 0.65
+António Gamito - 1 - 0.96 - -0.04
+António Gaspar - 3 - 2.88 - 1.06
+António Gomes Furtado - 1 - 0.96 - -0.04
+António Gonçalves - 2 - 1.92 - 0.65
+António Guedes - 1 - 0.96 - -0.04
+António Guterres - 2 - 1.92 - 0.65
+António Henriques da Silva - 4 - 3.84 - 1.35
+António Indjai - 3 - 2.88 - 1.06
+António Isidro Alberto - 2 - 1.92 - 0.65
+António Jacinto - 4 - 3.84 - 1.35
+António Jacinto do Amaral Martins - 1 - 0.96 - -0.04
+António Joaquim Francisco - 1 - 0.96 - -0.04
+António José Kissange - 2 - 1.92 - 0.65
+António José Maria - 1 - 0.96 - -0.04
+António José Ribeiro - 1 - 0.96 - -0.04
+António João - 1 - 0.96 - -0.04
+António Kavungo - 3 - 2.88 - 1.06
+António Leão Rocha - 1 - 0.96 - -0.04
+António Lucas Rodrigues - 1 - 0.96 - -0.04
+António Luvualo de Carvalho - 4 - 3.84 - 1.35
+António Luvualu de Carvalho - 6 - 5.76 - 1.75
+António Manuel - 1 - 0.96 - -0.04
+António Manuel Fiel - 1 - 0.96 - -0.04
+António Martins da Cruz - 4 - 3.84 - 1.35
+António Mateus da Costa - 1 - 0.96 - -0.04
+António Monteiro - 2 - 1.92 - 0.65
+António Mosquito - 1 - 0.96 - -0.04
+António Mota - 1 - 0.96 - -0.04
+António Muchanga - 5 - 4.80 - 1.57
+António Ndangua - 2 - 1.92 - 0.65
+António Nhath - 8 - 7.68 - 2.04
+António Nunes - 2 - 1.92 - 0.65
+António Ole - 3 - 2.88 - 1.06
+António Paim - 1 - 0.96 - -0.04
+António Palocci - 3 - 2.88 - 1.06
+António Paulo - 8 - 7.68 - 2.04
+António Paulo Kassoma - 1 - 0.96 - -0.04
+António Paím - 2 - 1.92 - 0.65
+António Pedro - 1 - 0.96 - -0.04
+António Pedro Vasconcelos - 1 - 0.96 - -0.04
+António Pinto - 1 - 0.96 - -0.04
+António Pompílio - 1 - 0.96 - -0.04
+António Quino - 1 - 0.96 - -0.04
+António Quiombo - 1 - 0.96 - -0.04
+António Quitembo Ngunza - 2 - 1.92 - 0.65
+António Ramos da Cruz - 2 - 1.92 - 0.65
+António Reis - 1 - 0.96 - -0.04
+António Resende - 11 - 10.56 - 2.36
+António Sebastião Lino - 1 - 0.96 - -0.04
+António Sebastião Vicente - 1 - 0.96 - -0.04
+António Segunda - 2 - 1.92 - 0.65
+António Setas - 1 - 0.96 - -0.04
+António Silva - 1 - 0.96 - -0.04
+António Teixeira Flôr - 1 - 0.96 - -0.04
+António Tomás - 1 - 0.96 - -0.04
+António Tomás Ana - 2 - 1.92 - 0.65
+António Tomáz - 1 - 0.96 - -0.04
+António Torrado - 2 - 1.92 - 0.65
+António Venâncio - 3 - 2.88 - 1.06
+António Vicente Santocas - 1 - 0.96 - -0.04
+António Xavier - 1 - 0.96 - -0.04
+António de Brito - 7 - 6.72 - 1.91
+António de Oliveira - 1 - 0.96 - -0.04
+António de Oliveira Salazar - 1 - 0.96 - -0.04
+António de Sousa Lara - 1 - 0.96 - -0.04
+António dos Santos - 1 - 0.96 - -0.04
+António dos Santos Candeeiro - 1 - 0.96 - -0.04
+António dos Santos Neto - 1 - 0.96 - -0.04
+Anunciada - 1 - 0.96 - -0.04
+Apolo Ndinoulenga - 1 - 0.96 - -0.04
+Aquiles - 2 - 1.92 - 0.65
+Argentina - 28 - 26.89 - 3.29
+Aristóteles - 1 - 0.96 - -0.04
+Armando Costa - 1 - 0.96 - -0.04
+Armando Guebuza - 8 - 7.68 - 2.04
+Armando Manuel - 31 - 29.77 - 3.39
+Armando Valente - 2 - 1.92 - 0.65
+Armando Vara - 2 - 1.92 - 0.65
+Armando Zua - 1 - 0.96 - -0.04
+Arménia - 1 - 0.96 - -0.04
+Arménio Vieira - 2 - 1.92 - 0.65
+Arquimedes - 1 - 0.96 - -0.04
+Artur Barros - 2 - 1.92 - 0.65
+Artur Camueji - 2 - 1.92 - 0.65
+Artur Carlos Maurício Pestana dos Santos - 2 - 1.92 - 0.65
+Artur Décimo - 2 - 1.92 - 0.65
+Artur Nunes - 4 - 3.84 - 1.35
+Artur Pestana - 2 - 1.92 - 0.65
+Artur Queiroz - 1 - 0.96 - -0.04
+Artur Quixiona Finda - 2 - 1.92 - 0.65
+Artur de Carmo Manuel - 2 - 1.92 - 0.65
+Ary - 8 - 7.68 - 2.04
+Ary Papel - 11 - 10.56 - 2.36
+Arão - 1 - 0.96 - -0.04
+Arão Bula Tempo - 10 - 9.60 - 2.26
+Arão Martins - 3 - 2.88 - 1.06
+Arão Tempo - 15 - 14.40 - 2.67
+Arão Termpo - 1 - 0.96 - -0.04
+Assunção Afonso Sousa dos Anjos - 1 - 0.96 - -0.04
+Atanásio da Silva - 1 - 0.96 - -0.04
+Ataíde Paulo - 1 - 0.96 - -0.04
+Avelino Cachilandala - 5 - 4.80 - 1.57
+Avelino Dumboe Severino Vicente - 1 - 0.96 - -0.04
+Avelino Lopes - 1 - 0.96 - -0.04
+Avelino dos Santos - 1 - 0.96 - -0.04
+Bartolomeu - 2 - 1.92 - 0.65
+Basílio Monteiro - 2 - 1.92 - 0.65
+Beatriz António - 1 - 0.96 - -0.04
+Beatriz Buchili - 5 - 4.80 - 1.57
+Beatriz Martini - 1 - 0.96 - -0.04
+Beatriz Morais - 1 - 0.96 - -0.04
+Beatriz Muchili - 1 - 0.96 - -0.04
+Bela - 5 - 4.80 - 1.57
+Bela Xow - 4 - 3.84 - 1.35
+Benedito - 1 - 0.96 - -0.04
+Benedito Daniel - 6 - 5.76 - 1.75
+Benedito Jeremias - 11 - 10.56 - 2.36
+Benedito Joaquim Kapala Kayela - 1 - 0.96 - -0.04
+Benita Prieto - 1 - 0.96 - -0.04
+Benjamim - 2 - 1.92 - 0.65
+Benjamim Bakassy - 1 - 0.96 - -0.04
+Benjamim Gaspar dos Santos - 7 - 6.72 - 1.91
+Benjamim Kapata - 2 - 1.92 - 0.65
+Benjamim Mâ - 2 - 1.92 - 0.65
+Bento Bembe - 4 - 3.84 - 1.35
+Bento Bento - 4 - 3.84 - 1.35
+Bento Cavila - 1 - 0.96 - -0.04
+Bento Francisco Bento - 1 - 0.96 - -0.04
+Bento Kangamba - 23 - 22.09 - 3.09
+Bento Ribeiro - 1 - 0.96 - -0.04
+Bento Sebastião Bento - 1 - 0.96 - -0.04
+Bento XVI - 1 - 0.96 - -0.04
+Bento de Jesus Caraça - 1 - 0.96 - -0.04
+Bento dos Santos - 4 - 3.84 - 1.35
+Bento dos Santos Kangamba - 12 - 11.52 - 2.44
+Benvinda - 1 - 0.96 - -0.04
+Bernardino Manje - 6 - 5.76 - 1.75
+Bernardino Pedroto - 2 - 1.92 - 0.65
+Bernardo Campos - 4 - 3.84 - 1.35
+Bernardo Correia Jorge - 1 - 0.96 - -0.04
+Bernardo Domingos - 1 - 0.96 - -0.04
+Bernardo Gourgel - 2 - 1.92 - 0.65
+Bernardo Jorge Martins Correia - 1 - 0.96 - -0.04
+Bernardo João - 1 - 0.96 - -0.04
+Bernardo Mo - 1 - 0.96 - -0.04
+Bernardo Sipiali Sacanene - 1 - 0.96 - -0.04
+Beto Bianchi - 5 - 4.80 - 1.57
+Beto Cardoso - 1 - 0.96 - -0.04
+Beto Van-Dúnem - 2 - 1.92 - 0.65
+Boavida Neto - 3 - 2.88 - 1.06
+Branca Manuel da Costa Neto do Espirito Santo - 1 - 0.96 - -0.04
+Branca Manuel da Costa Neto do Espírito Santo - 3 - 2.88 - 1.06
+Branca do Espírito Santo - 2 - 1.92 - 0.65
+Branca do Espírito Santo Presidente da Associação dos Profissionais Imobiliários de Angola - 1 - 0.96 - -0.04
+Brandão Macaia - 4 - 3.84 - 1.35
+Brenda Sambo - 1 - 0.96 - -0.04
+Brenda Sambo-foto de Pedro Nicodemos - 1 - 0.96 - -0.04
+Brian Eno - 3 - 2.88 - 1.06
+Bruce - 6 - 5.76 - 1.75
+Bruna - 1 - 0.96 - -0.04
+Bruna Cardoso - 2 - 1.92 - 0.65
+Bruna Tatiana - 8 - 7.68 - 2.04
+Bruno - 10 - 9.60 - 2.26
+Bruno Ag - 1 - 0.96 - -0.04
+Bruno King - 2 - 1.92 - 0.65
+Bruno Kingueira - 1 - 0.96 - -0.04
+Bruno Lopes - 3 - 2.88 - 1.06
+Bryan Cranston - 2 - 1.92 - 0.65
+Brás - 1 - 0.96 - -0.04
+Bráulio Dias - 1 - 0.96 - -0.04
+Bráulio Morais - 1 - 0.96 - -0.04
+Bárbara Ekwall - 1 - 0.96 - -0.04
+Caetano - 1 - 0.96 - -0.04
+Caetano Domingos - 1 - 0.96 - -0.04
+Caetano Veloso - 1 - 0.96 - -0.04
+Caetano de Sousa - 4 - 3.84 - 1.35
+Caio Cacongo - 1 - 0.96 - -0.04
+Caio Poba - 1 - 0.96 - -0.04
+Canto da Kianda - 6 - 5.76 - 1.75
+Canto da Kiandaâ - 2 - 1.92 - 0.65
+Carla Ferreira - 1 - 0.96 - -0.04
+Carla Lopes Duarte - 2 - 1.92 - 0.65
+Carlo Magno - 1 - 0.96 - -0.04
+Carlos - 4 - 3.84 - 1.35
+Carlos Agostinho do Rosário - 2 - 1.92 - 0.65
+Carlos Alberto André Gregório - 1 - 0.96 - -0.04
+Carlos Alberto Cavuquila - 1 - 0.96 - -0.04
+Carlos Alberto Jaime - 2 - 1.92 - 0.65
+Carlos Alberto Mac-Mahon de Victória Pereira - 1 - 0.96 - -0.04
+Carlos Alberto Masseca - 1 - 0.96 - -0.04
+Carlos Alberto Pinto de Sousa - 3 - 2.88 - 1.06
+Carlos Alberto da Costa Faro Molares - 1 - 0.96 - -0.04
+Carlos Alexandre - 13 - 12.48 - 2.52
+Carlos Alhinho - 4 - 3.84 - 1.35
+Carlos Andrade - 1 - 0.96 - -0.04
+Carlos Andrade Neto - 2 - 1.92 - 0.65
+Carlos Augusto - 4 - 3.84 - 1.35
+Carlos Bastos de Almeida - 3 - 2.88 - 1.06
+Carlos Benge - 1 - 0.96 - -0.04
+Carlos Bragança - 4 - 3.84 - 1.35
+Carlos Burity - 4 - 3.84 - 1.35
+Carlos Cabral Nunes - 1 - 0.96 - -0.04
+Carlos Caldas - 3 - 2.88 - 1.06
+Carlos Cardoso - 4 - 3.84 - 1.35
+Carlos Cassucula - 1 - 0.96 - -0.04
+Carlos Conceição - 2 - 1.92 - 0.65
+Carlos Correia - 1 - 0.96 - -0.04
+Carlos Cruz - 1 - 0.96 - -0.04
+Carlos Cunha - 1 - 0.96 - -0.04
+Carlos Cussucola - 1 - 0.96 - -0.04
+Carlos Duarte - 4 - 3.84 - 1.35
+Carlos Feijó - 2 - 1.92 - 0.65
+Carlos Fernando dos Santos Lima - 2 - 1.92 - 0.65
+Carlos Ferreira - 2 - 1.92 - 0.65
+Carlos Gil - 2 - 1.92 - 0.65
+Carlos Kangandji - 1 - 0.96 - -0.04
+Carlos Lacerda Chitombi - 1 - 0.96 - -0.04
+Carlos Lopes - 2 - 1.92 - 0.65
+Carlos Magalhães - 3 - 2.88 - 1.06
+Carlos Major - 1 - 0.96 - -0.04
+Carlos Manuel - 1 - 0.96 - -0.04
+Carlos Maria Feijó - 2 - 1.92 - 0.65
+Carlos Moco - 2 - 1.92 - 0.65
+Carlos Morais - 11 - 10.56 - 2.36
+Carlos Morgado - 1 - 0.96 - -0.04
+Carlos Ngunga - 2 - 1.92 - 0.65
+Carlos Paulino - 7 - 6.72 - 1.91
+Carlos Pedro - 1 - 0.96 - -0.04
+Carlos Pires - 1 - 0.96 - -0.04
+Carlos Rocha Dilolwa - 1 - 0.96 - -0.04
+Carlos Rosado - 2 - 1.92 - 0.65
+Carlos Salgueiro - 1 - 0.96 - -0.04
+Carlos Samba - 1 - 0.96 - -0.04
+Carlos Santana - 1 - 0.96 - -0.04
+Carlos Santos Silva - 1 - 0.96 - -0.04
+Carlos Seka Kunene - 1 - 0.96 - -0.04
+Carlos Silva - 5 - 4.80 - 1.57
+Carlos Slim - 1 - 0.96 - -0.04
+Carlos Slim Helu - 2 - 1.92 - 0.65
+Carlos Soweto - 3 - 2.88 - 1.06
+Carlos Sumbula - 21 - 20.17 - 3.00
+Carlos Teixeira - 1 - 0.96 - -0.04
+Carlos Vaz Pinto - 1 - 0.96 - -0.04
+Carlos Vicente - 4 - 3.84 - 1.35
+Carlos Vieira Lopes - 7 - 6.72 - 1.91
+Carlos da Conceição - 6 - 5.76 - 1.75
+Carlota - 1 - 0.96 - -0.04
+Carlota Tati - 1 - 0.96 - -0.04
+Carmelinda Gonçalves - 1 - 0.96 - -0.04
+Carmelita Gonçalves - 1 - 0.96 - -0.04
+Carmo - 2 - 1.92 - 0.65
+Carmo Neto - 13 - 12.48 - 2.52
+Carol - 8 - 7.68 - 2.04
+Carolina Caluvi - 1 - 0.96 - -0.04
+Carolina Cerqueira - 6 - 5.76 - 1.75
+Carolina Cerqueira Dos - 1 - 0.96 - -0.04
+Carolina de Sousa Paim - 1 - 0.96 - -0.04
+Carolina do Norte - 3 - 2.88 - 1.06
+Carolina do Sul - 8 - 7.68 - 2.04
+Catarina - 5 - 4.80 - 1.57
+Catarina Marques Rodrigues - 1 - 0.96 - -0.04
+Catarina Martins - 4 - 3.84 - 1.35
+Catarina Roberto - 1 - 0.96 - -0.04
+Catarina Ululi - 1 - 0.96 - -0.04
+Catarina Vieira Dias da Cunha - 1 - 0.96 - -0.04
+Cecília Gourgel - 1 - 0.96 - -0.04
+Celso - 5 - 4.80 - 1.57
+Celso Amorim - 2 - 1.92 - 0.65
+Celso Lopes - 2 - 1.92 - 0.65
+Celso Malavoloneke - 5 - 4.80 - 1.57
+Cesário Hebo - 2 - 1.92 - 0.65
+Chantal Uwinana - 1 - 0.96 - -0.04
+Cheila Lima - 1 - 0.96 - -0.04
+Cirilo Matias - 1 - 0.96 - -0.04
+Cirilo Matias Mateus - 2 - 1.92 - 0.65
+Ciro Bertini - 1 - 0.96 - -0.04
+Cita Ikonoklasta - 1 - 0.96 - -0.04
+Clara Andermatt - 1 - 0.96 - -0.04
+Clara Monteiro - 1 - 0.96 - -0.04
+Cláudia Cruz - 1 - 0.96 - -0.04
+Cláudia Leonardo - 1 - 0.96 - -0.04
+Cláudia Martins - 1 - 0.96 - -0.04
+Cláudia Muhatili - 1 - 0.96 - -0.04
+Cláudia Veiga - 2 - 1.92 - 0.65
+Cláudia Veiga da Fundação Sindika Dokolo - 1 - 0.96 - -0.04
+Cláudio - 3 - 2.88 - 1.06
+Cláudio Aguiar - 4 - 3.84 - 1.35
+Cláudio Fortunato - 1 - 0.96 - -0.04
+Cláudio Félix - 2 - 1.92 - 0.65
+Cláudio Silva - 2 - 1.92 - 0.65
+Clóvis Levi - 1 - 0.96 - -0.04
+Clóvis Rossi - 1 - 0.96 - -0.04
+Conceição Cristóvão - 3 - 2.88 - 1.06
+Conceição Domingos Frederico - 1 - 0.96 - -0.04
+Conceição Lopes - 1 - 0.96 - -0.04
+Conceição Luís Cristóvão - 1 - 0.96 - -0.04
+Constância Ayres - 1 - 0.96 - -0.04
+Constância Domingos - 1 - 0.96 - -0.04
+Corsino Fortes - 2 - 1.92 - 0.65
+Cremilda Lima - 1 - 0.96 - -0.04
+Cristiano Ronaldo - 6 - 5.76 - 1.75
+Cristiano Zanin Martins - 1 - 0.96 - -0.04
+Cátia Arnaut - 2 - 1.92 - 0.65
+Cândido Cadifete - 1 - 0.96 - -0.04
+Cândido Ferreira - 1 - 0.96 - -0.04
+Cândido Gomes da Rocha Pinto - 1 - 0.96 - -0.04
+Cândido Pereira Van-Dúnem - 1 - 0.96 - -0.04
+Cândido Santos - 1 - 0.96 - -0.04
+Célsio Mambo - 1 - 0.96 - -0.04
+Cícero - 1 - 0.96 - -0.04
+DISA - 3 - 2.88 - 1.06
+Damien Courvalin da Goldman - 1 - 0.96 - -0.04
+Damião Franklin - 1 - 0.96 - -0.04
+Damião Zua Neto - 1 - 0.96 - -0.04
+Daniel Ferreira - 1 - 0.96 - -0.04
+Daniel Hahn - 3 - 2.88 - 1.06
+Daniel Medin - 3 - 2.88 - 1.06
+Daniel Miguel - 16 - 15.37 - 2.73
+Daniel Miguel Jorge - 2 - 1.92 - 0.65
+Daniel Modesto Geraldes - 1 - 0.96 - -0.04
+Daniel Quipaxe - 3 - 2.88 - 1.06
+Daniel Silves Ferreira - 1 - 0.96 - -0.04
+Daniela Mercury - 1 - 0.96 - -0.04
+Danilo Danelucci - 3 - 2.88 - 1.06
+Danilo Medina - 1 - 0.96 - -0.04
+Danilo Turk - 1 - 0.96 - -0.04
+Dara Aza - 1 - 0.96 - -0.04
+Dario de Melo - 6 - 5.76 - 1.75
+Davi Hipunduka - 1 - 0.96 - -0.04
+David Alberto Mavinga - 2 - 1.92 - 0.65
+David Bellos - 3 - 2.88 - 1.06
+David Bernadino - 2 - 1.92 - 0.65
+David Bernardino - 5 - 4.80 - 1.57
+David Bowie - 8 - 7.68 - 2.04
+David Buba - 1 - 0.96 - -0.04
+David Calivala - 1 - 0.96 - -0.04
+David Cameron - 4 - 3.84 - 1.35
+David Capelenguela - 1 - 0.96 - -0.04
+David Caracol - 6 - 5.76 - 1.75
+David Dias - 1 - 0.96 - -0.04
+David EnoqueCaracol - 2 - 1.92 - 0.65
+David Ferreira - 1 - 0.96 - -0.04
+David Filipe - 14 - 13.44 - 2.60
+David Frankel - 1 - 0.96 - -0.04
+David Held - 1 - 0.96 - -0.04
+David Lipton - 1 - 0.96 - -0.04
+David Mendes - 62 - 59.54 - 4.09
+David Mestre - 1 - 0.96 - -0.04
+David Moisés - 1 - 0.96 - -0.04
+David Rockefeller - 1 - 0.96 - -0.04
+David Simango - 1 - 0.96 - -0.04
+David White Melhor Mistura de Som - 1 - 0.96 - -0.04
+David Zé - 5 - 4.80 - 1.57
+Delfino Nunda - 2 - 1.92 - 0.65
+Delmira Dinis - 1 - 0.96 - -0.04
+Diana - 1 - 0.96 - -0.04
+Diana Konomanyi - 2 - 1.92 - 0.65
+Diego Jorge Dzodan - 3 - 2.88 - 1.06
+Dina Santos - 2 - 1.92 - 0.65
+Dinamene - 1 - 0.96 - -0.04
+Dinis - 1 - 0.96 - -0.04
+Dino - 1 - 0.96 - -0.04
+Dino Fragoso - 1 - 0.96 - -0.04
+Dino Matross - 5 - 4.80 - 1.57
+Dino Matrosse - 7 - 6.72 - 1.91
+Dino Matrossrejeitou - 2 - 1.92 - 0.65
+Dino dos Santos - 1 - 0.96 - -0.04
+Diogo Cão - 1 - 0.96 - -0.04
+Diogo Evangelista - 2 - 1.92 - 0.65
+Diogo Mário - 2 - 1.92 - 0.65
+Dionísio David - 2 - 1.92 - 0.65
+Diva do Kuduro - 3 - 2.88 - 1.06
+Djalma - 1 - 0.96 - -0.04
+Djalma Campos - 1 - 0.96 - -0.04
+Djalma Campos do Konyasport da Turquia - 2 - 1.92 - 0.65
+Djamila Prata - 1 - 0.96 - -0.04
+Dolores Ibarruri - 2 - 1.92 - 0.65
+Domingas Baltazar - 1 - 0.96 - -0.04
+Domingas de Almeida Ekongo - 1 - 0.96 - -0.04
+Domingos - 8 - 7.68 - 2.04
+Domingos Alfredo - 2 - 1.92 - 0.65
+Domingos Assis Fortes - 1 - 0.96 - -0.04
+Domingos Bento - 8 - 7.68 - 2.04
+Domingos Bento-foto de Lito Cahongolo - 1 - 0.96 - -0.04
+Domingos Bento-foto de Viegílio Pinto - 2 - 1.92 - 0.65
+Domingos Bonifácio - 1 - 0.96 - -0.04
+Domingos Calucipa - 2 - 1.92 - 0.65
+Domingos Carlos Manuel - 1 - 0.96 - -0.04
+Domingos Chianga - 3 - 2.88 - 1.06
+Domingos Corsa - 3 - 2.88 - 1.06
+Domingos Costa Mesquita - 1 - 0.96 - -0.04
+Domingos Cruz - 1 - 0.96 - -0.04
+Domingos Dembo - 1 - 0.96 - -0.04
+Domingos Eduardo - 1 - 0.96 - -0.04
+Domingos Fernandes - 3 - 2.88 - 1.06
+Domingos Fernandes de Barros Neto - 1 - 0.96 - -0.04
+Domingos Francisco - 2 - 1.92 - 0.65
+Domingos Francisco João - 1 - 0.96 - -0.04
+Domingos Geovetty - 1 - 0.96 - -0.04
+Domingos Gomes - 1 - 0.96 - -0.04
+Domingos José Januário - 1 - 0.96 - -0.04
+Domingos José da Cruz - 4 - 3.84 - 1.35
+Domingos João Lourenço - 2 - 1.92 - 0.65
+Domingos Kambunji - 1 - 0.96 - -0.04
+Domingos Kimpolo Zau - 3 - 2.88 - 1.06
+Domingos Mesquita - 2 - 1.92 - 0.65
+Domingos Monteiro da Silva - 1 - 0.96 - -0.04
+Domingos Mucuta - 2 - 1.92 - 0.65
+Domingos Mário - 1 - 0.96 - -0.04
+Domingos Pedro - 7 - 6.72 - 1.91
+Domingos Quiabila - 2 - 1.92 - 0.65
+Domingos Quintas - 1 - 0.96 - -0.04
+Domingos Simões Pereira - 5 - 4.80 - 1.57
+Domingos Taves - 2 - 1.92 - 0.65
+Domingos Vicente - 1 - 0.96 - -0.04
+Domingos da Costa Mesquita - 1 - 0.96 - -0.04
+Domingos da Cruz - 21 - 20.17 - 3.00
+Domingos de Barros Neto - 3 - 2.88 - 1.06
+Domingos do Nascimento - 6 - 5.76 - 1.75
+Domingos dos Santos - 1 - 0.96 - -0.04
+Dora Batalim - 1 - 0.96 - -0.04
+Duarte Marques - 1 - 0.96 - -0.04
+Duarte Marques do Partido Social Democrata - 1 - 0.96 - -0.04
+Duarte da Silva - 1 - 0.96 - -0.04
+Dulce Pereira - 1 - 0.96 - -0.04
+Dulcineia Lufua - 1 - 0.96 - -0.04
+Dália - 2 - 1.92 - 0.65
+Dário - 2 - 1.92 - 0.65
+Dário de Melo - 1 - 0.96 - -0.04
+Débora Sanches - 1 - 0.96 - -0.04
+Edgar - 1 - 0.96 - -0.04
+Edgar Neto - 2 - 1.92 - 0.65
+Edgar Silva - 1 - 0.96 - -0.04
+Edgar de Barros Semedo - 1 - 0.96 - -0.04
+Edna Domingas - 1 - 0.96 - -0.04
+Eduardo André - 1 - 0.96 - -0.04
+Eduardo André Muaca - 1 - 0.96 - -0.04
+Eduardo Breno Lemos dos Santos - 1 - 0.96 - -0.04
+Eduardo Campos - 1 - 0.96 - -0.04
+Eduardo Costley-White - 1 - 0.96 - -0.04
+Eduardo Cunha - 1 - 0.96 - -0.04
+Eduardo Diavovoka - 1 - 0.96 - -0.04
+Eduardo Ferreira - 2 - 1.92 - 0.65
+Eduardo Filomeno Barber Leiro Octávio - 1 - 0.96 - -0.04
+Eduardo Gigante - 1 - 0.96 - -0.04
+Eduardo Gito - 4 - 3.84 - 1.35
+Eduardo Jorge Chilembo - 1 - 0.96 - -0.04
+Eduardo João Francisco Minvu - 1 - 0.96 - -0.04
+Eduardo Kuangana - 3 - 2.88 - 1.06
+Eduardo Kwangana - 1 - 0.96 - -0.04
+Eduardo Macedo dos Santos - 1 - 0.96 - -0.04
+Eduardo Mendes - 4 - 3.84 - 1.35
+Eduardo Mingas - 1 - 0.96 - -0.04
+Eduardo Mondlane - 1 - 0.96 - -0.04
+Eduardo Paz Ferreira - 1 - 0.96 - -0.04
+Eduardo Samuko - 4 - 3.84 - 1.35
+Eduardo Simões - 3 - 2.88 - 1.06
+Eduardo Tchandja - 1 - 0.96 - -0.04
+Eduardo do Nascimento Borges Ferreira - 1 - 0.96 - -0.04
+Eduardo dos Santos - 146 - 140.21 - 4.94
+Eduardo dos Santos Um - 1 - 0.96 - -0.04
+Eduardo Águaboa - 4 - 3.84 - 1.35
+Egídio de Sousa Santos - 3 - 2.88 - 1.06
+Eleazar Van-Dúnem - 1 - 0.96 - -0.04
+Elena Ferrante - 3 - 2.88 - 1.06
+Eleutério Hivilikwa - 2 - 1.92 - 0.65
+Eleutério Sanches - 1 - 0.96 - -0.04
+Elias - 1 - 0.96 - -0.04
+Elias Dia Kimuezu - 1 - 0.96 - -0.04
+Elias Dumbo Livulo - 2 - 1.92 - 0.65
+Elias Dya Kimuezo - 1 - 0.96 - -0.04
+Elias Dya Kimuezu - 1 - 0.96 - -0.04
+Elias Dya Kimwezo - 1 - 0.96 - -0.04
+Elias Isaac - 3 - 2.88 - 1.06
+Elias José - 9 - 8.64 - 2.16
+Elias Salupeto Pena - 1 - 0.96 - -0.04
+Elisa Barros - 1 - 0.96 - -0.04
+Elisa Ngola - 2 - 1.92 - 0.65
+Elisabeth Simbrão - 1 - 0.96 - -0.04
+Eliseu - 1 - 0.96 - -0.04
+Elsa Gomes - 8 - 7.68 - 2.04
+Emanuel Caboco - 2 - 1.92 - 0.65
+Emanuel Kunzika - 6 - 5.76 - 1.75
+Emídio Fernandes - 1 - 0.96 - -0.04
+Emídio Fernando - 1 - 0.96 - -0.04
+Emídio Pinheiro - 2 - 1.92 - 0.65
+Emídio Rangel - 3 - 2.88 - 1.06
+Emília Carlota Dias - 3 - 2.88 - 1.06
+Emília Natunga - 1 - 0.96 - -0.04
+Encarnação Pimenta - 1 - 0.96 - -0.04
+Enoque Caracol - 2 - 1.92 - 0.65
+Enrique Pena Nieto - 1 - 0.96 - -0.04
+Eric Bost - 1 - 0.96 - -0.04
+Eric Schmidt da Google - 1 - 0.96 - -0.04
+Erica Jâmece - 2 - 1.92 - 0.65
+Erika Jâmece - 3 - 2.88 - 1.06
+Esperança - 2 - 1.92 - 0.65
+Esperança Afrodite-foto de Pedro Nicodemos - 1 - 0.96 - -0.04
+Esperança Miranda - 1 - 0.96 - -0.04
+Esperança de Angola - 1 - 0.96 - -0.04
+Esperança de Vida - 1 - 0.96 - -0.04
+Estanislau Chindecasse - 1 - 0.96 - -0.04
+Estanislau Costa - 1 - 0.96 - -0.04
+Estrela Angolana - 1 - 0.96 - -0.04
+Estrela da Morte - 1 - 0.96 - -0.04
+Eulógio Del Pino - 1 - 0.96 - -0.04
+Eunice José - 1 - 0.96 - -0.04
+Eva - 6 - 5.76 - 1.75
+Eva Fumo - 1 - 0.96 - -0.04
+Eva Gomes Manuel - 1 - 0.96 - -0.04
+Eva Lopes - 1 - 0.96 - -0.04
+Eva Manuel - 2 - 1.92 - 0.65
+Eva de Almeida - 1 - 0.96 - -0.04
+Evandro - 1 - 0.96 - -0.04
+Fabrício - 2 - 1.92 - 0.65
+Faustino Cocacola - 1 - 0.96 - -0.04
+Faustino Diogo - 6 - 5.76 - 1.75
+Faustino Minguêns - 1 - 0.96 - -0.04
+Faustino Minguês - 6 - 5.76 - 1.75
+Faustino Sebastião - 1 - 0.96 - -0.04
+Fausto - 1 - 0.96 - -0.04
+Fausto Maia - 1 - 0.96 - -0.04
+Fausto Maria - 1 - 0.96 - -0.04
+Felicidade - 1 - 0.96 - -0.04
+Felismina Timóteo - 1 - 0.96 - -0.04
+Filinto Elísio - 1 - 0.96 - -0.04
+Filipe - 1 - 0.96 - -0.04
+Filipe Barros Espanhol - 1 - 0.96 - -0.04
+Filipe Bernardino - 1 - 0.96 - -0.04
+Filipe Cruz - 9 - 8.64 - 2.16
+Filipe Cruz Reconhece - 1 - 0.96 - -0.04
+Filipe Espanhol - 2 - 1.92 - 0.65
+Filipe Faísca - 1 - 0.96 - -0.04
+Filipe João Quissingui - 1 - 0.96 - -0.04
+Filipe Mukenga - 2 - 1.92 - 0.65
+Filipe Nyusi - 38 - 36.49 - 3.60
+Filipe Nzanza - 1 - 0.96 - -0.04
+Filipe Silva - 2 - 1.92 - 0.65
+Filipe VI - 2 - 1.92 - 0.65
+Filipe Zau - 1 - 0.96 - -0.04
+Filomena Cazengue - 1 - 0.96 - -0.04
+Filomena Coquenão - 1 - 0.96 - -0.04
+Filomena Delgado - 7 - 6.72 - 1.91
+Filomena Freitas - 2 - 1.92 - 0.65
+Filomena Vaz Velho - 2 - 1.92 - 0.65
+Filomena do Espírito Santo - 1 - 0.96 - -0.04
+Filomeno - 4 - 3.84 - 1.35
+Filomeno Manaças - 1 - 0.96 - -0.04
+Filomeno Vieira Dias - 13 - 12.48 - 2.52
+Filomeno Vieira Dias de Cabinda - 1 - 0.96 - -0.04
+Filomeno Vieira Lopes - 2 - 1.92 - 0.65
+Filomeno Viera Dias - 1 - 0.96 - -0.04
+Filomeno do Nascimento Vieira Dias - 1 - 0.96 - -0.04
+Firmino Andra - 1 - 0.96 - -0.04
+Flora - 2 - 1.92 - 0.65
+Flora Selvagem - 4 - 3.84 - 1.35
+Flora de Andrade - 1 - 0.96 - -0.04
+Florbela Espanca - 1 - 0.96 - -0.04
+Flávio - 3 - 2.88 - 1.06
+Flávio Almada - 1 - 0.96 - -0.04
+Fradique Mendes - 1 - 0.96 - -0.04
+Francisca - 8 - 7.68 - 2.04
+Francisca Cinquenta - 2 - 1.92 - 0.65
+Francisca Van Dunem - 2 - 1.92 - 0.65
+Francisca Van Dúnem - 1 - 0.96 - -0.04
+Francisca Van-Dúnem - 4 - 3.84 - 1.35
+Francisca da Costa - 1 - 0.96 - -0.04
+Francisca de Carvalho - 1 - 0.96 - -0.04
+Francisco - 7 - 6.72 - 1.91
+Francisco Afonso - 3 - 2.88 - 1.06
+Francisco Candumbu - 1 - 0.96 - -0.04
+Francisco Chicola - 2 - 1.92 - 0.65
+Francisco Chocolate - 1 - 0.96 - -0.04
+Francisco Correia - 1 - 0.96 - -0.04
+Francisco Coutinho - 5 - 4.80 - 1.57
+Francisco Curihingana - 1 - 0.96 - -0.04
+Francisco Facata - 1 - 0.96 - -0.04
+Francisco Flora - 2 - 1.92 - 0.65
+Francisco Gomes - 2 - 1.92 - 0.65
+Francisco Henrique Uanassi - 1 - 0.96 - -0.04
+Francisco Higino Carneiro - 1 - 0.96 - -0.04
+Francisco Higino Lopes Carneiro - 4 - 3.84 - 1.35
+Francisco Jacinto - 4 - 3.84 - 1.35
+Francisco Joaquim - 1 - 0.96 - -0.04
+Francisco José - 1 - 0.96 - -0.04
+Francisco José Miranda - 1 - 0.96 - -0.04
+Francisco Júnior - 3 - 2.88 - 1.06
+Francisco Luemba - 13 - 12.48 - 2.52
+Francisco Macias - 1 - 0.96 - -0.04
+Francisco Manuel Mateus - 3 - 2.88 - 1.06
+Francisco Martins Correia - 1 - 0.96 - -0.04
+Francisco Mendes - 2 - 1.92 - 0.65
+Francisco Miguel - 1 - 0.96 - -0.04
+Francisco Moisés - 1 - 0.96 - -0.04
+Francisco Moniz Frank - 1 - 0.96 - -0.04
+Francisco Mulongo - 1 - 0.96 - -0.04
+Francisco Paulo - 2 - 1.92 - 0.65
+Francisco Pedro - 9 - 8.64 - 2.16
+Francisco Pinto Balsemão - 1 - 0.96 - -0.04
+Francisco Queiroz - 22 - 21.13 - 3.05
+Francisco Sabalo Pedro - 4 - 3.84 - 1.35
+Francisco Seixas da Costa - 1 - 0.96 - -0.04
+Francisco Silva - 1 - 0.96 - -0.04
+Francisco Soares - 1 - 0.96 - -0.04
+Francisco Sá Carneiro - 1 - 0.96 - -0.04
+Francisco Taty - 1 - 0.96 - -0.04
+Francisco Tchipilica - 1 - 0.96 - -0.04
+Francisco Uanassi - 2 - 1.92 - 0.65
+Francisco Van - 1 - 0.96 - -0.04
+Francisco Veludo - 1 - 0.96 - -0.04
+Francisco Xavier - 1 - 0.96 - -0.04
+Francisco da Cruz - 1 - 0.96 - -0.04
+Francisco de Almeida - 2 - 1.92 - 0.65
+Francisco de Lemos - 2 - 1.92 - 0.65
+Francisco de Lemos José Maria - 6 - 5.76 - 1.75
+Franco Marcolino - 2 - 1.92 - 0.65
+Franco Marcolino Nhany - 1 - 0.96 - -0.04
+Franklim Bravo - 1 - 0.96 - -0.04
+Franklin Dimulunda - 1 - 0.96 - -0.04
+Franklin Fortunato - 3 - 2.88 - 1.06
+Frederico Cardoso - 1 - 0.96 - -0.04
+Fábio Brunido - 2 - 1.92 - 0.65
+Fábio José - 1 - 0.96 - -0.04
+Fábio Luís Lula da Silva - 3 - 2.88 - 1.06
+Fátima Borges - 1 - 0.96 - -0.04
+Fátima Fernandes - 1 - 0.96 - -0.04
+Fátima Jardim - 12 - 11.52 - 2.44
+Fátima Saiundo - 1 - 0.96 - -0.04
+Fátima Viegas - 1 - 0.96 - -0.04
+Félix João - 3 - 2.88 - 1.06
+Félix Kabange Numbi - 1 - 0.96 - -0.04
+Gabi Moi - 1 - 0.96 - -0.04
+Gabriel - 10 - 9.60 - 2.26
+Gabriel Bunga - 3 - 2.88 - 1.06
+Gabriel Fernandes - 1 - 0.96 - -0.04
+Gabriel Garcia Marquez - 1 - 0.96 - -0.04
+Gabriel García Márquez - 2 - 1.92 - 0.65
+Gabriel Justino - 1 - 0.96 - -0.04
+Gabriel Luís Miguel - 1 - 0.96 - -0.04
+Gabriel Mbilingue - 1 - 0.96 - -0.04
+Gabriel Mbilingui - 8 - 7.68 - 2.04
+Gabriel Osorio - 1 - 0.96 - -0.04
+Gabriel Samy - 1 - 0.96 - -0.04
+Gabriel Silvestre - 1 - 0.96 - -0.04
+Gabriel Tchiema - 19 - 18.25 - 2.90
+Gabriela An - 1 - 0.96 - -0.04
+Gabriela Antunes - 1 - 0.96 - -0.04
+Gala - 2 - 1.92 - 0.65
+Gala dos Óscares - 1 - 0.96 - -0.04
+Galiano Miguel - 1 - 0.96 - -0.04
+Garcia - 1 - 0.96 - -0.04
+Garcia Aníbal - 1 - 0.96 - -0.04
+Garcia Neto - 2 - 1.92 - 0.65
+Gaspar - 1 - 0.96 - -0.04
+Gaspar Fortunato - 1 - 0.96 - -0.04
+Gaspar João Domingos - 1 - 0.96 - -0.04
+Gaspar Nato - 1 - 0.96 - -0.04
+Gaspar Neto - 1 - 0.96 - -0.04
+Gastão Sousa Dias - 1 - 0.96 - -0.04
+Georgina Macuba - 1 - 0.96 - -0.04
+Geraldo - 4 - 3.84 - 1.35
+Geraldo Gama - 1 - 0.96 - -0.04
+Geraldo Sachipengo Nunda - 6 - 5.76 - 1.75
+Germano Almeida - 3 - 2.88 - 1.06
+Germano Fumela - 1 - 0.96 - -0.04
+Germano de Almeida - 2 - 1.92 - 0.65
+Gerson - 2 - 1.92 - 0.65
+Gertrudes Malaka - 1 - 0.96 - -0.04
+Geórgia - 4 - 3.84 - 1.35
+Gil - 3 - 2.88 - 1.06
+Gil Máquina - 1 - 0.96 - -0.04
+Gil Semedo - 7 - 6.72 - 1.91
+Gil Vicente - 1 - 0.96 - -0.04
+Gil da Silva - 7 - 6.72 - 1.91
+Gilberta Papa - 1 - 0.96 - -0.04
+Gisela dos Santos - 2 - 1.92 - 0.65
+Goma - 1 - 0.96 - -0.04
+Gomes Kikas - 1 - 0.96 - -0.04
+Gonçalo Guilherme - 1 - 0.96 - -0.04
+Graciano Domingos - 19 - 18.25 - 2.90
+Graciano Francisco Domingos - 5 - 4.80 - 1.57
+Graça - 2 - 1.92 - 0.65
+Graça Campos - 1 - 0.96 - -0.04
+Gregório Neves - 1 - 0.96 - -0.04
+Gregório Semedo - 2 - 1.92 - 0.65
+Grácia Ferreira - 4 - 3.84 - 1.35
+Guilherme António - 1 - 0.96 - -0.04
+Guilherme Arsénio - 1 - 0.96 - -0.04
+Guilherme Fonseca - 2 - 1.92 - 0.65
+Guilherme Mampuya - 2 - 1.92 - 0.65
+Guilherme Simões - 2 - 1.92 - 0.65
+Guilherme da Silva - 1 - 0.96 - -0.04
+Gustavo Belitardo - 2 - 1.92 - 0.65
+Gustavo Cardoso - 5 - 4.80 - 1.57
+Gustavo da Conceição - 2 - 1.92 - 0.65
+HIGINO PREPARA VISITAS SURPRESA AOS HOSPITAIS - 1 - 0.96 - -0.04
+Hamilton - 4 - 3.84 - 1.35
+Hamilton Bernardo - 1 - 0.96 - -0.04
+Hamilton Cafundanga - 2 - 1.92 - 0.65
+Hamilton Cardoso - 2 - 1.92 - 0.65
+Hamilton Francisco - 3 - 2.88 - 1.06
+Hamilton Gonçalves - 4 - 3.84 - 1.35
+Heitor - 1 - 0.96 - -0.04
+Helena - 2 - 1.92 - 0.65
+Helena Alfredo - 2 - 1.92 - 0.65
+Helena Dias - 1 - 0.96 - -0.04
+Helena Mufana - 1 - 0.96 - -0.04
+Helena Vaz de Almeida - 1 - 0.96 - -0.04
+Heleno Antunes - 1 - 0.96 - -0.04
+Heleno Ferreira Antunes - 1 - 0.96 - -0.04
+Henrique - 2 - 1.92 - 0.65
+Henrique Abranches - 4 - 3.84 - 1.35
+Henrique Alves - 1 - 0.96 - -0.04
+Henrique André Júnior - 4 - 3.84 - 1.35
+Henrique Bacu - 1 - 0.96 - -0.04
+Henrique Cláudio - 1 - 0.96 - -0.04
+Henrique Gal - 1 - 0.96 - -0.04
+Henrique Galvão - 4 - 3.84 - 1.35
+Henrique Guerra - 1 - 0.96 - -0.04
+Henrique Luati Beirão - 1 - 0.96 - -0.04
+Henrique Luaty Beirão - 4 - 3.84 - 1.35
+Henrique Manuel João dos Santos - 1 - 0.96 - -0.04
+Henrique Narciso - 1 - 0.96 - -0.04
+Henrique Neto - 3 - 2.88 - 1.06
+Henrique Rangel - 3 - 2.88 - 1.06
+Henrique Santos - 6 - 5.76 - 1.75
+Henrique dos Santos - 1 - 0.96 - -0.04
+Hermenegildo Cachimbombo - 3 - 2.88 - 1.06
+Hermenegildo Coelho - 4 - 3.84 - 1.35
+Hermenegildo Gomes - 1 - 0.96 - -0.04
+Hermenegildo Magalhães - 1 - 0.96 - -0.04
+Hermenegildo Mbunga - 1 - 0.96 - -0.04
+Hermenegildo Tchipilica - 11 - 10.56 - 2.36
+Hermenegildo Tchipilica-foto de Carlos Moco - 1 - 0.96 - -0.04
+Hermenegildo Tchipilica-foto de Jacinto Figueiredo - 1 - 0.96 - -0.04
+Hermenegildo Tchipilica-foto de Lito Cahangulo - 1 - 0.96 - -0.04
+Hermenegildo Tchipilica-foto de Pedro Nicodemos - 2 - 1.92 - 0.65
+Hermenegildo Tchipilica_foto de Jacinto Figueiredo - 1 - 0.96 - -0.04
+Hermes - 1 - 0.96 - -0.04
+Higino - 3 - 2.88 - 1.06
+Higino Capiñgala - 1 - 0.96 - -0.04
+Higino Carneiro - 106 - 101.79 - 4.62
+Higino Carneiro Executar - 1 - 0.96 - -0.04
+Hildebrando de Melo - 1 - 0.96 - -0.04
+Horácio Joaquim - 1 - 0.96 - -0.04
+Horácio Mosquito - 10 - 9.60 - 2.26
+Hugo - 8 - 7.68 - 2.04
+Hugo Macedo - 1 - 0.96 - -0.04
+Hugo Miguel Évora Gonçalves - 1 - 0.96 - -0.04
+Hugo Vieira da Silva - 4 - 3.84 - 1.35
+Hugo de Menezes - 1 - 0.96 - -0.04
+Hélder Albuquerque - 1 - 0.96 - -0.04
+Hélder Bataglia - 5 - 4.80 - 1.57
+Hélder Fortes - 1 - 0.96 - -0.04
+Hélder Manuel Bárber Dias dos Santos - 1 - 0.96 - -0.04
+Hélder Mário Pedroso Teixeira - 1 - 0.96 - -0.04
+Hélder Neto - 1 - 0.96 - -0.04
+Hélder Pitta Grós - 1 - 0.96 - -0.04
+Hélder Pitta-Groz - 2 - 1.92 - 0.65
+Hélder Teixeira - 6 - 5.76 - 1.75
+Hélio Wilson - 1 - 0.96 - -0.04
+ISIS - 2 - 1.92 - 0.65
+IVA - 1 - 0.96 - -0.04
+Iago Aspas - 1 - 0.96 - -0.04
+Ian Magrath - 1 - 0.96 - -0.04
+Ian SB - 1 - 0.96 - -0.04
+Igor Lukic - 1 - 0.96 - -0.04
+Igor Vetokele - 2 - 1.92 - 0.65
+Igor de Lazari - 5 - 4.80 - 1.57
+Igor de Lazari Barbosa Carneiro - 1 - 0.96 - -0.04
+Ilda Santos - 2 - 1.92 - 0.65
+Ildo Fortes - 1 - 0.96 - -0.04
+Ilídio Albino - 1 - 0.96 - -0.04
+India - 2 - 1.92 - 0.65
+Inga - 9 - 8.64 - 2.16
+Inocência Mata - 2 - 1.92 - 0.65
+Inocêncio - 2 - 1.92 - 0.65
+Inocêncio António de Brito - 5 - 4.80 - 1.57
+Inocêncio Brito - 2 - 1.92 - 0.65
+Inocêncio Chiputa - 1 - 0.96 - -0.04
+Inocêncio Gonçalves - 1 - 0.96 - -0.04
+Inocêncio Hungulo - 2 - 1.92 - 0.65
+Inocêncio de Brito - 6 - 5.76 - 1.75
+Inês Vieira - 1 - 0.96 - -0.04
+Inês de Medeiros - 2 - 1.92 - 0.65
+Iracema Cordeiro - 2 - 1.92 - 0.65
+Irina Bokova - 10 - 9.60 - 2.26
+Irina Mirandela - 2 - 1.92 - 0.65
+Irina Vasconcelos - 4 - 3.84 - 1.35
+Irineu Mujoco - 2 - 1.92 - 0.65
+Isa - 1 - 0.96 - -0.04
+Isaac Cangundo - 2 - 1.92 - 0.65
+Isaac Maria dos Anjos - 1 - 0.96 - -0.04
+Isaac Newton - 1 - 0.96 - -0.04
+Isaac dos Anjos - 13 - 12.48 - 2.52
+Isabel - 35 - 33.61 - 3.51
+Isabel Albino - 1 - 0.96 - -0.04
+Isabel Amaral Guterres - 1 - 0.96 - -0.04
+Isabel Baptista - 1 - 0.96 - -0.04
+Isabel Dias de Lemos - 1 - 0.96 - -0.04
+Isabel Fançony - 4 - 3.84 - 1.35
+Isabel Fernandes - 1 - 0.96 - -0.04
+Isabel Ferreira - 1 - 0.96 - -0.04
+Isabel Ferro - 1 - 0.96 - -0.04
+Isabel Fontes Pires - 3 - 2.88 - 1.06
+Isabel Gabriel - 2 - 1.92 - 0.65
+Isabel Godinho - 2 - 1.92 - 0.65
+Isabel II - 1 - 0.96 - -0.04
+Isabel João - 7 - 6.72 - 1.91
+Isabel Leitão - 4 - 3.84 - 1.35
+Isabel Moreira - 3 - 2.88 - 1.06
+Isabel Nicolau - 1 - 0.96 - -0.04
+Isabel Pena - 1 - 0.96 - -0.04
+Isabel Santos - 2 - 1.92 - 0.65
+Isabel Virgílio - 1 - 0.96 - -0.04
+Isabel Xavier - 4 - 3.84 - 1.35
+Isabel dos Santos - 141 - 135.40 - 4.91
+Isabel dos Santos Mas - 1 - 0.96 - -0.04
+Isalina Kawina - 1 - 0.96 - -0.04
+Isilda Gonçalves - 1 - 0.96 - -0.04
+Isilda Neves - 2 - 1.92 - 0.65
+Isis - 4 - 3.84 - 1.35
+Ismael Gaspar Martins - 6 - 5.76 - 1.75
+Ismael Ló - 9 - 8.64 - 2.16
+Ismael Martins - 9 - 8.64 - 2.16
+Ismael Martinsapelou - 2 - 1.92 - 0.65
+Ismael Mateus - 5 - 4.80 - 1.57
+Israel - 25 - 24.01 - 3.18
+Israel Dala - 4 - 3.84 - 1.35
+Israel da Igreja Metodista Unida - 1 - 0.96 - -0.04
+Iva - 2 - 1.92 - 0.65
+Iva Cabral - 8 - 7.68 - 2.04
+Ivan Franskisk - 1 - 0.96 - -0.04
+Ivan dos Santos - 2 - 1.92 - 0.65
+Ivo Alexandre - 1 - 0.96 - -0.04
+Ivo Lóio - 2 - 1.92 - 0.65
+Ivo Manuel de Lemos - 1 - 0.96 - -0.04
+Ivo Traça - 3 - 2.88 - 1.06
+Ivânia Danila dos Santos Monteiro de Castro - 2 - 1.92 - 0.65
+Ivânia de Castro - 3 - 2.88 - 1.06
+JETRO - 1 - 0.96 - -0.04
+JOSÉ MARCOS MAVUNGO - 1 - 0.96 - -0.04
+Jacob Caetano - 1 - 0.96 - -0.04
+Jacob Latimore - 1 - 0.96 - -0.04
+Jacob Massuanganhe - 1 - 0.96 - -0.04
+Jacob Zuma - 15 - 14.40 - 2.67
+Jacqueline Jayamaha - 2 - 1.92 - 0.65
+Jaime - 1 - 0.96 - -0.04
+Jaime Azulay - 4 - 3.84 - 1.35
+Jaime Bunda - 1 - 0.96 - -0.04
+Jaime Covilhã - 2 - 1.92 - 0.65
+Jaime Freitas - 1 - 0.96 - -0.04
+Jaime Gama - 4 - 3.84 - 1.35
+Jaime Mateus - 1 - 0.96 - -0.04
+Jaime Vitorino Azulay - 1 - 0.96 - -0.04
+James Cameron - 3 - 2.88 - 1.06
+James Foley - 1 - 0.96 - -0.04
+James Gay-Rees Melhor Curta-metragem - 1 - 0.96 - -0.04
+James Horner - 6 - 5.76 - 1.75
+James Murphy - 1 - 0.96 - -0.04
+Januário - 14 - 13.44 - 2.60
+Januário Dimuka - 2 - 1.92 - 0.65
+Januário Domingo - 1 - 0.96 - -0.04
+Januário Domingos - 21 - 20.17 - 3.00
+Januário Domingos José - 7 - 6.72 - 1.91
+Januário Dumbo - 1 - 0.96 - -0.04
+Januário Eduardo Sambo - 2 - 1.92 - 0.65
+Januário José Domingos - 6 - 5.76 - 1.75
+Januário da Fonseca - 1 - 0.96 - -0.04
+Jaqueline - 3 - 2.88 - 1.06
+Jaques Wagner - 3 - 2.88 - 1.06
+Jerónimo Belo - 1 - 0.96 - -0.04
+Jerónimo de Sousa - 2 - 1.92 - 0.65
+Jesus - 6 - 5.76 - 1.75
+Jesus Cristo - 5 - 4.80 - 1.57
+Jesus Maiato - 2 - 1.92 - 0.65
+Jetro Johabnnesburg - 1 - 0.96 - -0.04
+Joana - 1 - 0.96 - -0.04
+Joana Gorjão Henriques - 1 - 0.96 - -0.04
+Joana Lina - 2 - 1.92 - 0.65
+Joana Marques Vidal - 4 - 3.84 - 1.35
+Joana Torres - 2 - 1.92 - 0.65
+Job - 3 - 2.88 - 1.06
+Job Capapinha - 2 - 1.92 - 0.65
+Job Graça - 9 - 8.64 - 2.16
+Job do Petro de Luanda - 1 - 0.96 - -0.04
+Joel - 1 - 0.96 - -0.04
+Joel Epalanga - 1 - 0.96 - -0.04
+Jofre dos Santos - 2 - 1.92 - 0.65
+Jonas - 1 - 0.96 - -0.04
+Jonas Malheiro Savimbi - 37 - 35.53 - 3.57
+Jonas Malheiro Savimbi Unidos Venceremos - 1 - 0.96 - -0.04
+Jonas Pensador - 1 - 0.96 - -0.04
+Jonas Rivera Melhor Estrangeiro - 1 - 0.96 - -0.04
+Jonas Savimbi - 70 - 67.22 - 4.21
+Jonas Savimbi Jonas Malheiro Savimbi - 1 - 0.96 - -0.04
+Jonas Vemba - 1 - 0.96 - -0.04
+Jordão Buaza Caculo - 1 - 0.96 - -0.04
+Jordão Caculo - 1 - 0.96 - -0.04
+Jordão Ferreira - 1 - 0.96 - -0.04
+Jorge - 5 - 4.80 - 1.57
+Jorge Bengue - 1 - 0.96 - -0.04
+Jorge Bengui - 1 - 0.96 - -0.04
+Jorge Carlos Fonseca - 3 - 2.88 - 1.06
+Jorge Casimiro Congo - 3 - 2.88 - 1.06
+Jorge Chilembo - 1 - 0.96 - -0.04
+Jorge Costa - 1 - 0.96 - -0.04
+Jorge Fernandes - 7 - 6.72 - 1.91
+Jorge Fernandes-foto de Virgílio Pinto - 1 - 0.96 - -0.04
+Jorge Ferrão - 1 - 0.96 - -0.04
+Jorge Gomes - 1 - 0.96 - -0.04
+Jorge Gumbe - 3 - 2.88 - 1.06
+Jorge Henrique - 1 - 0.96 - -0.04
+Jorge Huet Bacelar - 1 - 0.96 - -0.04
+Jorge Humberto Chaves - 1 - 0.96 - -0.04
+Jorge Júnior da Escola de Xadrez de Viana - 1 - 0.96 - -0.04
+Jorge Khalau - 2 - 1.92 - 0.65
+Jorge Lorenzo - 1 - 0.96 - -0.04
+Jorge Macedo - 2 - 1.92 - 0.65
+Jorge Paulo Lemann - 1 - 0.96 - -0.04
+Jorge Ramos - 2 - 1.92 - 0.65
+Jorge Rosales - 1 - 0.96 - -0.04
+Jorge Sampaio - 2 - 1.92 - 0.65
+Jorge Sebastião - 1 - 0.96 - -0.04
+Jorge Serafim - 1 - 0.96 - -0.04
+Jorge Serrano - 1 - 0.96 - -0.04
+Jorge Valério - 27 - 25.93 - 3.26
+Jorge Valérioâ - 2 - 1.92 - 0.65
+Jorge Van-Dúnem - 1 - 0.96 - -0.04
+Jorge Varela - 2 - 1.92 - 0.65
+Jorge de Melo - 4 - 3.84 - 1.35
+Josefa Epifánia - 2 - 1.92 - 0.65
+Josefa Miguel Cecília - 1 - 0.96 - -0.04
+Josefina Dengue - 1 - 0.96 - -0.04
+Josefina Wimi - 1 - 0.96 - -0.04
+Josina Machel - 9 - 8.64 - 2.16
+Josina Martins - 1 - 0.96 - -0.04
+Josina Mateus - 2 - 1.92 - 0.65
+Josina de Carvalho - 3 - 2.88 - 1.06
+Josué - 1 - 0.96 - -0.04
+Josué Salusuva Isaías - 1 - 0.96 - -0.04
+José - 5 - 4.80 - 1.57
+José Afonso - 1 - 0.96 - -0.04
+José Alberto de Carvalho - 1 - 0.96 - -0.04
+José Alfredo - 1 - 0.96 - -0.04
+José Amaro Tati - 1 - 0.96 - -0.04
+José Ambriz - 1 - 0.96 - -0.04
+José António - 6 - 5.76 - 1.75
+José António Gomes - 1 - 0.96 - -0.04
+José António Maria da Conceição - 2 - 1.92 - 0.65
+José Augusto Duarte - 1 - 0.96 - -0.04
+José Avelino Gourgel dos Santos - 1 - 0.96 - -0.04
+José Beato - 2 - 1.92 - 0.65
+José Boaventura - 1 - 0.96 - -0.04
+José Botelho de Vasconcelos - 1 - 0.96 - -0.04
+José Carlos - 4 - 3.84 - 1.35
+José Carlos Bagre - 1 - 0.96 - -0.04
+José Carlos Damião - 1 - 0.96 - -0.04
+José Carlos Mavungo - 1 - 0.96 - -0.04
+José Carlos Vasconcelos - 2 - 1.92 - 0.65
+José Carlos de Vasconcelos - 1 - 0.96 - -0.04
+José Carrasquinha - 4 - 3.84 - 1.35
+José Carvalho da Rocha - 2 - 1.92 - 0.65
+José Castro - 2 - 1.92 - 0.65
+José Catraio - 3 - 2.88 - 1.06
+José Cerqueira - 1 - 0.96 - -0.04
+José Chaves - 1 - 0.96 - -0.04
+José Chimuco - 1 - 0.96 - -0.04
+José Conceição - 1 - 0.96 - -0.04
+José Correia - 2 - 1.92 - 0.65
+José Craveirinha - 2 - 1.92 - 0.65
+José Cruz - 2 - 1.92 - 0.65
+José Dias - 1 - 0.96 - -0.04
+José Dias-foto de Pedro Nicodemos - 1 - 0.96 - -0.04
+José Dias-foto de Santana Joaquim - 1 - 0.96 - -0.04
+José Dielo - 1 - 0.96 - -0.04
+José Domingos Adão Jorge - 1 - 0.96 - -0.04
+José Domingos Pereira - 1 - 0.96 - -0.04
+José Eduardo - 2 - 1.92 - 0.65
+José Eduardo Agualusa - 18 - 17.29 - 2.85
+José Eduardo Dias - 2 - 1.92 - 0.65
+José Eduardo Dos Santos - 3 - 2.88 - 1.06
+José Eduardo Moniz - 1 - 0.96 - -0.04
+José Eduardo Santos - 1 - 0.96 - -0.04
+José Eduardo dos Santos - 509 - 488.80 - 6.19
+José Eduardo dos Santso - 1 - 0.96 - -0.04
+José Fanha - 3 - 2.88 - 1.06
+José Fernandes - 1 - 0.96 - -0.04
+José Fernandes Coelho da Cruz Neto - 1 - 0.96 - -0.04
+José Fernando Gonçalves Guerreiro - 1 - 0.96 - -0.04
+José Filomeno de Sousa dos Santos - 1 - 0.96 - -0.04
+José Filomeno dos Santos - 11 - 10.56 - 2.36
+José Gama - 1 - 0.96 - -0.04
+José Gomes Hata - 5 - 4.80 - 1.57
+José Graziano da Silva - 2 - 1.92 - 0.65
+José Grazzeli - 1 - 0.96 - -0.04
+José Gualter - 1 - 0.96 - -0.04
+José Guerreiro - 2 - 1.92 - 0.65
+José Guimarães - 1 - 0.96 - -0.04
+José Hata - 4 - 3.84 - 1.35
+José Jorge Letria - 1 - 0.96 - -0.04
+José João - 1 - 0.96 - -0.04
+José João Kuvíngua - 1 - 0.96 - -0.04
+José Julino Kalupeteka - 15 - 14.40 - 2.67
+José Kaliengue - 18 - 17.29 - 2.85
+José Kalupeta - 1 - 0.96 - -0.04
+José Kalupeteka - 4 - 3.84 - 1.35
+José Kialmba - 1 - 0.96 - -0.04
+José Kilamba - 5 - 4.80 - 1.57
+José Kuvingua - 1 - 0.96 - -0.04
+José Luis Sáez - 1 - 0.96 - -0.04
+José Luís Martins - 1 - 0.96 - -0.04
+José Luís Mendonça - 10 - 9.60 - 2.26
+José Luís Peixoto - 3 - 2.88 - 1.06
+José Luís de Matos - 4 - 3.84 - 1.35
+José Macaia - 1 - 0.96 - -0.04
+José Mame - 4 - 3.84 - 1.35
+José Manuel - 4 - 3.84 - 1.35
+José Manuel Cerqueira - 5 - 4.80 - 1.57
+José Manuel Durão Barroso - 2 - 1.92 - 0.65
+José Manuel Imbamba - 2 - 1.92 - 0.65
+José Manuel Ventura - 2 - 1.92 - 0.65
+José Manuel do Ministério do Interior - 1 - 0.96 - -0.04
+José Marcos - 2 - 1.92 - 0.65
+José Marcos Barrica - 13 - 12.48 - 2.52
+José Marcos Mavungo - 40 - 38.41 - 3.65
+José Maria - 3 - 2.88 - 1.06
+José Maria Aznar - 2 - 1.92 - 0.65
+José Maria Botelho de Vasconcelos - 1 - 0.96 - -0.04
+José Maria Ferraz dos Santos - 5 - 4.80 - 1.57
+José Maria Neves - 19 - 18.25 - 2.90
+José Maria de Sousa - 3 - 2.88 - 1.06
+José Marques Mavungo - 1 - 0.96 - -0.04
+José Marti - 1 - 0.96 - -0.04
+José Martins - 1 - 0.96 - -0.04
+José Matias - 1 - 0.96 - -0.04
+José Mattoso - 1 - 0.96 - -0.04
+José Matuta Cuato - 4 - 3.84 - 1.35
+José Mavungo - 3 - 2.88 - 1.06
+José Mayone - 1 - 0.96 - -0.04
+José Mena Abrante - 1 - 0.96 - -0.04
+José Mena Abrantes - 6 - 5.76 - 1.75
+José Mota - 1 - 0.96 - -0.04
+José Mourinho - 1 - 0.96 - -0.04
+José Mário - 1 - 0.96 - -0.04
+José Mário Costa - 2 - 1.92 - 0.65
+José Mário Vaz - 3 - 2.88 - 1.06
+José Mário dos Santos - 1 - 0.96 - -0.04
+José Narciso - 1 - 0.96 - -0.04
+José Ndala - 2 - 1.92 - 0.65
+José Ngunza - 1 - 0.96 - -0.04
+José Octávio Serra Van-Dúnem - 1 - 0.96 - -0.04
+José Olívio Gonçalves Pereira - 1 - 0.96 - -0.04
+José Patrocínio - 4 - 3.84 - 1.35
+José Patrício - 1 - 0.96 - -0.04
+José Paulino Cunha da Silva - 1 - 0.96 - -0.04
+José Paulino da Cunha - 5 - 4.80 - 1.57
+José Paulo - 3 - 2.88 - 1.06
+José Paulo Pinto de Sousa - 1 - 0.96 - -0.04
+José Pedro - 3 - 2.88 - 1.06
+José Pedro Cachiungo - 1 - 0.96 - -0.04
+José Pedro de Morais - 28 - 26.89 - 3.29
+José Pedro de Morais Júnior - 17 - 16.33 - 2.79
+José Pedro de Moraisreconheceu - 2 - 1.92 - 0.65
+José Pereira - 1 - 0.96 - -0.04
+José Peseiro - 2 - 1.92 - 0.65
+José Ramirez Machado - 1 - 0.96 - -0.04
+José Ramos-Horta - 1 - 0.96 - -0.04
+José Redinha - 1 - 0.96 - -0.04
+José Reino da Costa - 1 - 0.96 - -0.04
+José Ribeiro - 3 - 2.88 - 1.06
+José Rodrigues - 2 - 1.92 - 0.65
+José Rufino - 2 - 1.92 - 0.65
+José Régio - 2 - 1.92 - 0.65
+José Sayovo - 2 - 1.92 - 0.65
+José Severino - 8 - 7.68 - 2.04
+José Silva - 2 - 1.92 - 0.65
+José Sozinho - 1 - 0.96 - -0.04
+José Sócrates - 36 - 34.57 - 3.54
+José Tavares - 7 - 6.72 - 1.91
+José Tavares Ferreira - 2 - 1.92 - 0.65
+José Tchikwamanga - 1 - 0.96 - -0.04
+José Teixeira - 1 - 0.96 - -0.04
+José Terça Chuma - 1 - 0.96 - -0.04
+José Tolentino Mendonça - 2 - 1.92 - 0.65
+José Tolentino Mendonça Dentro - 1 - 0.96 - -0.04
+José Ugaz - 3 - 2.88 - 1.06
+José Van - 1 - 0.96 - -0.04
+José Van-Dúnem - 10 - 9.60 - 2.26
+José Ventura - 2 - 1.92 - 0.65
+José Veyelenge - 1 - 0.96 - -0.04
+José Veyelengue - 1 - 0.96 - -0.04
+José Vieira Dias Van-Dúnem - 2 - 1.92 - 0.65
+José Vilema - 5 - 4.80 - 1.57
+José Vinals - 3 - 2.88 - 1.06
+José Vunguidica - 1 - 0.96 - -0.04
+José Yuri - 2 - 1.92 - 0.65
+José da Silva - 2 - 1.92 - 0.65
+José de Carvalho da Rocha - 4 - 3.84 - 1.35
+José de Lima Massano - 5 - 4.80 - 1.57
+José de Mello - 2 - 1.92 - 0.65
+José de Pedro Morais - 2 - 1.92 - 0.65
+José do Nascimento - 1 - 0.96 - -0.04
+José do Rosário - 2 - 1.92 - 0.65
+Jovelina Alfredo António Imperial - 1 - 0.96 - -0.04
+Jovelina Imperial - 5 - 4.80 - 1.57
+João - 7 - 6.72 - 1.91
+João Abreu - 2 - 1.92 - 0.65
+João Agostinho - 1 - 0.96 - -0.04
+João Aguiar - 1 - 0.96 - -0.04
+João Aleixo - 2 - 1.92 - 0.65
+João Augusto de Médicis - 1 - 0.96 - -0.04
+João Baptista Borges - 7 - 6.72 - 1.91
+João Baptista Kussumua - 3 - 2.88 - 1.06
+João Baptista Ntiyamba - 4 - 3.84 - 1.35
+João Bartolomeu - 2 - 1.92 - 0.65
+João Batalha - 4 - 3.84 - 1.35
+João Beirão - 1 - 0.96 - -0.04
+João Bernardo - 2 - 1.92 - 0.65
+João Biling - 3 - 2.88 - 1.06
+João Cabeleira - 1 - 0.96 - -0.04
+João Caculo - 1 - 0.96 - -0.04
+João Caetano da Silva - 5 - 4.80 - 1.57
+João Cafuquena - 2 - 1.92 - 0.65
+João Camargo - 2 - 1.92 - 0.65
+João Cardoso - 1 - 0.96 - -0.04
+João Carlos - 5 - 4.80 - 1.57
+João Castro - 7 - 6.72 - 1.91
+João Chamba - 1 - 0.96 - -0.04
+João Coge - 2 - 1.92 - 0.65
+João Cunha - 7 - 6.72 - 1.91
+João Dias - 5 - 4.80 - 1.57
+João Dias Miguel - 1 - 0.96 - -0.04
+João Dombaxi - 1 - 0.96 - -0.04
+João Domingos - 1 - 0.96 - -0.04
+João Domingos de Pina - 1 - 0.96 - -0.04
+João Ernesto - 1 - 0.96 - -0.04
+João Ernesto dos Santos - 6 - 5.76 - 1.75
+João Feres Júnior - 1 - 0.96 - -0.04
+João Fernandes - 1 - 0.96 - -0.04
+João Ferraz - 1 - 0.96 - -0.04
+João Ferreira Gonçalves - 1 - 0.96 - -0.04
+João Florêncio - 7 - 6.72 - 1.91
+João Francisco - 6 - 5.76 - 1.75
+João Inglês - 1 - 0.96 - -0.04
+João Kangompe - 1 - 0.96 - -0.04
+João Karik - 1 - 0.96 - -0.04
+João Katombela - 4 - 3.84 - 1.35
+João Kumussua - 1 - 0.96 - -0.04
+João Kyomba - 1 - 0.96 - -0.04
+João Lopes Filho - 1 - 0.96 - -0.04
+João Lourenço - 15 - 14.40 - 2.67
+João Lucas - 1 - 0.96 - -0.04
+João Machado - 4 - 3.84 - 1.35
+João Machado Paz Cunha - 2 - 1.92 - 0.65
+João Maiala - 1 - 0.96 - -0.04
+João Manuel Maiala - 6 - 5.76 - 1.75
+João Manuel Mateus - 11 - 10.56 - 2.36
+João Marcelino Tyipinge - 2 - 1.92 - 0.65
+João Maria Moreira de Sousa - 2 - 1.92 - 0.65
+João Maria Vianney - 1 - 0.96 - -0.04
+João Maria de Sousa - 16 - 15.37 - 2.73
+João Mavinga - 1 - 0.96 - -0.04
+João Melo - 24 - 23.05 - 3.14
+João Miguel Correia Soares - 1 - 0.96 - -0.04
+João Miguel Tavares - 2 - 1.92 - 0.65
+João Moreira Saraiva - 4 - 3.84 - 1.35
+João Mota - 2 - 1.92 - 0.65
+João Má - 1 - 0.96 - -0.04
+João Mário - 3 - 2.88 - 1.06
+João Nascimento - 2 - 1.92 - 0.65
+João Nascimento Fernandes - 1 - 0.96 - -0.04
+João Ngalangombe - 1 - 0.96 - -0.04
+João Ntiyamba - 6 - 5.76 - 1.75
+João Nunes - 1 - 0.96 - -0.04
+João Oliveira - 1 - 0.96 - -0.04
+João Papagaio - 2 - 1.92 - 0.65
+João Papelo - 1 - 0.96 - -0.04
+João Paulo - 11 - 10.56 - 2.36
+João Paulo Arsénio Ribeiro - 1 - 0.96 - -0.04
+João Paulo Batalha - 3 - 2.88 - 1.06
+João Paulo Borges Coelho - 1 - 0.96 - -0.04
+João Paulo Costa - 14 - 13.44 - 2.60
+João Paulo Cuenca - 2 - 1.92 - 0.65
+João Paulo Ganga - 4 - 3.84 - 1.35
+João Paulo II - 1 - 0.96 - -0.04
+João Pedro - 3 - 2.88 - 1.06
+João Perry - 1 - 0.96 - -0.04
+João Pintainho - 1 - 0.96 - -0.04
+João Pintar da Silva - 1 - 0.96 - -0.04
+João Pintinho - 1 - 0.96 - -0.04
+João Pinto - 22 - 21.13 - 3.05
+João Pintor - 4 - 3.84 - 1.35
+João Reis - 1 - 0.96 - -0.04
+João Ricardo - 2 - 1.92 - 0.65
+João Romão Coge - 1 - 0.96 - -0.04
+João Santana - 1 - 0.96 - -0.04
+João Sildes Bunga - 1 - 0.96 - -0.04
+João Silva - 1 - 0.96 - -0.04
+João Simões - 1 - 0.96 - -0.04
+João Soares - 3 - 2.88 - 1.06
+João Teta - 3 - 2.88 - 1.06
+João Triães - 1 - 0.96 - -0.04
+João Vaccari - 1 - 0.96 - -0.04
+João Van-Dúnem - 1 - 0.96 - -0.04
+João Vieira Lopes - 1 - 0.96 - -0.04
+João XXIII - 1 - 0.96 - -0.04
+João Yambo Miguel - 1 - 0.96 - -0.04
+João Zinga - 1 - 0.96 - -0.04
+João da Reconciliação André - 1 - 0.96 - -0.04
+João da Silva - 1 - 0.96 - -0.04
+João da Silva Dinis - 1 - 0.96 - -0.04
+João de Lemos Ferraz - 3 - 2.88 - 1.06
+João de Matos - 1 - 0.96 - -0.04
+João de Melo - 2 - 1.92 - 0.65
+Juliana António - 1 - 0.96 - -0.04
+Julião - 1 - 0.96 - -0.04
+Julião Mateus Paulo - 5 - 4.80 - 1.57
+Julião Mateus Paulo Dino Matross - 1 - 0.96 - -0.04
+Julião Pedro - 2 - 1.92 - 0.65
+JÉSSICA CONDENADA - 1 - 0.96 - -0.04
+Jéssica - 18 - 17.29 - 2.85
+Jéssica Alves Coelho - 2 - 1.92 - 0.65
+Jéssica Coelho - 19 - 18.25 - 2.90
+Júlio Bango Joaquim - 1 - 0.96 - -0.04
+Júlio César - 1 - 0.96 - -0.04
+Júlio Quental - 1 - 0.96 - -0.04
+Júlio Sousa - 11 - 10.56 - 2.36
+Júlio Sousa Silva - 1 - 0.96 - -0.04
+Karen Blixen - 1 - 0.96 - -0.04
+Karina Gomes - 1 - 0.96 - -0.04
+LEA - 2 - 1.92 - 0.65
+Lara - 17 - 16.33 - 2.79
+Laura - 1 - 0.96 - -0.04
+Laura Addati - 2 - 1.92 - 0.65
+Laura Cavalcante Padilha - 1 - 0.96 - -0.04
+Laura João - 2 - 1.92 - 0.65
+Laura Monteiro - 3 - 2.88 - 1.06
+Laura de Alcântara Monteiro - 1 - 0.96 - -0.04
+Laurinda - 2 - 1.92 - 0.65
+Laurinda Alberto - 2 - 1.92 - 0.65
+Laurinda Gouveia - 2 - 1.92 - 0.65
+Laurinda Paim - 2 - 1.92 - 0.65
+Laurinda Prazeres - 2 - 1.92 - 0.65
+Laurinda Txipuia - 2 - 1.92 - 0.65
+Leila Gharagozloo-Pakkala - 1 - 0.96 - -0.04
+Leila Lopes - 10 - 9.60 - 2.26
+Leonardo - 1 - 0.96 - -0.04
+Leonardo DiCaprio - 4 - 3.84 - 1.35
+Leonardo Inocêncio - 3 - 2.88 - 1.06
+Leonel Gomes - 7 - 6.72 - 1.91
+Leonel Paulino - 2 - 1.92 - 0.65
+Leonel Paulo - 3 - 2.88 - 1.06
+Leonel Silva - 2 - 1.92 - 0.65
+Leonor Fundanga - 2 - 1.92 - 0.65
+Leonor Mabiala - 1 - 0.96 - -0.04
+Leonor Riscado - 2 - 1.92 - 0.65
+Leonora Quitembo Ngunza - 2 - 1.92 - 0.65
+Liberdade - 18 - 17.29 - 2.85
+Liberdade Consciência - 1 - 0.96 - -0.04
+Liberdade Já - 3 - 2.88 - 1.06
+Liberdade Provisória - 2 - 1.92 - 0.65
+Liberdade de Expressão - 4 - 3.84 - 1.35
+Liberdade de Imprensa - 1 - 0.96 - -0.04
+Liberdade de Reunião - 1 - 0.96 - -0.04
+Libéria - 22 - 21.13 - 3.05
+Liliane Bettencourt - 1 - 0.96 - -0.04
+Lina Alexandre - 4 - 3.84 - 1.35
+Lina Antunes - 1 - 0.96 - -0.04
+Linda - 1 - 0.96 - -0.04
+Linda Thomas-Greenfield - 1 - 0.96 - -0.04
+Lino Vieira - 2 - 1.92 - 0.65
+Lisa Thompson Melhores Efeitos Visuais - 1 - 0.96 - -0.04
+Lisandra Francisco - 2 - 1.92 - 0.65
+Lito Braga - 1 - 0.96 - -0.04
+Lito Maio - 2 - 1.92 - 0.65
+Lito Silva - 2 - 1.92 - 0.65
+Liz Ahua - 1 - 0.96 - -0.04
+Lopo do Nascimento - 3 - 2.88 - 1.06
+Lorena - 2 - 1.92 - 0.65
+Lourenço Bule - 5 - 4.80 - 1.57
+Lourenço João - 1 - 0.96 - -0.04
+Lourenço João Miguel Mutepa - 1 - 0.96 - -0.04
+Lourenço Ko - 1 - 0.96 - -0.04
+Lourenço Kotele - 4 - 3.84 - 1.35
+Lourenço dos Santos Machae - 1 - 0.96 - -0.04
+Luca Berta - 2 - 1.92 - 0.65
+Lucas Benguy Ngonda - 2 - 1.92 - 0.65
+Lucas Ngonda - 12 - 11.52 - 2.44
+Lucínio Cruz - 1 - 0.96 - -0.04
+Ludmila Ferreira - 3 - 2.88 - 1.06
+Luena - 14 - 13.44 - 2.60
+Luena Rega - 1 - 0.96 - -0.04
+Lurdes Van-Dúnem - 1 - 0.96 - -0.04
+Lusa - 218 - 209.35 - 5.34
+Lusa Luaty Beirão - 1 - 0.96 - -0.04
+Lusa Miguel Quimbenze - 1 - 0.96 - -0.04
+Lusa Rafael Marques - 1 - 0.96 - -0.04
+Lusa Segundo - 1 - 0.96 - -0.04
+Lusa Sílvia Norte - 1 - 0.96 - -0.04
+Luz - 1 - 0.96 - -0.04
+Luz Saúde - 1 - 0.96 - -0.04
+Luz da Lei das Medidas Cautelares - 1 - 0.96 - -0.04
+Luz da Realidade - 2 - 1.92 - 0.65
+Luz do Mundo - 15 - 14.40 - 2.67
+Luz do Mundo de José Kalupeteka - 1 - 0.96 - -0.04
+Luzia - 1 - 0.96 - -0.04
+Luzia Domingos - 1 - 0.96 - -0.04
+Luzia Guimarães - 1 - 0.96 - -0.04
+Luzia Inglês - 13 - 12.48 - 2.52
+Luzia Inglês Van-Dúnem - 2 - 1.92 - 0.65
+Luís - 26 - 24.97 - 3.22
+Luís Abrantes - 11 - 10.56 - 2.36
+Luís Aires - 1 - 0.96 - -0.04
+Luís Amado - 3 - 2.88 - 1.06
+Luís Bernadino - 2 - 1.92 - 0.65
+Luís Bernardino - 29 - 27.85 - 3.33
+Luís Bernardino Factos - 2 - 1.92 - 0.65
+Luís Campos Ferreira - 9 - 8.64 - 2.16
+Luís Cardoso - 2 - 1.92 - 0.65
+Luís Cezerilo - 6 - 5.76 - 1.75
+Luís Chaves - 1 - 0.96 - -0.04
+Luís Correia - 1 - 0.96 - -0.04
+Luís Faria - 36 - 34.57 - 3.54
+Luís Fernando - 14 - 13.44 - 2.60
+Luís Fernando_ - 1 - 0.96 - -0.04
+Luís Fernando_Foto - 1 - 0.96 - -0.04
+Luís Filipe - 3 - 2.88 - 1.06
+Luís Filipe da Silva - 4 - 3.84 - 1.35
+Luís Fonseca - 3 - 2.88 - 1.06
+Luís Gaspar da Silva - 1 - 0.96 - -0.04
+Luís Gomes Sambo - 7 - 6.72 - 1.91
+Luís Gomes dos Santos - 1 - 0.96 - -0.04
+Luís Inácio Lula da Silva - 1 - 0.96 - -0.04
+Luís Kalunga - 1 - 0.96 - -0.04
+Luís Kalunga Henrique - 1 - 0.96 - -0.04
+Luís Kandjimbo - 2 - 1.92 - 0.65
+Luís Kitamba - 2 - 1.92 - 0.65
+Luís Kuvingua - 1 - 0.96 - -0.04
+Luís Lau - 1 - 0.96 - -0.04
+Luís Lopes - 1 - 0.96 - -0.04
+Luís Magalhães - 2 - 1.92 - 0.65
+Luís Mariano - 1 - 0.96 - -0.04
+Luís Marques Mendes - 2 - 1.92 - 0.65
+Luís Mezuze - 1 - 0.96 - -0.04
+Luís Miguel Curado Aires - 1 - 0.96 - -0.04
+Luís Miguel Oliveira - 1 - 0.96 - -0.04
+Luís Mourão - 4 - 3.84 - 1.35
+Luís Nascimento - 17 - 16.33 - 2.79
+Luís Neto Kiambata - 3 - 2.88 - 1.06
+Luís Parente - 2 - 1.92 - 0.65
+Luís Patraquim - 2 - 1.92 - 0.65
+Luís Paulo Costa - 1 - 0.96 - -0.04
+Luís Paulo Vissunjo - 1 - 0.96 - -0.04
+Luís Quintas - 1 - 0.96 - -0.04
+Luís Raul Dique Massimaculo - 4 - 3.84 - 1.35
+Luís Sambo - 4 - 3.84 - 1.35
+Luís Sambo Em - 1 - 0.96 - -0.04
+Luís Sepalanga Dalama - 1 - 0.96 - -0.04
+Luís Vemba - 1 - 0.96 - -0.04
+Luís Vera Pedro - 3 - 2.88 - 1.06
+Luís XIV - 4 - 3.84 - 1.35
+Luís de Nascimento - 1 - 0.96 - -0.04
+Luís de Sousa - 2 - 1.92 - 0.65
+Luísa - 2 - 1.92 - 0.65
+Luísa Baptista - 7 - 6.72 - 1.91
+Luísa Capombo - 1 - 0.96 - -0.04
+Luísa Ducla Soares - 1 - 0.96 - -0.04
+Luísa Fançonay - 1 - 0.96 - -0.04
+Luísa Fançony - 1 - 0.96 - -0.04
+Luísa Felino - 2 - 1.92 - 0.65
+Luísa Kiala - 1 - 0.96 - -0.04
+Luísa Morgantini - 1 - 0.96 - -0.04
+Luísa de Oliveira - 1 - 0.96 - -0.04
+Luísa dos Santos - 1 - 0.96 - -0.04
+Lázaro Sebastião - 1 - 0.96 - -0.04
+Líbia - 61 - 58.58 - 4.07
+Lídia Mathe - 2 - 1.92 - 0.65
+Lídia Uanga - 2 - 1.92 - 0.65
+Lúcia Barros - 1 - 0.96 - -0.04
+Lúcia Francisco - 2 - 1.92 - 0.65
+Lúcia Tomás - 2 - 1.92 - 0.65
+Lúcio - 8 - 7.68 - 2.04
+Lúcio Amaral - 2 - 1.92 - 0.65
+Lúcio Barreto de Lara - 1 - 0.96 - -0.04
+Lúcio Gouveia Barreto de Lara - 1 - 0.96 - -0.04
+Lúcio Lara - 108 - 103.71 - 4.64
+Lúcio Mauro - 1 - 0.96 - -0.04
+Lúcio Rodrigo Leite Barreto de Lara - 9 - 8.64 - 2.16
+Lúcio do Amaral - 1 - 0.96 - -0.04
+MIGUEL CATRAIO CONDENADO - 1 - 0.96 - -0.04
+Madalena José - 4 - 3.84 - 1.35
+Madalena Suzete Paulo Manuel Bumba - 2 - 1.92 - 0.65
+Manel Vilsente - 11 - 10.56 - 2.36
+Manuel - 14 - 13.44 - 2.60
+Manuel Albano - 10 - 9.60 - 2.26
+Manuel Alegre - 4 - 3.84 - 1.35
+Manuel Alves da Rocha - 1 - 0.96 - -0.04
+Manuel António - 4 - 3.84 - 1.35
+Manuel António Menezes Pataca - 1 - 0.96 - -0.04
+Manuel Aragão - 4 - 3.84 - 1.35
+Manuel Armando de Castro Sobrinho - 1 - 0.96 - -0.04
+Manuel Arnaldo Calado - 2 - 1.92 - 0.65
+Manuel Augusto - 3 - 2.88 - 1.06
+Manuel Bernardo - 2 - 1.92 - 0.65
+Manuel Biongo - 1 - 0.96 - -0.04
+Manuel Bissopo - 8 - 7.68 - 2.04
+Manuel Bravo - 5 - 4.80 - 1.57
+Manuel Cadete Gaspar - 1 - 0.96 - -0.04
+Manuel Caetano - 1 - 0.96 - -0.04
+Manuel Caldeira Cabral - 3 - 2.88 - 1.06
+Manuel Chivonde - 3 - 2.88 - 1.06
+Manuel Chivonde Baptista Nito Alves - 1 - 0.96 - -0.04
+Manuel Diangani - 2 - 1.92 - 0.65
+Manuel Dias dos Santos - 4 - 3.84 - 1.35
+Manuel Dionísio - 1 - 0.96 - -0.04
+Manuel Domingos Vicente - 5 - 4.80 - 1.57
+Manuel Esteves - 3 - 2.88 - 1.06
+Manuel Faustino - 7 - 6.72 - 1.91
+Manuel Fernandes - 4 - 3.84 - 1.35
+Manuel Fiel - 1 - 0.96 - -0.04
+Manuel Filipe - 1 - 0.96 - -0.04
+Manuel Florindo Rosa dos Ramos - 1 - 0.96 - -0.04
+Manuel Fontoura - 1 - 0.96 - -0.04
+Manuel Franklin da Costa - 1 - 0.96 - -0.04
+Manuel Gonçalves - 6 - 5.76 - 1.75
+Manuel Helder Kopelipa - 1 - 0.96 - -0.04
+Manuel Helder Vieira Dias - 1 - 0.96 - -0.04
+Manuel Helder Vieira Dias Kopelipa - 2 - 1.92 - 0.65
+Manuel Hilberto Ganga - 2 - 1.92 - 0.65
+Manuel Hilberto de Carvalho - 1 - 0.96 - -0.04
+Manuel Homem - 2 - 1.92 - 0.65
+Manuel Hélder Vieira Dias Júnior - 2 - 1.92 - 0.65
+Manuel Inocêncio de Sousa - 1 - 0.96 - -0.04
+Manuel José - 3 - 2.88 - 1.06
+Manuel Júnior - 1 - 0.96 - -0.04
+Manuel Lima Bravo - 8 - 7.68 - 2.04
+Manuel Lisboa Terramoto - 1 - 0.96 - -0.04
+Manuel Lopes - 1 - 0.96 - -0.04
+Manuel Luzito André - 1 - 0.96 - -0.04
+Manuel Marinho - 3 - 2.88 - 1.06
+Manuel Mateus Caterça - 1 - 0.96 - -0.04
+Manuel Muanza - 1 - 0.96 - -0.04
+Manuel Narciso - 1 - 0.96 - -0.04
+Manuel Nito Alves - 3 - 2.88 - 1.06
+Manuel Pinheiro - 5 - 4.80 - 1.57
+Manuel Pinto da Costa - 3 - 2.88 - 1.06
+Manuel Quarta Punza - 1 - 0.96 - -0.04
+Manuel Quezón - 1 - 0.96 - -0.04
+Manuel Quissunzi - 1 - 0.96 - -0.04
+Manuel Raimundo - 2 - 1.92 - 0.65
+Manuel Rodrigues - 2 - 1.92 - 0.65
+Manuel Rui - 2 - 1.92 - 0.65
+Manuel Rui Monteiro - 1 - 0.96 - -0.04
+Manuel Samuel Tiago - 1 - 0.96 - -0.04
+Manuel San Payo - 1 - 0.96 - -0.04
+Manuel Savihemba - 1 - 0.96 - -0.04
+Manuel Sebastião - 1 - 0.96 - -0.04
+Manuel Sousa - 2 - 1.92 - 0.65
+Manuel Terramoto - 1 - 0.96 - -0.04
+Manuel Tuta - 1 - 0.96 - -0.04
+Manuel Valls - 2 - 1.92 - 0.65
+Manuel Viage - 5 - 4.80 - 1.57
+Manuel Vicente - 96 - 92.19 - 4.52
+Manuel Vilsente - 1 - 0.96 - -0.04
+Manuel Zangala - 3 - 2.88 - 1.06
+Manuel Zau - 1 - 0.96 - -0.04
+Manuel da Conceição - 1 - 0.96 - -0.04
+Manuel da Costa - 1 - 0.96 - -0.04
+Manuel da Costa Aragão - 3 - 2.88 - 1.06
+Manuel das Neves - 8 - 7.68 - 2.04
+Manuel de Arriaga - 1 - 0.96 - -0.04
+Manuel de Carvalho - 1 - 0.96 - -0.04
+Manuel de Lemos - 1 - 0.96 - -0.04
+Manuel de Sousa - 1 - 0.96 - -0.04
+Manuel do Nascimento Rosa da Silva - 1 - 0.96 - -0.04
+Manuel do Nascimento da Rosa da Silva - 1 - 0.96 - -0.04
+Manuela Gomes - 4 - 3.84 - 1.35
+Manuela Mateus - 1 - 0.96 - -0.04
+Manuela Moura Guedes - 2 - 1.92 - 0.65
+Manuela Oliveira - 3 - 2.88 - 1.06
+Mara Baptista Quiosa - 2 - 1.92 - 0.65
+Mara Oliveira - 3 - 2.88 - 1.06
+Mara Regina da Silva Baptista Quiosa - 3 - 2.88 - 1.06
+Marcelo - 12 - 11.52 - 2.44
+Marcelo Bahia Odebrecht - 6 - 5.76 - 1.75
+Marcelo Caetano - 1 - 0.96 - -0.04
+Marcelo Manuel - 2 - 1.92 - 0.65
+Marcelo Nuno Duarte Rebelo de Sousa - 1 - 0.96 - -0.04
+Marcelo Odebrecht - 16 - 15.37 - 2.73
+Marcelo Rebelo de Sousa - 41 - 39.37 - 3.67
+Marcelo Rodas - 1 - 0.96 - -0.04
+Marcelo de Rebelo de Sousa - 1 - 0.96 - -0.04
+Marco - 2 - 1.92 - 0.65
+Marco Aurélio de Mello - 1 - 0.96 - -0.04
+Marco Histórico - 5 - 4.80 - 1.57
+Marco Mavungo - 1 - 0.96 - -0.04
+Marco Pinho - 1 - 0.96 - -0.04
+Marco Rubio - 6 - 5.76 - 1.75
+Marco Springmann - 3 - 2.88 - 1.06
+Marco Zero - 1 - 0.96 - -0.04
+Marcos - 3 - 2.88 - 1.06
+Marcos Barrica - 14 - 13.44 - 2.60
+Marcos Isaías - 2 - 1.92 - 0.65
+Marcos Mavungo - 49 - 47.06 - 3.85
+Marcos Mavungos - 1 - 0.96 - -0.04
+Marcos Santos - 1 - 0.96 - -0.04
+Marcos Vicente - 1 - 0.96 - -0.04
+Marcos Vinício - 1 - 0.96 - -0.04
+Margarida - 2 - 1.92 - 0.65
+Margarida António - 1 - 0.96 - -0.04
+Margarida Diniz - 1 - 0.96 - -0.04
+Margarida Fonseca Santos - 1 - 0.96 - -0.04
+Margarida Fontes - 1 - 0.96 - -0.04
+Margarida Gil dos Reis - 1 - 0.96 - -0.04
+Margarida Issaco Barros - 1 - 0.96 - -0.04
+Margarida Lima - 2 - 1.92 - 0.65
+Maria - 16 - 15.37 - 2.73
+Maria Alice - 1 - 0.96 - -0.04
+Maria Antónia Nelumba - 2 - 1.92 - 0.65
+Maria Barroso - 5 - 4.80 - 1.57
+Maria Benvinda Levi - 1 - 0.96 - -0.04
+Maria Bethânia - 2 - 1.92 - 0.65
+Maria Borges - 6 - 5.76 - 1.75
+Maria Cavaco Silva - 1 - 0.96 - -0.04
+Maria Celestina Fernandes - 2 - 1.92 - 0.65
+Maria Cândida Teixeira - 3 - 2.88 - 1.06
+Maria Dinah - 1 - 0.96 - -0.04
+Maria Eugénia Neto - 1 - 0.96 - -0.04
+Maria Garrido - 1 - 0.96 - -0.04
+Maria Gregório - 1 - 0.96 - -0.04
+Maria Gustavo - 2 - 1.92 - 0.65
+Maria Helena - 4 - 3.84 - 1.35
+Maria Helena Semedo - 1 - 0.96 - -0.04
+Maria Helena-A - 1 - 0.96 - -0.04
+Maria José - 3 - 2.88 - 1.06
+Maria José Morgado - 1 - 0.96 - -0.04
+Maria José Pita - 2 - 1.92 - 0.65
+Maria João Chipalavela - 1 - 0.96 - -0.04
+Maria João Folé - 1 - 0.96 - -0.04
+Maria João Lopo de Carvalho - 1 - 0.96 - -0.04
+Maria João Tchipalavela - 2 - 1.92 - 0.65
+Maria Ka Ndimba - 1 - 0.96 - -0.04
+Maria Laura Canineu - 1 - 0.96 - -0.04
+Maria Lenda - 2 - 1.92 - 0.65
+Maria Luísa Fançony - 5 - 4.80 - 1.57
+Maria Luísa Perdigão Abrantes - 1 - 0.96 - -0.04
+Maria Lúcia da Silveira - 1 - 0.96 - -0.04
+Maria Mambo Café - 1 - 0.96 - -0.04
+Maria Massango - 1 - 0.96 - -0.04
+Maria Monteiro - 4 - 3.84 - 1.35
+Maria Neira - 2 - 1.92 - 0.65
+Maria Pascoal da Silva - 2 - 1.92 - 0.65
+Maria Perpétua da Cruz Cabral - 1 - 0.96 - -0.04
+Maria Priscila Veiga Oliveira - 2 - 1.92 - 0.65
+Maria Priscilla Ernandes - 1 - 0.96 - -0.04
+Maria Salvador - 1 - 0.96 - -0.04
+Maria Sharapova - 6 - 5.76 - 1.75
+Maria Tavares - 2 - 1.92 - 0.65
+Maria Teresa - 2 - 1.92 - 0.65
+Maria Teresa Vasconcelos - 1 - 0.96 - -0.04
+Maria da Conceição - 2 - 1.92 - 0.65
+Maria da Conceição Neto - 1 - 0.96 - -0.04
+Maria da Encarnação Pimenta - 1 - 0.96 - -0.04
+Maria da Luz Magalhães - 1 - 0.96 - -0.04
+Maria da Piedade - 1 - 0.96 - -0.04
+Maria das Neves - 1 - 0.96 - -0.04
+Maria de Belém - 2 - 1.92 - 0.65
+Maria de Fátima Viegas - 1 - 0.96 - -0.04
+Maria de Fátima de Morais - 1 - 0.96 - -0.04
+Maria de Jesus Barroso - 1 - 0.96 - -0.04
+Maria de Jesus Barroso Soares - 1 - 0.96 - -0.04
+Maria de Jesus Simões Barroso Soares - 1 - 0.96 - -0.04
+Maria de Jesus dos Reis Ferreira - 1 - 0.96 - -0.04
+Maria de Lourdes Pereira de Lima Mouzinho - 1 - 0.96 - -0.04
+Maria de Nazaré - 1 - 0.96 - -0.04
+Maria do Carmo Medina - 1 - 0.96 - -0.04
+Maria do Carmo Rodrigues - 1 - 0.96 - -0.04
+Maria do Ceu Teresa Albano - 1 - 0.96 - -0.04
+Maria do Céu - 1 - 0.96 - -0.04
+Maria do Rosário Sambo - 2 - 1.92 - 0.65
+Mariana Ana Paz - 1 - 0.96 - -0.04
+Mariana André - 1 - 0.96 - -0.04
+Mariana Mortágua - 1 - 0.96 - -0.04
+Mariana Pacheco - 1 - 0.96 - -0.04
+Mariano Aguirre - 1 - 0.96 - -0.04
+Mariano Congo - 1 - 0.96 - -0.04
+Mariano Júlio - 1 - 0.96 - -0.04
+Marisa Guião de Mendonça - 1 - 0.96 - -0.04
+Marisa Letícia - 3 - 2.88 - 1.06
+Marisa Matias - 2 - 1.92 - 0.65
+Marisa Mendonça - 2 - 1.92 - 0.65
+Marisa Morais - 2 - 1.92 - 0.65
+Marlene - 1 - 0.96 - -0.04
+Marlene Sipitali - 5 - 4.80 - 1.57
+Marta dos Santos - 2 - 1.92 - 0.65
+Martinho Cavita - 1 - 0.96 - -0.04
+Martinho Gregório - 1 - 0.96 - -0.04
+Marília Victória - 1 - 0.96 - -0.04
+Mateus Alberto Contreiras Gonçalves - 1 - 0.96 - -0.04
+Mateus António da Costa - 2 - 1.92 - 0.65
+Mateus Campos - 2 - 1.92 - 0.65
+Mateus Francisco João dos Santos Júnior - 1 - 0.96 - -0.04
+Mateus Galiano - 4 - 3.84 - 1.35
+Mateus Gonçalves - 1 - 0.96 - -0.04
+Mateus Miguel Ângelo - 1 - 0.96 - -0.04
+Mateus Ndulipoupio - 4 - 3.84 - 1.35
+Mateus Neto - 1 - 0.96 - -0.04
+Mateus Rodrigues - 1 - 0.96 - -0.04
+Mateus Solano - 2 - 1.92 - 0.65
+Mateus da Costa - 2 - 1.92 - 0.65
+Matias - 1 - 0.96 - -0.04
+Matias Damásio - 12 - 11.52 - 2.44
+Matias Migueis - 1 - 0.96 - -0.04
+Matias Miguéis - 1 - 0.96 - -0.04
+Matias da Costa - 1 - 0.96 - -0.04
+Matilde Catembo - 1 - 0.96 - -0.04
+Mauro - 2 - 1.92 - 0.65
+Mauro Filipe Gomes Gonçalves - 1 - 0.96 - -0.04
+Mauro Gonçalves - 1 - 0.96 - -0.04
+Mauro Miala - 1 - 0.96 - -0.04
+Mauro Ribeiro Lopes - 1 - 0.96 - -0.04
+Mauro Vieira - 1 - 0.96 - -0.04
+Maurício Pacheco - 1 - 0.96 - -0.04
+Mercedes - 6 - 5.76 - 1.75
+Micaela Felizardo - 3 - 2.88 - 1.06
+Miguel - 8 - 7.68 - 2.04
+Miguel Adão Banga - 1 - 0.96 - -0.04
+Miguel Bondo Júnior - 1 - 0.96 - -0.04
+Miguel Cabrita - 1 - 0.96 - -0.04
+Miguel Carneiro - 2 - 1.92 - 0.65
+Miguel Catraio - 8 - 7.68 - 2.04
+Miguel Correia - 1 - 0.96 - -0.04
+Miguel Domingos - 1 - 0.96 - -0.04
+Miguel Hurst - 2 - 1.92 - 0.65
+Miguel Jorge - 1 - 0.96 - -0.04
+Miguel João - 4 - 3.84 - 1.35
+Miguel Kabango - 1 - 0.96 - -0.04
+Miguel Lutonda - 5 - 4.80 - 1.57
+Miguel Macedo - 1 - 0.96 - -0.04
+Miguel Manuel - 2 - 1.92 - 0.65
+Miguel Morais - 2 - 1.92 - 0.65
+Miguel Mota - 1 - 0.96 - -0.04
+Miguel Nzau Puna - 1 - 0.96 - -0.04
+Miguel Oliveira - 6 - 5.76 - 1.75
+Miguel Paiva Vicente - 1 - 0.96 - -0.04
+Miguel Petchkovsky - 2 - 1.92 - 0.65
+Miguel Pinto - 2 - 1.92 - 0.65
+Miguel Quimbenze - 1 - 0.96 - -0.04
+Miguel Raposo - 9 - 8.64 - 2.16
+Miguel Real - 2 - 1.92 - 0.65
+Miguel Relvas - 1 - 0.96 - -0.04
+Miguel Somakessenje - 1 - 0.96 - -0.04
+Miguel Trovoada - 1 - 0.96 - -0.04
+Miguel Ventura Catraio - 2 - 1.92 - 0.65
+Miguel Vieira - 1 - 0.96 - -0.04
+Miguel de Oliveira - 10 - 9.60 - 2.26
+Miru - 4 - 3.84 - 1.35
+Moisés - 1 - 0.96 - -0.04
+Moisés Adão - 1 - 0.96 - -0.04
+Moisés Chade - 4 - 3.84 - 1.35
+Moisés Cuveleca Chade - 1 - 0.96 - -0.04
+Moisés Kafala - 1 - 0.96 - -0.04
+Moisés Serpa - 1 - 0.96 - -0.04
+Márcia Rangel Cândido - 1 - 0.96 - -0.04
+Márcia Souto - 1 - 0.96 - -0.04
+Márcio - 4 - 3.84 - 1.35
+Márcio Chilapunga - 1 - 0.96 - -0.04
+Márcio Faria - 6 - 5.76 - 1.75
+Márcio Faria da Silva - 2 - 1.92 - 0.65
+Márcio Fernandes - 1 - 0.96 - -0.04
+Mário - 6 - 5.76 - 1.75
+Mário Afonso - 1 - 0.96 - -0.04
+Mário António - 4 - 3.84 - 1.35
+Mário Bealburdia - 1 - 0.96 - -0.04
+Mário Carlos - 1 - 0.96 - -0.04
+Mário Clemente - 1 - 0.96 - -0.04
+Mário Cohe - 3 - 2.88 - 1.06
+Mário Cruz - 1 - 0.96 - -0.04
+Mário Durão - 1 - 0.96 - -0.04
+Mário Fontes - 7 - 6.72 - 1.91
+Mário Francisco - 2 - 1.92 - 0.65
+Mário Motta - 1 - 0.96 - -0.04
+Mário Octávio - 1 - 0.96 - -0.04
+Mário Patrocínio - 1 - 0.96 - -0.04
+Mário Paulo Calei - 2 - 1.92 - 0.65
+Mário Pinto de Andrade - 3 - 2.88 - 1.06
+Mário Silva - 12 - 11.52 - 2.44
+Mário Silva-Foto de Domingos Bento - 1 - 0.96 - -0.04
+Mário Silva-foto de Daniel Miguel - 11 - 10.56 - 2.36
+Mário Silva_ - 1 - 0.96 - -0.04
+Mário Soares - 6 - 5.76 - 1.75
+Mário Tendinha - 2 - 1.92 - 0.65
+Mário Tomás dos Santos - 1 - 0.96 - -0.04
+Mário de Andrade - 2 - 1.92 - 0.65
+Mário de Carvalho - 1 - 0.96 - -0.04
+Mónica - 1 - 0.96 - -0.04
+Mónica Almeida - 1 - 0.96 - -0.04
+Mónica Cid - 1 - 0.96 - -0.04
+Napoleão - 3 - 2.88 - 1.06
+Natacha Magalhães - 1 - 0.96 - -0.04
+Natália Bernarda - 1 - 0.96 - -0.04
+Natália Bernardo - 1 - 0.96 - -0.04
+Natália Gherman - 1 - 0.96 - -0.04
+Nazaré Ceita - 2 - 1.92 - 0.65
+Nelson - 1 - 0.96 - -0.04
+Nelson Barbosa - 2 - 1.92 - 0.65
+Nelson Dibango - 3 - 2.88 - 1.06
+Nelson Mandela - 9 - 8.64 - 2.16
+Nelson Mangueira - 1 - 0.96 - -0.04
+Nelson Mundile - 1 - 0.96 - -0.04
+Nelson Pestana - 4 - 3.84 - 1.35
+Nelson Pestana Bonavena - 1 - 0.96 - -0.04
+Nelson Prata - 1 - 0.96 - -0.04
+Nelson Sul - 1 - 0.96 - -0.04
+Nelson da Luz - 1 - 0.96 - -0.04
+Nelson dos Anjos - 2 - 1.92 - 0.65
+Nestor Cerveró - 4 - 3.84 - 1.35
+Neusa Filipe - 2 - 1.92 - 0.65
+Neusa Filipe-foto de Carlos Augusto - 1 - 0.96 - -0.04
+Neusa Filipe-foto de Jacinto Figueiredo - 1 - 0.96 - -0.04
+Neusa Filipe-foto de Santana Joaquim - 3 - 2.88 - 1.06
+Neusa Sampaio - 1 - 0.96 - -0.04
+Nicolas Micler - 1 - 0.96 - -0.04
+Nicolas Sarkozy - 1 - 0.96 - -0.04
+Nicolau Breyner - 2 - 1.92 - 0.65
+Nicolau Santos - 2 - 1.92 - 0.65
+Nicolau Vasco - 1 - 0.96 - -0.04
+Nilza Massango - 1 - 0.96 - -0.04
+Nivaldo Mbunga - 1 - 0.96 - -0.04
+Noel Kututwa - 2 - 1.92 - 0.65
+Noel Sharkey - 1 - 0.96 - -0.04
+Norberto Alves - 3 - 2.88 - 1.06
+Norberto Garcia - 7 - 6.72 - 1.91
+Norberto Sateco - 5 - 4.80 - 1.57
+Norberto Sodré João - 2 - 1.92 - 0.65
+Norberto de Castro - 1 - 0.96 - -0.04
+Norberto do Santos - 1 - 0.96 - -0.04
+Norberto dos Santos - 1 - 0.96 - -0.04
+Noé Miguel - 1 - 0.96 - -0.04
+Noémia de Sousa - 1 - 0.96 - -0.04
+Nuno - 1 - 0.96 - -0.04
+Nuno Alpendre - 3 - 2.88 - 1.06
+Nuno Bernabé Mahapi Nadala - 1 - 0.96 - -0.04
+Nuno Dala - 12 - 11.52 - 2.44
+Nuno Dario - 2 - 1.92 - 0.65
+Nuno Gama - 2 - 1.92 - 0.65
+Nuno Guimarães - 4 - 3.84 - 1.35
+Nuno Jazz - 1 - 0.96 - -0.04
+Nuno Júdice - 6 - 5.76 - 1.75
+Nuno Kakumba Francisco - 1 - 0.96 - -0.04
+Nuno Lopes - 1 - 0.96 - -0.04
+Nuno Rebocho - 1 - 0.96 - -0.04
+Nuno Resende - 4 - 3.84 - 1.35
+Nuno Ricardo - 1 - 0.96 - -0.04
+Nuno Álvaro Dala - 8 - 7.68 - 2.04
+Nélson Dibango - 2 - 1.92 - 0.65
+Nélson Dibango Mendes dos Santos - 4 - 3.84 - 1.35
+Nélson Pestana - 1 - 0.96 - -0.04
+Octávio Capita - 1 - 0.96 - -0.04
+Octávio Espírito Santo - 1 - 0.96 - -0.04
+Odete Semedo - 3 - 2.88 - 1.06
+Olga Fonda - 1 - 0.96 - -0.04
+Olga Mendes - 3 - 2.88 - 1.06
+Olga Noronha - 1 - 0.96 - -0.04
+Olga Roriz - 1 - 0.96 - -0.04
+Oliveira António - 1 - 0.96 - -0.04
+Oliveira Gonçalves - 1 - 0.96 - -0.04
+Oliveira Salazar - 1 - 0.96 - -0.04
+Oliveira Soares - 1 - 0.96 - -0.04
+Olívio - 4 - 3.84 - 1.35
+Olívio Gambo - 3 - 2.88 - 1.06
+Olívio dos Santos - 7 - 6.72 - 1.91
+Omar - 4 - 3.84 - 1.35
+Omar Al-Bashir - 1 - 0.96 - -0.04
+Omar Bongo - 1 - 0.96 - -0.04
+Omar Sharif - 1 - 0.96 - -0.04
+Ondina Ferreira - 1 - 0.96 - -0.04
+Osvaldo - 1 - 0.96 - -0.04
+Osvaldo Caholo - 9 - 8.64 - 2.16
+Osvaldo Gonçalves - 1 - 0.96 - -0.04
+Osvaldo Malanga - 2 - 1.92 - 0.65
+Osvaldo Mauro - 1 - 0.96 - -0.04
+Osvaldo Naval dos Santos - 1 - 0.96 - -0.04
+Osvaldo Serra-Van-Dúnem - 1 - 0.96 - -0.04
+Osvaldo Van-Dunem - 2 - 1.92 - 0.65
+Osvaldo Varela - 1 - 0.96 - -0.04
+Palmira Barbosa - 1 - 0.96 - -0.04
+Pascoal António Joaquim - 1 - 0.96 - -0.04
+Pascoal Fortunato Paulo - 2 - 1.92 - 0.65
+Pascoal Luvualo - 1 - 0.96 - -0.04
+Pascoal Luvualu - 1 - 0.96 - -0.04
+Pascoal Miranda - 12 - 11.52 - 2.44
+Patrícia - 1 - 0.96 - -0.04
+Patrícia Agostinho - 1 - 0.96 - -0.04
+Patrícia Cardoso - 5 - 4.80 - 1.57
+Patrícia Costa - 4 - 3.84 - 1.35
+Patrício Cambuandi - 1 - 0.96 - -0.04
+Paula - 2 - 1.92 - 0.65
+Paula Cunha - 1 - 0.96 - -0.04
+Paula Ribeiro - 1 - 0.96 - -0.04
+Paula Simons - 2 - 1.92 - 0.65
+Paula Teixeira da Cruz - 4 - 3.84 - 1.35
+Paula Teixeira de Cruz - 1 - 0.96 - -0.04
+Paulina Chiziane - 3 - 2.88 - 1.06
+Paulina Semedo - 7 - 6.72 - 1.91
+Paulino Baptista - 1 - 0.96 - -0.04
+Paulino Bueco - 1 - 0.96 - -0.04
+Paulino Damião - 3 - 2.88 - 1.06
+Paulino Domingos Baptista - 7 - 6.72 - 1.91
+Paulino Domingos Baptista Com - 1 - 0.96 - -0.04
+Paulino Fernandes Madeca - 1 - 0.96 - -0.04
+Paulino Madeca - 1 - 0.96 - -0.04
+Paulino Pinto João - 2 - 1.92 - 0.65
+Paulino da Cunha - 1 - 0.96 - -0.04
+Paulo - 7 - 6.72 - 1.91
+Paulo Albuquerque - 2 - 1.92 - 0.65
+Paulo Alves - 1 - 0.96 - -0.04
+Paulo António - 1 - 0.96 - -0.04
+Paulo Azevedo - 1 - 0.96 - -0.04
+Paulo Blanco - 8 - 7.68 - 2.04
+Paulo Branco - 1 - 0.96 - -0.04
+Paulo Cassinda - 4 - 3.84 - 1.35
+Paulo Catondi - 1 - 0.96 - -0.04
+Paulo Corsino - 1 - 0.96 - -0.04
+Paulo Dias - 1 - 0.96 - -0.04
+Paulo Dias de Novais - 2 - 1.92 - 0.65
+Paulo Flores - 1 - 0.96 - -0.04
+Paulo Gonzo - 1 - 0.96 - -0.04
+Paulo Jacinto - 2 - 1.92 - 0.65
+Paulo Julião - 2 - 1.92 - 0.65
+Paulo Kabanga - 1 - 0.96 - -0.04
+Paulo Kussy - 2 - 1.92 - 0.65
+Paulo Lara - 2 - 1.92 - 0.65
+Paulo Lukamba Gato - 4 - 3.84 - 1.35
+Paulo Macedo - 8 - 7.68 - 2.04
+Paulo Madeira - 1 - 0.96 - -0.04
+Paulo Matoso - 1 - 0.96 - -0.04
+Paulo Morais - 3 - 2.88 - 1.06
+Paulo Okamato - 1 - 0.96 - -0.04
+Paulo Panda - 2 - 1.92 - 0.65
+Paulo Pascoal - 3 - 2.88 - 1.06
+Paulo Pinto - 1 - 0.96 - -0.04
+Paulo Pombolo - 2 - 1.92 - 0.65
+Paulo Portas - 29 - 27.85 - 3.33
+Paulo Portas do Centro Democrático Social - 1 - 0.96 - -0.04
+Paulo Ribeiro - 1 - 0.96 - -0.04
+Paulo Roberto Campos - 1 - 0.96 - -0.04
+Paulo Roberto Costa - 4 - 3.84 - 1.35
+Paulo Sergio - 4 - 3.84 - 1.35
+Paulo Sergio-foto de Jacinto Figueiredo - 5 - 4.80 - 1.57
+Paulo Silva Xavier - 2 - 1.92 - 0.65
+Paulo Sousa - 1 - 0.96 - -0.04
+Paulo Sérgio - 5 - 4.80 - 1.57
+Paulo Sérgio Enviados - 1 - 0.96 - -0.04
+Paulo Sérgio_ - 1 - 0.96 - -0.04
+Paulo Taukondjele - 2 - 1.92 - 0.65
+Paulo Tjipilika - 1 - 0.96 - -0.04
+Paulo VI - 1 - 0.96 - -0.04
+Paulo Varela - 5 - 4.80 - 1.57
+Paulo Vemba - 2 - 1.92 - 0.65
+Paulo Vieira Dias - 1 - 0.96 - -0.04
+Paulo de Almeida - 2 - 1.92 - 0.65
+Paulo de Carvalho - 10 - 9.60 - 2.26
+Paulo de Morais - 6 - 5.76 - 1.75
+Pedro - 3 - 2.88 - 1.06
+Pedro Abrunhosa - 1 - 0.96 - -0.04
+Pedro Agostinho - 1 - 0.96 - -0.04
+Pedro Agostinho Salucamba - 1 - 0.96 - -0.04
+Pedro Alves - 2 - 1.92 - 0.65
+Pedro Azevedo - 1 - 0.96 - -0.04
+Pedro Bansimba - 1 - 0.96 - -0.04
+Pedro Barusco - 2 - 1.92 - 0.65
+Pedro Cabeia - 2 - 1.92 - 0.65
+Pedro Cabenha - 2 - 1.92 - 0.65
+Pedro Camelo - 1 - 0.96 - -0.04
+Pedro Canga - 2 - 1.92 - 0.65
+Pedro Cristina - 2 - 1.92 - 0.65
+Pedro Delgado Alves - 2 - 1.92 - 0.65
+Pedro Emous - 1 - 0.96 - -0.04
+Pedro Filipe - 3 - 2.88 - 1.06
+Pedro Garcia - 2 - 1.92 - 0.65
+Pedro Godinho - 8 - 7.68 - 2.04
+Pedro Gomes - 1 - 0.96 - -0.04
+Pedro Hauwanga - 1 - 0.96 - -0.04
+Pedro Hospital - 2 - 1.92 - 0.65
+Pedro Hossi - 3 - 2.88 - 1.06
+Pedro Jesus - 5 - 4.80 - 1.57
+Pedro João - 1 - 0.96 - -0.04
+Pedro João António - 3 - 2.88 - 1.06
+Pedro Lopes - 1 - 0.96 - -0.04
+Pedro Loy - 1 - 0.96 - -0.04
+Pedro Manuel - 1 - 0.96 - -0.04
+Pedro Manuel Mambo Torres - 1 - 0.96 - -0.04
+Pedro Maria Tonha - 1 - 0.96 - -0.04
+Pedro Moura - 1 - 0.96 - -0.04
+Pedro Muntidi - 1 - 0.96 - -0.04
+Pedro Mutinde - 1 - 0.96 - -0.04
+Pedro Mutindi - 6 - 5.76 - 1.75
+Pedro Nambongue Chissanga - 1 - 0.96 - -0.04
+Pedro Neto - 10 - 9.60 - 2.26
+Pedro Neto da Glakeni - 1 - 0.96 - -0.04
+Pedro Nicodemos - 9 - 8.64 - 2.16
+Pedro Nsingui - 1 - 0.96 - -0.04
+Pedro Nuno Santos - 2 - 1.92 - 0.65
+Pedro Passos Coelho - 1 - 0.96 - -0.04
+Pedro Paxi Pereira Ndoma - 2 - 1.92 - 0.65
+Pedro Paxi da TV Zimbo - 1 - 0.96 - -0.04
+Pedro Pires - 12 - 11.52 - 2.44
+Pedro Sango - 1 - 0.96 - -0.04
+Pedro Solha - 3 - 2.88 - 1.06
+Pedro Teca - 1 - 0.96 - -0.04
+Pedro Toco - 2 - 1.92 - 0.65
+Pedro Vaz Pinto - 3 - 2.88 - 1.06
+Pedro Vidal - 1 - 0.96 - -0.04
+Pedro Watanga - 1 - 0.96 - -0.04
+Pedro da Ressurreição - 1 - 0.96 - -0.04
+Pedro de Morais Neto - 1 - 0.96 - -0.04
+Pedro de Van-Dúnem - 1 - 0.96 - -0.04
+Penélope - 1 - 0.96 - -0.04
+Piedade Dias dos Santos - 2 - 1.92 - 0.65
+Piedade Pombal - 1 - 0.96 - -0.04
+Plínio - 4 - 3.84 - 1.35
+Quim Ribeiro - 1 - 0.96 - -0.04
+Quintino - 1 - 0.96 - -0.04
+Quintino Kandanji - 1 - 0.96 - -0.04
+Quintino Moreira - 2 - 1.92 - 0.65
+Quintino de Moreira - 5 - 4.80 - 1.57
+ROSA - 1 - 0.96 - -0.04
+Rafael - 2 - 1.92 - 0.65
+Rafael Aguiar - 1 - 0.96 - -0.04
+Rafael Carriço - 1 - 0.96 - -0.04
+Rafael Epesse - 1 - 0.96 - -0.04
+Rafael Marques - 65 - 62.42 - 4.13
+Rafael Marques de Morais - 4 - 3.84 - 1.35
+Rafael Massanga Savimbi - 1 - 0.96 - -0.04
+Rafael Mingas Vumbi - 1 - 0.96 - -0.04
+Rafael Moraes - 2 - 1.92 - 0.65
+Rafael Vicente - 1 - 0.96 - -0.04
+Raquel Gomes - 1 - 0.96 - -0.04
+Raul Aguiar dos Santos - 1 - 0.96 - -0.04
+Raul André - 2 - 1.92 - 0.65
+Raul Araújo - 2 - 1.92 - 0.65
+Raul Castro - 2 - 1.92 - 0.65
+Raul Chipenda - 2 - 1.92 - 0.65
+Raul Danda - 2 - 1.92 - 0.65
+Raul David - 2 - 1.92 - 0.65
+Raul Tati - 3 - 2.88 - 1.06
+Regina Txipoia - 1 - 0.96 - -0.04
+Reginaldo Silva - 5 - 4.80 - 1.57
+Renan Calheiros - 1 - 0.96 - -0.04
+Renato Duque - 2 - 1.92 - 0.65
+Renato Moniz - 3 - 2.88 - 1.06
+Ricardo - 1 - 0.96 - -0.04
+Ricardo Almeida - 6 - 5.76 - 1.75
+Ricardo Andrez - 2 - 1.92 - 0.65
+Ricardo Batista - 1 - 0.96 - -0.04
+Ricardo Manuel - 1 - 0.96 - -0.04
+Ricardo Niema - 2 - 1.92 - 0.65
+Ricardo Pereira - 1 - 0.96 - -0.04
+Ricardo Pinto - 2 - 1.92 - 0.65
+Ricardo Salgado - 3 - 2.88 - 1.06
+Ricardo Sandi - 2 - 1.92 - 0.65
+Ricardo Soares de Oliveira - 2 - 1.92 - 0.65
+Ricardo Velloso - 13 - 12.48 - 2.52
+Ricardo de Mello - 2 - 1.92 - 0.65
+Ricardo de Melo - 4 - 3.84 - 1.35
+Rita - 1 - 0.96 - -0.04
+Rita Anjos - 1 - 0.96 - -0.04
+Rita Blanco - 1 - 0.96 - -0.04
+Rita Filho - 2 - 1.92 - 0.65
+Rita Massunga - 1 - 0.96 - -0.04
+Rita Redshoes - 1 - 0.96 - -0.04
+Rita Richards - 1 - 0.96 - -0.04
+Rita de Fátima Ferreira Paquela - 2 - 1.92 - 0.65
+Rita de Fátima Pegado - 1 - 0.96 - -0.04
+Roberto Barros - 1 - 0.96 - -0.04
+Roberto Bodi - 1 - 0.96 - -0.04
+Roberto Carlos Rocha Kayat - 1 - 0.96 - -0.04
+Roberto Fortes - 1 - 0.96 - -0.04
+Roberto Freire - 6 - 5.76 - 1.75
+Roberto Leal Monteiro - 1 - 0.96 - -0.04
+Roberto Mancini - 1 - 0.96 - -0.04
+Roberto Talaya - 1 - 0.96 - -0.04
+Roberto Teixeira - 1 - 0.96 - -0.04
+Roberto Victor de Almeida - 1 - 0.96 - -0.04
+Roberto de Almeida - 26 - 24.97 - 3.22
+Roberto do Carmo - 1 - 0.96 - -0.04
+Rodrigo Domingos Vidal - 2 - 1.92 - 0.65
+Rodrigo Janot - 2 - 1.92 - 0.65
+Rodrigo Rocha - 1 - 0.96 - -0.04
+Rodrigo Santoro - 1 - 0.96 - -0.04
+Rogério - 2 - 1.92 - 0.65
+Rogério Araújo - 6 - 5.76 - 1.75
+Rogério Guimarães - 16 - 15.37 - 2.73
+Rogério Santos de Araújo - 2 - 1.92 - 0.65
+Rogério Tuti - 1 - 0.96 - -0.04
+Rogério de Carvalho - 2 - 1.92 - 0.65
+Romão - 2 - 1.92 - 0.65
+Romão Brandão - 17 - 16.33 - 2.79
+Romão Brandão-foto de Lito Cahangulo - 1 - 0.96 - -0.04
+Romão Brandão-foto de Nilton Monteiro - 1 - 0.96 - -0.04
+Romão Brandão-foto de Santana Joaquim - 1 - 0.96 - -0.04
+Romão Brandão_foto de Lito Canhagulo - 1 - 0.96 - -0.04
+Ronaldo - 2 - 1.92 - 0.65
+Roque Santeiro - 4 - 3.84 - 1.35
+Roque Sapiri - 1 - 0.96 - -0.04
+Roque Silva - 5 - 4.80 - 1.57
+Rosa - 6 - 5.76 - 1.75
+Rosa Bessa - 3 - 2.88 - 1.06
+Rosa Cacuhu - 1 - 0.96 - -0.04
+Rosa Conde - 2 - 1.92 - 0.65
+Rosa Coutinho - 1 - 0.96 - -0.04
+Rosa Cruz - 14 - 13.44 - 2.60
+Rosa Escórcio Pacavira - 1 - 0.96 - -0.04
+Rosa Escórcio Pacavira de Matos - 2 - 1.92 - 0.65
+Rosa Maria Martins da Cruz - 2 - 1.92 - 0.65
+Rosa Naquinda - 1 - 0.96 - -0.04
+Rosa Nicodemos - 1 - 0.96 - -0.04
+Rosa Pacavira - 18 - 17.29 - 2.85
+Rosa Torres - 3 - 2.88 - 1.06
+Rosa Vidal - 1 - 0.96 - -0.04
+Rosa Vidal Júlio - 1 - 0.96 - -0.04
+Rosa da Conceição Bambi - 1 - 0.96 - -0.04
+Rosa de Porcelana - 2 - 1.92 - 0.65
+Rosalina Pombal - 1 - 0.96 - -0.04
+Rosana Miranda - 1 - 0.96 - -0.04
+Rosália Ani Ulundu - 1 - 0.96 - -0.04
+Rosário - 1 - 0.96 - -0.04
+Rosário Pombal - 1 - 0.96 - -0.04
+Ruca Moreira - 1 - 0.96 - -0.04
+Rui Araújo - 2 - 1.92 - 0.65
+Rui Campos - 1 - 0.96 - -0.04
+Rui Celso Dias Fernandes da Silva - 6 - 5.76 - 1.75
+Rui Cruz - 2 - 1.92 - 0.65
+Rui César - 1 - 0.96 - -0.04
+Rui Duarte Carvalho - 1 - 0.96 - -0.04
+Rui Falcão - 5 - 4.80 - 1.57
+Rui Ferreira - 8 - 7.68 - 2.04
+Rui Gomes - 10 - 9.60 - 2.26
+Rui Graça - 1 - 0.96 - -0.04
+Rui Jorge Carneiro Mangueira - 1 - 0.96 - -0.04
+Rui Jorge Mangueira - 1 - 0.96 - -0.04
+Rui Machete - 9 - 8.64 - 2.16
+Rui Mangueira - 9 - 8.64 - 2.16
+Rui Moreia - 1 - 0.96 - -0.04
+Rui Moreira - 31 - 29.77 - 3.39
+Rui Pedro Tendinha - 1 - 0.96 - -0.04
+Rui Ramos - 1 - 0.96 - -0.04
+Rui Santos Silva - 1 - 0.96 - -0.04
+Rui Vasco - 2 - 1.92 - 0.65
+Rui Zink - 1 - 0.96 - -0.04
+Rui da Silva - 1 - 0.96 - -0.04
+Rui de Matos - 1 - 0.96 - -0.04
+Rui de Noronha - 1 - 0.96 - -0.04
+Ruth - 2 - 1.92 - 0.65
+Ruth Gomes - 1 - 0.96 - -0.04
+Ruth Neto - 1 - 0.96 - -0.04
+Ruth Padel - 3 - 2.88 - 1.06
+Ruth Tavares - 1 - 0.96 - -0.04
+Rúben Amorim - 1 - 0.96 - -0.04
+Rúben Neves - 1 - 0.96 - -0.04
+SEBASTIÃO MARTINS - 1 - 0.96 - -0.04
+SOL - 2 - 1.92 - 0.65
+Sabino Ferraz - 3 - 2.88 - 1.06
+Sabino Henda - 2 - 1.92 - 0.65
+Salazar - 12 - 11.52 - 2.44
+Salomão - 1 - 0.96 - -0.04
+Salomão Xirimbimbi - 3 - 2.88 - 1.06
+Salomé Epólua - 1 - 0.96 - -0.04
+Salvador - 1 - 0.96 - -0.04
+Salvador Ferreira - 3 - 2.88 - 1.06
+Salvador da Silva - 3 - 2.88 - 1.06
+Salvador dos Santos - 2 - 1.92 - 0.65
+Salvação Profética - 1 - 0.96 - -0.04
+Salvação do Serviço Nacional de Saúde - 2 - 1.92 - 0.65
+Salviano Neto - 1 - 0.96 - -0.04
+Samuel - 2 - 1.92 - 0.65
+Samuel Aparício - 1 - 0.96 - -0.04
+Samuel Chiwale - 1 - 0.96 - -0.04
+Samuel Chiwale Jeremias Kalandula Chitunda - 1 - 0.96 - -0.04
+Samuel Fernando - 1 - 0.96 - -0.04
+Samuel Maleze - 2 - 1.92 - 0.65
+Sandra Bland - 1 - 0.96 - -0.04
+Sandra Cordeiro - 1 - 0.96 - -0.04
+Sandra Daniel - 1 - 0.96 - -0.04
+Sandra Pimentel - 1 - 0.96 - -0.04
+Sandro Dias - 2 - 1.92 - 0.65
+Sandro Miguel - 4 - 3.84 - 1.35
+Sandro Oliveira - 2 - 1.92 - 0.65
+Sansão - 2 - 1.92 - 0.65
+Santa - 2 - 1.92 - 0.65
+Santa Bárbara - 2 - 1.92 - 0.65
+Santa Casa - 2 - 1.92 - 0.65
+Santa Casa da Misericórdia - 1 - 0.96 - -0.04
+Santa Clara - 9 - 8.64 - 2.16
+Santa Cruz de La Sierra - 1 - 0.96 - -0.04
+Santa Isabel - 2 - 1.92 - 0.65
+Santa Maria - 3 - 2.88 - 1.06
+Santa Sé - 7 - 6.72 - 1.91
+Santa Teresinha - 1 - 0.96 - -0.04
+Santana André Pitra - 1 - 0.96 - -0.04
+Santana Joaquim - 3 - 2.88 - 1.06
+Santana João - 2 - 1.92 - 0.65
+Santiago - 3 - 2.88 - 1.06
+Santos - 13 - 12.48 - 2.52
+Santos Episódio - 1 - 0.96 - -0.04
+Santos FC - 1 - 0.96 - -0.04
+Santos Futebol Clube - 1 - 0.96 - -0.04
+Santos Kangamba - 1 - 0.96 - -0.04
+Santos Lima - 1 - 0.96 - -0.04
+Santos Pedro - 1 - 0.96 - -0.04
+Santos Silva - 10 - 9.60 - 2.26
+Sara Bennett Melhor Guarda-Roupa - 1 - 0.96 - -0.04
+Sara Dem - 1 - 0.96 - -0.04
+Sara Fernandes - 1 - 0.96 - -0.04
+Sara Fialho - 1 - 0.96 - -0.04
+Sarah Palin - 2 - 1.92 - 0.65
+Sebastião Abel Manuel - 1 - 0.96 - -0.04
+Sebastião Coio - 2 - 1.92 - 0.65
+Sebastião Felix - 7 - 6.72 - 1.91
+Sebastião Félix - 22 - 21.13 - 3.05
+Sebastião Manuel - 2 - 1.92 - 0.65
+Sebastião Martins - 2 - 1.92 - 0.65
+Sebastião Sardinha - 1 - 0.96 - -0.04
+Sebastião Teta - 1 - 0.96 - -0.04
+Selma Salvador - 3 - 2.88 - 1.06
+Serafim - 2 - 1.92 - 0.65
+Serafim Sequele - 2 - 1.92 - 0.65
+Serena Armitage Melhor Fotografia - 1 - 0.96 - -0.04
+Severino Hamyela - 1 - 0.96 - -0.04
+Severino Ulombe Capessa - 1 - 0.96 - -0.04
+Silvestre Gabriel Samy - 1 - 0.96 - -0.04
+Simone - 1 - 0.96 - -0.04
+Simone de Beauvoir - 2 - 1.92 - 0.65
+Simão - 7 - 6.72 - 1.91
+Simão Bazabidila - 1 - 0.96 - -0.04
+Simão Futi Goma - 2 - 1.92 - 0.65
+Simão Gonçalves Toco - 2 - 1.92 - 0.65
+Simão Kuanzambi - 1 - 0.96 - -0.04
+Simão Manuel - 7 - 6.72 - 1.91
+Simão Milagre - 2 - 1.92 - 0.65
+Simão Mungongo - 1 - 0.96 - -0.04
+Simão Viegas - 1 - 0.96 - -0.04
+Simão de Sousa Victor - 2 - 1.92 - 0.65
+Socorro - 2 - 1.92 - 0.65
+Sofia Rosa - 1 - 0.96 - -0.04
+Sofia Vale - 9 - 8.64 - 2.16
+Sol - 12 - 11.52 - 2.44
+Solange de Nery - 1 - 0.96 - -0.04
+Susana - 1 - 0.96 - -0.04
+Sérgio - 2 - 1.92 - 0.65
+Sérgio Bolota - 1 - 0.96 - -0.04
+Sérgio Cabral - 1 - 0.96 - -0.04
+Sérgio Calundungo - 2 - 1.92 - 0.65
+Sérgio Godinho - 1 - 0.96 - -0.04
+Sérgio Guerra - 1 - 0.96 - -0.04
+Sérgio Luther Rescova - 1 - 0.96 - -0.04
+Sérgio Luther Rescover - 1 - 0.96 - -0.04
+Sérgio Miguel - 1 - 0.96 - -0.04
+Sérgio Moro - 11 - 10.56 - 2.36
+Sérgio Piçarra - 4 - 3.84 - 1.35
+Sérgio Piçarra Quando - 1 - 0.96 - -0.04
+Sérgio Rezende - 1 - 0.96 - -0.04
+Sérgio de Oliveira - 3 - 2.88 - 1.06
+Sílvia Norte - 4 - 3.84 - 1.35
+Sílvia de Almeida - 1 - 0.96 - -0.04
+Sílvio - 1 - 0.96 - -0.04
+Sílvio César da Gama - 1 - 0.96 - -0.04
+Sílvio Famoroso - 3 - 2.88 - 1.06
+Sílvio Nascimento - 7 - 6.72 - 1.91
+Síria - 115 - 110.44 - 4.70
+Síria Tel - 1 - 0.96 - -0.04
+Sócrates - 6 - 5.76 - 1.75
+Sónia - 1 - 0.96 - -0.04
+Sónia Burity da Silva - 5 - 4.80 - 1.57
+Sónia Carla Neves - 1 - 0.96 - -0.04
+Sónia Carla de Oliveira Neves - 1 - 0.96 - -0.04
+Sónia Gomes - 2 - 1.92 - 0.65
+Sónia Neves - 9 - 8.64 - 2.16
+Sónia Rosalina - 1 - 0.96 - -0.04
+Tatiana - 1 - 0.96 - -0.04
+Tatiana Durão - 6 - 5.76 - 1.75
+Taís Araújo - 3 - 2.88 - 1.06
+Taís Bianca Gama de Araújo Ramos - 1 - 0.96 - -0.04
+Telma Diogo - 2 - 1.92 - 0.65
+Telma Lee - 3 - 2.88 - 1.06
+Telma Manuel - 1 - 0.96 - -0.04
+Telma Van-Dúnem - 1 - 0.96 - -0.04
+Teodoro - 10 - 9.60 - 2.26
+Teodoro Cauele - 3 - 2.88 - 1.06
+Teodoro Cauele-foto de Jacinto Figueiredo - 1 - 0.96 - -0.04
+Teodoro Obiang - 13 - 12.48 - 2.52
+Teodoro Obiang Nguema - 5 - 4.80 - 1.57
+Teodoro Obiang Nguema Mbasogo - 3 - 2.88 - 1.06
+Teresa - 3 - 2.88 - 1.06
+Teresa Afonso - 2 - 1.92 - 0.65
+Teresa António Soares - 1 - 0.96 - -0.04
+Teresa Araújo - 1 - 0.96 - -0.04
+Teresa Buta - 1 - 0.96 - -0.04
+Teresa Calçada - 1 - 0.96 - -0.04
+Teresa Cohen - 1 - 0.96 - -0.04
+Teresa José - 1 - 0.96 - -0.04
+Teresa Lino - 1 - 0.96 - -0.04
+Teresa Luís - 3 - 2.88 - 1.06
+Teresa Macedo - 1 - 0.96 - -0.04
+Teresa Malesso - 2 - 1.92 - 0.65
+Teresa Mateus - 10 - 9.60 - 2.26
+Teresa Neto - 1 - 0.96 - -0.04
+Teresa Pina - 11 - 10.56 - 2.36
+Teresa Quinquenal - 1 - 0.96 - -0.04
+Teresa Quivienguela - 2 - 1.92 - 0.65
+Teresa Viegas - 10 - 9.60 - 2.26
+Teresa da Silva Neto - 1 - 0.96 - -0.04
+Tiago - 3 - 2.88 - 1.06
+Tiago Albino Muendo - 1 - 0.96 - -0.04
+Tiago Barbosa Ribeiro - 1 - 0.96 - -0.04
+Tiago Costa - 2 - 1.92 - 0.65
+Tiago Moniz - 21 - 20.17 - 3.00
+Tiago Moreira - 1 - 0.96 - -0.04
+Tiago Sachilombo - 1 - 0.96 - -0.04
+Tiago Saluta - 1 - 0.96 - -0.04
+Tirso - 1 - 0.96 - -0.04
+Tirso Amaral - 1 - 0.96 - -0.04
+Tirso Blanco - 2 - 1.92 - 0.65
+Tito Cahalo - 1 - 0.96 - -0.04
+Tito Cambage - 1 - 0.96 - -0.04
+Tomás Bica - 1 - 0.96 - -0.04
+Tomás Bica Mumbundo - 2 - 1.92 - 0.65
+Tomás Faria - 1 - 0.96 - -0.04
+Tomás Ferreira - 1 - 0.96 - -0.04
+Tomás Lima Coelho - 1 - 0.96 - -0.04
+Tomás Manuel Maimba - 1 - 0.96 - -0.04
+Tomás da Silva - 2 - 1.92 - 0.65
+Tomé - 4 - 3.84 - 1.35
+Tomé Cortez - 1 - 0.96 - -0.04
+Trindade - 1 - 0.96 - -0.04
+Tânia Macêdo - 1 - 0.96 - -0.04
+Ulisses Correia - 5 - 4.80 - 1.57
+Valentim Flávio - 1 - 0.96 - -0.04
+Valentim Quaresma - 1 - 0.96 - -0.04
+Valentina Filipe - 5 - 4.80 - 1.57
+Valter Filipe - 2 - 1.92 - 0.65
+Valter Filipe Duarte da Silva - 14 - 13.44 - 2.60
+Valter Filipe Silva - 8 - 7.68 - 2.04
+Valter Gomes - 3 - 2.88 - 1.06
+Vanda - 1 - 0.96 - -0.04
+Vanessa Pasma - 1 - 0.96 - -0.04
+Vasco - 1 - 0.96 - -0.04
+Vasco Graça Moura - 1 - 0.96 - -0.04
+Vasco Rato - 1 - 0.96 - -0.04
+Vera Cruz - 1 - 0.96 - -0.04
+Vera Duarte - 4 - 3.84 - 1.35
+Vera Duarte Local - 1 - 0.96 - -0.04
+Vera Jourova - 1 - 0.96 - -0.04
+Vera Massango - 2 - 1.92 - 0.65
+Verónica Manuel - 1 - 0.96 - -0.04
+Vicente - 2 - 1.92 - 0.65
+Vicente Andreu Giullo - 1 - 0.96 - -0.04
+Vicente Bucher - 1 - 0.96 - -0.04
+Vicente Cassetula - 1 - 0.96 - -0.04
+Vicente Feola - 1 - 0.96 - -0.04
+Vicente Fox - 2 - 1.92 - 0.65
+Vicente Francisco Soares - 2 - 1.92 - 0.65
+Vicente Jorge Silva - 1 - 0.96 - -0.04
+Vicente Paulo - 1 - 0.96 - -0.04
+Vicente Pinto de Andrade - 1 - 0.96 - -0.04
+Vicente Pinto de Andrade da Universidade Católica - 1 - 0.96 - -0.04
+Vicente Pongolola - 1 - 0.96 - -0.04
+Vicente Soares - 1 - 0.96 - -0.04
+Vicente Viemba - 1 - 0.96 - -0.04
+Victor - 2 - 1.92 - 0.65
+Victor Balanga - 1 - 0.96 - -0.04
+Victor Barros - 1 - 0.96 - -0.04
+Victor Chissingui - 1 - 0.96 - -0.04
+Victor Domingos - 1 - 0.96 - -0.04
+Victor Gama - 1 - 0.96 - -0.04
+Victor Guerra - 1 - 0.96 - -0.04
+Victor Hugo Mendes - 3 - 2.88 - 1.06
+Victor Manuel Branco Silva Carvalho - 1 - 0.96 - -0.04
+Victor Nsumbo - 8 - 7.68 - 2.04
+Victor Ramalho - 2 - 1.92 - 0.65
+Victor Silva - 1 - 0.96 - -0.04
+Victor Tchicolaev - 1 - 0.96 - -0.04
+Victor Tchikoulaév - 1 - 0.96 - -0.04
+Victor Tchikovlaev - 1 - 0.96 - -0.04
+Victória Ferreira - 1 - 0.96 - -0.04
+Victória Francisco Lopes Cristóvão de Barros Neto - 1 - 0.96 - -0.04
+Victória Mande - 1 - 0.96 - -0.04
+Victória da Conceição - 2 - 1.92 - 0.65
+Vida - 4 - 3.84 - 1.35
+Vida de Pelé - 1 - 0.96 - -0.04
+Violante Pascoal - 1 - 0.96 - -0.04
+Virgílio Coelho - 2 - 1.92 - 0.65
+Virgílio Pinto - 1 - 0.96 - -0.04
+Virgílio Sotto Mayor - 2 - 1.92 - 0.65
+Virgílio de Fontes Pereira - 11 - 10.56 - 2.36
+Viriato da Cruz - 4 - 3.84 - 1.35
+Vitória - 2 - 1.92 - 0.65
+Vitória Azevedo - 1 - 0.96 - -0.04
+Vitória Soares - 2 - 1.92 - 0.65
+Vitória de Barros Neto - 2 - 1.92 - 0.65
+Vitória de Guimarães - 1 - 0.96 - -0.04
+Vitória de Oliveira - 1 - 0.96 - -0.04
+Vitória do Petro - 1 - 0.96 - -0.04
+Vivalda Dula - 1 - 0.96 - -0.04
+Vivaldo Eduardo - 5 - 4.80 - 1.57
+Viviane Arnoux - 3 - 2.88 - 1.06
+Vladimiro - 1 - 0.96 - -0.04
+Vladimiro Bernardo - 2 - 1.92 - 0.65
+Vladimiro Romero - 1 - 0.96 - -0.04
+Vítor Miguel - 2 - 1.92 - 0.65
+Vítor Nogueira - 2 - 1.92 - 0.65
+Vítor Osório - 1 - 0.96 - -0.04
+Vítor Ramalho - 3 - 2.88 - 1.06
+Vítor Santos - 1 - 0.96 - -0.04
+Vítor Teixeira - 1 - 0.96 - -0.04
+Wilson - 1 - 0.96 - -0.04
+Wilson Alegre - 1 - 0.96 - -0.04
+Wilson Da Costa Cheque - 1 - 0.96 - -0.04
+Wilson Francisco - 1 - 0.96 - -0.04
+Wilson Pereira - 1 - 0.96 - -0.04
+Xavier - 1 - 0.96 - -0.04
+Xavier António - 1 - 0.96 - -0.04
+Xica da Silva - 1 - 0.96 - -0.04
+Yara Simão - 3 - 2.88 - 1.06
+Yolanda Mendes - 1 - 0.96 - -0.04
+Yolanda Sousa - 1 - 0.96 - -0.04
+Yuri - 1 - 0.96 - -0.04
+Yuri da Cunha - 5 - 4.80 - 1.57
+Zacarias - 6 - 5.76 - 1.75
+Zacarias João Gomes - 4 - 3.84 - 1.35
+Zacarias Kamuenho - 1 - 0.96 - -0.04
+Zacarias Kamwenho - 1 - 0.96 - -0.04
+Zacarias Sambeny - 4 - 3.84 - 1.35
+Zaida - 1 - 0.96 - -0.04
+Zara - 3 - 2.88 - 1.06
+Zara Home - 2 - 1.92 - 0.65
+Zita - 3 - 2.88 - 1.06
+Zola Bambi - 3 - 2.88 - 1.06
+Zola Messu - 4 - 3.84 - 1.35
+Zé - 5 - 4.80 - 1.57
+Zé Abílio - 1 - 0.96 - -0.04
+Zé Comando - 10 - 9.60 - 2.26
+Zé Dáka - 1 - 0.96 - -0.04
+Zé Fininho - 1 - 0.96 - -0.04
+Zé Luís - 1 - 0.96 - -0.04
+Zé Mix - 3 - 2.88 - 1.06
+Zé Mueleputo - 4 - 3.84 - 1.35
+Zé Van-Dúnem - 2 - 1.92 - 0.65
+Zélia Adriano - 2 - 1.92 - 0.65
+Ásia - 19 - 18.25 - 2.90
+Ásia Central - 1 - 0.96 - -0.04
+Ásia Pacífica - 1 - 0.96 - -0.04
+Ângela Mingas - 3 - 2.88 - 1.06
+Ângelo - 2 - 1.92 - 0.65
+Ângelo Tavares - 4 - 3.84 - 1.35
+Ângelo Veiga - 1 - 0.96 - -0.04
+Ângelo Veiga Tavares - 22 - 21.13 - 3.05
+Ângelo Victoriano - 2 - 1.92 - 0.65
+Ângelo da Veiga Tavares - 1 - 0.96 - -0.04
+Ângelo de Veiga Tavares - 1 - 0.96 - -0.04
+Érica Nelumba - 2 - 1.92 - 0.65
+Óscar - 10 - 9.60 - 2.26
+Óscar Braga - 1 - 0.96 - -0.04

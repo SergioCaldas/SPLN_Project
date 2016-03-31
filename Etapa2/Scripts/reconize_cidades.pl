@@ -22,14 +22,14 @@ while(<$file_paises>){
 close ($file_paises);
 
 while(<$file_nomes>){
-  $_ = lc substr($_,0,(length($_)-1));
+  $_ = substr($_,0,(length($_)-1));
   $nomes{$_}=0;
 }
 
 close ($file_paises);
 
 while(<$file_cidades>){
-  $_ = lc substr($_,0,(length($_)-1));
+  $_ = substr($_,0,(length($_)-1));
   $cidades{$_}=0;
 }
 
