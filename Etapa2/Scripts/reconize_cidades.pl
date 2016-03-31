@@ -57,10 +57,10 @@ close ($jb_file);
 foreach my $cidade (keys %cidades){
   if($cidades{$cidade} > 0){
     my $freq = ($cidades{$cidade}*1000000)/$total_palavras;
-    $freq = sprintf("%.2f",$freq);
+    $freq = sprintf("%.4f",$freq);
     my $log = log10($cidades{$cidade});
-    $log = sprintf("%.2f",$log);
-    print "$cidade|$cidades{$cidade}|$freq|$log\n";
+    $log = sprintf("%.4f",$log);
+    print "$cidade,$cidades{$cidade},$freq,$log\n";
   }
 }
 

@@ -57,10 +57,10 @@ close ($jb_file);
 foreach my $pais (keys %paises){
   if($paises{$pais} > 0){
     my $freq = ($paises{$pais}*1000000)/$total_palavras;
-    $freq = sprintf("%.2f",$freq);
+    $freq = sprintf("%.4f",$freq);
     my $log = log10($paises{$pais});
-    $log = sprintf("%.2f",$log);
-    print "$pais|$paises{$pais}|$freq|$log\n";
+    $log = sprintf("%.4f",$log);
+    print "$pais,$paises{$pais},$freq,$log\n";
   }
 }
 
