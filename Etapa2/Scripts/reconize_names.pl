@@ -38,15 +38,15 @@ close ($file_cidades);
 open (my $jb_file, "<", "../jb.xml") or die ("Impossivel abrir o ficheiro jb.xml\n");
 
 while (<$jb_file>){
-  while( /\w+(-\w+)*/g ){
+  while(/([A-Z]\w+)([\s-][A-Z]\w+)*/g){
     my $palavra = $&;
-    if(exists $paises{$palavra}){
+    if(exists $paises{$1}){
       $paises{$palavra}++;
     }
-    elsif(exists $nomes{$palavra}){
+    elsif(exists $nomes{$1}){
       $nomes{$palavra}++;
     }
-    elsif(exists $cidades{$palavra}){
+    elsif(exists $cidades{$1}){
       $cidades{$palavra}++;
     }
   }
