@@ -24,11 +24,11 @@ while(<$my_tabela_cidades>){
 }
 close ($my_tabela_cidades);
 
-open (my $his_tabela_cidades, "<", "../Grupo2/tabela_localidades_g2.txt") or die ("Impossivel abrir o ficheiro tabela_localidasdes_g2.txt\n");
+open (my $his_tabela_cidades, "<", "../Grupo16/tabela_cidades_brasileiras.txt") or die ("Impossivel abrir o ficheiro tabela_cidades_brasileiras.txt\n");
 
 while(<$his_tabela_cidades>){
   chomp;
-  @his_campos = split (/\,/, $_,4);
+  @his_campos = split (/\-/, $_,4);
   $his_hash{$his_campos[0]}{$total}=$his_campos[1];
   $his_hash{$his_campos[0]}{$freq_abs}=$his_campos[2];
   $his_hash{$his_campos[0]}{$freq_log}=$his_campos[3];

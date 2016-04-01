@@ -1,152 +1,152 @@
-Afeganistão - 13 - 12.58 - 2.53
-África do Sul - 141 - 136.46 - 4.92
-Alemanha - 69 - 66.78 - 4.20
-Angola - 3857 - 3732.80 - 8.22
-Argentina - 29 - 28.07 - 3.33
-Argélia - 37 - 35.81 - 3.58
-Arménia - 1 - 0.97 - -0.03
-Arábia Saudita - 85 - 82.26 - 4.41
-Austrália - 25 - 24.19 - 3.19
-Áustria - 7 - 6.77 - 1.91
-Azerbaijão - 2 - 1.94 - 0.66
-Belize - 3 - 2.90 - 1.07
-Benim - 5 - 4.84 - 1.58
-Birmânia - 1 - 0.97 - -0.03
-Botsuana - 3 - 2.90 - 1.07
-Brasil - 284 - 274.85 - 5.62
-Brunei - 1 - 0.97 - -0.03
-Bulgária - 1 - 0.97 - -0.03
-Burquina Faso - 7 - 6.77 - 1.91
-Bélgica - 34 - 32.91 - 3.49
-Camarões - 29 - 28.07 - 3.33
-Camboja - 1 - 0.97 - -0.03
-Canadá - 25 - 24.19 - 3.19
-Catar - 3 - 2.90 - 1.07
-Cazaquistão - 2 - 1.94 - 0.66
-Chade - 26 - 25.16 - 3.23
-Chile - 4 - 3.87 - 1.35
-China - 286 - 276.79 - 5.62
-Colômbia - 6 - 5.81 - 1.76
-Comores - 4 - 3.87 - 1.35
-Coreia do Norte - 60 - 58.07 - 4.06
-Coreia do Sul - 24 - 23.23 - 3.15
-Costa do Marfim - 30 - 29.03 - 3.37
-Croácia - 3 - 2.90 - 1.07
-Cuba - 96 - 92.91 - 4.53
-Dinamarca - 6 - 5.81 - 1.76
-Egipto - 56 - 54.20 - 3.99
-Emiratos Árabes Unidos - 3 - 2.90 - 1.07
-Equador - 8 - 7.74 - 2.05
-Eritreia - 4 - 3.87 - 1.35
-Eslováquia - 1 - 0.97 - -0.03
-Eslovénia - 12 - 11.61 - 2.45
-Espanha - 92 - 89.04 - 4.49
-Estados Unidos - 201 - 194.53 - 5.27
-Estónia - 1 - 0.97 - -0.03
-Etiópia - 23 - 22.26 - 3.10
-Filipinas - 11 - 10.65 - 2.37
-Finlândia - 6 - 5.81 - 1.76
-França - 95 - 91.94 - 4.52
-Gabão - 36 - 34.84 - 3.55
-Gana - 25 - 24.19 - 3.19
-Geórgia - 5 - 4.84 - 1.58
-Gibraltar - 2 - 1.94 - 0.66
-Granada - 2 - 1.94 - 0.66
-Grécia - 15 - 14.52 - 2.68
-Guiné - 61 - 59.04 - 4.08
-Guiné Equatorial - 71 - 68.71 - 4.23
-Guiné-Bissau - 79 - 76.46 - 4.34
-Gâmbia - 11 - 10.65 - 2.37
-Haiti - 2 - 1.94 - 0.66
-Honduras - 1 - 0.97 - -0.03
-Hong Kong - 32 - 30.97 - 3.43
-Hungria - 8 - 7.74 - 2.05
-Índia - 24 - 23.23 - 3.15
-Indonésia - 15 - 14.52 - 2.68
-Iraque - 66 - 63.87 - 4.16
-Irlanda - 1 - 0.97 - -0.03
-Irão - 112 - 108.39 - 4.69
-Israel - 32 - 30.97 - 3.43
-Itália - 44 - 42.58 - 3.75
-Iémen - 6 - 5.81 - 1.76
-Jamaica - 1 - 0.97 - -0.03
-Japão - 62 - 60.00 - 4.09
-Jersey - 3 - 2.90 - 1.07
-Jordânia - 4 - 3.87 - 1.35
-Kuwait - 7 - 6.77 - 1.91
-Lesoto - 7 - 6.77 - 1.91
-Letónia - 4 - 3.87 - 1.35
-Libéria - 24 - 23.23 - 3.15
-Lituânia - 12 - 11.61 - 2.45
-Luxemburgo - 2 - 1.94 - 0.66
-Líbano - 17 - 16.45 - 2.80
-Líbia - 66 - 63.87 - 4.16
-Macau - 22 - 21.29 - 3.06
-Macedónia - 3 - 2.90 - 1.07
-Madagáscar - 8 - 7.74 - 2.05
-Mali - 27 - 26.13 - 3.26
-Malta - 8 - 7.74 - 2.05
-Malásia - 7 - 6.77 - 1.91
-Marrocos - 39 - 37.74 - 3.63
-Mauritânia - 7 - 6.77 - 1.91
-Maurícia - 3 - 2.90 - 1.07
-Moldávia - 1 - 0.97 - -0.03
-Mongólia - 3 - 2.90 - 1.07
-Montenegro - 2 - 1.94 - 0.66
-Moçambique - 295 - 285.50 - 5.65
-México - 23 - 22.26 - 3.10
-Mónaco - 1 - 0.97 - -0.03
-Namíbia - 74 - 71.62 - 4.27
-Nepal - 2 - 1.94 - 0.66
-Nicarágua - 1 - 0.97 - -0.03
-Nigéria - 112 - 108.39 - 4.69
-Noruega - 10 - 9.68 - 2.27
-Nova Zelândia - 4 - 3.87 - 1.35
-Níger - 2 - 1.94 - 0.66
-Omã - 2 - 1.94 - 0.66
-Panamá - 2 - 1.94 - 0.66
-Paquistão - 7 - 6.77 - 1.91
-Paraguai - 2 - 1.94 - 0.66
-Países Baixos - 1 - 0.97 - -0.03
-Peru - 4 - 3.87 - 1.35
-Polónia - 9 - 8.71 - 2.16
-Porto Rico - 6 - 5.81 - 1.76
-Portugal - 814 - 787.79 - 6.67
-Quénia - 37 - 35.81 - 3.58
-República Centro-Africana - 6 - 5.81 - 1.76
-República Checa - 4 - 3.87 - 1.35
-República Dominicana - 3 - 2.90 - 1.07
-Roménia - 1 - 0.97 - -0.03
-Ruanda - 25 - 24.19 - 3.19
-Rússia - 123 - 119.04 - 4.78
-Salvador - 19 - 18.39 - 2.91
-Samoa Americana - 1 - 0.97 - -0.03
-Seicheles - 1 - 0.97 - -0.03
-Senegal - 47 - 45.49 - 3.82
-Serra Leoa - 26 - 25.16 - 3.23
-Singapura - 13 - 12.58 - 2.53
-Somália - 23 - 22.26 - 3.10
-Sri Lanka - 2 - 1.94 - 0.66
-Suazilândia - 6 - 5.81 - 1.76
-Sudão - 45 - 43.55 - 3.77
-Suécia - 5 - 4.84 - 1.58
-Suíça - 32 - 30.97 - 3.43
-São Tomé e Príncipe - 77 - 74.52 - 4.31
-Sérvia - 5 - 4.84 - 1.58
-Síria - 140 - 135.49 - 4.91
-Tailândia - 3 - 2.90 - 1.07
-Taiwan - 5 - 4.84 - 1.58
-Tanzânia - 28 - 27.10 - 3.30
-Timor Leste - 6 - 5.81 - 1.76
-Togo - 6 - 5.81 - 1.76
-Trindade e Tobago - 1 - 0.97 - -0.03
-Tunísia - 37 - 35.81 - 3.58
-Turquia - 64 - 61.94 - 4.13
-Ucrânia - 12 - 11.61 - 2.45
-Uganda - 19 - 18.39 - 2.91
-Uruguai - 7 - 6.77 - 1.91
-Vaticano - 10 - 9.68 - 2.27
-Venezuela - 31 - 30.00 - 3.40
-Vietname - 11 - 10.65 - 2.37
-Zimbabué - 7 - 6.77 - 1.91
-Zâmbia - 36 - 34.84 - 3.55
+Afeganistão- 13- 12.58- 2.53
+África do Sul- 141- 136.46- 4.92
+Alemanha- 69- 66.78- 4.20
+Angola- 3857- 3732.80- 8.22
+Argentina- 29- 28.07- 3.33
+Argélia- 37- 35.81- 3.58
+Arménia- 1- 0.97- 0.03
+Arábia Saudita- 85- 82.26- 4.41
+Austrália- 25- 24.19- 3.19
+Áustria- 7- 6.77- 1.91
+Azerbaijão- 2- 1.94- 0.66
+Belize- 3- 2.90- 1.07
+Benim- 5- 4.84- 1.58
+Birmânia- 1- 0.97--0.03
+Botsuana- 3- 2.90- 1.07
+Brasil- 284- 274.85- 5.62
+Brunei- 1- 0.97--0.03
+Bulgária- 1- 0.97--0.03
+Burquina Faso- 7- 6.77- 1.91
+Bélgica- 34- 32.91- 3.49
+Camarões- 29- 28.07- 3.33
+Camboja- 1- 0.97--0.03
+Canadá- 25- 24.19- 3.19
+Catar- 3- 2.90- 1.07
+Cazaquistão- 2- 1.94- 0.66
+Chade- 26- 25.16- 3.23
+Chile- 4- 3.87- 1.35
+China- 286- 276.79- 5.62
+Colômbia- 6- 5.81- 1.76
+Comores- 4- 3.87- 1.35
+Coreia do Norte- 60- 58.07- 4.06
+Coreia do Sul- 24- 23.23- 3.15
+Costa do Marfim- 30- 29.03- 3.37
+Croácia- 3- 2.90- 1.07
+Cuba- 96- 92.91- 4.53
+Dinamarca- 6- 5.81- 1.76
+Egipto- 56- 54.20- 3.99
+Emiratos Árabes Unidos- 3- 2.90- 1.07
+Equador- 8- 7.74- 2.05
+Eritreia- 4- 3.87- 1.35
+Eslováquia- 1- 0.97--0.03
+Eslovénia- 12- 11.61- 2.45
+Espanha- 92- 89.04- 4.49
+Estados Unidos- 201- 194.53- 5.27
+Estónia- 1- 0.97--0.03
+Etiópia- 23- 22.26- 3.10
+Filipinas- 11- 10.65- 2.37
+Finlândia- 6- 5.81- 1.76
+França- 95- 91.94- 4.52
+Gabão- 36- 34.84- 3.55
+Gana- 25- 24.19- 3.19
+Geórgia- 5- 4.84- 1.58
+Gibraltar- 2- 1.94- 0.66
+Granada- 2- 1.94- 0.66
+Grécia- 15- 14.52- 2.68
+Guiné- 61- 59.04- 4.08
+Guiné Equatorial- 71- 68.71- 4.23
+Guin-Bissau- 79- 76.46- 4.34
+Gâmbia- 11- 10.65- 2.37
+Haiti- 2- 1.94- 0.66
+Honduras- 1- 0.97--0.03
+Hong Kong- 32- 30.97- 3.43
+Hungria- 8- 7.74- 2.05
+Índia- 24- 23.23- 3.15
+Indonésia- 15- 14.52- 2.68
+Iraque- 66- 63.87- 4.16
+Irlanda- 1- 0.97--0.03
+Irão- 112- 108.39- 4.69
+Israel- 32- 30.97- 3.43
+Itália- 44- 42.58- 3.75
+Iémen- 6- 5.81- 1.76
+Jamaica- 1- 0.97--0.03
+Japão- 62- 60.00- 4.09
+Jersey- 3- 2.90- 1.07
+Jordânia- 4- 3.87- 1.35
+Kuwait- 7- 6.77- 1.91
+Lesoto- 7- 6.77- 1.91
+Letónia- 4- 3.87- 1.35
+Libéria- 24- 23.23- 3.15
+Lituânia- 12- 11.61- 2.45
+Luxemburgo- 2- 1.94- 0.66
+Líbano- 17- 16.45- 2.80
+Líbia- 66- 63.87- 4.16
+Macau- 22- 21.29- 3.06
+Macedónia- 3- 2.90- 1.07
+Madagáscar- 8- 7.74- 2.05
+Mali- 27- 26.13- 3.26
+Malta- 8- 7.74- 2.05
+Malásia- 7- 6.77- 1.91
+Marrocos- 39- 37.74- 3.63
+Mauritânia- 7- 6.77- 1.91
+Maurícia- 3- 2.90- 1.07
+Moldávia- 1- 0.97--0.03
+Mongólia- 3- 2.90- 1.07
+Montenegro- 2- 1.94- 0.66
+Moçambique- 295- 285.50- 5.65
+México- 23- 22.26- 3.10
+Mónaco- 1- 0.97--0.03
+Namíbia- 74- 71.62- 4.27
+Nepal- 2- 1.94- 0.66
+Nicarágua- 1- 0.97--0.03
+Nigéria- 112- 108.39- 4.69
+Noruega- 10- 9.68- 2.27
+Nova Zelândia- 4- 3.87- 1.35
+Níger- 2- 1.94- 0.66
+Omã- 2- 1.94- 0.66
+Panamá- 2- 1.94- 0.66
+Paquistão- 7- 6.77- 1.91
+Paraguai- 2- 1.94- 0.66
+Países Baixos- 1- 0.97--0.03
+Peru- 4- 3.87- 1.35
+Polónia- 9- 8.71- 2.16
+Porto Rico- 6- 5.81- 1.76
+Portugal- 814- 787.79- 6.67
+Quénia- 37- 35.81- 3.58
+República Centr-Africana- 6- 5.81- 1.76
+República Checa- 4- 3.87- 1.35
+República Dominicana- 3- 2.90- 1.07
+Roménia- 1- 0.97--0.03
+Ruanda- 25- 24.19- 3.19
+Rússia- 123- 119.04- 4.78
+Salvador- 19- 18.39- 2.91
+Samoa Americana- 1- 0.97--0.03
+Seicheles- 1- 0.97--0.03
+Senegal- 47- 45.49- 3.82
+Serra Leoa- 26- 25.16- 3.23
+Singapura- 13- 12.58- 2.53
+Somália- 23- 22.26- 3.10
+Sri Lanka- 2- 1.94- 0.66
+Suazilândia- 6- 5.81- 1.76
+Sudão- 45- 43.55- 3.77
+Suécia- 5- 4.84- 1.58
+Suíça- 32- 30.97- 3.43
+São Tomé e Príncipe- 77- 74.52- 4.31
+Sérvia- 5- 4.84- 1.58
+Síria- 140- 135.49- 4.91
+Tailândia- 3- 2.90- 1.07
+Taiwan- 5- 4.84- 1.58
+Tanzânia- 28- 27.10- 3.30
+Timor Leste- 6- 5.81- 1.76
+Togo- 6- 5.81- 1.76
+Trindade e Tobago- 1- 0.97--0.03
+Tunísia- 37- 35.81- 3.58
+Turquia- 64- 61.94- 4.13
+Ucrânia- 12- 11.61- 2.45
+Uganda- 19- 18.39- 2.91
+Uruguai- 7- 6.77- 1.91
+Vaticano- 10- 9.68- 2.27
+Venezuela- 31- 30.00- 3.40
+Vietname- 11- 10.65- 2.37
+Zimbabué- 7- 6.77- 1.91
+Zâmbia- 36- 34.84- 3.55

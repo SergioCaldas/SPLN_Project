@@ -13,7 +13,7 @@ my $total = "Total";
 my $freq_abs = "Freq Abs";
 my $freq_log = "Freq Log";
 
-open (my $my_tabela_nomes, "<", "../Tabelas/tabela_nomes_g7.txt") or die ("Impossivel abrir o ficheiro tabela_nomes.txt\n");
+open (my $my_tabela_nomes, "<", "../Tabelas/tabela_nomes_g7.txt") or die ("Impossivel abrir o ficheiro tabela_nomes_g7.txt\n");
 
 while(<$my_tabela_nomes>){
   chomp;
@@ -24,7 +24,7 @@ while(<$my_tabela_nomes>){
 }
 close ($my_tabela_nomes);
 
-open (my $his_tabela_nomes, "<", "../Grupo2/nomes.txt") or die ("Impossivel abrir o ficheiro tabela_nomes.txt\n");
+open (my $his_tabela_nomes, "<", "../Grupo2/tabela_nomes_g2.txt") or die ("Impossivel abrir o ficheiro tabela_nomes_g2.txt\n");
 
 while(<$his_tabela_nomes>){
   chomp;
@@ -39,12 +39,12 @@ close ($his_tabela_nomes);
 my $tnomes = 0;
 
 foreach my $my_name (sort keys %my_hash){
-  if(exists $his_hash{lc $my_name}){
+  if(exists $his_hash{$my_name}){
     $tnomes++;
     print "$my_name\n";
-    print "\tTotal: $my_hash{$my_name}{$total} - $his_hash{lc $my_name}{$total}\n";
-    print "\tFrequencia Absluta: $my_hash{$my_name}{$freq_abs} - $his_hash{lc $my_name}{$freq_abs}\n";
-    print "\tFrequencia Logaritmica: $my_hash{$my_name}{$freq_log} - $his_hash{lc $my_name}{$freq_log}\n";
+    print "\tTotal: $my_hash{$my_name}{$total} - $his_hash{$my_name}{$total}\n";
+    print "\tFrequencia Absluta: $my_hash{$my_name}{$freq_abs} - $his_hash{$my_name}{$freq_abs}\n";
+    print "\tFrequencia Logaritmica: $my_hash{$my_name}{$freq_log} - $his_hash{$my_name}{$freq_log}\n";
   }
 }
 

@@ -13,28 +13,28 @@ my $total = "Total";
 my $freq_abs = "Freq Abs";
 my $freq_log = "Freq Log";
 
-open (my $my_tabela_cidades, "<", "../Tabelas/tabela_cidades_g7.txt") or die ("Impossivel abrir o ficheiro tabela_cidades_g7.txt\n");
+open (my $my_tabela_paises, "<", "../Tabelas/tabela_paises_g7.txt") or die ("Impossivel abrir o ficheiro tabela_paises_g7.txt\n");
 
-while(<$my_tabela_cidades>){
+while(<$my_tabela_paises>){
   chomp;
   @my_campos = split (/\,/, $_,4);
   $my_hash{$my_campos[0]}{$total}=$my_campos[1];
   $my_hash{$my_campos[0]}{$freq_abs}=$my_campos[2];
   $my_hash{$my_campos[0]}{$freq_log}=$my_campos[3];
 }
-close ($my_tabela_cidades);
+close ($my_tabela_paises);
 
-open (my $his_tabela_cidades, "<", "../Grupo2/tabela_localidades_g2.txt") or die ("Impossivel abrir o ficheiro tabela_localidasdes_g2.txt\n");
+open (my $his_tabela_paises, "<", "../Grupo16/tabela_paises.txt") or die ("Impossivel abrir o ficheiro tabela_paises.txt\n");
 
-while(<$his_tabela_cidades>){
+while(<$his_tabela_paises>){
   chomp;
-  @his_campos = split (/\,/, $_,4);
+  @his_campos = split (/\-/, $_,4);
   $his_hash{$his_campos[0]}{$total}=$his_campos[1];
   $his_hash{$his_campos[0]}{$freq_abs}=$his_campos[2];
   $his_hash{$his_campos[0]}{$freq_log}=$his_campos[3];
 }
 
-close ($his_tabela_cidades);
+close ($his_tabela_paises);
 
 my $tcidades = 0;
 

@@ -13,7 +13,7 @@ my $total = "Total";
 my $freq_abs = "Freq Abs";
 my $freq_log = "Freq Log";
 
-open (my $my_tabela_nomes, "<", "../Tabelas/tabela_nomes_g7.txt") or die ("Impossivel abrir o ficheiro tabela_nomes.txt\n");
+open (my $my_tabela_nomes, "<", "../Tabelas/tabela_nomes_g7.txt") or die ("Impossivel abrir o ficheiro tabela_nomes_g7.txt\n");
 
 while(<$my_tabela_nomes>){
   chomp;
