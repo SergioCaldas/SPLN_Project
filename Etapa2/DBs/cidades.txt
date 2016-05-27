@@ -3464,7 +3464,6 @@ Parintins
 Paripiranga
 Paripueira
 Pariquera-Açu
-Parisi
 Parnaguá
 Parnamirim
 Parnarama
@@ -5127,7 +5126,7 @@ Una
 Unaí
 Uniflor
 Unistalda
-União
+Gávea
 União da Serra
 União da Vitória
 União de Minas
