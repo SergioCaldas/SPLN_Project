@@ -9,6 +9,7 @@ my $total_palavras = 562346;
 my %paises;
 my %nomes;
 my %cidades;
+my %freq;
 
 open (my $file_paises, "<", "../DBs/cetenFolha_lista_palavras.txt") or die ("Impossivel abrir o ficheiro centenFolha_lista_palavras.txt\n");
 while(<$file_paises>){
@@ -48,6 +49,7 @@ foreach my $name (sort keys %paises){
     print "$name  $paises{$name}  $freq $log\n";
   }
 }
+
 
 sub log10{
   my $n = shift;
