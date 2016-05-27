@@ -37,8 +37,21 @@ close ($file_cidades);
 
 open (my $jb_file, "<", "../jb.xml") or die ("Impossivel abrir o ficheiro jb.xml\n");
 
+# personal name
+my $pm = qr{[[:upper:]]\w+};
+# prepositions
+my $prep = qr{d[eoa`]s?};
+# compound perlsonal name
+my $np = qr{$pm( ($prep )?$pm)*};
+
 while (<$jb_file>){
-  while( /\w+(-\w+)*/g ){
+
+  next if /^</; # ignore tags
+  next if /<tag>.*/; #ignore text from tag tag
+  next if /<t>.*/; # ignore text form tag t (title)
+  next if /<sec>.*/; # ignore text form tag sec (section)
+
+  while( /$np|\w+(-\w+)*/g ){
     my $palavra = $&;
     if(exists $paises{$palavra}){
       $paises{$palavra}++;
