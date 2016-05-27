@@ -46,10 +46,9 @@ foreach my $name (sort keys %paises){
     $freq = sprintf("%.4f",$freq);
     my $log = log10($paises{$name});
     $log = sprintf("%.4f",$log);
-    print "$name  $paises{$name}  $freq $log\n";
+    print "$name,$paises{$name},$freq,$log\n";
   }
 }
-
 
 sub log10{
   my $n = shift;
