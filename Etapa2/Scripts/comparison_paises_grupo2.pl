@@ -1,11 +1,24 @@
 #!/usr/bin/perl
 
-use warnings;
+=head1 Descricao da Script
+  Esta script faz uma comparacao das nossas frequencias com as frequencias calculadas pelo grupo 2 relativamente aos paises
+=cut
+
+=head1 Modulos
+  Modulos usados nesta script
+=cut
+
+use Pod::Text;
+use warnings; 
 use strict;
 use Data::Dumper;
 use utf8::all;
 
-my @my_campos;
+
+=head1 Variaveis
+  Variaveis utilizadas neste script
+=cut
+
 my @his_campos;
 my %my_hash;
 my %his_hash;
@@ -13,8 +26,14 @@ my $total = "Total";
 my $freq_abs = "Freq Abs";
 my $freq_log = "Freq Log";
 
+=head1 Open
+  Funcao que abre a nossa tabela de paises e grava na variavel my_tabela_paises
+=cut
 open (my $my_tabela_paises, "<", "../Tabelas/tabela_paises_g7.txt") or die ("Impossivel abrir o ficheiro tabela_paises_g7.txt\n");
 
+=head1 Preenchimenento das Hash's
+  Este excerto de codigo preenche uma hash com a informacao dos nossos paises
+=cut
 while(<$my_tabela_paises>){
   chomp;
   @my_campos = split (/\,/, $_,4);
@@ -24,7 +43,15 @@ while(<$my_tabela_paises>){
 }
 close ($my_tabela_paises);
 
+=head1 Open
+  Funcao que abre a tabela de paises do grupo 2 e grava na variavel his_tabela_paises
+=cut
+
 open (my $his_tabela_paises, "<", "../Grupo2/tabela_paises_g2.txt") or die ("Impossivel abrir o ficheiro tabela_paises_g2.txt\n");
+
+=head1 Preenchimenento das Hash's
+  Este excerto de codigo preenche uma hash com a informacao dos paises do grupo 2
+=cut
 
 while(<$his_tabela_paises>){
   chomp;
@@ -36,16 +63,19 @@ while(<$his_tabela_paises>){
 
 close ($his_tabela_paises);
 
-my $tcidades = 0;
+my $tpaises = 0;
 
-foreach my $my_cidade (sort keys %my_hash){
-  if(exists $his_hash{$my_cidade}){
-    $tcidades++;
-    print "$my_cidade\n";
-    print "\tTotal: $my_hash{$my_cidade}{$total} - $his_hash{$my_cidade}{$total}\n";
-    print "\tFrequencia Absluta: $my_hash{$my_cidade}{$freq_abs} - $his_hash{$my_cidade}{$freq_abs}\n";
-    print "\tFrequencia Logaritmica: $my_hash{$my_cidade}{$freq_log} - $his_hash{$my_cidade}{$freq_log}\n";
+=head1 Print das frequencias dos dois grupos
+  Este excerto de codigo faz um print dos paises em comum com os dois grupos
+=cut
+foreach my $my_paises (sort keys %my_hash){
+  if(exists $his_hash{$my_paises}){
+    $tpaises++;
+    print "$my_paises\n";
+    print "\tTotal: $my_hash{$my_paises}{$total} - $his_hash{$my_paises}{$total}\n";
+    print "\tFrequencia Absluta: $my_hash{$my_paises}{$freq_abs} - $his_hash{$my_paises}{$freq_abs}\n";
+    print "\tFrequencia Logaritmica: $my_hash{$my_paises}{$freq_log} - $his_hash{$my_paises}{$freq_log}\n";
   }
 }
 
-print "\nTotal de Cidades em Comum entre os dois Grupos: $tcidades\n";
+print "\nTotal de Cidades em Comum entre os dois Grupos: $tpaises\n";

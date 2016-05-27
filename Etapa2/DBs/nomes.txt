@@ -603,6 +603,7 @@ Córito
 Corsino
 Cosete
 Cosme
+Costa
 Cremilda
 Cremilde
 Crestila
@@ -1003,6 +1004,7 @@ Feliz
 Ferdinando
 Fernandina
 Fernandino
+Fernandes
 Fernão
 Ferrer
 Fiama
@@ -1698,7 +1700,9 @@ Luz
 Luzia
 Luzinira
 Luzio
-Mélanie/Melanie/Melânia
+Mélanie
+Melanie
+Melânia
 Melinda
 Madalena
 Mafalda
@@ -1706,8 +1710,8 @@ Magali
 Magda
 Mamede
 Manel
-Manuel (
-Manuela (
+Manuel
+Manuela
 Mara
 Márcia
 Marcilene
@@ -1730,9 +1734,11 @@ Marli
 Marta
 Martim
 Martinho
-Mateus (
+Mateus
 Matias
-Matilde/Matilda/Maude
+Matilde
+Matilda
+Maude
 Maurício
 Maura
 Mauro
@@ -1769,7 +1775,8 @@ Natalina
 Natércia
 Natividade
 Nazaré
-Nelson/Nélson
+Nelson
+Nélson
 Nestor
 Neusa
 Neuza
@@ -1788,8 +1795,10 @@ Noémia
 Norberto
 Normando
 Nuno
-Octávio/Otávio
-Octávia/Otávia
+Octávio
+Otávio
+Octávia
+Otávia
 Odete
 Odilia
 Ofélia
@@ -1827,6 +1836,7 @@ Petra
 Penélope
 Pépio
 Piedade
+Pinto
 Plácido
 Plínio
 Políbio
@@ -1896,7 +1906,8 @@ Rudi
 Rufus
 Rui
 Russel
-Rute/Ruth
+Rute
+Ruth
 Ruca
 Sabina
 Sabino
