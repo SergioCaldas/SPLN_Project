@@ -10,7 +10,7 @@ my %paises;
 my %nomes;
 my %cidades;
 
-open (my $file_paises, "<", "../DBs/centenFolha_lista_palavras.txt") or die ("Impossivel abrir o ficheiro centenFolha_lista_palavras.txt\n");
+open (my $file_paises, "<", "../DBs/cetenFolha_lista_palavras.txt") or die ("Impossivel abrir o ficheiro centenFolha_lista_palavras.txt\n");
 while(<$file_paises>){
   $_ = substr($_,0,(length($_)-1));
   $paises{$_}=0;
@@ -30,7 +30,7 @@ while (<$jb_file>){
   
   while(/(\w+)*/g){
     my $palavra = $&;
-    if(exists $paises{$1}){
+    if(exists $paises{$palavra}){
       $paises{$palavra}++;
     }
     
@@ -39,13 +39,13 @@ while (<$jb_file>){
 
 close ($jb_file);
 
-foreach my $name (sort keys %nomes){
-  if($nomes{$name} > 0){
-    my $freq = ($nomes{$name}*1000000)/$total_palavras;
+foreach my $name (sort keys %paises){
+  if($paises{$name} > 0){
+    my $freq = ($paises{$name}*1000000)/$total_palavras;
     $freq = sprintf("%.4f",$freq);
-    my $log = log10($nomes{$name});
+    my $log = log10($paises{$name});
     $log = sprintf("%.4f",$log);
-    print "$name,$nomes{$name},$freq,$log\n";
+    print "$name  $paises{$name}  $freq $log\n";
   }
 }
 
