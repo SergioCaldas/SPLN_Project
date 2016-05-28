@@ -1,0 +1,556 @@
+Abdul Fattah,1,1.7783,0.0000
+Abdul Ghani,1,1.7783,0.0000
+Abdul Rashid Dostum,1,1.7783,0.0000
+Ada Colau,1,1.7783,0.0000
+Adriana Dias,1,1.7783,0.0000
+Adriana Lima,1,1.7783,0.0000
+Agnes Gund,1,1.7783,0.0000
+Agnes Odhiambo,1,1.7783,0.0000
+Alan,4,7.1131,0.6021
+Alberto,2,3.5565,0.3010
+Alberto Fujimori,3,5.3348,0.4771
+Alberto Gasbarri,1,1.7783,0.0000
+Alberto II,1,1.7783,0.0000
+Alberto Meléndez,1,1.7783,0.0000
+Alberto Nisman,7,12.4479,0.8451
+Alberto Torres,1,1.7783,0.0000
+Alcides Costa Vaz,1,1.7783,0.0000
+Aldo Moro,1,1.7783,0.0000
+Alex Perrin,2,3.5565,0.3010
+Alexandre,1,1.7783,0.0000
+Alexandre Dumas,1,1.7783,0.0000
+Alexandre Gauthier,1,1.7783,0.0000
+Alexandre Novak,1,1.7783,0.0000
+Alice,1,1.7783,0.0000
+Alice Kirchner,1,1.7783,0.0000
+Aline,1,1.7783,0.0000
+Aline Renet,1,1.7783,0.0000
+Aline Thuller,2,3.5565,0.3010
+Aléxis Tsipras,1,1.7783,0.0000
+Amado Boudou,1,1.7783,0.0000
+Amanda Bonini,1,1.7783,0.0000
+Amanda Knox,3,5.3348,0.4771
+América,57,101.3611,1.7559
+América Central,10,17.7826,1.0000
+América Latina,59,104.9176,1.7709
+Ana Pastor,1,1.7783,0.0000
+Andrea Ciacchella,1,1.7783,0.0000
+Andrea Constand,2,3.5565,0.3010
+Andrea Iervolino,1,1.7783,0.0000
+Andrea Marcucci,1,1.7783,0.0000
+Andrea Melo Aguiar,1,1.7783,0.0000
+Andrea Orlando,5,8.8913,0.6990
+Andrea Tornielli,2,3.5565,0.3010
+André Jincq,1,1.7783,0.0000
+Andrés Ibarra,1,1.7783,0.0000
+Andrés Velásquez,3,5.3348,0.4771
+Angel Castro,2,3.5565,0.3010
+Angélica Rivera,2,3.5565,0.3010
+António Costa,3,5.3348,0.4771
+António Guterres,1,1.7783,0.0000
+António Sampaio,1,1.7783,0.0000
+Aquiles,1,1.7783,0.0000
+Argentino,1,1.7783,0.0000
+Ariadna Gutierrez,1,1.7783,0.0000
+Ariadna Gutiérrez,1,1.7783,0.0000
+Ariel Sharon,1,1.7783,0.0000
+Aristóteles,2,3.5565,0.3010
+Armando Monteiro,2,3.5565,0.3010
+Armando Ortuño,1,1.7783,0.0000
+Artur Mas,6,10.6696,0.7782
+Assis,3,5.3348,0.4771
+Assunção,5,8.8913,0.6990
+Ava Duvernay,1,1.7783,0.0000
+Baltasar Garzón,2,3.5565,0.3010
+Beatriz Bissio,11,19.5609,1.0414
+Beatriz Parizotto,1,1.7783,0.0000
+Belém,1,1.7783,0.0000
+Bento XVI,57,101.3611,1.7559
+Bernardino,1,1.7783,0.0000
+Bernardino León,1,1.7783,0.0000
+Brian Donald,2,3.5565,0.3010
+Brian Farrell,1,1.7783,0.0000
+Bruce Aylward,1,1.7783,0.0000
+Bruce Springsteen,2,3.5565,0.3010
+Bruno Archi,3,5.3348,0.4771
+Bruno Caccia,1,1.7783,0.0000
+Camila Queiroz,1,1.7783,0.0000
+Carla Jimenez,1,1.7783,0.0000
+Carlo Cattaneo,1,1.7783,0.0000
+Carlo Conti,1,1.7783,0.0000
+Carlo Maria Viganó,1,1.7783,0.0000
+Carlo Rienzi,1,1.7783,0.0000
+Carlos,2,3.5565,0.3010
+Carlos Antonio Lozada,1,1.7783,0.0000
+Carlos Cué,1,1.7783,0.0000
+Carlos Magno,1,1.7783,0.0000
+Carlos Menem,2,3.5565,0.3010
+Carlos Pagni,1,1.7783,0.0000
+Carlos Rittl,11,19.5609,1.0414
+Carlos Romero,1,1.7783,0.0000
+Carlos Rosenkrant,1,1.7783,0.0000
+Carlos Slim,1,1.7783,0.0000
+Carlota,1,1.7783,0.0000
+Carole,1,1.7783,0.0000
+Carolina,68,120.9220,1.8325
+Carolina Bescansa,1,1.7783,0.0000
+Carolina StanleyMinistro,1,1.7783,0.0000
+Cecília Ishitani,1,1.7783,0.0000
+Ceres,1,1.7783,0.0000
+Cinderela,1,1.7783,0.0000
+Cirilo,29,51.5697,1.4624
+Ciro,1,1.7783,0.0000
+Ciro Benedettini,3,5.3348,0.4771
+Clara,2,3.5565,0.3010
+Clara Ahaní,1,1.7783,0.0000
+Clara Anahí,3,5.3348,0.4771
+Cristóvão Colombo,1,1.7783,0.0000
+Cândido Ferreira,1,1.7783,0.0000
+Cícero,5,8.8913,0.6990
+Cícero Romão Batista,2,3.5565,0.3010
+Daniel,2,3.5565,0.3010
+Daniel Andrews,1,1.7783,0.0000
+Daniel Caggiani,1,1.7783,0.0000
+Daniel Mariani,1,1.7783,0.0000
+Daniel Pollack,3,5.3348,0.4771
+Daniel Scioli,7,12.4479,0.8451
+Daniel Urresti,1,1.7783,0.0000
+Dante Alighieri,1,1.7783,0.0000
+Dario Franceschini,5,8.8913,0.6990
+Dario Perkins,1,1.7783,0.0000
+Dario Viganó,1,1.7783,0.0000
+David,3,5.3348,0.4771
+David Cameron,41,72.9088,1.6128
+David Duke,2,3.5565,0.3010
+David Ono,1,1.7783,0.0000
+David Scanlan,1,1.7783,0.0000
+Davide Bottro,1,1.7783,0.0000
+Denis,2,3.5565,0.3010
+Denis McDonough,1,1.7783,0.0000
+Denis Mukwege,1,1.7783,0.0000
+Denise,1,1.7783,0.0000
+Denise Peraza,1,1.7783,0.0000
+Diana,4,7.1131,0.6021
+Diana Teruggi,1,1.7783,0.0000
+Diego,1,1.7783,0.0000
+Diego Maradona,1,1.7783,0.0000
+Diego Ravelli,1,1.7783,0.0000
+Diego Rota,1,1.7783,0.0000
+Diego Torres,1,1.7783,0.0000
+Dieter Peterlin,1,1.7783,0.0000
+Dina El Kassaby,1,1.7783,0.0000
+Dino Andrei,1,1.7783,0.0000
+Diocleciano,1,1.7783,0.0000
+Domingos,1,1.7783,0.0000
+Donaldo Trump,1,1.7783,0.0000
+Dora,2,3.5565,0.3010
+Dulce Blank,1,1.7783,0.0000
+Edgar Silva,1,1.7783,0.0000
+Edith,1,1.7783,0.0000
+Eduardo Bohórquez,1,1.7783,0.0000
+Eduardo Cunha,4,7.1131,0.6021
+Eduardo Duhalde,2,3.5565,0.3010
+Elena Kagan,1,1.7783,0.0000
+Eleonora Gosman,1,1.7783,0.0000
+Elisa Carrió,1,1.7783,0.0000
+Eliseu,9,16.0044,0.9542
+Elmer Sosa,1,1.7783,0.0000
+Elsa Cayat,2,3.5565,0.3010
+Elza Fiúza,1,1.7783,0.0000
+Enrique,2,3.5565,0.3010
+Enrique Márquez,3,5.3348,0.4771
+Enrique Peña Nieto,8,14.2261,0.9031
+Enzo Biagini,1,1.7783,0.0000
+Enzo Ferrari,1,1.7783,0.0000
+Eric,2,3.5565,0.3010
+Eric Chu,5,8.8913,0.6990
+Eric Del Castillo,2,3.5565,0.3010
+Eric Garcetti,1,1.7783,0.0000
+Eric Schmidt,1,1.7783,0.0000
+Erika Guevara-Rosas,2,3.5565,0.3010
+Esmeralda Labye,1,1.7783,0.0000
+Esperança,2,3.5565,0.3010
+Estela,2,3.5565,0.3010
+Estela Carlotto,1,1.7783,0.0000
+Estrela,3,5.3348,0.4771
+Eurico Figueiredo,3,5.3348,0.4771
+Eurico Lima Figueiredo,1,1.7783,0.0000
+Fabiana Palmaghini,5,8.8913,0.6990
+Fausto Piano,3,5.3348,0.4771
+Fausto Spotorno,4,7.1131,0.6021
+Florencia,1,1.7783,0.0000
+Florença,16,28.4522,1.2041
+Flávio Soares Damico,1,1.7783,0.0000
+Francisco,421,748.6494,2.6243
+Francisco CabreraMinistro,1,1.7783,0.0000
+Francisco Flores,1,1.7783,0.0000
+Francisco Franco,1,1.7783,0.0000
+Francisco Paniagua Morgan,1,1.7783,0.0000
+Francisco Pérez,1,1.7783,0.0000
+Franco,2,3.5565,0.3010
+Franco Gabrielli,2,3.5565,0.3010
+Franco Grillini,4,7.1131,0.6021
+Franco Magni,2,3.5565,0.3010
+Franco Paradiso,1,1.7783,0.0000
+Franco Roberti,1,1.7783,0.0000
+Franklin Roosevelt,1,1.7783,0.0000
+Fátima,1,1.7783,0.0000
+Fátima Mello,1,1.7783,0.0000
+Gabriel,5,8.8913,0.6990
+Gabriel García Márquez,2,3.5565,0.3010
+Gabriel Garko,2,3.5565,0.3010
+Gabriel Godoy,1,1.7783,0.0000
+Gabriel Michetti,1,1.7783,0.0000
+Gabriela Alvarado,1,1.7783,0.0000
+Gabriela Michetti,3,5.3348,0.4771
+Gabriela Vasile,1,1.7783,0.0000
+Gabriela Zapata,8,14.2261,0.9031
+Garcia Linera,1,1.7783,0.0000
+Geraldo,1,1.7783,0.0000
+Gerson Gálvez,1,1.7783,0.0000
+Gina McCarthy,1,1.7783,0.0000
+Gino Pollicardo,2,3.5565,0.3010
+Gino Toni Bellomo,1,1.7783,0.0000
+Gino Tullicardo,1,1.7783,0.0000
+Gisela Mota,1,1.7783,0.0000
+Gisela Mota Ocampo,1,1.7783,0.0000
+Graciela Bevacqua,1,1.7783,0.0000
+Graciela Fernández Meijide,1,1.7783,0.0000
+Graça Lima,1,1.7783,0.0000
+Gui Minhai,1,1.7783,0.0000
+Guido Bertolaso,1,1.7783,0.0000
+Guido Todeschini,1,1.7783,0.0000
+Gustavo,1,1.7783,0.0000
+Gustavo Santos,1,1.7783,0.0000
+Hebe,1,1.7783,0.0000
+Henrique,1,1.7783,0.0000
+Henrique Capriles,4,7.1131,0.6021
+Henrique Neto,1,1.7783,0.0000
+Henrique Peña Nieto,1,1.7783,0.0000
+Henrique Pizzolato,1,1.7783,0.0000
+Heraldo Muñoz,1,1.7783,0.0000
+Horácio Cartes,1,1.7783,0.0000
+Hugo Bustíos,2,3.5565,0.3010
+Hugo Cabezas,2,3.5565,0.3010
+Hugo Chávez,29,51.5697,1.4624
+Hugo Godoy,1,1.7783,0.0000
+Hugo Maldonado,1,1.7783,0.0000
+Hugo Moyano,1,1.7783,0.0000
+Hugo Swire,1,1.7783,0.0000
+Hugo Yasky,1,1.7783,0.0000
+Ian Somerhalder,1,1.7783,0.0000
+Iara,2,3.5565,0.3010
+Ida,1,1.7783,0.0000
+Igor Konashenko,1,1.7783,0.0000
+Ilda Boccassini,1,1.7783,0.0000
+Ingrid Oliveira,1,1.7783,0.0000
+Irina Bokova,2,3.5565,0.3010
+Isabel Kershner,1,1.7783,0.0000
+Isis,159,282.7441,2.2014
+Ismael Pimental,1,1.7783,0.0000
+Ivan Nikitchuk,1,1.7783,0.0000
+Ivan Zvonimir Cicak,1,1.7783,0.0000
+Jacob,1,1.7783,0.0000
+Jacqueline,3,5.3348,0.4771
+Jacqueline Leathers,1,1.7783,0.0000
+Jaime Ortega,1,1.7783,0.0000
+Jaime Rodriguez,2,3.5565,0.3010
+Jaime Rodríguez,1,1.7783,0.0000
+James,1,1.7783,0.0000
+James Bond,1,1.7783,0.0000
+James Brokenshire,1,1.7783,0.0000
+James Comey,2,3.5565,0.3010
+James Kanter,1,1.7783,0.0000
+James Soong,1,1.7783,0.0000
+Jasmim,3,5.3348,0.4771
+Jesus,26,46.2349,1.4150
+Jesus Chuo Torrealba,1,1.7783,0.0000
+Jesus Cristo,4,7.1131,0.6021
+Jesus Torrealba,2,3.5565,0.3010
+Joel Millman,1,1.7783,0.0000
+Jonas,6,10.6696,0.7782
+Jorge Bergoglio,25,44.4566,1.3979
+Jorge Castro,1,1.7783,0.0000
+Jorge Kirszenbaum,1,1.7783,0.0000
+Jorge LemusMinistra,1,1.7783,0.0000
+Jorge Luis Borges,1,1.7783,0.0000
+Jorge Mario Bergoglio,55,97.8046,1.7404
+Jorge Mario Bergolgio,1,1.7783,0.0000
+Jorge Mario Bergolio,1,1.7783,0.0000
+Jorge Mortean,1,1.7783,0.0000
+Jorge Palacios,1,1.7783,0.0000
+Jorge Quiroga,2,3.5565,0.3010
+Jorge Rafael Videla,1,1.7783,0.0000
+Jorge Rodríguez,1,1.7783,0.0000
+Jorge Sequeira,1,1.7783,0.0000
+Jorge Todesca,1,1.7783,0.0000
+Jorge Triaca,1,1.7783,0.0000
+Josefina Vidal,1,1.7783,0.0000
+José,3,5.3348,0.4771
+José Alfredo Graça Lima,1,1.7783,0.0000
+José Antônio Marcondes,1,1.7783,0.0000
+José Fernandez Albertos,2,3.5565,0.3010
+José Guadalupe Martín,1,1.7783,0.0000
+José Guadalupe Torres,1,1.7783,0.0000
+José Ignacio López,1,1.7783,0.0000
+José Luis Alonso,1,1.7783,0.0000
+José Luis Zapatero,1,1.7783,0.0000
+José Manuel Barroso,1,1.7783,0.0000
+José Manuel Olivares,2,3.5565,0.3010
+José Maria Marin,2,3.5565,0.3010
+José Maria Morelos,1,1.7783,0.0000
+José Martí,2,3.5565,0.3010
+José Mendonza,1,1.7783,0.0000
+José Mujica,3,5.3348,0.4771
+José Plaza,1,1.7783,0.0000
+João Gomes Cravinho,1,1.7783,0.0000
+João Paulo,1,1.7783,0.0000
+João Paulo II,12,21.3392,1.0792
+João Paulo Mori,1,1.7783,0.0000
+Juliana Awada,4,7.1131,0.6021
+Júlio Borges,1,1.7783,0.0000
+Júlio Ygarza,1,1.7783,0.0000
+Katia Uriona,1,1.7783,0.0000
+Kelly,6,10.6696,0.7782
+Lana,1,1.7783,0.0000
+Lara Guerra,1,1.7783,0.0000
+Laura,2,3.5565,0.3010
+Laura Boldrini,6,10.6696,0.7782
+Laura Chinchilla,1,1.7783,0.0000
+Laura Croix,1,1.7783,0.0000
+Laura Keller,1,1.7783,0.0000
+Laura Pausini,1,1.7783,0.0000
+Laura Sgrò,2,3.5565,0.3010
+Laureano González,1,1.7783,0.0000
+Leo Gabriel,1,1.7783,0.0000
+Leo Wencel,1,1.7783,0.0000
+Leonardo Daldegan,2,3.5565,0.3010
+Leonardo Di Caprio,1,1.7783,0.0000
+Leonardo DiCaprio,3,5.3348,0.4771
+Leonida Rossi,1,1.7783,0.0000
+Liberdade,4,7.1131,0.6021
+Libertário Rand Paul,1,1.7783,0.0000
+Lilian,1,1.7783,0.0000
+Lilian Tintori,8,14.2261,0.9031
+Lina Ruz,1,1.7783,0.0000
+Lino Barañao,1,1.7783,0.0000
+Lino BarañaoMinistro,1,1.7783,0.0000
+Lira,2,3.5565,0.3010
+Lisa,2,3.5565,0.3010
+Lua Cheia,4,7.1131,0.6021
+Lua Cheia Fria,1,1.7783,0.0000
+Luca,2,3.5565,0.3010
+Luca Coletto,1,1.7783,0.0000
+Luca Screti,1,1.7783,0.0000
+Lucena,1,1.7783,0.0000
+Lusa,6,10.6696,0.7782
+Luís Fernando,1,1.7783,0.0000
+Luís Nassif,1,1.7783,0.0000
+Luís Salas,1,1.7783,0.0000
+Lázaro,1,1.7783,0.0000
+Mara,1,1.7783,0.0000
+Mara Popovic,1,1.7783,0.0000
+Marcelo Castro,1,1.7783,0.0000
+Marcelo Rebelo,5,8.8913,0.6990
+Marcelo Zuliani,1,1.7783,0.0000
+Marco,1,1.7783,0.0000
+Marco Antônio Lage,1,1.7783,0.0000
+Marco Archer,2,3.5565,0.3010
+Marco Bernardi,1,1.7783,0.0000
+Marco Cappato,1,1.7783,0.0000
+Marco Carnelos,3,5.3348,0.4771
+Marco Montanaro,1,1.7783,0.0000
+Marco Pannella,1,1.7783,0.0000
+Marco Parma,1,1.7783,0.0000
+Marco Rubio,51,90.6915,1.7076
+Marco Sanavio,1,1.7783,0.0000
+Marco Vegezzi,3,5.3348,0.4771
+Marcos Peña,5,8.8913,0.6990
+Marcos Terena,1,1.7783,0.0000
+Maria,3,5.3348,0.4771
+Maria Corina Machado,1,1.7783,0.0000
+Maria Elena Boschi,6,10.6696,0.7782
+Maria Grazia,1,1.7783,0.0000
+Maria Grazia Sangalli,1,1.7783,0.0000
+Maria Isabel,4,7.1131,0.6021
+Maria Montessori,2,3.5565,0.3010
+Maria Prata,1,1.7783,0.0000
+Maria Rosa,1,1.7783,0.0000
+Maria Zakharova,2,3.5565,0.3010
+Mariana,3,5.3348,0.4771
+Mariano Rajoy,22,39.1218,1.3424
+Mariano Recalde,1,1.7783,0.0000
+Marina,2,3.5565,0.3010
+Marina Litvinenko,1,1.7783,0.0000
+Marisa,2,3.5565,0.3010
+Marisa Matias,1,1.7783,0.0000
+Marta Mirazon Lahr,2,3.5565,0.3010
+Marta Simeone,1,1.7783,0.0000
+Martinho Lutero,1,1.7783,0.0000
+Mauro Cardaio,1,1.7783,0.0000
+Mauro Felicori,1,1.7783,0.0000
+Mauro Vieira,9,16.0044,0.9542
+Mauro Viera,1,1.7783,0.0000
+Melissa Chan,1,1.7783,0.0000
+Mercedes,1,1.7783,0.0000
+Michele Emiliano,1,1.7783,0.0000
+Michele Grossi,1,1.7783,0.0000
+Michele Obama,1,1.7783,0.0000
+Michele Valensise,2,3.5565,0.3010
+Michele Zagaria,1,1.7783,0.0000
+Miguel Angel Rodriguez,1,1.7783,0.0000
+Miguel Antonio Caro,1,1.7783,0.0000
+Miguel Godoy,1,1.7783,0.0000
+Miguel Perez,1,1.7783,0.0000
+Miguel Tomaszek,1,1.7783,0.0000
+Miguel Treviño,1,1.7783,0.0000
+Murilo Ferreira,1,1.7783,0.0000
+Márcio Malta,2,3.5565,0.3010
+Nestor,3,5.3348,0.4771
+Nestor Kirchner,7,12.4479,0.8451
+Nicolas,1,1.7783,0.0000
+Nicolas Appert,1,1.7783,0.0000
+Nicolas Maduro,5,8.8913,0.6990
+Nicolas Masse,1,1.7783,0.0000
+Nicolas Sarkozy,13,23.1174,1.1139
+Noel Sanvicente,1,1.7783,0.0000
+Oliveira Ribeiro,1,1.7783,0.0000
+Omar,2,3.5565,0.3010
+Omar Ruiz,1,1.7783,0.0000
+Palmira,1,1.7783,0.0000
+Pandora,1,1.7783,0.0000
+Patrícia,3,5.3348,0.4771
+Patrícia BullrichMinistro,1,1.7783,0.0000
+Paulo,2,3.5565,0.3010
+Paulo Bauer,1,1.7783,0.0000
+Paulo Buss,1,1.7783,0.0000
+Paulo Estivallet,2,3.5565,0.3010
+Paulo Morais,1,1.7783,0.0000
+Paulo Pinheiro,1,1.7783,0.0000
+Paulo Skaf,2,3.5565,0.3010
+Paulo VI,5,8.8913,0.6990
+Pedro,3,5.3348,0.4771
+Pedro Barineau,1,1.7783,0.0000
+Pedro Bay,1,1.7783,0.0000
+Pedro Bial,1,1.7783,0.0000
+Pedro Pablo Kuczynski,3,5.3348,0.4771
+Pedro Parolin,1,1.7783,0.0000
+Pedro Passos Coelho,2,3.5565,0.3010
+Pedro Sanchez,6,10.6696,0.7782
+Pedro Sánchez,5,8.8913,0.6990
+Pedro Telles,2,3.5565,0.3010
+Pedro Valdo,1,1.7783,0.0000
+Rafael Behr,1,1.7783,0.0000
+Rafael Correa,6,10.6696,0.7782
+Rafael Esquivel,1,1.7783,0.0000
+Rafael Ramirez,1,1.7783,0.0000
+Raquel Lopez,1,1.7783,0.0000
+Regina Coeli,1,1.7783,0.0000
+Regina Margherita,1,1.7783,0.0000
+Remo,1,1.7783,0.0000
+Renata Bueno,2,3.5565,0.3010
+Renato,1,1.7783,0.0000
+Renato Bialetti,2,3.5565,0.3010
+Renato Brunetta,2,3.5565,0.3010
+Ricardo Amaral Filho,1,1.7783,0.0000
+Ricardo Berzoini,1,1.7783,0.0000
+Ricardo BuryaileMinistro,1,1.7783,0.0000
+Ricardo Ferraço,1,1.7783,0.0000
+Ricardo Martinelli,1,1.7783,0.0000
+Ricardo Patiño,1,1.7783,0.0000
+Ricardo Sáenz,2,3.5565,0.3010
+Rita,4,7.1131,0.6021
+Rita Fossaceca,2,3.5565,0.3010
+Rita Katz,3,5.3348,0.4771
+Roberta Pinotti,2,3.5565,0.3010
+Roberto,1,1.7783,0.0000
+Roberto Bacman,1,1.7783,0.0000
+Roberto Baradel,1,1.7783,0.0000
+Roberto Benigni,3,5.3348,0.4771
+Roberto Caldas,18,32.0088,1.2553
+Roberto Calvi,1,1.7783,0.0000
+Roberto Dromi,1,1.7783,0.0000
+Roberto Fico,1,1.7783,0.0000
+Roberto Lavagna,1,1.7783,0.0000
+Roberto Maroni,3,5.3348,0.4771
+Roberto Morassut,1,1.7783,0.0000
+Roberto Robadey,1,1.7783,0.0000
+Roberto Saviano,2,3.5565,0.3010
+Roberto Teixeira,1,1.7783,0.0000
+Rodrigo,2,3.5565,0.3010
+Rodrigo Cabezas,2,3.5565,0.3010
+Rodrigo Estrela,1,1.7783,0.0000
+Rodrigo Godoy,1,1.7783,0.0000
+Rodrigo Oliveira,1,1.7783,0.0000
+Romano Mussolini,1,1.7783,0.0000
+Romano Prodi,2,3.5565,0.3010
+Rosa,1,1.7783,0.0000
+Rosa Capuozzo,4,7.1131,0.6021
+Rosa Parks,2,3.5565,0.3010
+Sabrina,2,3.5565,0.3010
+Salma,3,5.3348,0.4771
+Salvador,1,1.7783,0.0000
+Salvador Allende,1,1.7783,0.0000
+Samir,3,5.3348,0.4771
+Samir Kantar,1,1.7783,0.0000
+Samuel Weldemicael,2,3.5565,0.3010
+Sancho,1,1.7783,0.0000
+Sandro Rosell,1,1.7783,0.0000
+Santa,1,1.7783,0.0000
+Santa Basílica,1,1.7783,0.0000
+Santa Catarina,1,1.7783,0.0000
+Santa Claus,2,3.5565,0.3010
+Santa Cruz,7,12.4479,0.8451
+Santa Família,1,1.7783,0.0000
+Santa Maria Maggiore,3,5.3348,0.4771
+Santa Maria Maior,1,1.7783,0.0000
+Santa Marta,5,8.8913,0.6990
+Santa Sofia,3,5.3348,0.4771
+Santa Sé,59,104.9176,1.7709
+Santiago,5,8.8913,0.6990
+Santos,11,19.5609,1.0414
+Santos Abril,1,1.7783,0.0000
+Sara Garfunkel,1,1.7783,0.0000
+Sarah Crowe,2,3.5565,0.3010
+Sarah Palin,2,3.5565,0.3010
+Sarah Soule,1,1.7783,0.0000
+Saúl Garay,1,1.7783,0.0000
+Sebastião Salgado,1,1.7783,0.0000
+Selena Gomez,1,1.7783,0.0000
+Selma,1,1.7783,0.0000
+Serena Williams,1,1.7783,0.0000
+Sheila Homsani,2,3.5565,0.3010
+Siena,5,8.8913,0.6990
+Silvana Ballotta,1,1.7783,0.0000
+Silvano Cassano,2,3.5565,0.3010
+Socorro,1,1.7783,0.0000
+Socorro Gomes,1,1.7783,0.0000
+Sol,2,3.5565,0.3010
+Solange Reis,1,1.7783,0.0000
+Susana,1,1.7783,0.0000
+Susana Malcorra,8,14.2261,0.9031
+Susana MalcorraMinistro,1,1.7783,0.0000
+Susana Villarán,1,1.7783,0.0000
+Susana Virginia Barreiros Rodriguez,1,1.7783,0.0000
+Sérgio BergmanMiinistro Meios Publicos,1,1.7783,0.0000
+Teresa,1,1.7783,0.0000
+Teresa Castaldo,1,1.7783,0.0000
+Teresa Ribera,1,1.7783,0.0000
+Tomás Guanipa,2,3.5565,0.3010
+Tomás Rincón,1,1.7783,0.0000
+Urânio,1,1.7783,0.0000
+Vasco Rossi,1,1.7783,0.0000
+Victor Ezugwu,1,1.7783,0.0000
+Victor Hugo,1,1.7783,0.0000
+Victor Mallet,1,1.7783,0.0000
+Victor Orban,1,1.7783,0.0000
+Victor Rodriguez Cedeño,1,1.7783,0.0000
+Victor-Hugo,1,1.7783,0.0000
+Vida,2,3.5565,0.3010
+Vida Silvestre,2,3.5565,0.3010
+Violeta Bulc,1,1.7783,0.0000
+Vitória,7,12.4479,0.8451
+Viviana Fein,2,3.5565,0.3010
+Wilson Naval Hospital,1,1.7783,0.0000
+Xavier Bertrand,5,8.8913,0.6990
+Yuri Ushakov,2,3.5565,0.3010

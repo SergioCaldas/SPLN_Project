@@ -1,0 +1,2117 @@
+Abdul,3,1.5938,0.4771
+Abrão,1,0.5313,0.0000
+Abílio,3,1.5938,0.4771
+Acir Gurgacz,1,0.5313,0.0000
+Ada,1,0.5313,0.0000
+Adalberto,17,9.0315,1.2304
+Adalberto Cardoso,1,0.5313,0.0000
+Adalgisa,1,0.5313,0.0000
+Adamastor,1,0.5313,0.0000
+Adelaide,3,1.5938,0.4771
+Adelaide dos Santos,1,0.5313,0.0000
+Adriana,19,10.0940,1.2788
+Adriana Duarte,1,0.5313,0.0000
+Adriana Freitas,1,0.5313,0.0000
+Adriano,32,17.0005,1.5051
+Adriano Imperador,1,0.5313,0.0000
+Adriano Marcelo Firmino,1,0.5313,0.0000
+Adriano Oliveira,1,0.5313,0.0000
+Adriano Souza,1,0.5313,0.0000
+Adriano dos Santos,1,0.5313,0.0000
+Adriel,1,0.5313,0.0000
+Adrien,1,0.5313,0.0000
+Adão,4,2.1251,0.6021
+Adão Orlando Silva Moraes,1,0.5313,0.0000
+Adílio,2,1.0625,0.3010
+Afonso,4,2.1251,0.6021
+Afonso Celso,2,1.0625,0.3010
+Afonso Costa,1,0.5313,0.0000
+Africana,3,1.5938,0.4771
+Africano,2,1.0625,0.3010
+Afrânio,7,3.7188,0.8451
+Afrânio Antônio,1,0.5313,0.0000
+Afrânio Costa,4,2.1251,0.6021
+Agenor,2,1.0625,0.3010
+Agenor Alves,1,0.5313,0.0000
+Aguiar,3,1.5938,0.4771
+Aguiar Junior,1,0.5313,0.0000
+Aguiar Rodrigues,1,0.5313,0.0000
+Aires,8,4.2501,0.9031
+Airton,2,1.0625,0.3010
+Alain,3,1.5938,0.4771
+Alain Bourdon,1,0.5313,0.0000
+Alan,36,19.1255,1.5563
+Alan Anderson,1,0.5313,0.0000
+Alan Kardec,18,9.5628,1.2553
+Alan Kardec Técnico,1,0.5313,0.0000
+Alan Rezende,1,0.5313,0.0000
+Alan Silva,1,0.5313,0.0000
+Alba,5,2.6563,0.6990
+Albert,14,7.4377,1.1461
+Albert Einstein,11,5.8439,1.0414
+Albert Ramos,1,0.5313,0.0000
+Alberto,47,24.9694,1.6721
+Alberto Feiden,1,0.5313,0.0000
+Alberto Meléndez,2,1.0625,0.3010
+Alberto Oliveira,1,0.5313,0.0000
+Alberto Salazar,1,0.5313,0.0000
+Alberto Silva,3,1.5938,0.4771
+Alberto Takeda,1,0.5313,0.0000
+Alcides,1,0.5313,0.0000
+Alcides Carneiro,1,0.5313,0.0000
+Alcino,1,0.5313,0.0000
+Aldo,3,1.5938,0.4771
+Alegria,39,20.7193,1.5911
+Alessandra,15,7.9690,1.1761
+Alessandra Lira,1,0.5313,0.0000
+Alessandra Ramos,2,1.0625,0.3010
+Alessandra Regina,1,0.5313,0.0000
+Alessandra Scagliarini,1,0.5313,0.0000
+Alessandro,18,9.5628,1.2553
+Alessandro Cardozo,1,0.5313,0.0000
+Alessandro Volta,1,0.5313,0.0000
+Alex,26,13.8129,1.4150
+Alex Alves Guedes,1,0.5313,0.0000
+Alex Henrique Conceição,1,0.5313,0.0000
+Alex Oliveira,2,1.0625,0.3010
+Alex Reinaldo,1,0.5313,0.0000
+Alex Sandro,5,2.6563,0.6990
+Alex Santos,1,0.5313,0.0000
+Alex Silva,1,0.5313,0.0000
+Alex Teixeira,3,1.5938,0.4771
+Alexandra,10,5.3126,1.0000
+Alexandra Daddario,1,0.5313,0.0000
+Alexandre,80,42.5011,1.9031
+Alexandre Amorim,1,0.5313,0.0000
+Alexandre Andrés,1,0.5313,0.0000
+Alexandre Breda,3,1.5938,0.4771
+Alexandre Cardoso,2,1.0625,0.3010
+Alexandre Coutinho,1,0.5313,0.0000
+Alexandre Elias,1,0.5313,0.0000
+Alexandre Fernandes,1,0.5313,0.0000
+Alexandre Gomes,2,1.0625,0.3010
+Alexandre Lino,5,2.6563,0.6990
+Alexandre Louzada,8,4.2501,0.9031
+Alexandre Rodrigues Mendonça,1,0.5313,0.0000
+Alexandre Santos Fernandes,1,0.5313,0.0000
+Alexandre dos Santos Souza,1,0.5313,0.0000
+Alexandrina,1,0.5313,0.0000
+Alexandrino,1,0.5313,0.0000
+Alice,16,8.5002,1.2041
+Alice Graciano Souza,2,1.0625,0.3010
+Alice Nascimento,1,0.5313,0.0000
+Alighieri,1,0.5313,0.0000
+Aline,3,1.5938,0.4771
+Aline Oliveira,1,0.5313,0.0000
+Aline Rosa,2,1.0625,0.3010
+Alma,5,2.6563,0.6990
+Almeida,22,11.6878,1.3424
+Almeida Moraes Junior,1,0.5313,0.0000
+Almeida Moraes Júnior,1,0.5313,0.0000
+Almeida Santos,1,0.5313,0.0000
+Aloísio,3,1.5938,0.4771
+Aloísio Sabino,1,0.5313,0.0000
+Alva,2,1.0625,0.3010
+Alves,7,3.7188,0.8451
+Alzira,2,1.0625,0.3010
+Amanda,10,5.3126,1.0000
+Amanda Amado,5,2.6563,0.6990
+Amanda Azevedo,2,1.0625,0.3010
+Amanda Oliveira,1,0.5313,0.0000
+Amarildo,18,9.5628,1.2553
+Amaro,6,3.1876,0.7782
+Amauri,2,1.0625,0.3010
+Amauri Santos,1,0.5313,0.0000
+Amor,42,22.3131,1.6232
+Amor Verdadeiro,1,0.5313,0.0000
+Amora,2,1.0625,0.3010
+Amorim,6,3.1876,0.7782
+Amélia,1,0.5313,0.0000
+América,392,208.2555,2.5933
+Américo,1,0.5313,0.0000
+Américo Leal,1,0.5313,0.0000
+Ana,41,21.7818,1.6128
+Ana Arruda Callado,2,1.0625,0.3010
+Ana Azevedo,2,1.0625,0.3010
+Ana Batista,2,1.0625,0.3010
+Ana Carolina,16,8.5002,1.2041
+Ana Carolina Nascimento,1,0.5313,0.0000
+Ana Clara,7,3.7188,0.8451
+Ana Cláudia,2,1.0625,0.3010
+Ana Costa,7,3.7188,0.8451
+Ana Elisa,5,2.6563,0.6990
+Ana Flávia,1,0.5313,0.0000
+Ana Helena,2,1.0625,0.3010
+Ana Heloísa,1,0.5313,0.0000
+Ana Luzia,1,0.5313,0.0000
+Ana Luísa,1,0.5313,0.0000
+Ana Lívia,1,0.5313,0.0000
+Ana Lúcia,4,2.1251,0.6021
+Ana Lúcia Lopes,1,0.5313,0.0000
+Ana Maria,7,3.7188,0.8451
+Ana Maria Fonseca Almeida,1,0.5313,0.0000
+Ana Maria Machado,3,1.5938,0.4771
+Ana Maria dos Santos Rocha,1,0.5313,0.0000
+Ana Marta,1,0.5313,0.0000
+Ana Patrícia Oliveira,1,0.5313,0.0000
+Ana Paula,11,5.8439,1.0414
+Ana Paula Guedes,1,0.5313,0.0000
+Ana Paula Pinto,1,0.5313,0.0000
+Ana Paula Silva,2,1.0625,0.3010
+Ana Rodrigues,1,0.5313,0.0000
+Ana Sofia,1,0.5313,0.0000
+Analice,1,0.5313,0.0000
+Ananias,2,1.0625,0.3010
+Andrea,33,17.5317,1.5185
+Andrea Bordadagua,1,0.5313,0.0000
+Andrea Maciel,1,0.5313,0.0000
+Andrea Orlando,2,1.0625,0.3010
+Andrea Santa Rosa Garcia,2,1.0625,0.3010
+Andreia,3,1.5938,0.4771
+Andreia Bandeira,1,0.5313,0.0000
+André,114,60.5641,2.0569
+André Alves,2,1.0625,0.3010
+André Cardoso,2,1.0625,0.3010
+André Coutinho,1,0.5313,0.0000
+André Fernandes,2,1.0625,0.3010
+André Figueiredo,7,3.7188,0.8451
+André Gracindo,1,0.5313,0.0000
+André Granado,1,0.5313,0.0000
+André Lopes,1,0.5313,0.0000
+André Luiz,5,2.6563,0.6990
+André Luiz Oliveira,1,0.5313,0.0000
+André Luís dos Santos,1,0.5313,0.0000
+André Oliveira,2,1.0625,0.3010
+André Renato,8,4.2501,0.9031
+André Rodrigues,1,0.5313,0.0000
+André Santos,1,0.5313,0.0000
+André Silva,2,1.0625,0.3010
+André Sá,2,1.0625,0.3010
+André Tandeta,1,0.5313,0.0000
+Andrés,33,17.5317,1.5185
+Angel,10,5.3126,1.0000
+Angélica,3,1.5938,0.4771
+Anita,15,7.9690,1.1761
+Anitta,18,9.5628,1.2553
+Anne,14,7.4377,1.1461
+Anne Hidalgo,3,1.5938,0.4771
+Anselmo Duarte,2,1.0625,0.3010
+Antero,14,7.4377,1.1461
+Antonieta,2,1.0625,0.3010
+Antonina,1,0.5313,0.0000
+Antonio,47,24.9694,1.6721
+Antonio Carlos,10,5.3126,1.0000
+Antonio Cruz,1,0.5313,0.0000
+Antonio Fagundes,1,0.5313,0.0000
+Antonio Pedro,4,2.1251,0.6021
+Antonio Sales,1,0.5313,0.0000
+Antonio Teixeira Junior,1,0.5313,0.0000
+Antonio Virgínio,1,0.5313,0.0000
+Antonio Zago,1,0.5313,0.0000
+Antônio,45,23.9069,1.6532
+Antônio Assis,1,0.5313,0.0000
+Antônio Carlos,15,7.9690,1.1761
+Antônio Carlos Costa,2,1.0625,0.3010
+Antônio Carlos Figueiredo,1,0.5313,0.0000
+Antônio Carlos Rodrigues,2,1.0625,0.3010
+Antônio Cid,1,0.5313,0.0000
+Antônio Frederico,1,0.5313,0.0000
+Antônio Furtado,1,0.5313,0.0000
+Antônio José Fernandes,1,0.5313,0.0000
+Antônio Junior,1,0.5313,0.0000
+Antônio Pedro,2,1.0625,0.3010
+Antônio Prado,1,0.5313,0.0000
+Antônio Raimundo,1,0.5313,0.0000
+Antônio Rodrigues,1,0.5313,0.0000
+Antônio Teixeira Junior,1,0.5313,0.0000
+Antônio Tomé,1,0.5313,0.0000
+Antônio Vicente,1,0.5313,0.0000
+Antônio Virgínio,1,0.5313,0.0000
+Anísio,1,0.5313,0.0000
+Anísio Teixeira,2,1.0625,0.3010
+Aparecida,10,5.3126,1.0000
+Aparecida Souza,2,1.0625,0.3010
+Aquiles,4,2.1251,0.6021
+Aquiles Moraes,1,0.5313,0.0000
+Argentina,419,222.5997,2.6222
+Argentina Antonio,2,1.0625,0.3010
+Ari,2,1.0625,0.3010
+Ari Peixoto,1,0.5313,0.0000
+Ariadne,2,1.0625,0.3010
+Ariadne Mendes,2,1.0625,0.3010
+Ariel,3,1.5938,0.4771
+Aristóteles,4,2.1251,0.6021
+Armando,5,2.6563,0.6990
+Armando Clemente,1,0.5313,0.0000
+Aron,1,0.5313,0.0000
+Arouca,18,9.5628,1.2553
+Artur,6,3.1876,0.7782
+Ary,8,4.2501,0.9031
+Ary Vidal,4,2.1251,0.6021
+Arão,6,3.1876,0.7782
+Assis,17,9.0315,1.2304
+Assis Bernardo,1,0.5313,0.0000
+Assunção,8,4.2501,0.9031
+Ataíde,1,0.5313,0.0000
+Ava,1,0.5313,0.0000
+Aventino,1,0.5313,0.0000
+Axel,2,1.0625,0.3010
+Axel Sande,1,0.5313,0.0000
+Barack,21,11.1565,1.3222
+Barack Obama,249,132.2848,2.3962
+Barreto,6,3.1876,0.7782
+Bartolomeu,7,3.7188,0.8451
+Barão,9,4.7814,0.9542
+Basílio,1,0.5313,0.0000
+Batista,3,1.5938,0.4771
+Beatriz,9,4.7814,0.9542
+Beatriz Cordeiro,1,0.5313,0.0000
+Beatriz Maria,1,0.5313,0.0000
+Beatriz dos Santos Vieira,2,1.0625,0.3010
+Bela,10,5.3126,1.0000
+Bela Gil,1,0.5313,0.0000
+Bela Santos,1,0.5313,0.0000
+Bela Wilde,1,0.5313,0.0000
+Belchior,2,1.0625,0.3010
+Belfort,1,0.5313,0.0000
+Bellotti,1,0.5313,0.0000
+Belém,13,6.9064,1.1139
+Benedito,1,0.5313,0.0000
+Benedito Hipólito,1,0.5313,0.0000
+Benedito Lacerda,1,0.5313,0.0000
+Benicio,3,1.5938,0.4771
+Benjamim,2,1.0625,0.3010
+Benjamin,13,6.9064,1.1139
+Bento,75,39.8448,1.8751
+Bento Rodrigues,4,2.1251,0.6021
+Bergoglio,27,14.3441,1.4314
+Bernadete,2,1.0625,0.3010
+Bernardes,1,0.5313,0.0000
+Bernardo,4,2.1251,0.6021
+Betina,2,1.0625,0.3010
+Beto,8,4.2501,0.9031
+Beto Lopes,1,0.5313,0.0000
+Beto Richa,1,0.5313,0.0000
+Beto Vandesteen,1,0.5313,0.0000
+Bia,8,4.2501,0.9031
+Bia Oliveira,2,1.0625,0.3010
+Bia Paes,1,0.5313,0.0000
+Bianca,12,6.3752,1.0792
+Bianca Machado,1,0.5313,0.0000
+Bianca Mota,1,0.5313,0.0000
+Bianca Rinaldi,1,0.5313,0.0000
+Blaine Cook,2,1.0625,0.3010
+Bourdon,2,1.0625,0.3010
+Branca,17,9.0315,1.2304
+Brandão,1,0.5313,0.0000
+Breno,28,14.8754,1.4472
+Breno Alves Santos,1,0.5313,0.0000
+Breno Viola,4,2.1251,0.6021
+Brian,15,7.9690,1.1761
+Brito,9,4.7814,0.9542
+Brito Cruz,20,10.6253,1.3010
+Brito Vieira,1,0.5313,0.0000
+Bruce,6,3.1876,0.7782
+Bruna,10,5.3126,1.0000
+Bruna Oliveira,1,0.5313,0.0000
+Bruna Querido,1,0.5313,0.0000
+Bruno,100,53.1264,2.0000
+Bruno Aguiar,1,0.5313,0.0000
+Bruno Antonio,1,0.5313,0.0000
+Bruno Brígido,3,1.5938,0.4771
+Bruno Costa,1,0.5313,0.0000
+Bruno Henrique,17,9.0315,1.2304
+Bruno Lopes,1,0.5313,0.0000
+Bruno Luiz,2,1.0625,0.3010
+Bruno Luiz Crispim Santos,1,0.5313,0.0000
+Bruno Miguel,2,1.0625,0.3010
+Bruno Paulo,3,1.5938,0.4771
+Bruno Rocha,1,0.5313,0.0000
+Bruno Rodrigues,1,0.5313,0.0000
+Bruno Silva,11,5.8439,1.0414
+Bruno Spindel,1,0.5313,0.0000
+Bryan,4,2.1251,0.6021
+Brás,18,9.5628,1.2553
+Bráulio,2,1.0625,0.3010
+Brígida,2,1.0625,0.3010
+Buss,9,4.7814,0.9542
+Bárbara,9,4.7814,0.9542
+Bárbara Paz,1,0.5313,0.0000
+Caetano,28,14.8754,1.4472
+Caio,23,12.2191,1.3617
+Caio Barreto,1,0.5313,0.0000
+Caio Cardoso,1,0.5313,0.0000
+Camila,14,7.4377,1.1461
+Camila Costa,1,0.5313,0.0000
+Camila Coutinho,1,0.5313,0.0000
+Camila Rodrigues,2,1.0625,0.3010
+Candice,1,0.5313,0.0000
+Canto,6,3.1876,0.7782
+Carina,6,3.1876,0.7782
+Carina Rocha,1,0.5313,0.0000
+Carissa,3,1.5938,0.4771
+Carla,19,10.0940,1.2788
+Carla Manuela Crispim Nascimento,1,0.5313,0.0000
+Carlo,23,12.2191,1.3617
+Carlo Calenda,2,1.0625,0.3010
+Carlo Lodovico,1,0.5313,0.0000
+Carlo Maria,2,1.0625,0.3010
+Carlos,96,51.0014,1.9823
+Carlos Alberto,14,7.4377,1.1461
+Carlos Alexandre,8,4.2501,0.9031
+Carlos André Lourenço,4,2.1251,0.6021
+Carlos Antonio Figueiredo,1,0.5313,0.0000
+Carlos Eduardo,2,1.0625,0.3010
+Carlos Eduardo Lins,1,0.5313,0.0000
+Carlos Fernando,3,1.5938,0.4771
+Carlos Fernando Andrade,1,0.5313,0.0000
+Carlos Fernando dos Santos,1,0.5313,0.0000
+Carlos Gardel,3,1.5938,0.4771
+Carlos Gomes,1,0.5313,0.0000
+Carlos Henrique,8,4.2501,0.9031
+Carlos Higino,1,0.5313,0.0000
+Carlos Hugo Rocha,1,0.5313,0.0000
+Carlos José,4,2.1251,0.6021
+Carlos Junior,1,0.5313,0.0000
+Carlos Luiz,5,2.6563,0.6990
+Carlos Luís,1,0.5313,0.0000
+Carlos Manuel,2,1.0625,0.3010
+Carlos Mendes,1,0.5313,0.0000
+Carlos Miguel Aidar,1,0.5313,0.0000
+Carlos Patrício,3,1.5938,0.4771
+Carlos Peixoto,3,1.5938,0.4771
+Carlos Roberto,19,10.0940,1.2788
+Carlos Romero,2,1.0625,0.3010
+Carlos Sales,1,0.5313,0.0000
+Carlota,20,10.6253,1.3010
+Carmina,2,1.0625,0.3010
+Carmo,40,21.2506,1.6021
+Carneiro,13,6.9064,1.1139
+Carol,19,10.0940,1.2788
+Carol Vieira,1,0.5313,0.0000
+Carole,1,0.5313,0.0000
+Carolina,148,78.6271,2.1703
+Carolina Fernandes,1,0.5313,0.0000
+Carolina Laura,2,1.0625,0.3010
+Cassiano,1,0.5313,0.0000
+Castilho,3,1.5938,0.4771
+Catarina,1,0.5313,0.0000
+Cayo,3,1.5938,0.4771
+Cayo Costa,3,1.5938,0.4771
+Cecília,8,4.2501,0.9031
+Cecília Salgado,1,0.5313,0.0000
+Celina,2,1.0625,0.3010
+Celso,24,12.7503,1.3802
+Celso Fonseca,1,0.5313,0.0000
+Celso Rezende,1,0.5313,0.0000
+Ceres,1,0.5313,0.0000
+Cersózimo Arenque Musa,1,0.5313,0.0000
+Cesário,2,1.0625,0.3010
+Chan,6,3.1876,0.7782
+Chantal,3,1.5938,0.4771
+Chloe,1,0.5313,0.0000
+Chuzel,2,1.0625,0.3010
+Cibele,2,1.0625,0.3010
+Cid,1,0.5313,0.0000
+Cid Benjamin,1,0.5313,0.0000
+Cinara Fredo,1,0.5313,0.0000
+Cinderela,1,0.5313,0.0000
+Cirilo,49,26.0319,1.6902
+Cirilo José,1,0.5313,0.0000
+Ciro,2,1.0625,0.3010
+Cita,1,0.5313,0.0000
+Clara,8,4.2501,0.9031
+Clara Fonseca,1,0.5313,0.0000
+Clarinha,1,0.5313,0.0000
+Clarisse,6,3.1876,0.7782
+Claudio,45,23.9069,1.6532
+Claudio Andrade,1,0.5313,0.0000
+Claudio Clarindo,5,2.6563,0.6990
+Claudio Infante,1,0.5313,0.0000
+Claudio Lins,1,0.5313,0.0000
+Claudio Souza,1,0.5313,0.0000
+Cleide,2,1.0625,0.3010
+Clemente,1,0.5313,0.0000
+Cláudia,17,9.0315,1.2304
+Cláudio,36,19.1255,1.5563
+Cláudio Gabriel,1,0.5313,0.0000
+Cláudio Jorge,1,0.5313,0.0000
+Cláudio Luiz,1,0.5313,0.0000
+Cláudio Maurício,1,0.5313,0.0000
+Cláudio Moacyr,2,1.0625,0.3010
+Cláudio Nascimento,1,0.5313,0.0000
+Cláudio Silvestre,1,0.5313,0.0000
+Cléber,7,3.7188,0.8451
+Cléber Eduardo,3,1.5938,0.4771
+Cléber Sebastião,1,0.5313,0.0000
+Clívia,1,0.5313,0.0000
+Clóvis,12,6.3752,1.0792
+Conceição,20,10.6253,1.3010
+Conceição Silva,1,0.5313,0.0000
+Consolação,1,0.5313,0.0000
+Constança,1,0.5313,0.0000
+Constância,8,4.2501,0.9031
+Cook,12,6.3752,1.0792
+Copérnico,1,0.5313,0.0000
+Cora,1,0.5313,0.0000
+Cordélia,2,1.0625,0.3010
+Correia,3,1.5938,0.4771
+Cosme,9,4.7814,0.9542
+Costa,124,65.8767,2.0934
+Costa Santos,1,0.5313,0.0000
+Costa Tomé Júnior,1,0.5313,0.0000
+Costa Verde,21,11.1565,1.3222
+Coutinho,4,2.1251,0.6021
+Couto,3,1.5938,0.4771
+Cravo,1,0.5313,0.0000
+Cristiano,20,10.6253,1.3010
+Cristiano Gomes,1,0.5313,0.0000
+Cristiano Ronaldo,46,24.4381,1.6628
+Cristóvão,9,4.7814,0.9542
+Cruz,153,81.2834,2.1847
+Cármen Lúcia,1,0.5313,0.0000
+Cássia,7,3.7188,0.8451
+Cássia Rodrigues,1,0.5313,0.0000
+Cássio,24,12.7503,1.3802
+Cândido,4,2.1251,0.6021
+Cândido José,5,2.6563,0.6990
+Cândido Mendes,1,0.5313,0.0000
+Célia,4,2.1251,0.6021
+Célia Regina Paulino,1,0.5313,0.0000
+Célio,8,4.2501,0.9031
+Cícero,15,7.9690,1.1761
+Dagoberto Santos,1,0.5313,0.0000
+Dalila,3,1.5938,0.4771
+Dalila Santos,1,0.5313,0.0000
+Dalton,9,4.7814,0.9542
+Dalva,1,0.5313,0.0000
+Damas,17,9.0315,1.2304
+Damien,2,1.0625,0.3010
+Damião,9,4.7814,0.9542
+Dana,8,4.2501,0.9031
+Dana Foundation,2,1.0625,0.3010
+Daniel,136,72.2519,2.1335
+Daniel Alves,17,9.0315,1.2304
+Daniel Carneiro,1,0.5313,0.0000
+Daniel Franco,2,1.0625,0.3010
+Daniel Félix,1,0.5313,0.0000
+Daniel Gomes,1,0.5313,0.0000
+Daniel Gonzaga,1,0.5313,0.0000
+Daniel Guedes,1,0.5313,0.0000
+Daniel Menezes,1,0.5313,0.0000
+Daniel Paulo,3,1.5938,0.4771
+Daniel Peixoto,1,0.5313,0.0000
+Daniel Ricciardo,4,2.1251,0.6021
+Daniel Rosa,1,0.5313,0.0000
+Daniel Souza,1,0.5313,0.0000
+Daniela,23,12.2191,1.3617
+Daniela Andrade,2,1.0625,0.3010
+Daniela Caldeira,1,0.5313,0.0000
+Danielle,10,5.3126,1.0000
+Danielle Neiva,1,0.5313,0.0000
+Danielle Santana,2,1.0625,0.3010
+Danilo,51,27.0945,1.7076
+Danilo Fernandes,1,0.5313,0.0000
+Dante,10,5.3126,1.0000
+Dante Alighieri,3,1.5938,0.4771
+Dario,18,9.5628,1.2553
+Dario Birolini,1,0.5313,0.0000
+Dario Vigano,1,0.5313,0.0000
+Dario Viganò,1,0.5313,0.0000
+Davi,11,5.8439,1.0414
+Davi Duarte,2,1.0625,0.3010
+Davi Moraes,3,1.5938,0.4771
+Davi Santos,3,1.5938,0.4771
+David,180,95.6275,2.2553
+David Ferrer,8,4.2501,0.9031
+David Luiz,13,6.9064,1.1139
+David Mendes,1,0.5313,0.0000
+David Nader,2,1.0625,0.3010
+David Silva,1,0.5313,0.0000
+Davide,1,0.5313,0.0000
+Davide Oldanim,1,0.5313,0.0000
+Deise,3,1.5938,0.4771
+Deivid,2,1.0625,0.3010
+Dele,2,1.0625,0.3010
+Delfim,9,4.7814,0.9542
+Delfim Peixoto,8,4.2501,0.9031
+Dener,3,1.5938,0.4771
+Denis,34,18.0630,1.5315
+Denise,9,4.7814,0.9542
+Diamantina,1,0.5313,0.0000
+Diamantino Advogados,1,0.5313,0.0000
+Diana,3,1.5938,0.4771
+Diego,77,40.9073,1.8865
+Diego Alves,3,1.5938,0.4771
+Diego Armando Maradona,3,1.5938,0.4771
+Diego Armus,1,0.5313,0.0000
+Diego Cardoso,1,0.5313,0.0000
+Diego Costa,21,11.1565,1.3222
+Diego Domingos,2,1.0625,0.3010
+Diego Franco,1,0.5313,0.0000
+Diego Ivo,1,0.5313,0.0000
+Diego Jardel,1,0.5313,0.0000
+Diego Jorge Dzodan,1,0.5313,0.0000
+Diego Laudano Rocha,1,0.5313,0.0000
+Diego Maradona,7,3.7188,0.8451
+Diego Souza,14,7.4377,1.1461
+Diego Tardelli,2,1.0625,0.3010
+Diego Zangado,1,0.5313,0.0000
+Dieter,3,1.5938,0.4771
+Dilma,78,41.4386,1.8921
+Dilma Rousseff,87,46.2200,1.9395
+Dimas,5,2.6563,0.6990
+Dimas Fabiano Toledo,1,0.5313,0.0000
+Dino,2,1.0625,0.3010
+Diná,3,1.5938,0.4771
+Diogo,31,16.4692,1.4914
+Diogo Correia dos Santos,1,0.5313,0.0000
+Diogo Luiz,1,0.5313,0.0000
+Diogo Santos,4,2.1251,0.6021
+Diogo Souza,1,0.5313,0.0000
+Diogo Fernandes,1,0.5313,0.0000
+Dionísio,2,1.0625,0.3010
+Dionísio Rodrigues,1,0.5313,0.0000
+Djalma,1,0.5313,0.0000
+Djalma Batista,1,0.5313,0.0000
+Djamila,3,1.5938,0.4771
+Dolores,2,1.0625,0.3010
+Domingos,12,6.3752,1.0792
+Domingos Peixoto,1,0.5313,0.0000
+Domingos Vargas,2,1.0625,0.3010
+Donato,5,2.6563,0.6990
+Dora,2,1.0625,0.3010
+Dorina,2,1.0625,0.3010
+Dorsey,2,1.0625,0.3010
+Duarte,3,1.5938,0.4771
+Duarte Júnior,2,1.0625,0.3010
+Durval,7,3.7188,0.8451
+Dália,1,0.5313,0.0000
+Débora,9,4.7814,0.9542
+Débora Henrique,2,1.0625,0.3010
+Délcio,1,0.5313,0.0000
+Délcio Bernardo,2,1.0625,0.3010
+Délia,2,1.0625,0.3010
+Dóris,1,0.5313,0.0000
+Eco,30,15.9379,1.4771
+Eder,2,1.0625,0.3010
+Eder Luís,1,0.5313,0.0000
+Edgar,5,2.6563,0.6990
+Edir Ramos Cardoso,1,0.5313,0.0000
+Edison Duarte,2,1.0625,0.3010
+Edison Duarte dos Santos Júnior,1,0.5313,0.0000
+Edison Lobão,1,0.5313,0.0000
+Edison Machado,1,0.5313,0.0000
+Edith,6,3.1876,0.7782
+Edna,2,1.0625,0.3010
+Eduarda,1,0.5313,0.0000
+Eduardo,25,13.2816,1.3979
+Eduardo Almeida,2,1.0625,0.3010
+Eduardo Arruda Rodrigues,1,0.5313,0.0000
+Eduardo Bandeira,4,2.1251,0.6021
+Eduardo Breder,1,0.5313,0.0000
+Eduardo Coudet,2,1.0625,0.3010
+Eduardo Diamantino,1,0.5313,0.0000
+Eduardo Gordo,1,0.5313,0.0000
+Eduardo Holanda,2,1.0625,0.3010
+Eduardo Levi,1,0.5313,0.0000
+Eduardo Mario Mendiondo,1,0.5313,0.0000
+Eduardo Mendes Callado,1,0.5313,0.0000
+Eduardo Moacyr Krieger,3,1.5938,0.4771
+Eduardo Oliveira,2,1.0625,0.3010
+Eduardo Paes,87,46.2200,1.9395
+Eduardo Tude,2,1.0625,0.3010
+Eduardo Viola,1,0.5313,0.0000
+Egídio,15,7.9690,1.1761
+Einstein,7,3.7188,0.8451
+Elena,20,10.6253,1.3010
+Eleonora Fabião,1,0.5313,0.0000
+Eli,2,1.0625,0.3010
+Elian,1,0.5313,0.0000
+Eliana Bicudo,2,1.0625,0.3010
+Eliana Maria,1,0.5313,0.0000
+Eliana Mendes,1,0.5313,0.0000
+Eliane,4,2.1251,0.6021
+Eliane Elias,2,1.0625,0.3010
+Elias,19,10.0940,1.2788
+Eliete,1,0.5313,0.0000
+Elisa,18,9.5628,1.2553
+Elisa Addor,1,0.5313,0.0000
+Elisa Brites,1,0.5313,0.0000
+Elisa Costa,2,1.0625,0.3010
+Elisabete,1,0.5313,0.0000
+Elisabete Machado,1,0.5313,0.0000
+Elisabeth,3,1.5938,0.4771
+Elisete,1,0.5313,0.0000
+Eliseu,9,4.7814,0.9542
+Elsa,4,2.1251,0.6021
+Elsa Costa,1,0.5313,0.0000
+Elza,3,1.5938,0.4771
+Ema,2,1.0625,0.3010
+Emanuel,1,0.5313,0.0000
+Emília,2,1.0625,0.3010
+Enrique,16,8.5002,1.2041
+Eric,10,5.3126,1.0000
+Eric Lino,1,0.5313,0.0000
+Eric Sena,1,0.5313,0.0000
+Erik,24,12.7503,1.3802
+Erika,2,1.0625,0.3010
+Erika Miranda,1,0.5313,0.0000
+Esperança,7,3.7188,0.8451
+Estanislau,4,2.1251,0.6021
+Estela,4,2.1251,0.6021
+Ester Sabino,1,0.5313,0.0000
+Estrela,11,5.8439,1.0414
+Eunice,1,0.5313,0.0000
+Eunice Simeão,1,0.5313,0.0000
+Eurico,5,2.6563,0.6990
+Eurico Miranda,4,2.1251,0.6021
+Eva,15,7.9690,1.1761
+Eva Todor,1,0.5313,0.0000
+Evandro,11,5.8439,1.0414
+Evandro Teixeira,2,1.0625,0.3010
+Everaldo,2,1.0625,0.3010
+Ezequiel,3,1.5938,0.4771
+Ezequiel Teixeira,5,2.6563,0.6990
+Fabiana,19,10.0940,1.2788
+Fabiana Alves,1,0.5313,0.0000
+Fabiano,18,9.5628,1.2553
+Fabiano Cardoso,1,0.5313,0.0000
+Fabiano Krieger,2,1.0625,0.3010
+Fabiano Oliveira,1,0.5313,0.0000
+Fabiano Rocha,3,1.5938,0.4771
+Fabio,29,15.4067,1.4624
+Fabio Fava,1,0.5313,0.0000
+Fabio Luiz,1,0.5313,0.0000
+Fabrícia,1,0.5313,0.0000
+Fabrício,4,2.1251,0.6021
+Fabíola,1,0.5313,0.0000
+Fausto,14,7.4377,1.1461
+Felicidade,3,1.5938,0.4771
+Feliz,3,1.5938,0.4771
+Fernandes,17,9.0315,1.2304
+Fernando,35,18.5942,1.5441
+Fernando Alves,1,0.5313,0.0000
+Fernando Carneiro,2,1.0625,0.3010
+Fernando Couto,2,1.0625,0.3010
+Fernando Duarte,2,1.0625,0.3010
+Fernando Fernandes,1,0.5313,0.0000
+Fernando Haddad,6,3.1876,0.7782
+Fernando Lindote,1,0.5313,0.0000
+Fernando Medeiros,2,1.0625,0.3010
+Fernando Menezes,2,1.0625,0.3010
+Fernando Mota,1,0.5313,0.0000
+Fernando Rosa,1,0.5313,0.0000
+Fernando Soledade,1,0.5313,0.0000
+Fernando Sá,6,3.1876,0.7782
+Fernando Verdasco,2,1.0625,0.3010
+Fernão,1,0.5313,0.0000
+Ferrer,1,0.5313,0.0000
+Figueiredo,9,4.7814,0.9542
+Filipe,19,10.0940,1.2788
+Filipe Luís,8,4.2501,0.9031
+Filipe Toledo,2,1.0625,0.3010
+Firmino,3,1.5938,0.4771
+Firmino Saldanha,1,0.5313,0.0000
+Firmo,1,0.5313,0.0000
+Flor,8,4.2501,0.9031
+Flora,10,5.3126,1.0000
+Florbela,2,1.0625,0.3010
+Florentino,3,1.5938,0.4771
+Florença,14,7.4377,1.1461
+Flávia,13,6.9064,1.1139
+Flávia Menezes,1,0.5313,0.0000
+Flávia Rinaldi,1,0.5313,0.0000
+Flávia Silva,1,0.5313,0.0000
+Flávio,12,6.3752,1.0792
+Flávio Bandeira,1,0.5313,0.0000
+Flávio Dino,2,1.0625,0.3010
+Flávio Marinho,1,0.5313,0.0000
+Flávio Mendes,1,0.5313,0.0000
+Flávio Rodrigues,2,1.0625,0.3010
+Fonseca,15,7.9690,1.1761
+Francesco,25,13.2816,1.3979
+Francesco Petrarca,1,0.5313,0.0000
+Francesco Toldo,1,0.5313,0.0000
+Francesco Ubertini,2,1.0625,0.3010
+Francisca,3,1.5938,0.4771
+Francisca Maria Andrade,1,0.5313,0.0000
+Francisco,592,314.5083,2.7723
+Francisco Alex,1,0.5313,0.0000
+Francisco Alves,3,1.5938,0.4771
+Francisco Menezes,1,0.5313,0.0000
+Francisco Rosendo,1,0.5313,0.0000
+Francisco Serrador,1,0.5313,0.0000
+Francisco Teixeira,1,0.5313,0.0000
+Francisco Xavier,1,0.5313,0.0000
+Francisco dos Santos,1,0.5313,0.0000
+Franco,15,7.9690,1.1761
+Franco Atirador,1,0.5313,0.0000
+Franklin,4,2.1251,0.6021
+Fred,33,17.5317,1.5185
+Fred Perry,1,0.5313,0.0000
+Frederico Pinto,2,1.0625,0.3010
+Freitas,40,21.2506,1.6021
+Freitas Alves,1,0.5313,0.0000
+Freitas Júnior,2,1.0625,0.3010
+Fábio,38,20.1880,1.5798
+Fábio Brás,1,0.5313,0.0000
+Fábio Cardoso,2,1.0625,0.3010
+Fábio Figueiredo,2,1.0625,0.3010
+Fábio Freitas,1,0.5313,0.0000
+Fábio Júnior,1,0.5313,0.0000
+Fábio Luiz Teixeira,1,0.5313,0.0000
+Fábio Ricardo,1,0.5313,0.0000
+Fátima,19,10.0940,1.2788
+Fátima Bernardes,1,0.5313,0.0000
+Fátima Costa Alves,1,0.5313,0.0000
+Fátima Guedes,3,1.5938,0.4771
+Fátima Souza,2,1.0625,0.3010
+Gabi,5,2.6563,0.6990
+Gabriel,138,73.3144,2.1399
+Gabriel Almeida,1,0.5313,0.0000
+Gabriel Azevedo,1,0.5313,0.0000
+Gabriel Ferrando,1,0.5313,0.0000
+Gabriel Gomes,1,0.5313,0.0000
+Gabriel Jesus,53,28.1570,1.7243
+Gabriel Julião Florido,1,0.5313,0.0000
+Gabriel Mota,1,0.5313,0.0000
+Gabriel Pinto,1,0.5313,0.0000
+Gabriel Teixeira,1,0.5313,0.0000
+Gabriel Tude,1,0.5313,0.0000
+Gabriela,39,20.7193,1.5911
+Gabriela Alvarado,2,1.0625,0.3010
+Gabriela Alves,1,0.5313,0.0000
+Gabriela Barreto,1,0.5313,0.0000
+Gabriela Carneiro,1,0.5313,0.0000
+Gabriela Jesus,1,0.5313,0.0000
+Gabriela Miranda,1,0.5313,0.0000
+Gabriela Rodrigues,1,0.5313,0.0000
+Gaia,1,0.5313,0.0000
+Gala,2,1.0625,0.3010
+Garcia,16,8.5002,1.2041
+Gaspar,4,2.1251,0.6021
+Gastão,4,2.1251,0.6021
+Geisa,1,0.5313,0.0000
+George,85,45.1574,1.9294
+George Lucas,3,1.5938,0.4771
+George Osborne,1,0.5313,0.0000
+Geraldo,3,1.5938,0.4771
+Geraldo Aleixo,1,0.5313,0.0000
+Geraldo Azevedo,5,2.6563,0.6990
+Geraldo Azevêdo,1,0.5313,0.0000
+Geraldo Bernardes,1,0.5313,0.0000
+Geraldo Júlio,1,0.5313,0.0000
+Geraldo Maciel,1,0.5313,0.0000
+Germano,2,1.0625,0.3010
+Gerson,9,4.7814,0.9542
+Gertrudes,1,0.5313,0.0000
+Getúlio,4,2.1251,0.6021
+Getúlio Vargas,2,1.0625,0.3010
+Geórgia,6,3.1876,0.7782
+Gil,32,17.0005,1.5051
+Gilda,3,1.5938,0.4771
+Gina Lollobrigida,2,1.0625,0.3010
+Gino,2,1.0625,0.3010
+Gino Copede,1,0.5313,0.0000
+Gino Pollicardo,6,3.1876,0.7782
+Gino Tullicardo,2,1.0625,0.3010
+Giovana,2,1.0625,0.3010
+Giovana Correia,1,0.5313,0.0000
+Giovani dos Santos,2,1.0625,0.3010
+Giselda Fernandes,1,0.5313,0.0000
+Glass,1,0.5313,0.0000
+Gomes,11,5.8439,1.0414
+Gomes Carneiro,4,2.1251,0.6021
+Gonzaga,1,0.5313,0.0000
+Gonçalo,4,2.1251,0.6021
+Graciela Fernández Meijide,2,1.0625,0.3010
+Graciliano Ramos,1,0.5313,0.0000
+Gracinda,1,0.5313,0.0000
+Graça,22,11.6878,1.3424
+Gregório,8,4.2501,0.9031
+Guadalupe,35,18.5942,1.5441
+Gui,3,1.5938,0.4771
+Guida,5,2.6563,0.6990
+Guilherme,125,66.4080,2.0969
+Guilherme Amorim,1,0.5313,0.0000
+Guilherme Azevedo,1,0.5313,0.0000
+Guilherme Costa,1,0.5313,0.0000
+Guilherme Cravo,2,1.0625,0.3010
+Guilherme Dourado,1,0.5313,0.0000
+Guilherme Duarte,1,0.5313,0.0000
+Guilherme Félix,2,1.0625,0.3010
+Guilherme Hadasha,1,0.5313,0.0000
+Guilherme Heitor,1,0.5313,0.0000
+Guilherme Miranda,6,3.1876,0.7782
+Guilherme Romão,1,0.5313,0.0000
+Gurgacz,1,0.5313,0.0000
+Gusmão,1,0.5313,0.0000
+Gustavo,80,42.5011,1.9031
+Gustavo Henrique,12,6.3752,1.0792
+Gustavo Rodrigues,1,0.5313,0.0000
+Gustavo Vieira,1,0.5313,0.0000
+Gustavo dos Santos,1,0.5313,0.0000
+Gustavo dos Santos Fernandes,1,0.5313,0.0000
+Gérard,1,0.5313,0.0000
+Gérard Chuzel,1,0.5313,0.0000
+Hamilton,24,12.7503,1.3802
+Haroldo Costa,2,1.0625,0.3010
+Hebe,1,0.5313,0.0000
+Heitor,8,4.2501,0.9031
+Heitor Vieira Dourado,1,0.5313,0.0000
+Helena,12,6.3752,1.0792
+Helena Ignez,1,0.5313,0.0000
+Helena Nader,1,0.5313,0.0000
+Helga,1,0.5313,0.0000
+Helvécio,1,0.5313,0.0000
+Hemetério,1,0.5313,0.0000
+Henrique,62,32.9384,1.7924
+Henrique Almeida,5,2.6563,0.6990
+Henrique Eduardo Alves,7,3.7188,0.8451
+Henrique Lian,3,1.5938,0.4771
+Henrique Rodrigues,1,0.5313,0.0000
+Henrique Santos,3,1.5938,0.4771
+Henrique Valadares,8,4.2501,0.9031
+Henry,8,4.2501,0.9031
+Henry Cavendish,1,0.5313,0.0000
+Henry Cejudo,1,0.5313,0.0000
+Henry Ramos,9,4.7814,0.9542
+Heriberto,4,2.1251,0.6021
+Hermenegildo,1,0.5313,0.0000
+Hermes,4,2.1251,0.6021
+Homero,3,1.5938,0.4771
+Hugo,38,20.1880,1.5798
+Hugo Francisco,1,0.5313,0.0000
+Hugo Godoy,1,0.5313,0.0000
+Hugo Jorge,1,0.5313,0.0000
+Hugo Maldonado,2,1.0625,0.3010
+Humberto,2,1.0625,0.3010
+Humberto Costa,2,1.0625,0.3010
+Hélcio,2,1.0625,0.3010
+Hélcio Vieira Júnior,1,0.5313,0.0000
+Hélia Souza,1,0.5313,0.0000
+Hélio,3,1.5938,0.4771
+Ian,11,5.8439,1.0414
+Ian Gomes,1,0.5313,0.0000
+Iana,1,0.5313,0.0000
+Iara,4,2.1251,0.6021
+Ida,6,3.1876,0.7782
+Idário,2,1.0625,0.3010
+Igor,21,11.1565,1.3222
+Igor Campedelli,1,0.5313,0.0000
+Igor Conde,1,0.5313,0.0000
+Igor Prado,4,2.1251,0.6021
+Ilda Regina,1,0.5313,0.0000
+India,2,1.0625,0.3010
+Indira,1,0.5313,0.0000
+Indira Nascimento,1,0.5313,0.0000
+Infante,9,4.7814,0.9542
+Ingrid,1,0.5313,0.0000
+Ingrid Oliveira,1,0.5313,0.0000
+Inocêncio,1,0.5313,0.0000
+Inês,1,0.5313,0.0000
+Inês Severino,1,0.5313,0.0000
+Io,1,0.5313,0.0000
+Iracema,6,3.1876,0.7782
+Iria,2,1.0625,0.3010
+Irina,4,2.1251,0.6021
+Isaac,2,1.0625,0.3010
+Isaac Souza,2,1.0625,0.3010
+Isabel,12,6.3752,1.0792
+Isabel Fernandes,1,0.5313,0.0000
+Isabel Teresa Pinto,1,0.5313,0.0000
+Isabela,7,3.7188,0.8451
+Isabela Maria Rodrigues,2,1.0625,0.3010
+Isabela Sancho,1,0.5313,0.0000
+Isac,1,0.5313,0.0000
+Isis,126,66.9393,2.1004
+Isis Valverde,1,0.5313,0.0000
+Ismael,3,1.5938,0.4771
+Ismael Silva,1,0.5313,0.0000
+Isolina,2,1.0625,0.3010
+Israel,57,30.2821,1.7559
+Israel Nascimento,1,0.5313,0.0000
+Italo,1,0.5313,0.0000
+Iva,2,1.0625,0.3010
+Ivan,11,5.8439,1.0414
+Ivan Freitas,1,0.5313,0.0000
+Ivan Lins,4,2.1251,0.6021
+Ivan Mendes,2,1.0625,0.3010
+Ivete,10,5.3126,1.0000
+Ivo,4,2.1251,0.6021
+Ivo Pitanguy,2,1.0625,0.3010
+Ivone Lara,2,1.0625,0.3010
+Jacira,1,0.5313,0.0000
+Jack,39,20.7193,1.5911
+Jack Dorsey,2,1.0625,0.3010
+Jacob,3,1.5938,0.4771
+Jacob Amorim,1,0.5313,0.0000
+Jacobina,1,0.5313,0.0000
+Jacqueline,8,4.2501,0.9031
+Jacqueline Oliveira,1,0.5313,0.0000
+Jacqueline Pitanguy,1,0.5313,0.0000
+Jacqueline Silva,1,0.5313,0.0000
+Jaime,24,12.7503,1.3802
+Jaime Lauriano,1,0.5313,0.0000
+Jair,5,2.6563,0.6990
+Jair Roberto,1,0.5313,0.0000
+Jair Virgínio,8,4.2501,0.9031
+Jairo,2,1.0625,0.3010
+James,37,19.6568,1.5682
+James Corden,1,0.5313,0.0000
+James Marinho,1,0.5313,0.0000
+Janaína Maria,1,0.5313,0.0000
+Jandira,1,0.5313,0.0000
+Janete,1,0.5313,0.0000
+Janine,1,0.5313,0.0000
+Janine Menezes,1,0.5313,0.0000
+Janine Ojeda,1,0.5313,0.0000
+Janine Rodrigues,1,0.5313,0.0000
+Januário,1,0.5313,0.0000
+Jaqueline,2,1.0625,0.3010
+Jaqueline Gomes,2,1.0625,0.3010
+Jaqueline Oliveira,1,0.5313,0.0000
+Jaques,9,4.7814,0.9542
+Jardel,1,0.5313,0.0000
+Jasmim,1,0.5313,0.0000
+Jessica,11,5.8439,1.0414
+Jessica Battle,1,0.5313,0.0000
+Jessika Alves,1,0.5313,0.0000
+Jessé Sadoc,1,0.5313,0.0000
+Jesus,61,32.4071,1.7853
+Jesus Maria,4,2.1251,0.6021
+Joana,12,6.3752,1.0792
+Joel,28,14.8754,1.4472
+Joelma,7,3.7188,0.8451
+Joice,3,1.5938,0.4771
+Jonas,14,7.4377,1.1461
+Jorge,132,70.1269,2.1206
+Jorge Alexandre,1,0.5313,0.0000
+Jorge Alves,1,0.5313,0.0000
+Jorge Amado,1,0.5313,0.0000
+Jorge Azevedo,1,0.5313,0.0000
+Jorge Bergoglio,33,17.5317,1.5185
+Jorge Cardoso,1,0.5313,0.0000
+Jorge Fernando,1,0.5313,0.0000
+Jorge Furtado,2,1.0625,0.3010
+Jorge Henrique,23,12.2191,1.3617
+Jorge Herculano,1,0.5313,0.0000
+Jorge Luiz,5,2.6563,0.6990
+Jorge Machado,3,1.5938,0.4771
+Jorge Mario,2,1.0625,0.3010
+Jorge Mario Bergoglio,45,23.9069,1.6532
+Jorge Mendes,1,0.5313,0.0000
+Jorge Rafael Videla,2,1.0625,0.3010
+Jorge Saldanha,1,0.5313,0.0000
+Jorge Teixeira,2,1.0625,0.3010
+Josias Franco,1,0.5313,0.0000
+Josina,1,0.5313,0.0000
+Josina Nascimento,1,0.5313,0.0000
+Josina Oliveira,1,0.5313,0.0000
+Josué,2,1.0625,0.3010
+Josué Henrique,1,0.5313,0.0000
+Josué Laguardia,1,0.5313,0.0000
+José,125,66.4080,2.0969
+José Aldo,3,1.5938,0.4771
+José Antônio,1,0.5313,0.0000
+José Artur,1,0.5313,0.0000
+José Bento,1,0.5313,0.0000
+José Carlos,8,4.2501,0.9031
+José Carlos Fernandes Garcia,1,0.5313,0.0000
+José Carlos Pinto,1,0.5313,0.0000
+José Celso,1,0.5313,0.0000
+José Cláudio Rocha,1,0.5313,0.0000
+José Eduardo,1,0.5313,0.0000
+José Eduardo Cardoso,1,0.5313,0.0000
+José Eduardo Cardozo,4,2.1251,0.6021
+José Eduardo Levi,1,0.5313,0.0000
+José Eduardo dos Santos,2,1.0625,0.3010
+José Goldemberg,4,2.1251,0.6021
+José Hildo,3,1.5938,0.4771
+José Ivo,2,1.0625,0.3010
+José Luiz Coutinho,1,0.5313,0.0000
+José Manuel,4,2.1251,0.6021
+José Maria,19,10.0940,1.2788
+José Mariano,6,3.1876,0.7782
+José Medalha,1,0.5313,0.0000
+José Medeiros,1,0.5313,0.0000
+José Mendes,1,0.5313,0.0000
+José Miguel,1,0.5313,0.0000
+José Nader,1,0.5313,0.0000
+José Renato,1,0.5313,0.0000
+José Roberto,4,2.1251,0.6021
+José Roberto Vieira,1,0.5313,0.0000
+José Ronaldo,1,0.5313,0.0000
+José Zago,1,0.5313,0.0000
+Jovelina,3,1.5938,0.4771
+João,131,69.5956,2.1173
+João Baldasserini,1,0.5313,0.0000
+João Batista,4,2.1251,0.6021
+João Batista Garcia,3,1.5938,0.4771
+João Carlos,7,3.7188,0.8451
+João Carlos Coutinho,3,1.5938,0.4771
+João Carlos Rodrigues,1,0.5313,0.0000
+João Castilho,1,0.5313,0.0000
+João Donato,4,2.1251,0.6021
+João Fernando,1,0.5313,0.0000
+João Gomes,2,1.0625,0.3010
+João Helvécio,3,1.5938,0.4771
+João Leal,1,0.5313,0.0000
+João Lucas,1,0.5313,0.0000
+João Luiz Duarte,2,1.0625,0.3010
+João Miguel,3,1.5938,0.4771
+João Paulo,35,18.5942,1.5441
+João Pedro,8,4.2501,0.9031
+João Rezende,2,1.0625,0.3010
+João Roberto Kelly,2,1.0625,0.3010
+João Santana,1,0.5313,0.0000
+João Souza,3,1.5938,0.4771
+João Vicente,1,0.5313,0.0000
+João Victor,1,0.5313,0.0000
+Judas Tadeu,1,0.5313,0.0000
+Juliana,28,14.8754,1.4472
+Juliana Alves,5,2.6563,0.6990
+Juliana Hermsdorff,1,0.5313,0.0000
+Juliana Lins,2,1.0625,0.3010
+Juliana Paes,2,1.0625,0.3010
+Juliana Saldanha,1,0.5313,0.0000
+Juliana Sales,1,0.5313,0.0000
+Juliana Teixeira,3,1.5938,0.4771
+Juliana dos Santos,1,0.5313,0.0000
+Juliano,1,0.5313,0.0000
+Juliano Londero,1,0.5313,0.0000
+Julião,1,0.5313,0.0000
+Julliana Boller,1,0.5313,0.0000
+Junior,13,6.9064,1.1139
+Junior Vieira,1,0.5313,0.0000
+Juno,3,1.5938,0.4771
+Jussara,2,1.0625,0.3010
+Jussara Maria,1,0.5313,0.0000
+Jussara Santos,1,0.5313,0.0000
+Jussara Silva,1,0.5313,0.0000
+Juvenal,10,5.3126,1.0000
+Jéssica,6,3.1876,0.7782
+Jéssica Peixoto,1,0.5313,0.0000
+Jéssica Santos,2,1.0625,0.3010
+Júlia,7,3.7188,0.8451
+Júlia Santos,1,0.5313,0.0000
+Júlia Silva,1,0.5313,0.0000
+Júlio,34,18.0630,1.5315
+Júlio Avelleda,1,0.5313,0.0000
+Júlio Nascimento,1,0.5313,0.0000
+Júnior,8,4.2501,0.9031
+Júnior Nascimento,1,0.5313,0.0000
+Karen,7,3.7188,0.8451
+Karina,9,4.7814,0.9542
+Katia,10,5.3126,1.0000
+Katie,1,0.5313,0.0000
+Katy Perry,2,1.0625,0.3010
+Kelly,24,12.7503,1.3802
+Kelly Marie,2,1.0625,0.3010
+Kevin,16,8.5002,1.2041
+Kevin James,3,1.5938,0.4771
+Kevin Systrom,4,2.1251,0.6021
+Krieger,2,1.0625,0.3010
+Kátia,6,3.1876,0.7782
+Kátia Coutinho,1,0.5313,0.0000
+Laila,1,0.5313,0.0000
+Lana,1,0.5313,0.0000
+Lara,1,0.5313,0.0000
+Lara Azevedo,1,0.5313,0.0000
+Larissa,7,3.7188,0.8451
+Larissa Maciel,1,0.5313,0.0000
+Larissa Oliveira,1,0.5313,0.0000
+Larissa Santos,1,0.5313,0.0000
+Laura,46,24.4381,1.6628
+Laurinda Santos,1,0.5313,0.0000
+Lauro,2,1.0625,0.3010
+Lea Van,1,0.5313,0.0000
+Leal,3,1.5938,0.4771
+Leandra,1,0.5313,0.0000
+Leandra Leal,2,1.0625,0.3010
+Leandro,62,32.9384,1.7924
+Leandro Almeida,6,3.1876,0.7782
+Leandro Damião,5,2.6563,0.6990
+Leandro Firmino,6,3.1876,0.7782
+Leandro Silva,3,1.5938,0.4771
+Leandro Vieira,4,2.1251,0.6021
+Leila,13,6.9064,1.1139
+Leo,8,4.2501,0.9031
+Leo Santana,1,0.5313,0.0000
+Leonardo,22,11.6878,1.3424
+Leonardo Espíndola,3,1.5938,0.4771
+Leonardo Moraes,2,1.0625,0.3010
+Leonardo Silva,5,2.6563,0.6990
+Leonardo Vieira,1,0.5313,0.0000
+Leone,2,1.0625,0.3010
+Leonel,1,0.5313,0.0000
+Leonel Azevedo,2,1.0625,0.3010
+Leonor,1,0.5313,0.0000
+Leonora,5,2.6563,0.6990
+Letícia,6,3.1876,0.7782
+Letícia Couto,1,0.5313,0.0000
+Letícia Santos,1,0.5313,0.0000
+Letícia Trindade,1,0.5313,0.0000
+Levi,11,5.8439,1.0414
+Levi Leonardo,1,0.5313,0.0000
+Lia,4,2.1251,0.6021
+Lian,3,1.5938,0.4771
+Liana,1,0.5313,0.0000
+Liberdade,24,12.7503,1.3802
+Libéria,8,4.2501,0.9031
+Lilian,6,3.1876,0.7782
+Lilian Granado,3,1.5938,0.4771
+Liliana Ayalde,2,1.0625,0.3010
+Lina,3,1.5938,0.4771
+Lineu,1,0.5313,0.0000
+Lino,2,1.0625,0.3010
+Lins,5,2.6563,0.6990
+Lira,14,7.4377,1.1461
+Lisa,7,3.7188,0.8451
+Liz,2,1.0625,0.3010
+Lopes,12,6.3752,1.0792
+Lopes Fonseca,1,0.5313,0.0000
+Lopes Mendes,3,1.5938,0.4771
+Lopes Santos,1,0.5313,0.0000
+Lorena,2,1.0625,0.3010
+Lorena Brites,2,1.0625,0.3010
+Lorena Medeiros,1,0.5313,0.0000
+Lorenzo,11,5.8439,1.0414
+Lourenço,4,2.1251,0.6021
+Lourenço Jorge,6,3.1876,0.7782
+Lourival Santana,2,1.0625,0.3010
+Lua,14,7.4377,1.1461
+Luana,17,9.0315,1.2304
+Luana Lira,1,0.5313,0.0000
+Luca,18,9.5628,1.2553
+Luca Toni,1,0.5313,0.0000
+Lucas,110,58.4391,2.0414
+Lucas Almeida,1,0.5313,0.0000
+Lucas Cândido,1,0.5313,0.0000
+Lucas Fernandes,3,1.5938,0.4771
+Lucas Godoy,1,0.5313,0.0000
+Lucas Gomes,1,0.5313,0.0000
+Lucas Nascimento,1,0.5313,0.0000
+Lucas Oliveira,2,1.0625,0.3010
+Lucas Otávio,1,0.5313,0.0000
+Lucas Rocha,2,1.0625,0.3010
+Lucas Salgado,1,0.5313,0.0000
+Lucas Santana,1,0.5313,0.0000
+Lucas Veríssimo,12,6.3752,1.0792
+Lucas Viriato,1,0.5313,0.0000
+Luciana,15,7.9690,1.1761
+Luciana Lopes,1,0.5313,0.0000
+Luciana Vargas,2,1.0625,0.3010
+Luciana Victor,2,1.0625,0.3010
+Ludmila,2,1.0625,0.3010
+Luigi,5,2.6563,0.6990
+Luigi Galvani,1,0.5313,0.0000
+Luigi Zanda,7,3.7188,0.8451
+Luiz,157,83.4085,2.1959
+Luiz Adriano,4,2.1251,0.6021
+Luiz Alberto Figueiredo Machado,1,0.5313,0.0000
+Luiz Amorim,1,0.5313,0.0000
+Luiz André,1,0.5313,0.0000
+Luiz Antonio,2,1.0625,0.3010
+Luiz Antonio Teixeira Junior,2,1.0625,0.3010
+Luiz Antonio Teixeira Júnior,1,0.5313,0.0000
+Luiz Antônio,9,4.7814,0.9542
+Luiz Antônio Mendes,1,0.5313,0.0000
+Luiz Antônio Teixeira,6,3.1876,0.7782
+Luiz Antônio Teixeira Junior,2,1.0625,0.3010
+Luiz Antônio Teixeira Júnior,6,3.1876,0.7782
+Luiz Azevedo,1,0.5313,0.0000
+Luiz Brandão,1,0.5313,0.0000
+Luiz Caldas,1,0.5313,0.0000
+Luiz Carlos,9,4.7814,0.9542
+Luiz Carlos Lacerda,1,0.5313,0.0000
+Luiz Claudio,2,1.0625,0.3010
+Luiz Cláudio,1,0.5313,0.0000
+Luiz Cláudio Silva,1,0.5313,0.0000
+Luiz Davidovich,1,0.5313,0.0000
+Luiz Eduardo,2,1.0625,0.3010
+Luiz Fernando,2,1.0625,0.3010
+Luiz Flávio,2,1.0625,0.3010
+Luiz Franco,1,0.5313,0.0000
+Luiz Gonzaga,2,1.0625,0.3010
+Luiz Guilherme,5,2.6563,0.6990
+Luiz Gustavo,9,4.7814,0.9542
+Luiz Otávio,1,0.5313,0.0000
+Luiz Paulino,1,0.5313,0.0000
+Luiz Paulino dos Santos,1,0.5313,0.0000
+Luiz Paulo,4,2.1251,0.6021
+Luna,7,3.7188,0.8451
+Lusa,4,2.1251,0.6021
+Lusa Victor,1,0.5313,0.0000
+Lutero,2,1.0625,0.3010
+Luz,23,12.2191,1.3617
+Luzia,1,0.5313,0.0000
+Luís,22,11.6878,1.3424
+Luís Caldas,1,0.5313,0.0000
+Luís Carlos,3,1.5938,0.4771
+Luís Mário,1,0.5313,0.0000
+Luís Ricardo,4,2.1251,0.6021
+Luís Roberto,2,1.0625,0.3010
+Lázaro,3,1.5938,0.4771
+Lázaro Ramos,3,1.5938,0.4771
+Líbia,161,85.5335,2.2068
+Lídia,1,0.5313,0.0000
+Lígia,7,3.7188,0.8451
+Lília Valéria,1,0.5313,0.0000
+Lívia,3,1.5938,0.4771
+Lívia Graciano,2,1.0625,0.3010
+Lúcia,4,2.1251,0.6021
+Lúcia Caldas,2,1.0625,0.3010
+Lúcia Coutinho,1,0.5313,0.0000
+Lúcia Helena,1,0.5313,0.0000
+Lúcia Maria Rodrigues,1,0.5313,0.0000
+Lúcia Veríssimo,1,0.5313,0.0000
+Lúcio,1,0.5313,0.0000
+Lúcio Cardoso,1,0.5313,0.0000
+Lúcio Costa,1,0.5313,0.0000
+Lúcio Mariano,1,0.5313,0.0000
+Madalena,2,1.0625,0.3010
+Mafalda,2,1.0625,0.3010
+Magali Romero Sá,1,0.5313,0.0000
+Manuel,31,16.4692,1.4914
+Manuela,3,1.5938,0.4771
+Manuela Trindade,1,0.5313,0.0000
+Mara,7,3.7188,0.8451
+Marcela,3,1.5938,0.4771
+Marcela Alves,1,0.5313,0.0000
+Marcela Donato,1,0.5313,0.0000
+Marcela Herculani,1,0.5313,0.0000
+Marcela Mariana,1,0.5313,0.0000
+Marcelo,256,136.0036,2.4082
+Marcelo Addas,1,0.5313,0.0000
+Marcelo Cordeiro,2,1.0625,0.3010
+Marcelo Hermes,1,0.5313,0.0000
+Marcelo Machado,1,0.5313,0.0000
+Marcelo Oliveira,40,21.2506,1.6021
+Marcelo Plácido,3,1.5938,0.4771
+Marcelo Rezende,1,0.5313,0.0000
+Marcelo Rodrigues,1,0.5313,0.0000
+Marcelo Rogério,1,0.5313,0.0000
+Marcelo Rubens,1,0.5313,0.0000
+Marcelo Santos,1,0.5313,0.0000
+Marcelo Toledo,1,0.5313,0.0000
+Marcelo Vieira,1,0.5313,0.0000
+Marco,192,102.0027,2.2833
+Marco Andrade,9,4.7814,0.9542
+Marco Antonio,1,0.5313,0.0000
+Marco Antonio Lopes,1,0.5313,0.0000
+Marco Antonio Teobaldo,1,0.5313,0.0000
+Marco Antonio Zago,2,1.0625,0.3010
+Marco Antônio,10,5.3126,1.0000
+Marco Antônio Teixeira,1,0.5313,0.0000
+Marco Fonseca,1,0.5313,0.0000
+Marco Krieger,1,0.5313,0.0000
+Marco Oliveira,3,1.5938,0.4771
+Marco Tardelli,2,1.0625,0.3010
+Marcos,53,28.1570,1.7243
+Marcos Ananias,1,0.5313,0.0000
+Marcos André,3,1.5938,0.4771
+Marcos Antonio Alcides,1,0.5313,0.0000
+Marcos Antônio,1,0.5313,0.0000
+Marcos Baghdatis,1,0.5313,0.0000
+Marcos Carneiro Lopes,1,0.5313,0.0000
+Marcos Frederico,1,0.5313,0.0000
+Marcos Gomes,2,1.0625,0.3010
+Marcos Jorge,4,2.1251,0.6021
+Marcos Junior,12,6.3752,1.0792
+Marcos Lacerda,1,0.5313,0.0000
+Marcos Luiz,1,0.5313,0.0000
+Marcos Marinho,2,1.0625,0.3010
+Marcos Mendes,1,0.5313,0.0000
+Marcos Oliveira,2,1.0625,0.3010
+Marcos Rocha,1,0.5313,0.0000
+Marcos Souza,1,0.5313,0.0000
+Margaret,11,5.8439,1.0414
+Margaret Chan,30,15.9379,1.4771
+Margarida,2,1.0625,0.3010
+Margarida Maria,2,1.0625,0.3010
+Maria,159,84.4710,2.2014
+Maria Alice,2,1.0625,0.3010
+Maria Alice Nascimento Souza,1,0.5313,0.0000
+Maria Amélia Mamede,2,1.0625,0.3010
+Maria Antonieta,2,1.0625,0.3010
+Maria Aparecida,1,0.5313,0.0000
+Maria Arlete,1,0.5313,0.0000
+Maria Bernardes,1,0.5313,0.0000
+Maria Cecília,9,4.7814,0.9542
+Maria Clara,3,1.5938,0.4771
+Maria Eduarda,3,1.5938,0.4771
+Maria Elena,4,2.1251,0.6021
+Maria Elisabeth,4,2.1251,0.6021
+Maria Fernanda,1,0.5313,0.0000
+Maria Inês,4,2.1251,0.6021
+Maria Isabel,3,1.5938,0.4771
+Maria Izquierdo,1,0.5313,0.0000
+Maria Josefa Barreto,1,0.5313,0.0000
+Maria José,2,1.0625,0.3010
+Maria José Menezes,1,0.5313,0.0000
+Maria Júlia Coutinho,2,1.0625,0.3010
+Maria Júlia Norton,3,1.5938,0.4771
+Maria Laura,2,1.0625,0.3010
+Maria Luísa Mendonça,1,0.5313,0.0000
+Maria Lúcia,6,3.1876,0.7782
+Maria Madalena,2,1.0625,0.3010
+Maria Maria,1,0.5313,0.0000
+Maria Nazaré,1,0.5313,0.0000
+Maria Neuza Gomes,1,0.5313,0.0000
+Maria Paula,1,0.5313,0.0000
+Maria Quitéria Conceição dos Santos,1,0.5313,0.0000
+Maria Rita,2,1.0625,0.3010
+Maria Teresa,1,0.5313,0.0000
+Maria Teresa Cordeiro,1,0.5313,0.0000
+Maria Zélia,1,0.5313,0.0000
+Mariana,34,18.0630,1.5315
+Mariana Accardo,1,0.5313,0.0000
+Mariana Alcoforado,1,0.5313,0.0000
+Mariana Fernandes,1,0.5313,0.0000
+Mariana Vidal,1,0.5313,0.0000
+Mariano,12,6.3752,1.0792
+Marie,3,1.5938,0.4771
+Marie Anne Van Sluys,1,0.5313,0.0000
+Marina,30,15.9379,1.4771
+Marina Dalgalarrondo,1,0.5313,0.0000
+Marina Florindo,1,0.5313,0.0000
+Marina Franco,1,0.5313,0.0000
+Marina Reinoldes,1,0.5313,0.0000
+Marinho,11,5.8439,1.0414
+Mario,29,15.4067,1.4624
+Mario Abbade,1,0.5313,0.0000
+Mario Andrada,1,0.5313,0.0000
+Mario Bergoglio,2,1.0625,0.3010
+Mario Mamede,1,0.5313,0.0000
+Mario Vargas,2,1.0625,0.3010
+Marisa,15,7.9690,1.1761
+Marisa Andrade,1,0.5313,0.0000
+Marisa Mendonça,2,1.0625,0.3010
+Marisol Touraine,9,4.7814,0.9542
+Mark,45,23.9069,1.6532
+Mark Walker,1,0.5313,0.0000
+Marlene,7,3.7188,0.8451
+Marlene Leal,2,1.0625,0.3010
+Marta,12,6.3752,1.0792
+Marta Franco,1,0.5313,0.0000
+Marta Silva,1,0.5313,0.0000
+Marta dos Santos Barreto,1,0.5313,0.0000
+Martim,2,1.0625,0.3010
+Martinho,24,12.7503,1.3802
+Martinho Santos,1,0.5313,0.0000
+Marília,21,11.1565,1.3222
+Mateus,11,5.8439,1.0414
+Mateus Oliveira,1,0.5313,0.0000
+Mateus Sales,1,0.5313,0.0000
+Mateus Vidotto,1,0.5313,0.0000
+Mateus Vital,2,1.0625,0.3010
+Mateus Xavier,1,0.5313,0.0000
+Matias,4,2.1251,0.6021
+Matias Aldao,1,0.5313,0.0000
+Matilde,2,1.0625,0.3010
+Mauro,37,19.6568,1.5682
+Mauro Andrade,1,0.5313,0.0000
+Mauro André,1,0.5313,0.0000
+Mauro Heitor,1,0.5313,0.0000
+Mauro Mendonça,1,0.5313,0.0000
+Mauro Sérgio dos Santos Xavier,1,0.5313,0.0000
+Mauro Vieira,16,8.5002,1.2041
+Maurício,19,10.0940,1.2788
+Maurício Arruda Mendonça,3,1.5938,0.4771
+Maurício Code,3,1.5938,0.4771
+Maurício Gomes,2,1.0625,0.3010
+Maurício Rocha,1,0.5313,0.0000
+Maurício Teixeira,1,0.5313,0.0000
+Maurício Verde,1,0.5313,0.0000
+Mel,12,6.3752,1.0792
+Mel Paes,1,0.5313,0.0000
+Melissa,7,3.7188,0.8451
+Melissa Silva,1,0.5313,0.0000
+Mem,29,15.4067,1.4624
+Mem Sá,1,0.5313,0.0000
+Mendonça,4,2.1251,0.6021
+Menezes,4,2.1251,0.6021
+Mercedes,11,5.8439,1.0414
+Mercedes-Benz,1,0.5313,0.0000
+Micaela,1,0.5313,0.0000
+Michael,66,35.0634,1.8195
+Michael Correia,2,1.0625,0.3010
+Michael Fassbender,5,2.6563,0.6990
+Michael Jordan,4,2.1251,0.6021
+Michael Lonsdale,1,0.5313,0.0000
+Michael Pantera,1,0.5313,0.0000
+Michael Rodrigues,1,0.5313,0.0000
+Michael Santos,3,1.5938,0.4771
+Michele,7,3.7188,0.8451
+Michele Leal,1,0.5313,0.0000
+Michele Obama,2,1.0625,0.3010
+Miguel,54,28.6883,1.7324
+Miguel Alves,1,0.5313,0.0000
+Miguel Andorffy,1,0.5313,0.0000
+Miguel Couto,2,1.0625,0.3010
+Miguel Ramos Junior,1,0.5313,0.0000
+Milena,1,0.5313,0.0000
+Minervina,2,1.0625,0.3010
+Miriam,8,4.2501,0.9031
+Miriam Belchior,3,1.5938,0.4771
+Moacyr,4,2.1251,0.6021
+Moacyr Luz,5,2.6563,0.6990
+Moacyr Pinto,1,0.5313,0.0000
+Moacyr Santos,1,0.5313,0.0000
+Moisés,16,8.5002,1.2041
+Moraes,48,25.5007,1.6812
+Mota,10,5.3126,1.0000
+Murilo,2,1.0625,0.3010
+Murilo Aguiar,2,1.0625,0.3010
+Musa,7,3.7188,0.8451
+Márcia,22,11.6878,1.3424
+Márcia Valéria,1,0.5313,0.0000
+Márcio,27,14.3441,1.4314
+Márcio Costa,1,0.5313,0.0000
+Márcio Diogo,1,0.5313,0.0000
+Márcio Januário,1,0.5313,0.0000
+Márcio Machado,5,2.6563,0.6990
+Márcio Nascimento,1,0.5313,0.0000
+Márcio Roberto,1,0.5313,0.0000
+Mário,20,10.6253,1.3010
+Mário Abbade,1,0.5313,0.0000
+Mário Andrada,4,2.1251,0.6021
+Mário Bento,1,0.5313,0.0000
+Mário Fernando Oliveira,1,0.5313,0.0000
+Mário Januário,1,0.5313,0.0000
+Mário Rui,1,0.5313,0.0000
+Mário Sérgio,1,0.5313,0.0000
+Máximo,2,1.0625,0.3010
+Mélanie,1,0.5313,0.0000
+Napoleão,2,1.0625,0.3010
+Nascimento,20,10.6253,1.3010
+Nascimento Júnior,1,0.5313,0.0000
+Natividade,3,1.5938,0.4771
+Natália,15,7.9690,1.1761
+Nazaré,7,3.7188,0.8451
+Nelson,49,26.0319,1.6902
+Nelson Mandela,1,0.5313,0.0000
+Nelson Pedro,1,0.5313,0.0000
+Nelson Rodrigues,16,8.5002,1.2041
+Nelson Silva,3,1.5938,0.4771
+Nestor,10,5.3126,1.0000
+Neusa,1,0.5313,0.0000
+Nicolas,19,10.0940,1.2788
+Nicolau Copérnico,1,0.5313,0.0000
+Nivaldo,2,1.0625,0.3010
+Noah,5,2.6563,0.6990
+Noah Glass,2,1.0625,0.3010
+Noel,2,1.0625,0.3010
+Noel Rosa,14,7.4377,1.1461
+Noé,5,2.6563,0.6990
+Noé Silva,1,0.5313,0.0000
+Nuno,4,2.1251,0.6021
+Nélson,1,0.5313,0.0000
+Obama,468,248.6316,2.6702
+Octávio,4,2.1251,0.6021
+Odete Lara,2,1.0625,0.3010
+Olavo,2,1.0625,0.3010
+Olga,3,1.5938,0.4771
+Olga Costa,2,1.0625,0.3010
+Oliveira,140,74.3770,2.1461
+Oliveira Almeida,1,0.5313,0.0000
+Oliveira Junior,1,0.5313,0.0000
+Oliveira Paula,1,0.5313,0.0000
+Oliveira Russel,1,0.5313,0.0000
+Oliveira Silva,1,0.5313,0.0000
+Oliveira Souza,1,0.5313,0.0000
+Olívia Maria,1,0.5313,0.0000
+Omar,4,2.1251,0.6021
+Ondina,6,3.1876,0.7782
+Orestes,1,0.5313,0.0000
+Orestes Vicente,1,0.5313,0.0000
+Osborne,1,0.5313,0.0000
+Osvaldo,13,6.9064,1.1139
+Osvaldo Nascimento,2,1.0625,0.3010
+Otávio,3,1.5938,0.4771
+Ovídio,1,0.5313,0.0000
+Paes,53,28.1570,1.7243
+Palmira,10,5.3126,1.0000
+Paracelso,1,0.5313,0.0000
+Paraíso,12,6.3752,1.0792
+Patrícia,35,18.5942,1.5441
+Patrícia Fernandes,1,0.5313,0.0000
+Patrícia Oliveira,2,1.0625,0.3010
+Patrício,3,1.5938,0.4771
+Paula,37,19.6568,1.5682
+Paula Bellotti,3,1.5938,0.4771
+Paula Carriconde,2,1.0625,0.3010
+Paula Fernandes,1,0.5313,0.0000
+Paula Fernandes Machado,2,1.0625,0.3010
+Paula Freitas,2,1.0625,0.3010
+Paula Machado,3,1.5938,0.4771
+Paula Nader,1,0.5313,0.0000
+Paula Roberta,1,0.5313,0.0000
+Paula Vieira,1,0.5313,0.0000
+Paulo,281,149.2852,2.4487
+Paulo Abrão,1,0.5313,0.0000
+Paulo Afonso,1,0.5313,0.0000
+Paulo Almeida,1,0.5313,0.0000
+Paulo André,4,2.1251,0.6021
+Paulo Batista,1,0.5313,0.0000
+Paulo Brito,4,2.1251,0.6021
+Paulo Buss,4,2.1251,0.6021
+Paulo Cardoso,1,0.5313,0.0000
+Paulo Cordeiro,1,0.5313,0.0000
+Paulo Elian,1,0.5313,0.0000
+Paulo Fernando,1,0.5313,0.0000
+Paulo Gadelha,8,4.2501,0.9031
+Paulo Henrique,14,7.4377,1.1461
+Paulo Machado,2,1.0625,0.3010
+Paulo Maurício,1,0.5313,0.0000
+Paulo Mendes,1,0.5313,0.0000
+Paulo Menezes,4,2.1251,0.6021
+Paulo Ormindo,4,2.1251,0.6021
+Paulo Pandolfi,1,0.5313,0.0000
+Paulo Ramos,1,0.5313,0.0000
+Paulo Renato,3,1.5938,0.4771
+Paulo Ricardo,2,1.0625,0.3010
+Paulo Roberto,2,1.0625,0.3010
+Paulo Roberto Fagundes,1,0.5313,0.0000
+Paulo Rodrigues Fernandes,1,0.5313,0.0000
+Paulo Roque,2,1.0625,0.3010
+Paulo Saúde,1,0.5313,0.0000
+Paulo Sebastião Rosa Vieira,1,0.5313,0.0000
+Paulo Sotero,2,1.0625,0.3010
+Paulo Sérgio,2,1.0625,0.3010
+Paulo Victor,22,11.6878,1.3424
+Paulo Vieira,4,2.1251,0.6021
+Paz,70,37.1885,1.8451
+Paz Nelson Mandela,2,1.0625,0.3010
+Pedro,116,61.6266,2.0645
+Pedro Amorim,1,0.5313,0.0000
+Pedro Américo,1,0.5313,0.0000
+Pedro Cardoso,1,0.5313,0.0000
+Pedro Fernandes,6,3.1876,0.7782
+Pedro Gustavo,1,0.5313,0.0000
+Pedro Henrique,5,2.6563,0.6990
+Pedro Henrique Alves,5,2.6563,0.6990
+Pedro Henrique Lopes,2,1.0625,0.3010
+Pedro Henrique Mendonça,1,0.5313,0.0000
+Pedro Henrique Silva,1,0.5313,0.0000
+Pedro Isidoro,7,3.7188,0.8451
+Pedro Ivo,1,0.5313,0.0000
+Pedro Luís,4,2.1251,0.6021
+Pedro Maciel,1,0.5313,0.0000
+Pedro Miguel,2,1.0625,0.3010
+Pedro Miranda,3,1.5938,0.4771
+Pedro Paulo,12,6.3752,1.0792
+Pedro Paulo Teixeira,1,0.5313,0.0000
+Pedro Prado,1,0.5313,0.0000
+Pedro Rocha,4,2.1251,0.6021
+Pedro Rosário,1,0.5313,0.0000
+Pedro Sabino,1,0.5313,0.0000
+Pedro Victor,1,0.5313,0.0000
+Pedro Victor Brandão,1,0.5313,0.0000
+Peggye Kalas,1,0.5313,0.0000
+Peixoto,6,3.1876,0.7782
+Piedade,13,6.9064,1.1139
+Pinto,3,1.5938,0.4771
+Pitanguy,2,1.0625,0.3010
+Plácido,3,1.5938,0.4771
+Plínio Barreto,1,0.5313,0.0000
+Plínio Lopes,1,0.5313,0.0000
+Polliana Aleixo,1,0.5313,0.0000
+Polly Dalton,1,0.5313,0.0000
+Porfírio,1,0.5313,0.0000
+Priscila,7,3.7188,0.8451
+Priscila Chan,1,0.5313,0.0000
+Quintino,4,2.1251,0.6021
+Rafael,112,59.5016,2.0492
+Rafael Garcia,1,0.5313,0.0000
+Rafael Gomes,1,0.5313,0.0000
+Rafael Macedo,1,0.5313,0.0000
+Rafael Medeiros,1,0.5313,0.0000
+Rafael Miranda,1,0.5313,0.0000
+Rafael Nadal,21,11.1565,1.3222
+Rafael Paes,1,0.5313,0.0000
+Rafael Pinto,1,0.5313,0.0000
+Rafael Rezende,1,0.5313,0.0000
+Rafael Sandes,6,3.1876,0.7782
+Rafael Santos,1,0.5313,0.0000
+Rafael Sérgio,1,0.5313,0.0000
+Rafael dos Santos,3,1.5938,0.4771
+Rafaela,6,3.1876,0.7782
+Rafaela Luz,1,0.5313,0.0000
+Rafaela Silva,2,1.0625,0.3010
+Raimundo Correia,1,0.5313,0.0000
+Ramiro,5,2.6563,0.6990
+Ramos,29,15.4067,1.4624
+Raquel,26,13.8129,1.4150
+Raquel Caldas,1,0.5313,0.0000
+Raquel Lopes,2,1.0625,0.3010
+Raquel Santos,1,0.5313,0.0000
+Raquel Silva,1,0.5313,0.0000
+Raquel Teixeira,1,0.5313,0.0000
+Rasslan,1,0.5313,0.0000
+Raul,19,10.0940,1.2788
+Raul Franco,1,0.5313,0.0000
+Raul Henry,2,1.0625,0.3010
+Raul Leal,2,1.0625,0.3010
+Raul Mariano Cardoso,1,0.5313,0.0000
+Regina,21,11.1565,1.3222
+Regina Beatriz,1,0.5313,0.0000
+Regina Miranda,1,0.5313,0.0000
+Regina Oliveira,1,0.5313,0.0000
+Reginaldo Mafalda,2,1.0625,0.3010
+Reinaldo,1,0.5313,0.0000
+Reinaldo Bandeira,1,0.5313,0.0000
+Reinaldo Conceição,1,0.5313,0.0000
+Remo,14,7.4377,1.1461
+Renan,14,7.4377,1.1461
+Renan Fonseca,1,0.5313,0.0000
+Renan Freitas,1,0.5313,0.0000
+Renata,16,8.5002,1.2041
+Renata Miranda,1,0.5313,0.0000
+Renata Rodrigues,6,3.1876,0.7782
+Renata Vidal,1,0.5313,0.0000
+Renato,92,48.8763,1.9638
+Renato Constâncio,1,0.5313,0.0000
+Renato Henrique Teixeira,1,0.5313,0.0000
+Renato Júnior,2,1.0625,0.3010
+Renato Santana,2,1.0625,0.3010
+Renato Vieira,1,0.5313,0.0000
+Ricardo,33,17.5317,1.5185
+Ricardo Cruz,2,1.0625,0.3010
+Ricardo Fernandes,3,1.5938,0.4771
+Ricardo Gabriel,1,0.5313,0.0000
+Ricardo Gomes,6,3.1876,0.7782
+Ricardo José Pinto,1,0.5313,0.0000
+Ricardo Lewandowski,3,1.5938,0.4771
+Ricardo Maurício,1,0.5313,0.0000
+Ricardo Oliveira,46,24.4381,1.6628
+Ricardo Oliveira dos Emirados,1,0.5313,0.0000
+Ricardo Prado,2,1.0625,0.3010
+Ricardo Ramos,1,0.5313,0.0000
+Ricardo Santos,1,0.5313,0.0000
+Ricardo Silva,1,0.5313,0.0000
+Ricardo Teixeira,17,9.0315,1.2304
+Ricardo Toledo Silva,2,1.0625,0.3010
+Ricardo Xavier,1,0.5313,0.0000
+Rinaldi,1,0.5313,0.0000
+Rita,27,14.3441,1.4314
+Rita Fernandes,1,0.5313,0.0000
+Rita Ludolf,2,1.0625,0.3010
+Roberta,24,12.7503,1.3802
+Roberta Oliveira,2,1.0625,0.3010
+Roberta Rodrigues,1,0.5313,0.0000
+Roberto,103,54.7202,2.0128
+Roberto Baradel,2,1.0625,0.3010
+Roberto Bruno,1,0.5313,0.0000
+Roberto Caldas,32,17.0005,1.5051
+Roberto Carlos,5,2.6563,0.6990
+Roberto Donadoni,2,1.0625,0.3010
+Roberto Fagundes,1,0.5313,0.0000
+Roberto Fernandes dos Santos,1,0.5313,0.0000
+Roberto Figueiredo,1,0.5313,0.0000
+Roberto Firmino,6,3.1876,0.7782
+Roberto Fonseca,1,0.5313,0.0000
+Roberto Gomes,1,0.5313,0.0000
+Roberto Mendes,1,0.5313,0.0000
+Roberto Pinto,1,0.5313,0.0000
+Roberto Rocha,1,0.5313,0.0000
+Roberto Santos,2,1.0625,0.3010
+Roberto Silva,2,1.0625,0.3010
+Roccatto,1,0.5313,0.0000
+Rocha,47,24.9694,1.6721
+Rocha Miranda,5,2.6563,0.6990
+Rodolfo,4,2.1251,0.6021
+Rodolfo Oliveira,1,0.5313,0.0000
+Rodolfo Souza,1,0.5313,0.0000
+Rodrigo,126,66.9393,2.1004
+Rodrigo Agostinho,1,0.5313,0.0000
+Rodrigo Aguiar,1,0.5313,0.0000
+Rodrigo Andrade,2,1.0625,0.3010
+Rodrigo Azevedo,1,0.5313,0.0000
+Rodrigo Brindeiro,1,0.5313,0.0000
+Rodrigo Caetano,3,1.5938,0.4771
+Rodrigo Caio,25,13.2816,1.3979
+Rodrigo Cardoso,1,0.5313,0.0000
+Rodrigo Cordeiro,1,0.5313,0.0000
+Rodrigo Duarte,1,0.5313,0.0000
+Rodrigo Fernandes,1,0.5313,0.0000
+Rodrigo Fonseca,1,0.5313,0.0000
+Rodrigo Garcia,5,2.6563,0.6990
+Rodrigo Henrique,3,1.5938,0.4771
+Rodrigo Leal,1,0.5313,0.0000
+Rodrigo Lindoso,5,2.6563,0.6990
+Rodrigo Moraes,1,0.5313,0.0000
+Rodrigo Rezende,1,0.5313,0.0000
+Rodrigo Rocha,1,0.5313,0.0000
+Rodrigo Rodrigues,1,0.5313,0.0000
+Rodrigo Salvador,1,0.5313,0.0000
+Rodrigo Santos,1,0.5313,0.0000
+Rodrigo Silva,3,1.5938,0.4771
+Rodrigo Vieira,5,2.6563,0.6990
+Rodrigues,20,10.6253,1.3010
+Rodrigues Barreto,1,0.5313,0.0000
+Rodrigues Júnior,2,1.0625,0.3010
+Rogério,49,26.0319,1.6902
+Rogério Andrade,1,0.5313,0.0000
+Rogério Freitas,2,1.0625,0.3010
+Rogério Gomes,2,1.0625,0.3010
+Rogério Guedes,1,0.5313,0.0000
+Rogério Tobias,1,0.5313,0.0000
+Rogério Wilson,2,1.0625,0.3010
+Romano,3,1.5938,0.4771
+Romero,41,21.7818,1.6128
+Romão,5,2.6563,0.6990
+Ronaldo,23,12.2191,1.3617
+Ronaldo Conceição,1,0.5313,0.0000
+Ronaldo Mendes,3,1.5938,0.4771
+Ronaldo Tasso,2,1.0625,0.3010
+Roque,1,0.5313,0.0000
+Rosa,42,22.3131,1.6232
+Rosa Rolanda,3,1.5938,0.4771
+Rosana,10,5.3126,1.0000
+Roseli,1,0.5313,0.0000
+Rossana,1,0.5313,0.0000
+Rossana Maria,1,0.5313,0.0000
+Rosário,16,8.5002,1.2041
+Rousseff,18,9.5628,1.2553
+Rubens,15,7.9690,1.1761
+Rubens Belfort,1,0.5313,0.0000
+Rubens Lopes,4,2.1251,0.6021
+Rudi,1,0.5313,0.0000
+Rudi Garcia,3,1.5938,0.4771
+Rui,4,2.1251,0.6021
+Rui Costa,6,3.1876,0.7782
+Rui Vitória,1,0.5313,0.0000
+Russel,4,2.1251,0.6021
+Russel Wilson,1,0.5313,0.0000
+Rute,5,2.6563,0.6990
+Ruth,2,1.0625,0.3010
+Sabino,4,2.1251,0.6021
+Sabrina,14,7.4377,1.1461
+Sabrina Moraes,1,0.5313,0.0000
+Sacramento,1,0.5313,0.0000
+Salazar,1,0.5313,0.0000
+Sales,4,2.1251,0.6021
+Salomé,1,0.5313,0.0000
+Salvador,114,60.5641,2.0569
+Salvador Allende,2,1.0625,0.3010
+Samaritano,1,0.5313,0.0000
+Samir,3,1.5938,0.4771
+Samir Rasslan,1,0.5313,0.0000
+Samuel,12,6.3752,1.0792
+Sancho,2,1.0625,0.3010
+Sandra,13,6.9064,1.1139
+Sandra Fernandes,1,0.5313,0.0000
+Sandra Miranda,1,0.5313,0.0000
+Sandra Nicolau,1,0.5313,0.0000
+Sandra Regina,1,0.5313,0.0000
+Sandra Rodrigues,1,0.5313,0.0000
+Sandro,18,9.5628,1.2553
+Sansão,2,1.0625,0.3010
+Santa,137,72.7832,2.1367
+Santa Adélia,4,2.1251,0.6021
+Santa Bernadete,1,0.5313,0.0000
+Santa Bárbara,3,1.5938,0.4771
+Santa Catarina,23,12.2191,1.3617
+Santa Clara,9,4.7814,0.9542
+Santa Cruz,78,41.4386,1.8921
+Santa Gertrudes,1,0.5313,0.0000
+Santa Isabel,1,0.5313,0.0000
+Santa Joana,1,0.5313,0.0000
+Santa Luzia,7,3.7188,0.8451
+Santa Maria,8,4.2501,0.9031
+Santa Maria Madalena,5,2.6563,0.6990
+Santa Marta,13,6.9064,1.1139
+Santa Rita,10,5.3126,1.0000
+Santa Rosa,1,0.5313,0.0000
+Santa Teresa,80,42.5011,1.9031
+Santa Terezinha,1,0.5313,0.0000
+Santana,26,13.8129,1.4150
+Santana Santos,1,0.5313,0.0000
+Santiago,18,9.5628,1.2553
+Santiago Andrade,2,1.0625,0.3010
+Santo,23,12.2191,1.3617
+Santo Agostinho,1,0.5313,0.0000
+Santo Amaro,5,2.6563,0.6990
+Santo André,3,1.5938,0.4771
+Santo Antônio,7,3.7188,0.8451
+Santos,295,156.7229,2.4698
+Santos José,1,0.5313,0.0000
+Santos Luís,1,0.5313,0.0000
+Sara,4,2.1251,0.6021
+Sarah,13,6.9064,1.1139
+Sarah Menezes,1,0.5313,0.0000
+Saulo,13,6.9064,1.1139
+Saulo Fernandes,2,1.0625,0.3010
+Saulo Rodrigues,2,1.0625,0.3010
+Saúl,6,3.1876,0.7782
+Sebastiana,10,5.3126,1.0000
+Sebastiana Maria,1,0.5313,0.0000
+Sebastião,6,3.1876,0.7782
+Sebastião Júnior,1,0.5313,0.0000
+Selena,1,0.5313,0.0000
+Selma,6,3.1876,0.7782
+Selma Rodrigues,1,0.5313,0.0000
+Serena,14,7.4377,1.1461
+Severino,6,3.1876,0.7782
+Severino Barreto,1,0.5313,0.0000
+Severino Ramos,1,0.5313,0.0000
+Severino Silva,2,1.0625,0.3010
+Sheila,2,1.0625,0.3010
+Sheila Garcia,1,0.5313,0.0000
+Siena,4,2.1251,0.6021
+Silas,9,4.7814,0.9542
+Silva,188,99.8776,2.2742
+Silva Batista,1,0.5313,0.0000
+Silva Cardoso,2,1.0625,0.3010
+Silva Júnior,1,0.5313,0.0000
+Silva Lopes,1,0.5313,0.0000
+Silva Oliveira,1,0.5313,0.0000
+Silva Raimundo,1,0.5313,0.0000
+Silva Santos,7,3.7188,0.8451
+Silva Santos Junior,3,1.5938,0.4771
+Silva Santos Júnior,1,0.5313,0.0000
+Silva Souza,1,0.5313,0.0000
+Silva dos Santos,2,1.0625,0.3010
+Silvana,5,2.6563,0.6990
+Silvana Cardoso,1,0.5313,0.0000
+Silvana Salazar,1,0.5313,0.0000
+Silvestre,3,1.5938,0.4771
+Silvestre Machado,1,0.5313,0.0000
+Silvério,1,0.5313,0.0000
+Sima Ferman,1,0.5313,0.0000
+Simone,18,9.5628,1.2553
+Simone Machado,1,0.5313,0.0000
+Simone Mamede,1,0.5313,0.0000
+Simplício,1,0.5313,0.0000
+Simão,2,1.0625,0.3010
+Simão Brito,1,0.5313,0.0000
+Simão Pedro,1,0.5313,0.0000
+Socorro,2,1.0625,0.3010
+Socorro Silva,1,0.5313,0.0000
+Sofia,3,1.5938,0.4771
+Sol,76,40.3761,1.8808
+Sol Enganador,1,0.5313,0.0000
+Solange,9,4.7814,0.9542
+Solange Gomes,1,0.5313,0.0000
+Solange Regina,1,0.5313,0.0000
+Solange Toledo,1,0.5313,0.0000
+Solene,1,0.5313,0.0000
+Soraia,4,2.1251,0.6021
+Sotero,4,2.1251,0.6021
+Souza,108,57.3765,2.0334
+Souza Aguiar,1,0.5313,0.0000
+Souza Conceição,1,0.5313,0.0000
+Souza Cruz,1,0.5313,0.0000
+Souza Júnior,1,0.5313,0.0000
+Souza Pinto,1,0.5313,0.0000
+Souza Ramos,1,0.5313,0.0000
+Souza Santana,1,0.5313,0.0000
+Souza Teixeira Junior,2,1.0625,0.3010
+Souza Teixeira Júnior,3,1.5938,0.4771
+Stela,1,0.5313,0.0000
+Stephanie,1,0.5313,0.0000
+Stephanie Brito,1,0.5313,0.0000
+Sulamita,2,1.0625,0.3010
+Susana,17,9.0315,1.2304
+Susana Guardado,1,0.5313,0.0000
+Susana Schnardof,1,0.5313,0.0000
+Susana Schnarndorf,1,0.5313,0.0000
+Susana Vieira,1,0.5313,0.0000
+Systrom,2,1.0625,0.3010
+Sá,101,53.6577,2.0043
+Sávio,3,1.5938,0.4771
+São,387,205.5992,2.5877
+São Bartolomeu,1,0.5313,0.0000
+São Bento,23,12.2191,1.3617
+São Bernardo,35,18.5942,1.5441
+São Caetano,6,3.1876,0.7782
+São Carlos,24,12.7503,1.3802
+São Clemente,20,10.6253,1.3010
+São Conrado,46,24.4381,1.6628
+São Cristóvão,33,17.5317,1.5185
+São Diogo,1,0.5313,0.0000
+São Francisco,29,15.4067,1.4624
+São Francisco Xavier,6,3.1876,0.7782
+São Félix,1,0.5313,0.0000
+São Gabriel,2,1.0625,0.3010
+São Geraldo,1,0.5313,0.0000
+São Gonçalo,42,22.3131,1.6232
+São Januário,46,24.4381,1.6628
+São Jorge,30,15.9379,1.4771
+São José,44,23.3756,1.6435
+São João,43,22.8444,1.6335
+São Lourenço,5,2.6563,0.6990
+São Luiz,10,5.3126,1.0000
+São Luís,5,2.6563,0.6990
+São Marcos,1,0.5313,0.0000
+São Martinho,1,0.5313,0.0000
+São Mateus,1,0.5313,0.0000
+São Miguel,4,2.1251,0.6021
+São Patrício,1,0.5313,0.0000
+São Paulo,897,476.5439,2.9528
+São Paulo Katia,1,0.5313,0.0000
+São Pedro,28,14.8754,1.4472
+São Raimundo-RR,1,0.5313,0.0000
+São Roque,2,1.0625,0.3010
+São Salvador,2,1.0625,0.3010
+São Sebastião,52,27.6257,1.7160
+São Severino,1,0.5313,0.0000
+São Silvestre,7,3.7188,0.8451
+São Tomé,4,2.1251,0.6021
+São Valentim,7,3.7188,0.8451
+São Vicente,8,4.2501,0.9031
+Sérgio,49,26.0319,1.6902
+Sérgio Bernardes,1,0.5313,0.0000
+Sérgio Lourenço,1,0.5313,0.0000
+Sérgio Machado,2,1.0625,0.3010
+Sérgio Mendes,1,0.5313,0.0000
+Sérgio Menezes,2,1.0625,0.3010
+Sérgio Ricardo,1,0.5313,0.0000
+Sérgio Rocha Bernardes,1,0.5313,0.0000
+Sérgio Rodrigues,1,0.5313,0.0000
+Sérgio Sansão,1,0.5313,0.0000
+Sérgio Silva,1,0.5313,0.0000
+Sílvia,8,4.2501,0.9031
+Sílvia Chada,1,0.5313,0.0000
+Sílvio,2,1.0625,0.3010
+Síria,466,247.5691,2.6684
+Sócrates,2,1.0625,0.3010
+Taciana,1,0.5313,0.0000
+Taciano,2,1.0625,0.3010
+Tadeu Aguiar,5,2.6563,0.6990
+Tadeu Alves,1,0.5313,0.0000
+Talita,4,2.1251,0.6021
+Talita Djalma,3,1.5938,0.4771
+Tanize Richa,1,0.5313,0.0000
+Tarcísio,8,4.2501,0.9031
+Tasso,2,1.0625,0.3010
+Tatiana,4,2.1251,0.6021
+Tatiana Rodrigues,1,0.5313,0.0000
+Taís,8,4.2501,0.9031
+Teixeira,37,19.6568,1.5682
+Teixeira Júnior,1,0.5313,0.0000
+Telmo,1,0.5313,0.0000
+Telo,1,0.5313,0.0000
+Teodora,3,1.5938,0.4771
+Teresa,23,12.2191,1.3617
+Teresa Castaldo,2,1.0625,0.3010
+Teresa Fonseca,2,1.0625,0.3010
+Teresina,3,1.5938,0.4771
+Terezinha,2,1.0625,0.3010
+Thomaz,14,7.4377,1.1461
+Thomaz Almeida,2,1.0625,0.3010
+Thomaz Garcia,1,0.5313,0.0000
+Tiago,26,13.8129,1.4150
+Tiago Cardoso,1,0.5313,0.0000
+Tiago Correia,1,0.5313,0.0000
+Tiago Costa,1,0.5313,0.0000
+Tiago Fernandes,1,0.5313,0.0000
+Tiago Rodrigues,1,0.5313,0.0000
+Tiago Silva,2,1.0625,0.3010
+Timóteo,7,3.7188,0.8451
+Tobias,3,1.5938,0.4771
+Tomaz Miranda,1,0.5313,0.0000
+Tomaz Silva,1,0.5313,0.0000
+Tomás,8,4.2501,0.9031
+Tomás Ramos,1,0.5313,0.0000
+Toni,3,1.5938,0.4771
+Toni Garrido,1,0.5313,0.0000
+Torquato,1,0.5313,0.0000
+Trajano,4,2.1251,0.6021
+Trambaiolli,1,0.5313,0.0000
+Trasila,1,0.5313,0.0000
+Trigueiros,1,0.5313,0.0000
+Trindade,10,5.3126,1.0000
+Tácio Vieira,2,1.0625,0.3010
+Tânia,1,0.5313,0.0000
+Tânia Caldas,1,0.5313,0.0000
+Ubertini,4,2.1251,0.6021
+Umbelina Breder,1,0.5313,0.0000
+Umberto,4,2.1251,0.6021
+Umberto Eco,18,9.5628,1.2553
+Umberto Eco Eco,1,0.5313,0.0000
+Umberto Trigueiros,1,0.5313,0.0000
+Uriel Lourival,1,0.5313,0.0000
+Ursa,1,0.5313,0.0000
+Urso,18,9.5628,1.2553
+Urânio,2,1.0625,0.3010
+Valdemar,2,1.0625,0.3010
+Valentim,3,1.5938,0.4771
+Valentina,4,2.1251,0.6021
+Valéria,14,7.4377,1.1461
+Valéria Costa,1,0.5313,0.0000
+Valéria Lobão,5,2.6563,0.6990
+Van,30,15.9379,1.4771
+Vanessa,8,4.2501,0.9031
+Vanessa Alves,1,0.5313,0.0000
+Vargas,15,7.9690,1.1761
+Vasco,154,81.8147,2.1875
+Vera,14,7.4377,1.1461
+Vera Cruz,1,0.5313,0.0000
+Vera Schroeder,4,2.1251,0.6021
+Veríssimo,9,4.7814,0.9542
+Vicente,15,7.9690,1.1761
+Vicente Calderón,3,1.5938,0.4771
+Vicente Cândido,1,0.5313,0.0000
+Victor,38,20.1880,1.5798
+Victor Fabiano,2,1.0625,0.3010
+Victor Hugo,1,0.5313,0.0000
+Victor James,5,2.6563,0.6990
+Victor Lopes,1,0.5313,0.0000
+Victor Marcondes,3,1.5938,0.4771
+Victor Rocha,1,0.5313,0.0000
+Victor Rodrigues,1,0.5313,0.0000
+Victória,1,0.5313,0.0000
+Victória Molgado,1,0.5313,0.0000
+Vida,23,12.2191,1.3617
+Vida Paulo Henrique,1,0.5313,0.0000
+Vida Silvestre,6,3.1876,0.7782
+Vidal,2,1.0625,0.3010
+Vieira,13,6.9064,1.1139
+Viganò,1,0.5313,0.0000
+Vilar,7,3.7188,0.8451
+Vinuicius Milani,1,0.5313,0.0000
+Viola,27,14.3441,1.4314
+Violeta,2,1.0625,0.3010
+Viriato,1,0.5313,0.0000
+Vital,1,0.5313,0.0000
+Vito,3,1.5938,0.4771
+Vitória,34,18.0630,1.5315
+Vitória Regina,1,0.5313,0.0000
+Vitório,1,0.5313,0.0000
+Viviana,4,2.1251,0.6021
+Viviane,12,6.3752,1.0792
+Viviane Santos,1,0.5313,0.0000
+Volta,15,7.9690,1.1761
+Volta Grande,1,0.5313,0.0000
+Volta Redonda,66,35.0634,1.8195
+Walker,1,0.5313,0.0000
+Wilson,20,10.6253,1.3010
+Wilson Alves,1,0.5313,0.0000
+Wilson Batista,2,1.0625,0.3010
+Wilson Lopes,3,1.5938,0.4771
+Xavier,13,6.9064,1.1139
+Xico,1,0.5313,0.0000
+Yasmin,5,2.6563,0.6990
+Yasmin Vitória,1,0.5313,0.0000
+Yolanda,5,2.6563,0.6990
+Yuri,5,2.6563,0.6990
+Yuri Fedotov,2,1.0625,0.3010
+Yuri Garrido,1,0.5313,0.0000
+Yuri Prado,2,1.0625,0.3010
+Zahra,3,1.5938,0.4771
+Zara,1,0.5313,0.0000
+Zenaide Machado,1,0.5313,0.0000
+Zilda,1,0.5313,0.0000
+Zoé,1,0.5313,0.0000
+Zé,32,17.0005,1.5051
+Zé Gomes,1,0.5313,0.0000
+Zé Manuel,1,0.5313,0.0000
+Zé Mario,1,0.5313,0.0000
+Zé Ricardo,4,2.1251,0.6021
+Zé Roberto,19,10.0940,1.2788
+Zé Victor,1,0.5313,0.0000
+Zélia,13,6.9064,1.1139

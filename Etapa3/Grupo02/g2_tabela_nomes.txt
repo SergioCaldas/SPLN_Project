@@ -1,0 +1,440 @@
+Zé Gomes, 1, 1.2246, 0.0000
+Evandro, 11, 13.4703, 1.0414
+Pedro Francisco, 1, 1.2246, 0.0000
+Pedro Afonso, 1, 1.2246, 0.0000
+André Tavares, 1, 1.2246, 0.0000
+Jaime Pacheco, 4, 4.8983, 0.6021
+Carla Soares, 9, 11.0212, 0.9542
+Eduardo Pinto, 2, 2.4492, 0.3010
+Jorge Pinto, 2, 2.4492, 0.3010
+Diogo Leite, 1, 1.2246, 0.0000
+Paulo Jorge, 1, 1.2246, 0.0000
+Sérgio Antunes, 1, 1.2246, 0.0000
+Luís do Nascimento, 2, 2.4492, 0.3010
+Ricardo Filipe, 2, 2.4492, 0.3010
+Raul José, 1, 1.2246, 0.0000
+Nuno Diogo, 1, 1.2246, 0.0000
+José António Soares, 2, 2.4492, 0.3010
+David Simão, 1, 1.2246, 0.0000
+Tiago Henriques, 2, 2.4492, 0.3010
+Wilson, 2, 2.4492, 0.3010
+Henrique Neto, 2, 2.4492, 0.3010
+Alex, 18, 22.0424, 1.2553
+Gustavo Paulo Duarte, 3, 3.6737, 0.4771
+Paiva, 2, 2.4492, 0.3010
+Rui Tavares, 3, 3.6737, 0.4771
+Albano Lourenço, 3, 3.6737, 0.4771
+José Pedro Gomes, 10, 12.2458, 1.0000
+Rodrigo António, 3, 3.6737, 0.4771
+Isabel, 9, 11.0212, 0.9542
+Afonso Henriques, 5, 6.1229, 0.6990
+Diogo, 5, 6.1229, 0.6990
+Rui Pinto, 1, 1.2246, 0.0000
+Gustavo Rodrigues, 1, 1.2246, 0.0000
+Ricardo Tavares, 3, 3.6737, 0.4771
+Rita Amaro, 1, 1.2246, 0.0000
+Paulo Sérgio, 1, 1.2246, 0.0000
+Bruno António, 2, 2.4492, 0.3010
+Andrea, 5, 6.1229, 0.6990
+Anjos, 1, 1.2246, 0.0000
+António Rodrigues, 1, 1.2246, 0.0000
+Carla Bernardino, 3, 3.6737, 0.4771
+João Afonso, 5, 6.1229, 0.6990
+Tito Rodrigues, 1, 1.2246, 0.0000
+Tito, 1, 1.2246, 0.0000
+Jerónimo, 11, 13.4703, 1.0414
+Alice, 3, 3.6737, 0.4771
+Juno, 1, 1.2246, 0.0000
+Diana, 8, 9.7966, 0.9031
+Maria Leonor, 1, 1.2246, 0.0000
+Juliana, 1, 1.2246, 0.0000
+Ricardo Gomes, 1, 1.2246, 0.0000
+Ana, 1, 1.2246, 0.0000
+José Rodrigues, 1, 1.2246, 0.0000
+João Nuno Coelho, 2, 2.4492, 0.3010
+Miguel Tiago, 2, 2.4492, 0.3010
+António Borges, 5, 6.1229, 0.6990
+Jorge Pacheco, 2, 2.4492, 0.3010
+Luciana Leite, 1, 1.2246, 0.0000
+José Júlio Paiva, 1, 1.2246, 0.0000
+Emília, 3, 3.6737, 0.4771
+André Gomes, 2, 2.4492, 0.3010
+João Domingues, 4, 4.8983, 0.6021
+Kelly, 2, 2.4492, 0.3010
+Pedro, 6, 7.3475, 0.7782
+Miguel Baptista, 1, 1.2246, 0.0000
+Alexandre, 2, 2.4492, 0.3010
+Hélder Cristóvão, 1, 1.2246, 0.0000
+Clara, 3, 3.6737, 0.4771
+Cícero, 2, 2.4492, 0.3010
+Eduardo Lourenço, 1, 1.2246, 0.0000
+Lurdes, 1, 1.2246, 0.0000
+Carlota, 1, 1.2246, 0.0000
+Baldomero Coelho, 2, 2.4492, 0.3010
+Paulo Duarte, 4, 4.8983, 0.6021
+Jorge Jesus, 63, 77.1483, 1.7993
+Paulo Antunes, 1, 1.2246, 0.0000
+João Francisco, 1, 1.2246, 0.0000
+Luís Máximo, 2, 2.4492, 0.3010
+Paulo Henrique, 1, 1.2246, 0.0000
+André Henriques, 1, 1.2246, 0.0000
+Fabiano Soares, 2, 2.4492, 0.3010
+João Pedro Rodrigues, 2, 2.4492, 0.3010
+Rita, 7, 8.5720, 0.8451
+Carla Tavares, 2, 2.4492, 0.3010
+Anabela Rodrigues, 16, 19.5932, 1.2041
+Adélia, 2, 2.4492, 0.3010
+Liberdade, 4, 4.8983, 0.6021
+Leo, 3, 3.6737, 0.4771
+José Sócrates, 68, 83.2712, 1.8325
+Sena, 1, 1.2246, 0.0000
+Alex Sandro, 1, 1.2246, 0.0000
+Caetano, 1, 1.2246, 0.0000
+Pedro Caetano, 1, 1.2246, 0.0000
+Cássio, 4, 4.8983, 0.6021
+Paulo Albano, 1, 1.2246, 0.0000
+Pedro Pinto, 9, 11.0212, 0.9542
+Andreia Soares, 1, 1.2246, 0.0000
+Duarte Pacheco, 3, 3.6737, 0.4771
+Maria Luís, 1, 1.2246, 0.0000
+Nuno, 24, 29.3898, 1.3802
+Laura, 1, 1.2246, 0.0000
+Samir, 1, 1.2246, 0.0000
+Sara Gomes, 1, 1.2246, 0.0000
+Valéria, 3, 3.6737, 0.4771
+Máxima, 4, 4.8983, 0.6021
+América, 9, 11.0212, 0.9542
+Filinto Lima, 7, 8.5720, 0.8451
+Alberto, 2, 2.4492, 0.3010
+Ana Jorge, 1, 1.2246, 0.0000
+Fábio Veríssimo, 3, 3.6737, 0.4771
+Pedro Filipe Soares, 4, 4.8983, 0.6021
+Carlos do Paulo, 2, 2.4492, 0.3010
+Mário Soares, 5, 6.1229, 0.6990
+Marina, 7, 8.5720, 0.8451
+Rui David, 1, 1.2246, 0.0000
+Acácio Valentim, 1, 1.2246, 0.0000
+João Mário, 15, 18.3686, 1.1761
+Marcelo, 15, 18.3686, 1.1761
+Diego Carlos, 2, 2.4492, 0.3010
+Rui Domingues, 1, 1.2246, 0.0000
+Catarina, 3, 3.6737, 0.4771
+Jorge Tomé, 2, 2.4492, 0.3010
+Susana, 7, 8.5720, 0.8451
+Rui Paula, 5, 6.1229, 0.6990
+Carolina Henriques, 2, 2.4492, 0.3010
+Tiago Rodrigues, 1, 1.2246, 0.0000
+Armando Jorge, 1, 1.2246, 0.0000
+António, 6, 7.3475, 0.7782
+Diego Amador, 1, 1.2246, 0.0000
+Jaime Antunes, 4, 4.8983, 0.6021
+Rui Patrício, 11, 13.4703, 1.0414
+Ana Rita, 1, 1.2246, 0.0000
+Anselmo, 1, 1.2246, 0.0000
+Zara, 1, 1.2246, 0.0000
+Gil Vicente, 11, 13.4703, 1.0414
+Paulo Raimundo, 2, 2.4492, 0.3010
+Evaldo, 1, 1.2246, 0.0000
+Regina Lourenço, 2, 2.4492, 0.3010
+Sónia Marisa Lima, 1, 1.2246, 0.0000
+Duarte, 1, 1.2246, 0.0000
+Pedro Ricardo, 1, 1.2246, 0.0000
+Lusa, 484, 592.6949, 2.6848
+Carlos, 7, 8.5720, 0.8451
+Filipa, 1, 1.2246, 0.0000
+Luís Henrique, 2, 2.4492, 0.3010
+Paulo Lourenço, 10, 12.2458, 1.0000
+Estrela, 8, 9.7966, 0.9031
+Zé Manel, 1, 1.2246, 0.0000
+Lusa Carlos Neto, 1, 1.2246, 0.0000
+Edite Estrela, 2, 2.4492, 0.3010
+Ariane, 1, 1.2246, 0.0000
+Carolina, 2, 2.4492, 0.3010
+Nuno Gomes, 10, 12.2458, 1.0000
+Rúben, 1, 1.2246, 0.0000
+Mário Pedro Caetano, 1, 1.2246, 0.0000
+Rosana, 2, 2.4492, 0.3010
+Valter Lucas, 1, 1.2246, 0.0000
+Miguel, 5, 6.1229, 0.6990
+Filipe Diogo, 3, 3.6737, 0.4771
+Filipe, 2, 2.4492, 0.3010
+Heloísa, 1, 1.2246, 0.0000
+Carlos Tavares, 18, 22.0424, 1.2553
+Joana Ferrer, 2, 2.4492, 0.3010
+Sim, 13, 15.9195, 1.1139
+Carminho, 1, 1.2246, 0.0000
+Luís, 7, 8.5720, 0.8451
+João, 10, 12.2458, 1.0000
+Catarino, 2, 2.4492, 0.3010
+Tânia, 3, 3.6737, 0.4771
+Pinto, 5, 6.1229, 0.6990
+Ana Sofia, 5, 6.1229, 0.6990
+Hugo Andrade, 1, 1.2246, 0.0000
+João Rodrigues, 1, 1.2246, 0.0000
+Sócrates, 28, 34.2881, 1.4472
+José Herculano, 1, 1.2246, 0.0000
+Francisco Pedro, 1, 1.2246, 0.0000
+Cândido, 2, 2.4492, 0.3010
+Emídio Guerreiro, 1, 1.2246, 0.0000
+Eduardo Jesus, 1, 1.2246, 0.0000
+Luna, 2, 2.4492, 0.3010
+José Angel, 2, 2.4492, 0.3010
+Daniel Sebastião, 2, 2.4492, 0.3010
+Hugo Miguel, 4, 4.8983, 0.6021
+Cláudia, 3, 3.6737, 0.4771
+Alberta, 2, 2.4492, 0.3010
+Sónia, 4, 4.8983, 0.6021
+António Soares, 3, 3.6737, 0.4771
+Delfim, 1, 1.2246, 0.0000
+Zé, 1, 1.2246, 0.0000
+Aristóteles, 1, 1.2246, 0.0000
+André Micael, 2, 2.4492, 0.3010
+Amaro, 5, 6.1229, 0.6990
+David Jorge, 3, 3.6737, 0.4771
+Maria Antónia, 1, 1.2246, 0.0000
+Ana Paula Rodrigues, 1, 1.2246, 0.0000
+Diogo Amado, 1, 1.2246, 0.0000
+Rui, 4, 4.8983, 0.6021
+Artur, 1, 1.2246, 0.0000
+Maria Inês, 2, 2.4492, 0.3010
+Infante, 2, 2.4492, 0.3010
+Francisco, 61, 74.6992, 1.7853
+Rui Sacramento, 1, 1.2246, 0.0000
+Célia Rosa, 1, 1.2246, 0.0000
+André Afonso, 1, 1.2246, 0.0000
+Jorge Soares, 1, 1.2246, 0.0000
+Liz, 1, 1.2246, 0.0000
+Inês Rodrigues, 2, 2.4492, 0.3010
+Filipe Luís, 1, 1.2246, 0.0000
+Domingos, 1, 1.2246, 0.0000
+Pedro Leite, 1, 1.2246, 0.0000
+Lusa Lisa Vicente, 1, 1.2246, 0.0000
+Adriano, 2, 2.4492, 0.3010
+Miguel Coelho, 1, 1.2246, 0.0000
+Artur Soares, 1, 1.2246, 0.0000
+Carol, 5, 6.1229, 0.6990
+Lusa João Francisco, 1, 1.2246, 0.0000
+Marisa Isabel, 1, 1.2246, 0.0000
+Nuno Amado, 5, 6.1229, 0.6990
+Frederica, 5, 6.1229, 0.6990
+Luís Coelho, 1, 1.2246, 0.0000
+Mariana, 1, 1.2246, 0.0000
+João Paulo, 1, 1.2246, 0.0000
+Adrien, 15, 18.3686, 1.1761
+Frederico, 1, 1.2246, 0.0000
+Mário, 1, 1.2246, 0.0000
+Alex Soares, 3, 3.6737, 0.4771
+Cristiano, 5, 6.1229, 0.6990
+Jonas, 44, 53.8814, 1.6435
+Carlos Eduardo, 1, 1.2246, 0.0000
+Tiago, 6, 7.3475, 0.7782
+Rodrigo, 2, 2.4492, 0.3010
+Marta, 1, 1.2246, 0.0000
+Ana Beatriz, 3, 3.6737, 0.4771
+Miguel Judas, 3, 3.6737, 0.4771
+Sol, 9, 11.0212, 0.9542
+Briosa, 2, 2.4492, 0.3010
+Henrique, 5, 6.1229, 0.6990
+Sofia, 2, 2.4492, 0.3010
+Danilo, 25, 30.6144, 1.3979
+Pedro Miguel Branco, 1, 1.2246, 0.0000
+Tavares, 1, 1.2246, 0.0000
+Carlos Lourenço, 1, 1.2246, 0.0000
+André, 3, 3.6737, 0.4771
+Paulo Leite, 2, 2.4492, 0.3010
+Rui Gomes, 5, 6.1229, 0.6990
+Marlene, 1, 1.2246, 0.0000
+Carlos Neto, 2, 2.4492, 0.3010
+Luís Amado, 1, 1.2246, 0.0000
+Francisco Gomes, 1, 1.2246, 0.0000
+Elias Isaac, 1, 1.2246, 0.0000
+Jorge, 6, 7.3475, 0.7782
+Joana Lima, 1, 1.2246, 0.0000
+Wilson Eduardo, 6, 7.3475, 0.7782
+Feliz, 2, 2.4492, 0.3010
+Paulo, 1, 1.2246, 0.0000
+Sandra, 4, 4.8983, 0.6021
+Patrício, 1, 1.2246, 0.0000
+Lúcio, 1, 1.2246, 0.0000
+Alma, 1, 1.2246, 0.0000
+Valentim, 2, 2.4492, 0.3010
+Rosa, 1, 1.2246, 0.0000
+Jaime Marta Soares, 1, 1.2246, 0.0000
+Ana Gomes, 6, 7.3475, 0.7782
+Bela do Rita, 1, 1.2246, 0.0000
+Agnes, 1, 1.2246, 0.0000
+Hernâni, 1, 1.2246, 0.0000
+Luís Antunes, 7, 8.5720, 0.8451
+Lisa Vicente, 1, 1.2246, 0.0000
+Catarina Gomes, 1, 1.2246, 0.0000
+Clésio, 2, 2.4492, 0.3010
+Luís Catarino, 1, 1.2246, 0.0000
+Raquel Alexandra, 5, 6.1229, 0.6990
+Cinderela, 1, 1.2246, 0.0000
+Gastão Elias, 1, 1.2246, 0.0000
+Pacheco Antunes, 2, 2.4492, 0.3010
+Rodrigues, 2, 2.4492, 0.3010
+Anabela Borges, 2, 2.4492, 0.3010
+Nuno Miguel Gomes, 1, 1.2246, 0.0000
+André André, 35, 42.8602, 1.5441
+Beatriz, 6, 7.3475, 0.7782
+Lima, 18, 22.0424, 1.2553
+João Pinto, 7, 8.5720, 0.8451
+Mário Cláudio, 1, 1.2246, 0.0000
+Luís Borges, 1, 1.2246, 0.0000
+Neto, 1, 1.2246, 0.0000
+Mário Jardel, 1, 1.2246, 0.0000
+Eduarda Napoleão, 1, 1.2246, 0.0000
+Sara, 1, 1.2246, 0.0000
+Coelho, 4, 4.8983, 0.6021
+Maria Anabela, 2, 2.4492, 0.3010
+António Carlos, 1, 1.2246, 0.0000
+Cláudia Luís, 1, 1.2246, 0.0000
+Maria, 15, 18.3686, 1.1761
+Duarte Gomes, 1, 1.2246, 0.0000
+Sónia Lima, 2, 2.4492, 0.3010
+Simone, 1, 1.2246, 0.0000
+Ivo, 6, 7.3475, 0.7782
+Ricardo Nascimento, 1, 1.2246, 0.0000
+Ana Lima, 1, 1.2246, 0.0000
+Maria de Lurdes Rodrigues, 1, 1.2246, 0.0000
+Luís Neto, 1, 1.2246, 0.0000
+Adriana, 1, 1.2246, 0.0000
+Zé Pedro, 2, 2.4492, 0.3010
+Andreia Neto, 1, 1.2246, 0.0000
+Adalberto, 1, 1.2246, 0.0000
+Marisa Rodrigues, 1, 1.2246, 0.0000
+Florentino, 1, 1.2246, 0.0000
+Helena, 4, 4.8983, 0.6021
+Bárbara, 2, 2.4492, 0.3010
+Mercedes, 18, 22.0424, 1.2553
+Jardel, 17, 20.8178, 1.2304
+Cristiano Ronaldo, 50, 61.2288, 1.6990
+Rui Miguel, 1, 1.2246, 0.0000
+Olívia, 1, 1.2246, 0.0000
+Jorge Simão, 3, 3.6737, 0.4771
+Jorge Gomes, 3, 3.6737, 0.4771
+Josué, 4, 4.8983, 0.6021
+Cosme, 2, 2.4492, 0.3010
+Silvério, 1, 1.2246, 0.0000
+Fabiano, 3, 3.6737, 0.4771
+Eva, 1, 1.2246, 0.0000
+Dinis, 2, 2.4492, 0.3010
+Anunciação, 1, 1.2246, 0.0000
+Diva, 1, 1.2246, 0.0000
+Paulo Macedo, 6, 7.3475, 0.7782
+Felicidade, 1, 1.2246, 0.0000
+Arménia, 3, 3.6737, 0.4771
+David, 3, 3.6737, 0.4771
+James, 5, 6.1229, 0.6990
+Toni, 6, 7.3475, 0.7782
+Inês, 1, 1.2246, 0.0000
+Lucas, 8, 9.7966, 0.9031
+Luís Nascimento, 4, 4.8983, 0.6021
+Gustavo, 1, 1.2246, 0.0000
+Antero Henrique, 3, 3.6737, 0.4771
+Joana, 1, 1.2246, 0.0000
+Eric, 2, 2.4492, 0.3010
+Flora Dora, 2, 2.4492, 0.3010
+Ivo Rodrigues, 1, 1.2246, 0.0000
+Mauro, 1, 1.2246, 0.0000
+Jesus, 32, 39.1864, 1.5051
+Bruce, 1, 1.2246, 0.0000
+Antero Henriques, 1, 1.2246, 0.0000
+Norberto, 18, 22.0424, 1.2553
+Bela, 1, 1.2246, 0.0000
+Nilza de Sena, 1, 1.2246, 0.0000
+Antunes, 4, 4.8983, 0.6021
+Angel, 4, 4.8983, 0.6021
+José Alberto, 1, 1.2246, 0.0000
+Virgílio Macedo, 2, 2.4492, 0.3010
+João Dinis, 2, 2.4492, 0.3010
+Lusa Paulo Duarte, 1, 1.2246, 0.0000
+Sílvio, 5, 6.1229, 0.6990
+Rui Pedro, 1, 1.2246, 0.0000
+India, 1, 1.2246, 0.0000
+Diego, 4, 4.8983, 0.6021
+José Apolinário, 1, 1.2246, 0.0000
+Hugo Soares, 6, 7.3475, 0.7782
+Lisandro, 6, 7.3475, 0.7782
+Bernardino Soares, 1, 1.2246, 0.0000
+Ronaldo, 23, 28.1653, 1.3617
+Bruno Coelho, 1, 1.2246, 0.0000
+Domingos Duarte Lima, 1, 1.2246, 0.0000
+Viriato, 1, 1.2246, 0.0000
+Hélder Vicente, 1, 1.2246, 0.0000
+Eliseu, 15, 18.3686, 1.1761
+Nuno Pinto, 2, 2.4492, 0.3010
+Lucas João, 1, 1.2246, 0.0000
+André Pinto, 6, 7.3475, 0.7782
+Soares, 10, 12.2458, 1.0000
+Edgar, 2, 2.4492, 0.3010
+António Aparício, 1, 1.2246, 0.0000
+Carlos Alberto Lino, 1, 1.2246, 0.0000
+Miguel Macedo, 16, 19.5932, 1.2041
+Brian Wilson, 2, 2.4492, 0.3010
+Arménio Carlos, 5, 6.1229, 0.6990
+Mariano, 1, 1.2246, 0.0000
+Paulo Rodrigues, 4, 4.8983, 0.6021
+Marisa, 2, 2.4492, 0.3010
+Filipe Anunciação, 5, 6.1229, 0.6990
+Assis, 1, 1.2246, 0.0000
+Vítor, 5, 6.1229, 0.6990
+Anabela, 2, 2.4492, 0.3010
+David Dinis, 1, 1.2246, 0.0000
+Ricardo, 18, 22.0424, 1.2553
+Flora Gomes, 1, 1.2246, 0.0000
+Macedo, 1, 1.2246, 0.0000
+Pedro Lima, 1, 1.2246, 0.0000
+Miguel Januário, 4, 4.8983, 0.6021
+Luís Duarte, 1, 1.2246, 0.0000
+Cláudio, 1, 1.2246, 0.0000
+Hamilton, 11, 13.4703, 1.0414
+Osvaldo, 11, 13.4703, 1.0414
+Florença, 4, 4.8983, 0.6021
+Alan, 5, 6.1229, 0.6990
+Fábio Pacheco, 2, 2.4492, 0.3010
+Maria Domingas, 1, 1.2246, 0.0000
+Duarte Lima, 3, 3.6737, 0.4771
+Vida, 13, 15.9195, 1.1139
+Amanda, 4, 4.8983, 0.6021
+Maria José Afonso, 1, 1.2246, 0.0000
+Emília Rosa, 1, 1.2246, 0.0000
+Nascimento, 1, 1.2246, 0.0000
+José Gomes, 2, 2.4492, 0.3010
+David Ferrer, 1, 1.2246, 0.0000
+Paulo Soares, 1, 1.2246, 0.0000
+Carlos Alexandre, 5, 6.1229, 0.6990
+Hélder Rodrigues, 3, 3.6737, 0.4771
+Pedro Guerreiro, 1, 1.2246, 0.0000
+Ivone Soares, 3, 3.6737, 0.4771
+André Soares, 1, 1.2246, 0.0000
+João Soares, 2, 2.4492, 0.3010
+Maria José, 2, 2.4492, 0.3010
+Catarina Pedro, 1, 1.2246, 0.0000
+Marcos António, 1, 1.2246, 0.0000
+Francisco Assis, 5, 6.1229, 0.6990
+Susana Amador, 2, 2.4492, 0.3010
+Luciana, 4, 4.8983, 0.6021
+Acácio Pinto, 1, 1.2246, 0.0000
+Celino, 1, 1.2246, 0.0000
+João Francisco Guerreiro, 5, 6.1229, 0.6990
+João Diogo, 2, 2.4492, 0.3010
+Elisa, 3, 3.6737, 0.4771
+José Eduardo, 4, 4.8983, 0.6021
+Emanuel, 1, 1.2246, 0.0000
+António Filipe, 6, 7.3475, 0.7782
+Rúben Pinto, 1, 1.2246, 0.0000
+Beto, 2, 2.4492, 0.3010
+Lígia, 5, 6.1229, 0.6990
+José, 20, 24.4915, 1.3010
+Salomé Filipe, 1, 1.2246, 0.0000
+Andrade, 1, 1.2246, 0.0000
+Vanessa, 1, 1.2246, 0.0000
+Sandra Borges, 1, 1.2246, 0.0000
+António Lima, 1, 1.2246, 0.0000
+Lucília Tiago, 13, 15.9195, 1.1139
+Vítor Constâncio, 3, 3.6737, 0.4771
+Leila, 1, 1.2246, 0.0000
+Lusa Hugo Andrade, 1, 1.2246, 0.0000
+Cassiano Branco, 1, 1.2246, 0.0000

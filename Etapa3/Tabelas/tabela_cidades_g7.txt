@@ -1,0 +1,970 @@
+Acari,7,3.7188,0.8451
+Acre,8,4.2501,0.9031
+Adamantina,1,0.5313,0.0000
+Afrânio,3,1.5938,0.4771
+Aguiar,2,1.0625,0.3010
+Alagoas,27,14.3441,1.4314
+Alcântara,4,2.1251,0.6021
+Alegre,8,4.2501,0.9031
+Alegria,10,5.3126,1.0000
+Alexandria,5,2.6563,0.6990
+Aliança,4,2.1251,0.6021
+Altair,4,2.1251,0.6021
+Alto Rio Doce,1,0.5313,0.0000
+Altos,2,1.0625,0.3010
+Alvarenga,1,0.5313,0.0000
+Alvorada,6,3.1876,0.7782
+Amapá,13,6.9064,1.1139
+Amaralina,1,0.5313,0.0000
+Amazonas,44,23.3756,1.6435
+Americana,19,10.0940,1.2788
+Amparo,8,4.2501,0.9031
+Anchieta,8,4.2501,0.9031
+Andaraí,7,3.7188,0.8451
+Andradas,1,0.5313,0.0000
+Andradina,1,0.5313,0.0000
+Angelim,2,1.0625,0.3010
+Angicos,1,0.5313,0.0000
+Angra dos Reis,31,16.4692,1.4914
+Angélica,2,1.0625,0.3010
+Anhanguera,2,1.0625,0.3010
+Anhembi,13,6.9064,1.1139
+Anita Garibaldi,1,0.5313,0.0000
+Antonina,1,0.5313,0.0000
+Antônio Carlos,3,1.5938,0.4771
+Antônio Prado,1,0.5313,0.0000
+Anápolis,1,0.5313,0.0000
+Aparecida,2,1.0625,0.3010
+Aparecida de Goiânia,2,1.0625,0.3010
+Aperibé,3,1.5938,0.4771
+Apodi,1,0.5313,0.0000
+Aquiraz,1,0.5313,0.0000
+Aracaju,12,6.3752,1.0792
+Aracati,3,1.5938,0.4771
+Aracruz,1,0.5313,0.0000
+Araguari,1,0.5313,0.0000
+Arame,2,1.0625,0.3010
+Arapiraca,1,0.5313,0.0000
+Arapongas,1,0.5313,0.0000
+Araranguá,1,0.5313,0.0000
+Araraquara,5,2.6563,0.6990
+Araruama,14,7.4377,1.1461
+Araucária,1,0.5313,0.0000
+Araxá,1,0.5313,0.0000
+Araçatuba,1,0.5313,0.0000
+Arcos,4,2.1251,0.6021
+Arcoverde,1,0.5313,0.0000
+Areal,6,3.1876,0.7782
+Areia,4,2.1251,0.6021
+Areia Branca,1,0.5313,0.0000
+Armazém,2,1.0625,0.3010
+Arraial,1,0.5313,0.0000
+Arraial do Cabo,7,3.7188,0.8451
+Aruanã,1,0.5313,0.0000
+Assis,6,3.1876,0.7782
+Assunção,8,4.2501,0.9031
+Atalanta,11,5.8439,1.0414
+Atibaia,3,1.5938,0.4771
+Augusto Severo,1,0.5313,0.0000
+Aurelino Leal,1,0.5313,0.0000
+Aurora,9,4.7814,0.9542
+Avaí,13,6.9064,1.1139
+Bahia,118,62.6892,2.0719
+Baixada Fluminense,62,32.9384,1.7924
+Baião,1,0.5313,0.0000
+Balneário Camboriú,2,1.0625,0.3010
+Bananal,2,1.0625,0.3010
+Bandeira,9,4.7814,0.9542
+Bandeirantes,4,2.1251,0.6021
+Barbacena,1,0.5313,0.0000
+Barbosa,19,10.0940,1.2788
+Barcelona,205,108.9091,2.3118
+Barcelos,1,0.5313,0.0000
+Barra,102,54.1889,2.0086
+Barra Funda,3,1.5938,0.4771
+Barra Longa,1,0.5313,0.0000
+Barra Mansa,10,5.3126,1.0000
+Barra da Tijuca,128,68.0018,2.1072
+Barra do Piraí,15,7.9690,1.1761
+Barras,1,0.5313,0.0000
+Barreira,1,0.5313,0.0000
+Barreiras,1,0.5313,0.0000
+Barreirinhas,1,0.5313,0.0000
+Barretos,1,0.5313,0.0000
+Barrinha,1,0.5313,0.0000
+Barro,1,0.5313,0.0000
+Barroquinha,1,0.5313,0.0000
+Barroso,5,2.6563,0.6990
+Barão,1,0.5313,0.0000
+Bastos,11,5.8439,1.0414
+Bataguassu,1,0.5313,0.0000
+Bauru,9,4.7814,0.9542
+Bebedouro,1,0.5313,0.0000
+Beberibe,1,0.5313,0.0000
+Bela Vista,3,1.5938,0.4771
+Belford Roxo,28,14.8754,1.4472
+Belo Horizonte,38,20.1880,1.5798
+Belém,8,4.2501,0.9031
+Bento Gonçalves,2,1.0625,0.3010
+Bertioga,1,0.5313,0.0000
+Beruri,1,0.5313,0.0000
+Betim,1,0.5313,0.0000
+Biguaçu,1,0.5313,0.0000
+Birigui,1,0.5313,0.0000
+Blumenau,1,0.5313,0.0000
+Boa Esperança,2,1.0625,0.3010
+Boa Nova,1,0.5313,0.0000
+Boa Viagem,2,1.0625,0.3010
+Boa Vista,9,4.7814,0.9542
+Bocaiúva,1,0.5313,0.0000
+Bolonha,12,6.3752,1.0792
+Bom Jardim,7,3.7188,0.8451
+Bom Jesus da Lapa,1,0.5313,0.0000
+Bom Jesus do Itabapoana,2,1.0625,0.3010
+Bonfim,2,1.0625,0.3010
+Bonito,1,0.5313,0.0000
+Borba,1,0.5313,0.0000
+Botafogo,203,107.8466,2.3075
+Botucatu,3,1.5938,0.4771
+Braga,6,3.1876,0.7782
+Bragança Paulista,1,0.5313,0.0000
+Brasileira,15,7.9690,1.1761
+Brasília,382,202.9429,2.5821
+Brejo,1,0.5313,0.0000
+Brumado,1,0.5313,0.0000
+Brusque,1,0.5313,0.0000
+Buenos Aires,109,57.9078,2.0374
+Buriti,2,1.0625,0.3010
+Buriti Bravo,1,0.5313,0.0000
+Cabo Frio,21,11.1565,1.3222
+Cabo Verde,10,5.3126,1.0000
+Cabrobó,1,0.5313,0.0000
+Cachoeiras de Macacu,3,1.5938,0.4771
+Cachoeiro de Itapemirim,1,0.5313,0.0000
+Cairu,1,0.5313,0.0000
+Cajazeiras,1,0.5313,0.0000
+Caldas,9,4.7814,0.9542
+Caldas Novas,2,1.0625,0.3010
+Califórnia,48,25.5007,1.6812
+Camacho,2,1.0625,0.3010
+Camamu,1,0.5313,0.0000
+Camaquã,1,0.5313,0.0000
+Camargo,12,6.3752,1.0792
+Camaçari,1,0.5313,0.0000
+Cambuci,3,1.5938,0.4771
+Camocim,1,0.5313,0.0000
+Campanha,12,6.3752,1.0792
+Campina Grande,15,7.9690,1.1761
+Campinas,31,16.4692,1.4914
+Campo Bom,1,0.5313,0.0000
+Campo Grande,77,40.9073,1.8865
+Campo Largo,1,0.5313,0.0000
+Campo Mourão,1,0.5313,0.0000
+Campo de Santana,3,1.5938,0.4771
+Campos dos Goytacazes,16,8.5002,1.2041
+Canaã,1,0.5313,0.0000
+Candelária,7,3.7188,0.8451
+Canela,1,0.5313,0.0000
+Canguçu,1,0.5313,0.0000
+Canindé de São Francisco,1,0.5313,0.0000
+Canoas,1,0.5313,0.0000
+Cantagalo,9,4.7814,0.9542
+Capim Grosso,1,0.5313,0.0000
+Capitão,4,2.1251,0.6021
+Capitólio,2,1.0625,0.3010
+Capivari,3,1.5938,0.4771
+Capão Bonito,1,0.5313,0.0000
+Caraguatatuba,1,0.5313,0.0000
+Carandaí,1,0.5313,0.0000
+Carapebus,4,2.1251,0.6021
+Caraíbas,3,1.5938,0.4771
+Cardoso,7,3.7188,0.8451
+Cardoso Moreira,3,1.5938,0.4771
+Cariacica,8,4.2501,0.9031
+Carinhanha,3,1.5938,0.4771
+Carlos Barbosa,1,0.5313,0.0000
+Carlos Chagas,2,1.0625,0.3010
+Carlos Gomes,1,0.5313,0.0000
+Carmo,26,13.8129,1.4150
+Carolina,18,9.5628,1.2553
+Caruaru,2,1.0625,0.3010
+Casa Branca,145,77.0333,2.1614
+Casa Nova,2,1.0625,0.3010
+Cascavel,5,2.6563,0.6990
+Casimiro de Abreu,1,0.5313,0.0000
+Castanheira,4,2.1251,0.6021
+Castelo,11,5.8439,1.0414
+Castro,94,49.9388,1.9731
+Castro Alves,3,1.5938,0.4771
+Catalão,1,0.5313,0.0000
+Catanduva,3,1.5938,0.4771
+Catarina,1,0.5313,0.0000
+Caucaia,5,2.6563,0.6990
+Cavalcante,2,1.0625,0.3010
+Caxambu,2,1.0625,0.3010
+Caxias,16,8.5002,1.2041
+Caçapava,1,0.5313,0.0000
+Caçapava do Sul,1,0.5313,0.0000
+Ceará,79,41.9699,1.8976
+Centenário,3,1.5938,0.4771
+Central,55,29.2195,1.7404
+Ceres,1,0.5313,0.0000
+Cesena,5,2.6563,0.6990
+Chapecó,3,1.5938,0.4771
+Chaves,1,0.5313,0.0000
+Cláudia,3,1.5938,0.4771
+Cláudio,4,2.1251,0.6021
+Coelho Neto,4,2.1251,0.6021
+Coimbra,1,0.5313,0.0000
+Colatina,1,0.5313,0.0000
+Colina,4,2.1251,0.6021
+Colméia,1,0.5313,0.0000
+Colorado,24,12.7503,1.3802
+Coluna,1,0.5313,0.0000
+Colômbia,126,66.9393,2.1004
+Comendador Levy Gasparian,1,0.5313,0.0000
+Conceição,5,2.6563,0.6990
+Conceição de Macabu,4,2.1251,0.6021
+Concórdia,2,1.0625,0.3010
+Conde,5,2.6563,0.6990
+Congo,10,5.3126,1.0000
+Congonhas,1,0.5313,0.0000
+Consolação,1,0.5313,0.0000
+Contagem,1,0.5313,0.0000
+Coração de Jesus,1,0.5313,0.0000
+Cordeiro,2,1.0625,0.3010
+Corguinho,1,0.5313,0.0000
+Coronel Fabriciano,1,0.5313,0.0000
+Corumbá,1,0.5313,0.0000
+Corumbá de Goiás,1,0.5313,0.0000
+Costa Rica,16,8.5002,1.2041
+Cotegipe,1,0.5313,0.0000
+Couto de Magalhães de Minas,1,0.5313,0.0000
+Crato,3,1.5938,0.4771
+Criciúma,15,7.9690,1.1761
+Cristal,2,1.0625,0.3010
+Cristina,34,18.0630,1.5315
+Cristália,1,0.5313,0.0000
+Cruz,116,61.6266,2.0645
+Cruz Alta,1,0.5313,0.0000
+Cruzeiro,39,20.7193,1.5911
+Cuiabá,7,3.7188,0.8451
+Cunha,4,2.1251,0.6021
+Curitiba,19,10.0940,1.2788
+Curvelo,3,1.5938,0.4771
+Cáceres,6,3.1876,0.7782
+Cássia,1,0.5313,0.0000
+Cândido Mendes,1,0.5313,0.0000
+Cândido de Abreu,1,0.5313,0.0000
+Céu Azul,1,0.5313,0.0000
+Damião,8,4.2501,0.9031
+Datas,4,2.1251,0.6021
+Denise,6,3.1876,0.7782
+Descoberto,1,0.5313,0.0000
+Desterro,2,1.0625,0.3010
+Diadema,3,1.5938,0.4771
+Diamante,2,1.0625,0.3010
+Diamantina,1,0.5313,0.0000
+Dionísio,2,1.0625,0.3010
+Distrito Federal,74,39.3135,1.8692
+Dois Irmãos,1,0.5313,0.0000
+Dourados,2,1.0625,0.3010
+Dracena,6,3.1876,0.7782
+Duas Barras,2,1.0625,0.3010
+Dumont,3,1.5938,0.4771
+Duque de Caxias,60,31.8758,1.7782
+Eldorado,1,0.5313,0.0000
+Encantado,1,0.5313,0.0000
+Encanto,1,0.5313,0.0000
+Encruzilhada do Sul,2,1.0625,0.3010
+Engenheiro Paulo de Frontin,3,1.5938,0.4771
+Entre Rios,1,0.5313,0.0000
+Equador,64,34.0009,1.8062
+Erechim,1,0.5313,0.0000
+Esperança,5,2.6563,0.6990
+Espírito Santo,42,22.3131,1.6232
+Estação,10,5.3126,1.0000
+Esteio,1,0.5313,0.0000
+Estiva,1,0.5313,0.0000
+Estrela,6,3.1876,0.7782
+Eunápolis,1,0.5313,0.0000
+Fagundes,7,3.7188,0.8451
+Fama,1,0.5313,0.0000
+Farol,1,0.5313,0.0000
+Fazenda Rio Grande,1,0.5313,0.0000
+Feira de Santana,1,0.5313,0.0000
+Feliz,2,1.0625,0.3010
+Felício dos Santos,2,1.0625,0.3010
+Fernando Prestes,2,1.0625,0.3010
+Fernando de Noronha,9,4.7814,0.9542
+Fernandópolis,2,1.0625,0.3010
+Fernão,1,0.5313,0.0000
+Filadélfia,16,8.5002,1.2041
+Flores,2,1.0625,0.3010
+Floresta,4,2.1251,0.6021
+Floresta Azul,1,0.5313,0.0000
+Florestal,1,0.5313,0.0000
+Floriano,3,1.5938,0.4771
+Florianópolis,14,7.4377,1.1461
+Flórida,98,52.0639,1.9912
+Forlì,1,0.5313,0.0000
+Formiga,1,0.5313,0.0000
+Forquilha,1,0.5313,0.0000
+Fortaleza,44,23.3756,1.6435
+Foz do Iguaçu,2,1.0625,0.3010
+Franca,2,1.0625,0.3010
+Francisco Alves,3,1.5938,0.4771
+Francisco Beltrão,2,1.0625,0.3010
+Fronteira,1,0.5313,0.0000
+Fronteiras,8,4.2501,0.9031
+Fundão,5,2.6563,0.6990
+Fátima,6,3.1876,0.7782
+Galvão,2,1.0625,0.3010
+Garanhuns,1,0.5313,0.0000
+Garibaldi,1,0.5313,0.0000
+Gaspar,1,0.5313,0.0000
+Gavião,1,0.5313,0.0000
+General Salgado,1,0.5313,0.0000
+Getúlio Vargas,2,1.0625,0.3010
+Glicério,1,0.5313,0.0000
+Glória,14,7.4377,1.1461
+Goiana,2,1.0625,0.3010
+Goiandira,1,0.5313,0.0000
+Goianésia,2,1.0625,0.3010
+Goiás,66,35.0634,1.8195
+Goiânia,24,12.7503,1.3802
+Gonzaga,1,0.5313,0.0000
+Gonçalves,7,3.7188,0.8451
+Gouveia,2,1.0625,0.3010
+Governador Valadares,4,2.1251,0.6021
+Grajaú,12,6.3752,1.0792
+Gramado,3,1.5938,0.4771
+Granja,2,1.0625,0.3010
+Gravatá,1,0.5313,0.0000
+Graça Aranha,14,7.4377,1.1461
+Guadalupe,26,13.8129,1.4150
+Guanhães,1,0.5313,0.0000
+Guapimirim,6,3.1876,0.7782
+Guaporé,1,0.5313,0.0000
+Guarabira,1,0.5313,0.0000
+Guaramiranga,8,4.2501,0.9031
+Guarani,5,2.6563,0.6990
+Guarapari,1,0.5313,0.0000
+Guararapes,1,0.5313,0.0000
+Guarujá,8,4.2501,0.9031
+Guarulhos,13,6.9064,1.1139
+Guaíba,1,0.5313,0.0000
+Guaíra,1,0.5313,0.0000
+Guimarães,13,6.9064,1.1139
+Gurupi,1,0.5313,0.0000
+Harmonia,3,1.5938,0.4771
+Heliópolis,6,3.1876,0.7782
+Horizonte,10,5.3126,1.0000
+Humaitá,6,3.1876,0.7782
+Ibiapina,2,1.0625,0.3010
+Ibicaraí,1,0.5313,0.0000
+Ibitinga,1,0.5313,0.0000
+Igarassu,1,0.5313,0.0000
+Iguaba Grande,3,1.5938,0.4771
+Iguatu,1,0.5313,0.0000
+Ijuí,1,0.5313,0.0000
+Ilha Grande,5,2.6563,0.6990
+Ilha das Flores,2,1.0625,0.3010
+Ilhabela,5,2.6563,0.6990
+Ilhota,1,0.5313,0.0000
+Ilhéus,1,0.5313,0.0000
+Imola,1,0.5313,0.0000
+Imperatriz,29,15.4067,1.4624
+Indaiatuba,2,1.0625,0.3010
+Independência,2,1.0625,0.3010
+Indiana,3,1.5938,0.4771
+Ingá,6,3.1876,0.7782
+Inhaúma,12,6.3752,1.0792
+Inhumas,1,0.5313,0.0000
+Ipameri,1,0.5313,0.0000
+Ipanema,125,66.4080,2.0969
+Ipatinga,2,1.0625,0.3010
+Ipiranga,2,1.0625,0.3010
+Ipojuca,1,0.5313,0.0000
+Iracema,5,2.6563,0.6990
+Iranduba,5,2.6563,0.6990
+Irauçuba,2,1.0625,0.3010
+Itabaiana,1,0.5313,0.0000
+Itaberaí,1,0.5313,0.0000
+Itabira,1,0.5313,0.0000
+Itabirito,1,0.5313,0.0000
+Itaboraí,15,7.9690,1.1761
+Itabuna,1,0.5313,0.0000
+Itacaré,1,0.5313,0.0000
+Itaguaí,14,7.4377,1.1461
+Itajaí,2,1.0625,0.3010
+Itajobi,2,1.0625,0.3010
+Itajubá,1,0.5313,0.0000
+Italva,5,2.6563,0.6990
+Itamaraju,1,0.5313,0.0000
+Itambé,1,0.5313,0.0000
+Itanhangá,2,1.0625,0.3010
+Itaocara,6,3.1876,0.7782
+Itapema,1,0.5313,0.0000
+Itaperuna,9,4.7814,0.9542
+Itapetinga,2,1.0625,0.3010
+Itapeva,1,0.5313,0.0000
+Itaporã,1,0.5313,0.0000
+Itararé,1,0.5313,0.0000
+Itatiaia,23,12.2191,1.3617
+Itaú,4,2.1251,0.6021
+Itaúna,1,0.5313,0.0000
+Itororó,4,2.1251,0.6021
+Itu,6,3.1876,0.7782
+Ituberá,1,0.5313,0.0000
+Itápolis,1,0.5313,0.0000
+Jaboatão dos Guararapes,1,0.5313,0.0000
+Jaboticabal,1,0.5313,0.0000
+Jacarezinho,10,5.3126,1.0000
+Jacareí,1,0.5313,0.0000
+Jacobina,1,0.5313,0.0000
+Jacutinga,1,0.5313,0.0000
+Jaguarari,1,0.5313,0.0000
+Jaguaribe,3,1.5938,0.4771
+Jandira,1,0.5313,0.0000
+Japeri,25,13.2816,1.3979
+Jaqueira,1,0.5313,0.0000
+Jaraguá do Sul,2,1.0625,0.3010
+Jardim,17,9.0315,1.2304
+Jataí,1,0.5313,0.0000
+Jauru,2,1.0625,0.3010
+Jaú,1,0.5313,0.0000
+Joaquim Nabuco,2,1.0625,0.3010
+Joaçaba,1,0.5313,0.0000
+Joinville,8,4.2501,0.9031
+Jongo da Serrinha,4,2.1251,0.6021
+Jordânia,19,10.0940,1.2788
+José Bonifácio,6,3.1876,0.7782
+João Pessoa,7,3.7188,0.8451
+Juazeiro,8,4.2501,0.9031
+Juazeiro do Norte,3,1.5938,0.4771
+Juiz de Fora,9,4.7814,0.9542
+Jundiaí,3,1.5938,0.4771
+Juramento,1,0.5313,0.0000
+Jussara,1,0.5313,0.0000
+Júlio Borges,2,1.0625,0.3010
+Lages,2,1.0625,0.3010
+Lagoa,39,20.7193,1.5911
+Lagoa Dourada,1,0.5313,0.0000
+Lagoa Grande,1,0.5313,0.0000
+Laguna,1,0.5313,0.0000
+Laje do Muriaé,2,1.0625,0.3010
+Lajeado,1,0.5313,0.0000
+Lajedo,1,0.5313,0.0000
+Lajes,1,0.5313,0.0000
+Lapa,77,40.9073,1.8865
+Laranjal,1,0.5313,0.0000
+Laranjeiras,44,23.3756,1.6435
+Leme,29,15.4067,1.4624
+Lençóis,1,0.5313,0.0000
+Lençóis Paulista,1,0.5313,0.0000
+Leopoldina,2,1.0625,0.3010
+Liberdade,13,6.9064,1.1139
+Limeira,1,0.5313,0.0000
+Linhares,1,0.5313,0.0000
+Lins,3,1.5938,0.4771
+Lona da Maré,2,1.0625,0.3010
+Londres,141,74.9082,2.1492
+Londrina,3,1.5938,0.4771
+Lorena,1,0.5313,0.0000
+Loreto,2,1.0625,0.3010
+Luz,10,5.3126,1.0000
+Macaparana,1,0.5313,0.0000
+Macapá,1,0.5313,0.0000
+Macau,3,1.5938,0.4771
+Macaé,37,19.6568,1.5682
+Macedônia,58,30.8133,1.7634
+Maceió,10,5.3126,1.0000
+Machado,7,3.7188,0.8451
+Madalena,1,0.5313,0.0000
+Magé,13,6.9064,1.1139
+Mairiporã,1,0.5313,0.0000
+Malta,5,2.6563,0.6990
+Mamanguape,1,0.5313,0.0000
+Mamonas,1,0.5313,0.0000
+Manacapuru,2,1.0625,0.3010
+Manaus,39,20.7193,1.5911
+Mangaratiba,9,4.7814,0.9542
+Manhuaçu,1,0.5313,0.0000
+Maracaju,1,0.5313,0.0000
+Maracanã,54,28.6883,1.7324
+Maranguape,1,0.5313,0.0000
+Maranhão,25,13.2816,1.3979
+Maravilha,1,0.5313,0.0000
+Maravilhas,2,1.0625,0.3010
+Marcelândia,1,0.5313,0.0000
+Marco,30,15.9379,1.4771
+Marechal Floriano,2,1.0625,0.3010
+Mariana,16,8.5002,1.2041
+Maricá,22,11.6878,1.3424
+Marilena,2,1.0625,0.3010
+Maringá,2,1.0625,0.3010
+Marquinho,1,0.5313,0.0000
+Martins,9,4.7814,0.9542
+Marília,7,3.7188,0.8451
+Massapê,1,0.5313,0.0000
+Massaranduba,1,0.5313,0.0000
+Mata,11,5.8439,1.0414
+Matelândia,2,1.0625,0.3010
+Mato Grosso,29,15.4067,1.4624
+Mato Grosso do Sul,23,12.2191,1.3617
+Mato Verde,3,1.5938,0.4771
+Mauá,4,2.1251,0.6021
+Medianeira,1,0.5313,0.0000
+Medina,12,6.3752,1.0792
+Mendes,16,8.5002,1.2041
+Mendonça,2,1.0625,0.3010
+Mercedes,13,6.9064,1.1139
+Mesquita,17,9.0315,1.2304
+Messias,1,0.5313,0.0000
+Miguel Pereira,5,2.6563,0.6990
+Minas,25,13.2816,1.3979
+Minas Gerais,58,30.8133,1.7634
+Miracema,2,1.0625,0.3010
+Miranda,19,10.0940,1.2788
+Mirante,1,0.5313,0.0000
+Modelo,1,0.5313,0.0000
+Moema,1,0.5313,0.0000
+Mogi das Cruzes,3,1.5938,0.4771
+Mombaça,3,1.5938,0.4771
+Monte Alegre,1,0.5313,0.0000
+Monte Alto,1,0.5313,0.0000
+Monteiro,17,9.0315,1.2304
+Montenegro,2,1.0625,0.3010
+Montes Claros,1,0.5313,0.0000
+Moreno,2,1.0625,0.3010
+Morrinhos,1,0.5313,0.0000
+Mossoró,1,0.5313,0.0000
+Mundo Novo,1,0.5313,0.0000
+Muriaé,2,1.0625,0.3010
+Murici,1,0.5313,0.0000
+Méier,68,36.1260,1.8325
+Nantes,9,4.7814,0.9542
+Naque,1,0.5313,0.0000
+Natal,57,30.2821,1.7559
+Natividade,3,1.5938,0.4771
+Navegantes,1,0.5313,0.0000
+Nazaré da Mata,1,0.5313,0.0000
+Nazário,1,0.5313,0.0000
+Nilo Peçanha,16,8.5002,1.2041
+Nilópolis,20,10.6253,1.3010
+Niterói,102,54.1889,2.0086
+Nobres,1,0.5313,0.0000
+Nossa Senhora Aparecida,1,0.5313,0.0000
+Nossa Senhora da Glória,2,1.0625,0.3010
+Nossa Senhora das Dores,1,0.5313,0.0000
+Nossa Senhora de Lourdes,1,0.5313,0.0000
+Nova Andradina,1,0.5313,0.0000
+Nova Floresta,1,0.5313,0.0000
+Nova Friburgo,23,12.2191,1.3617
+Nova Iguaçu,49,26.0319,1.6902
+Nova Iorque,10,5.3126,1.0000
+Nova Laranjeiras,1,0.5313,0.0000
+Nova Lima,2,1.0625,0.3010
+Nova Odessa,1,0.5313,0.0000
+Nova Petrópolis,1,0.5313,0.0000
+Nova Roma,2,1.0625,0.3010
+Nova União,3,1.5938,0.4771
+Novo Hamburgo,2,1.0625,0.3010
+Olaria,12,6.3752,1.0792
+Olinda,24,12.7503,1.3802
+Oliveira,56,29.7508,1.7482
+Olímpia,8,4.2501,0.9031
+Onda Verde,1,0.5313,0.0000
+Oriente,6,3.1876,0.7782
+Orleans,1,0.5313,0.0000
+Orocó,2,1.0625,0.3010
+Osasco,6,3.1876,0.7782
+Osório,11,5.8439,1.0414
+Ourinhos,1,0.5313,0.0000
+Ouro,13,6.9064,1.1139
+Ouro Preto,5,2.6563,0.6990
+Pacaembu,57,30.2821,1.7559
+Pacajus,1,0.5313,0.0000
+Paineiras,1,0.5313,0.0000
+Painel,1,0.5313,0.0000
+Palestina,7,3.7188,0.8451
+Palhoça,2,1.0625,0.3010
+Palma,1,0.5313,0.0000
+Palmares,2,1.0625,0.3010
+Palmares Paulista,2,1.0625,0.3010
+Palmas,2,1.0625,0.3010
+Palmeira,2,1.0625,0.3010
+Palmeiras,171,90.8462,2.2330
+Panamá,20,10.6253,1.3010
+Panorama,3,1.5938,0.4771
+Paquetá,18,9.5628,1.2553
+Paracambi,10,5.3126,1.0000
+Paracuru,1,0.5313,0.0000
+Paraibuna,1,0.5313,0.0000
+Paranavaí,1,0.5313,0.0000
+Paraná,44,23.3756,1.6435
+Paraíba,56,29.7508,1.7482
+Paraíba do Sul,3,1.5938,0.4771
+Paraíso,4,2.1251,0.6021
+Parintins,2,1.0625,0.3010
+Paris,300,159.3792,2.4771
+Parisi,2,1.0625,0.3010
+Parnamirim,1,0.5313,0.0000
+Parnaíba,1,0.5313,0.0000
+Pará,28,14.8754,1.4472
+Passa Quatro,2,1.0625,0.3010
+Passagem,1,0.5313,0.0000
+Passo Fundo,1,0.5313,0.0000
+Passos,8,4.2501,0.9031
+Patos,2,1.0625,0.3010
+Patos de Minas,1,0.5313,0.0000
+Patrocínio,3,1.5938,0.4771
+Pau Brasil,1,0.5313,0.0000
+Paulista,40,21.2506,1.6021
+Paulistana,18,9.5628,1.2553
+Paulo Afonso,1,0.5313,0.0000
+Paulo Ramos,1,0.5313,0.0000
+Paulínia,1,0.5313,0.0000
+Pavão,5,2.6563,0.6990
+Pedra,4,2.1251,0.6021
+Pedra Bela,1,0.5313,0.0000
+Pedra Bonita,1,0.5313,0.0000
+Pedra Branca,2,1.0625,0.3010
+Pedras de Fogo,1,0.5313,0.0000
+Pedregulho,1,0.5313,0.0000
+Pedreira,6,3.1876,0.7782
+Pedro II,6,3.1876,0.7782
+Peixe,54,28.6883,1.7324
+Pelotas,2,1.0625,0.3010
+Pendências,1,0.5313,0.0000
+Penha,14,7.4377,1.1461
+Perdizes,1,0.5313,0.0000
+Pernambuco,99,52.5951,1.9956
+Pescador,1,0.5313,0.0000
+Pesqueira,2,1.0625,0.3010
+Petrolina,1,0.5313,0.0000
+Petrópolis,56,29.7508,1.7482
+Peçanha,1,0.5313,0.0000
+Piauí,29,15.4067,1.4624
+Picos,1,0.5313,0.0000
+Picuí,3,1.5938,0.4771
+Piedade,13,6.9064,1.1139
+Pimenta,7,3.7188,0.8451
+Pindamonhangaba,2,1.0625,0.3010
+Pindorama,2,1.0625,0.3010
+Pinheiral,3,1.5938,0.4771
+Pinheiro,17,9.0315,1.2304
+Pinheiros,7,3.7188,0.8451
+Pintadas,1,0.5313,0.0000
+Pio XII,2,1.0625,0.3010
+Piquet Carneiro,1,0.5313,0.0000
+Piracanjuba,1,0.5313,0.0000
+Piracicaba,13,6.9064,1.1139
+Piracuruca,1,0.5313,0.0000
+Piranhas,1,0.5313,0.0000
+Pirapora,2,1.0625,0.3010
+Piraquê,4,2.1251,0.6021
+Pirassununga,2,1.0625,0.3010
+Piraí,12,6.3752,1.0792
+Pirenópolis,4,2.1251,0.6021
+Pires do Rio,1,0.5313,0.0000
+Piripiri,1,0.5313,0.0000
+Pitangueiras,1,0.5313,0.0000
+Placas,4,2.1251,0.6021
+Planaltina,2,1.0625,0.3010
+Planalto,7,3.7188,0.8451
+Pompéia,2,1.0625,0.3010
+Ponta Grossa,2,1.0625,0.3010
+Pontal,7,3.7188,0.8451
+Ponte Preta,16,8.5002,1.2041
+Porciúncula,1,0.5313,0.0000
+Porto,18,9.5628,1.2553
+Porto Alegre,28,14.8754,1.4472
+Porto Feliz,1,0.5313,0.0000
+Porto Real,4,2.1251,0.6021
+Porto Rico,25,13.2816,1.3979
+Porto Seguro,1,0.5313,0.0000
+Porto Velho,7,3.7188,0.8451
+Portão,2,1.0625,0.3010
+Posse,3,1.5938,0.4771
+Poço Redondo,2,1.0625,0.3010
+Prado,3,1.5938,0.4771
+Praia Grande,1,0.5313,0.0000
+Prainha,10,5.3126,1.0000
+Prata,2,1.0625,0.3010
+Presidente Dutra,4,2.1251,0.6021
+Presidente Epitácio,1,0.5313,0.0000
+Presidente Figueiredo,3,1.5938,0.4771
+Presidente Olegário,1,0.5313,0.0000
+Presidente Prudente,5,2.6563,0.6990
+Presidente Vargas,27,14.3441,1.4314
+Primavera,5,2.6563,0.6990
+Princesa,2,1.0625,0.3010
+Princesa Isabel,3,1.5938,0.4771
+Progresso,2,1.0625,0.3010
+Propriá,2,1.0625,0.3010
+Prudente de Morais,1,0.5313,0.0000
+Pão de Açúcar,10,5.3126,1.0000
+Quadra,3,1.5938,0.4771
+Quatis,3,1.5938,0.4771
+Queimados,5,2.6563,0.6990
+Queiroz,1,0.5313,0.0000
+Quissamã,5,2.6563,0.6990
+Rancho Alegre,1,0.5313,0.0000
+Raposa,3,1.5938,0.4771
+Ravenna,1,0.5313,0.0000
+Realeza,1,0.5313,0.0000
+Rebouças,1,0.5313,0.0000
+Recife,121,64.2830,2.0828
+Recreio,32,17.0005,1.5051
+Registro,2,1.0625,0.3010
+Renascença,2,1.0625,0.3010
+Resende,27,14.3441,1.4314
+Reserva,2,1.0625,0.3010
+Restinga,1,0.5313,0.0000
+Riachuelo,5,2.6563,0.6990
+Riachão,4,2.1251,0.6021
+Riachão do Jacuípe,1,0.5313,0.0000
+Ribeira,9,4.7814,0.9542
+Ribeirão,1,0.5313,0.0000
+Ribeirão Preto,21,11.1565,1.3222
+Rimini,1,0.5313,0.0000
+Rio Bonito,13,6.9064,1.1139
+Rio Branco,27,14.3441,1.4314
+Rio Brilhante,1,0.5313,0.0000
+Rio Claro,26,13.8129,1.4150
+Rio Comprido,3,1.5938,0.4771
+Rio Doce,6,3.1876,0.7782
+Rio Grande,13,6.9064,1.1139
+Rio Grande do Norte,26,13.8129,1.4150
+Rio Grande do Sul,37,19.6568,1.5682
+Rio Negro,1,0.5313,0.0000
+Rio Novo,1,0.5313,0.0000
+Rio Preto,5,2.6563,0.6990
+Rio Quente,1,0.5313,0.0000
+Rio Verde,17,9.0315,1.2304
+Rio Vermelho,1,0.5313,0.0000
+Rio das Flores,3,1.5938,0.4771
+Rio das Ostras,13,6.9064,1.1139
+Rio das Pedras,5,2.6563,0.6990
+Rio de Janeiro,978,519.5763,2.9903
+Riqueza,2,1.0625,0.3010
+Rondônia,15,7.9690,1.1761
+Roraima,8,4.2501,0.9031
+Rosana,2,1.0625,0.3010
+Roseira,1,0.5313,0.0000
+Rosário,3,1.5938,0.4771
+Roteiro,6,3.1876,0.7782
+Ruy Barbosa,1,0.5313,0.0000
+Sabino,4,2.1251,0.6021
+Sales,4,2.1251,0.6021
+Salesópolis,2,1.0625,0.3010
+Salgadinho,1,0.5313,0.0000
+Salgado,1,0.5313,0.0000
+Salgado Filho,1,0.5313,0.0000
+Salgueiro,44,23.3756,1.6435
+Salinas,1,0.5313,0.0000
+Salto,4,2.1251,0.6021
+Salvador,100,53.1264,2.0000
+Sampaio,10,5.3126,1.0000
+Santa Adélia,4,2.1251,0.6021
+Santa Bárbara,2,1.0625,0.3010
+Santa Bárbara do Sul,1,0.5313,0.0000
+Santa Catarina,23,12.2191,1.3617
+Santa Cruz,68,36.1260,1.8325
+Santa Cruz Cabrália,1,0.5313,0.0000
+Santa Cruz do Sul,1,0.5313,0.0000
+Santa Fé,2,1.0625,0.3010
+Santa Gertrudes,1,0.5313,0.0000
+Santa Isabel,1,0.5313,0.0000
+Santa Luzia,5,2.6563,0.6990
+Santa Maria,6,3.1876,0.7782
+Santa Maria Madalena,5,2.6563,0.6990
+Santa Maria da Boa Vista,1,0.5313,0.0000
+Santa Rita,5,2.6563,0.6990
+Santa Rosa,1,0.5313,0.0000
+Santa Teresa,76,40.3761,1.8808
+Santa Tereza,2,1.0625,0.3010
+Santa Tereza do Oeste,1,0.5313,0.0000
+Santa Terezinha de Itaipu,1,0.5313,0.0000
+Santana,12,6.3752,1.0792
+Santarém,5,2.6563,0.6990
+Santiago,8,4.2501,0.9031
+Santo Amaro,3,1.5938,0.4771
+Santo André,3,1.5938,0.4771
+Santo Antônio,4,2.1251,0.6021
+Santo Antônio de Pádua,2,1.0625,0.3010
+Santo Antônio do Descoberto,1,0.5313,0.0000
+Santo Cristo,2,1.0625,0.3010
+Santo Ângelo,1,0.5313,0.0000
+Santos,257,136.5349,2.4099
+Santos Dumont,9,4.7814,0.9542
+Sapucaia,8,4.2501,0.9031
+Sapé,1,0.5313,0.0000
+Saquarema,18,9.5628,1.2553
+Saúde,319,169.4732,2.5038
+Schroeder,3,1.5938,0.4771
+Seabra,1,0.5313,0.0000
+Segredo,1,0.5313,0.0000
+Senador Pompeu,1,0.5313,0.0000
+Senhor do Bonfim,1,0.5313,0.0000
+Sergipe,27,14.3441,1.4314
+Seropédica,16,8.5002,1.2041
+Serra,8,4.2501,0.9031
+Serra do Salitre,1,0.5313,0.0000
+Serrana,4,2.1251,0.6021
+Serrinha,2,1.0625,0.3010
+Serro,1,0.5313,0.0000
+Sertaneja,1,0.5313,0.0000
+Sertão,2,1.0625,0.3010
+Sertãozinho,6,3.1876,0.7782
+Sete de Setembro,1,0.5313,0.0000
+Sidrolândia,1,0.5313,0.0000
+Silva Jardim,6,3.1876,0.7782
+Simões,1,0.5313,0.0000
+Siqueira Campos,5,2.6563,0.6990
+Sobradinho,2,1.0625,0.3010
+Sobral,2,1.0625,0.3010
+Solonópole,2,1.0625,0.3010
+Sombrio,1,0.5313,0.0000
+Sonora,3,1.5938,0.4771
+Sorocaba,7,3.7188,0.8451
+Sorriso,8,4.2501,0.9031
+Sousa,2,1.0625,0.3010
+Sumaré,4,2.1251,0.6021
+Sumidouro,4,2.1251,0.6021
+Suzano,1,0.5313,0.0000
+São Bento,19,10.0940,1.2788
+São Bernardo,24,12.7503,1.3802
+São Bernardo do Campo,1,0.5313,0.0000
+São Caetano do Sul,3,1.5938,0.4771
+São Carlos,13,6.9064,1.1139
+São Cristóvão,29,15.4067,1.4624
+São Fidélis,5,2.6563,0.6990
+São Francisco,11,5.8439,1.0414
+São Francisco de Assis,1,0.5313,0.0000
+São Francisco de Itabapoana,6,3.1876,0.7782
+São Francisco do Sul,1,0.5313,0.0000
+São Gabriel,1,0.5313,0.0000
+São Geraldo,1,0.5313,0.0000
+São Gonçalo,35,18.5942,1.5441
+São Gonçalo do Amarante,1,0.5313,0.0000
+São Joaquim,3,1.5938,0.4771
+São Jorge,26,13.8129,1.4150
+São José,10,5.3126,1.0000
+São José de Mipibu,1,0.5313,0.0000
+São José de Ubá,2,1.0625,0.3010
+São José do Rio Preto,10,5.3126,1.0000
+São José dos Campos,13,6.9064,1.1139
+São José dos Pinhais,1,0.5313,0.0000
+São João,17,9.0315,1.2304
+São João da Barra,6,3.1876,0.7782
+São João de Meriti,11,5.8439,1.0414
+São Lourenço,2,1.0625,0.3010
+São Lourenço da Mata,1,0.5313,0.0000
+São Lourenço do Oeste,1,0.5313,0.0000
+São Lourenço do Sul,1,0.5313,0.0000
+São Luiz,3,1.5938,0.4771
+São Luís,5,2.6563,0.6990
+São Marcos,1,0.5313,0.0000
+São Martinho,1,0.5313,0.0000
+São Mateus,1,0.5313,0.0000
+São Miguel das Missões,2,1.0625,0.3010
+São Miguel do Iguaçu,1,0.5313,0.0000
+São Miguel dos Campos,1,0.5313,0.0000
+São Patrício,1,0.5313,0.0000
+São Paulo,647,343.7279,2.8109
+São Pedro,14,7.4377,1.1461
+São Pedro da Aldeia,5,2.6563,0.6990
+São Sebastião,25,13.2816,1.3979
+São Sebastião do Alto,2,1.0625,0.3010
+São Sepé,1,0.5313,0.0000
+São Tomé,4,2.1251,0.6021
+São Valentim,5,2.6563,0.6990
+São Vicente,4,2.1251,0.6021
+Sério,2,1.0625,0.3010
+Sítio Novo,2,1.0625,0.3010
+Tabapuã,4,2.1251,0.6021
+Tabatinga,2,1.0625,0.3010
+Taguatinga,6,3.1876,0.7782
+Tailândia,27,14.3441,1.4314
+Talismã,1,0.5313,0.0000
+Tambaú,1,0.5313,0.0000
+Tanabi,1,0.5313,0.0000
+Tanguá,5,2.6563,0.6990
+Taquara,15,7.9690,1.1761
+Tatuí,1,0.5313,0.0000
+Taubaté,2,1.0625,0.3010
+Tavares,3,1.5938,0.4771
+Teixeira,32,17.0005,1.5051
+Teixeira de Freitas,1,0.5313,0.0000
+Teresina,2,1.0625,0.3010
+Teresópolis,28,14.8754,1.4472
+Terezinha,1,0.5313,0.0000
+Terra Nova,1,0.5313,0.0000
+Tesouro,10,5.3126,1.0000
+Tietê,3,1.5938,0.4771
+Tijucas,1,0.5313,0.0000
+Timbó,4,2.1251,0.6021
+Tiradentes,20,10.6253,1.3010
+Tiros,2,1.0625,0.3010
+Tocantins,11,5.8439,1.0414
+Tombos,1,0.5313,0.0000
+Torres,6,3.1876,0.7782
+Tremembé,1,0.5313,0.0000
+Treviso,3,1.5938,0.4771
+Trindade,10,5.3126,1.0000
+Triunfo,1,0.5313,0.0000
+Três Rios,10,5.3126,1.0000
+Tubarão,3,1.5938,0.4771
+Tuiuti,1,0.5313,0.0000
+Tupã,2,1.0625,0.3010
+Turvo,1,0.5313,0.0000
+Ubatuba,4,2.1251,0.6021
+Uberaba,1,0.5313,0.0000
+Uberlândia,2,1.0625,0.3010
+Ubá,1,0.5313,0.0000
+Uchoa,1,0.5313,0.0000
+Umuarama,1,0.5313,0.0000
+Una,2,1.0625,0.3010
+União,81,43.0324,1.9085
+União dos Palmares,1,0.5313,0.0000
+Uruguaiana,9,4.7814,0.9542
+Vale do Paraíba,6,3.1876,0.7782
+Valença,7,3.7188,0.8451
+Valinhos,1,0.5313,0.0000
+Vargem,1,0.5313,0.0000
+Vargem Grande,3,1.5938,0.4771
+Varginha,4,2.1251,0.6021
+Varjão de Minas,1,0.5313,0.0000
+Vassouras,12,6.3752,1.0792
+Vera,11,5.8439,1.0414
+Vera Cruz,1,0.5313,0.0000
+Vertentes,1,0.5313,0.0000
+Veríssimo,2,1.0625,0.3010
+Viamão,1,0.5313,0.0000
+Viana,4,2.1251,0.6021
+Vianópolis,1,0.5313,0.0000
+Vigia,1,0.5313,0.0000
+Vila Maria,6,3.1876,0.7782
+Vila Propício,1,0.5313,0.0000
+Vila Velha,1,0.5313,0.0000
+Viradouro,5,2.6563,0.6990
+Virgínia,2,1.0625,0.3010
+Vista Alegre,2,1.0625,0.3010
+Vitória,26,13.8129,1.4150
+Vitória da Conquista,1,0.5313,0.0000
+Viçosa,2,1.0625,0.3010
+Volta Grande,1,0.5313,0.0000
+Volta Redonda,66,35.0634,1.8195
+Votorantim,1,0.5313,0.0000
+Várzea Grande,1,0.5313,0.0000
+Wagner,15,7.9690,1.1761
+Wanderley,2,1.0625,0.3010
+Água Branca,1,0.5313,0.0000
+Água Fria,3,1.5938,0.4771
+Água Limpa,5,2.6563,0.6990
+Água Santa,13,6.9064,1.1139
+Áurea,1,0.5313,0.0000
+Óleo,1,0.5313,0.0000

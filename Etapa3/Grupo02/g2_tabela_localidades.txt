@@ -1,0 +1,916 @@
+Margarida Santos, 1, 1.2246, 0.0000
+Caia, 1, 1.2246, 0.0000
+Lisboa, 500, 612.2881, 2.6990
+Vila, 4, 4.8983, 0.6021
+Cinfães, 1, 1.2246, 0.0000
+Estar, 2, 2.4492, 0.3010
+Póvoa de Lanhoso, 4, 4.8983, 0.6021
+Borgonha, 1, 1.2246, 0.0000
+Graça Freitas, 2, 2.4492, 0.3010
+Fortes, 1, 1.2246, 0.0000
+Paredes, 12, 14.6949, 1.0792
+Golegã, 3, 3.6737, 0.4771
+Vinho, 1, 1.2246, 0.0000
+Brasileira, 3, 3.6737, 0.4771
+Torres, 2, 2.4492, 0.3010
+Entroncamento, 3, 3.6737, 0.4771
+Lourosa, 2, 2.4492, 0.3010
+Hospital Santos Silva, 1, 1.2246, 0.0000
+Teixeira, 11, 13.4703, 1.0414
+Dadas, 1, 1.2246, 0.0000
+Cortegaça, 1, 1.2246, 0.0000
+Paços de Concelho, 1, 1.2246, 0.0000
+Pocinho, 1, 1.2246, 0.0000
+Brito, 1, 1.2246, 0.0000
+Juntas, 1, 1.2246, 0.0000
+Ribeiro, 4, 4.8983, 0.6021
+Teixeira Correia, 1, 1.2246, 0.0000
+Ferro, 3, 3.6737, 0.4771
+Mata, 1, 1.2246, 0.0000
+Vinho do Porto, 1, 1.2246, 0.0000
+Porta, 1, 1.2246, 0.0000
+Paços do Concelho, 1, 1.2246, 0.0000
+Alcobaça, 3, 3.6737, 0.4771
+Varela, 18, 22.0424, 1.2553
+Cubal, 1, 1.2246, 0.0000
+Bernardo Silva, 2, 2.4492, 0.3010
+Carnaxide, 5, 6.1229, 0.6990
+Penedos, 1, 1.2246, 0.0000
+Adão da Fonseca, 17, 20.8178, 1.2304
+Feirão, 1, 1.2246, 0.0000
+Vidal, 1, 1.2246, 0.0000
+Valdemar Mota, 1, 1.2246, 0.0000
+Pretos, 1, 1.2246, 0.0000
+Correia da Silva, 1, 1.2246, 0.0000
+Fonte da Defesa, 1, 1.2246, 0.0000
+Cordeiro, 1, 1.2246, 0.0000
+Beleza, 5, 6.1229, 0.6990
+Barragens do Douro, 1, 1.2246, 0.0000
+Feitoria, 4, 4.8983, 0.6021
+Feira, 3, 3.6737, 0.4771
+Santana Lopes, 12, 14.6949, 1.0792
+Albufeira, 12, 14.6949, 1.0792
+Amoreira, 2, 2.4492, 0.3010
+Martim Moniz, 1, 1.2246, 0.0000
+Baleizão, 1, 1.2246, 0.0000
+Rebelo, 1, 1.2246, 0.0000
+Rio Vouga, 4, 4.8983, 0.6021
+Hotel Baía, 1, 1.2246, 0.0000
+Esteve, 2, 2.4492, 0.3010
+Canal, 5, 6.1229, 0.6990
+Ver, 1, 1.2246, 0.0000
+Meio, 3, 3.6737, 0.4771
+Ponte de Cacia, 1, 1.2246, 0.0000
+Pampilhosa da Serra, 1, 1.2246, 0.0000
+Maia, 19, 23.2669, 1.2788
+Barreiros, 5, 6.1229, 0.6990
+Simões de Carvalho, 1, 1.2246, 0.0000
+Arcos de Valdevez, 5, 6.1229, 0.6990
+Vila Nova de Famalicão, 4, 4.8983, 0.6021
+Ajuda, 3, 3.6737, 0.4771
+Arcos, 20, 24.4915, 1.3010
+Sintra, 30, 36.7373, 1.4771
+Concelho de Soure, 1, 1.2246, 0.0000
+Areias, 2, 2.4492, 0.3010
+Costa de Luz, 1, 1.2246, 0.0000
+Alcabideche, 2, 2.4492, 0.3010
+Graça, 2, 2.4492, 0.3010
+Figueiró do Campo, 3, 3.6737, 0.4771
+Lagos, 5, 6.1229, 0.6990
+Saúde do Rio de Janeiro, 3, 3.6737, 0.4771
+Carris, 5, 6.1229, 0.6990
+Fátima, 11, 13.4703, 1.0414
+Pastor, 1, 1.2246, 0.0000
+Folgosa, 2, 2.4492, 0.3010
+Alpiarça, 1, 1.2246, 0.0000
+Antanhol, 3, 3.6737, 0.4771
+Aveiro, 44, 53.8814, 1.6435
+Paços de Ferreira, 112, 137.1525, 2.0492
+Bragança, 28, 34.2881, 1.4472
+Oliveiras, 1, 1.2246, 0.0000
+Verdade, 1, 1.2246, 0.0000
+Rato, 1, 1.2246, 0.0000
+Vasco Mourão, 2, 2.4492, 0.3010
+Criado, 1, 1.2246, 0.0000
+Quinta do Loureiro, 1, 1.2246, 0.0000
+Pousada de Lisboa, 2, 2.4492, 0.3010
+Fronteira, 1, 1.2246, 0.0000
+Castro, 5, 6.1229, 0.6990
+Castelo, 1, 1.2246, 0.0000
+Antes de Beleza, 1, 1.2246, 0.0000
+Hospital de Santa Cruz, 1, 1.2246, 0.0000
+Moura, 2, 2.4492, 0.3010
+Cavaleiros, 1, 1.2246, 0.0000
+Loriga, 1, 1.2246, 0.0000
+Terreiro do Paço, 2, 2.4492, 0.3010
+Rua da Praça, 1, 1.2246, 0.0000
+Ovar, 5, 6.1229, 0.6990
+Almas, 1, 1.2246, 0.0000
+Vasco Samouco, 4, 4.8983, 0.6021
+Faria de Oliveira, 2, 2.4492, 0.3010
+Pombal, 11, 13.4703, 1.0414
+Cadaval, 2, 2.4492, 0.3010
+Hospital Amadora, 4, 4.8983, 0.6021
+Samuel Caldeira, 1, 1.2246, 0.0000
+Figueira da Foz, 11, 13.4703, 1.0414
+Luz, 44, 53.8814, 1.6435
+Hospital da Luz, 3, 3.6737, 0.4771
+Lordelo, 2, 2.4492, 0.3010
+Famalicão, 10, 12.2458, 1.0000
+Horta, 5, 6.1229, 0.6990
+Valente, 1, 1.2246, 0.0000
+Oliveira Martins, 4, 4.8983, 0.6021
+Mortágua, 2, 2.4492, 0.3010
+Lázaro, 2, 2.4492, 0.3010
+Alagoas, 2, 2.4492, 0.3010
+Chãs, 1, 1.2246, 0.0000
+Queridas, 1, 1.2246, 0.0000
+Vale do Sousa, 2, 2.4492, 0.3010
+Praia do Norte, 2, 2.4492, 0.3010
+Hospital de Braga, 2, 2.4492, 0.3010
+Rio de Mouro, 1, 1.2246, 0.0000
+Vasco, 4, 4.8983, 0.6021
+Santos Silva, 2, 2.4492, 0.3010
+Pereira, 1, 1.2246, 0.0000
+Braga, 100, 122.4576, 2.0000
+Alvalade, 35, 42.8602, 1.5441
+Cavaco, 39, 47.7585, 1.5911
+De Braga, 1, 1.2246, 0.0000
+Cavaco Silva, 125, 153.0720, 2.0969
+Adão Silva, 3, 3.6737, 0.4771
+Sequeira, 1, 1.2246, 0.0000
+Camões, 1, 1.2246, 0.0000
+Odivelas, 1, 1.2246, 0.0000
+Chãos, 1, 1.2246, 0.0000
+Sabugueiro, 1, 1.2246, 0.0000
+Vilamoura, 2, 2.4492, 0.3010
+Sampaio, 1, 1.2246, 0.0000
+Quartos, 2, 2.4492, 0.3010
+Nine, 2, 2.4492, 0.3010
+Mota, 1, 1.2246, 0.0000
+Mirandela, 2, 2.4492, 0.3010
+Rua, 10, 12.2458, 1.0000
+Caldas da Rainha, 6, 7.3475, 0.7782
+Fundada, 1, 1.2246, 0.0000
+Martim, 1, 1.2246, 0.0000
+Tábua, 1, 1.2246, 0.0000
+Gabriel, 2, 2.4492, 0.3010
+Curalha, 1, 1.2246, 0.0000
+Covilhã, 3, 3.6737, 0.4771
+Forte da Graça, 1, 1.2246, 0.0000
+Perelhal, 1, 1.2246, 0.0000
+Termos, 1, 1.2246, 0.0000
+Boticas, 3, 3.6737, 0.4771
+Loulé, 2, 2.4492, 0.3010
+Foz do Arelho, 1, 1.2246, 0.0000
+Vieira Monteiro, 3, 3.6737, 0.4771
+Cartaxo, 1, 1.2246, 0.0000
+Rua Sá da Bandeira, 1, 1.2246, 0.0000
+Lenço, 1, 1.2246, 0.0000
+Couço, 1, 1.2246, 0.0000
+Vinho do Douro, 1, 1.2246, 0.0000
+Soure, 2, 2.4492, 0.3010
+Queluz de Baixo, 4, 4.8983, 0.6021
+Oura, 1, 1.2246, 0.0000
+Monchique, 1, 1.2246, 0.0000
+Monção, 1, 1.2246, 0.0000
+Pinhão, 4, 4.8983, 0.6021
+Benfica, 392, 480.0339, 2.5933
+Curia, 1, 1.2246, 0.0000
+Vilar da Veiga, 2, 2.4492, 0.3010
+Casas, 1, 1.2246, 0.0000
+Andam, 1, 1.2246, 0.0000
+Santarém Aveiro, 1, 1.2246, 0.0000
+Mercado da Graça, 1, 1.2246, 0.0000
+Era, 22, 26.9407, 1.3424
+Capucho, 1, 1.2246, 0.0000
+Cavalões, 1, 1.2246, 0.0000
+Campo, 1, 1.2246, 0.0000
+Bento da Cruz, 1, 1.2246, 0.0000
+Nova Leiria, 1, 1.2246, 0.0000
+Margarida, 1, 1.2246, 0.0000
+Idanha, 1, 1.2246, 0.0000
+Fontarcada, 1, 1.2246, 0.0000
+Cabaço Martins, 1, 1.2246, 0.0000
+Vilar do Monte, 2, 2.4492, 0.3010
+Sabugal, 2, 2.4492, 0.3010
+Voltas, 2, 2.4492, 0.3010
+Esporão, 1, 1.2246, 0.0000
+Quintanilha, 3, 3.6737, 0.4771
+Queluz, 1, 1.2246, 0.0000
+Grândola Vila Morena, 1, 1.2246, 0.0000
+Ferreira do Alentejo, 3, 3.6737, 0.4771
+Igreja de Palhais, 1, 1.2246, 0.0000
+Cortes, 2, 2.4492, 0.3010
+Portal, 18, 22.0424, 1.2553
+Pestana, 1, 1.2246, 0.0000
+Sousa Franco, 1, 1.2246, 0.0000
+Rafael Martins, 1, 1.2246, 0.0000
+Sagres, 1, 1.2246, 0.0000
+Gonçalo Uva, 3, 3.6737, 0.4771
+Graciosa, 6, 7.3475, 0.7782
+Ponte, 4, 4.8983, 0.6021
+Amaral, 18, 22.0424, 1.2553
+Cidade, 1, 1.2246, 0.0000
+Palmela, 2, 2.4492, 0.3010
+Caminha, 2, 2.4492, 0.3010
+Caldas de Reis, 1, 1.2246, 0.0000
+Coimbra, 52, 63.6780, 1.7160
+Candal, 1, 1.2246, 0.0000
+Pinheiro, 1, 1.2246, 0.0000
+Conselho, 19, 23.2669, 1.2788
+Coudelaria, 1, 1.2246, 0.0000
+Ordens, 1, 1.2246, 0.0000
+Moscavide, 2, 2.4492, 0.3010
+Vitória de Guimarães, 28, 34.2881, 1.4472
+Montemor, 3, 3.6737, 0.4771
+Arcozelo, 2, 2.4492, 0.3010
+Vale, 6, 7.3475, 0.7782
+Vila Nova, 1, 1.2246, 0.0000
+Mezio, 1, 1.2246, 0.0000
+Eixo Nordeste, 1, 1.2246, 0.0000
+Mimosa, 1, 1.2246, 0.0000
+Lampreia, 1, 1.2246, 0.0000
+Palma, 6, 7.3475, 0.7782
+Cacia, 3, 3.6737, 0.4771
+Serra, 1, 1.2246, 0.0000
+Portimão, 9, 11.0212, 0.9542
+Morais Pires, 1, 1.2246, 0.0000
+Cidade do Porto, 1, 1.2246, 0.0000
+Trinta, 5, 6.1229, 0.6990
+Sousel, 3, 3.6737, 0.4771
+Ramos, 2, 2.4492, 0.3010
+Tapadão, 1, 1.2246, 0.0000
+Esmoriz, 2, 2.4492, 0.3010
+Azinhaga, 1, 1.2246, 0.0000
+Concelho de Matosinhos, 1, 1.2246, 0.0000
+Caxias, 10, 12.2458, 1.0000
+Capelinha, 1, 1.2246, 0.0000
+Igreja da Graça, 1, 1.2246, 0.0000
+Lumiar, 1, 1.2246, 0.0000
+Abrantes, 10, 12.2458, 1.0000
+Remédios, 1, 1.2246, 0.0000
+Paço, 1, 1.2246, 0.0000
+Torre, 4, 4.8983, 0.6021
+Nova, 11, 13.4703, 1.0414
+Fares, 1, 1.2246, 0.0000
+Moimenta da Beira, 1, 1.2246, 0.0000
+Melo, 1, 1.2246, 0.0000
+Bento, 4, 4.8983, 0.6021
+Escola, 3, 3.6737, 0.4771
+Foz do Douro, 1, 1.2246, 0.0000
+Buraco, 1, 1.2246, 0.0000
+Arbonça, 1, 1.2246, 0.0000
+Vinha, 2, 2.4492, 0.3010
+Bonjardim, 1, 1.2246, 0.0000
+Convento, 1, 1.2246, 0.0000
+Figueira do Foz, 1, 1.2246, 0.0000
+Galiza, 13, 15.9195, 1.1139
+Avô, 1, 1.2246, 0.0000
+Alentejo, 28, 34.2881, 1.4472
+Alqueva, 4, 4.8983, 0.6021
+Pola, 1, 1.2246, 0.0000
+Ervidel, 1, 1.2246, 0.0000
+Guerra, 12, 14.6949, 1.0792
+Albergaria, 13, 15.9195, 1.1139
+Hotel, 1, 1.2246, 0.0000
+Mondego, 7, 8.5720, 0.8451
+Milagres, 2, 2.4492, 0.3010
+Couto, 2, 2.4492, 0.3010
+Lavra, 3, 3.6737, 0.4771
+Bernardo, 1, 1.2246, 0.0000
+Estela, 3, 3.6737, 0.4771
+Toledo, 2, 2.4492, 0.3010
+Lamego, 9, 11.0212, 0.9542
+Carvoeiro, 1, 1.2246, 0.0000
+Bairro Alto, 6, 7.3475, 0.7782
+Eixo, 1, 1.2246, 0.0000
+Amoreiras, 1, 1.2246, 0.0000
+Soito, 1, 1.2246, 0.0000
+Portalegre, 10, 12.2458, 1.0000
+Aeroporto, 1, 1.2246, 0.0000
+Portas, 26, 31.8390, 1.4150
+Ericeira, 1, 1.2246, 0.0000
+Rafael Marques, 4, 4.8983, 0.6021
+Leões, 2, 2.4492, 0.3010
+Seixal, 16, 19.5932, 1.2041
+Porto Canal, 7, 8.5720, 0.8451
+Trancoso, 1, 1.2246, 0.0000
+Vasco Rocha, 2, 2.4492, 0.3010
+Paivas, 1, 1.2246, 0.0000
+Franco, 1, 1.2246, 0.0000
+Comporta, 2, 2.4492, 0.3010
+Praça da Figueira, 1, 1.2246, 0.0000
+Armamar, 1, 1.2246, 0.0000
+Gondramaz, 1, 1.2246, 0.0000
+Achada, 1, 1.2246, 0.0000
+Tunes, 4, 4.8983, 0.6021
+Guardas, 1, 1.2246, 0.0000
+Tomar, 7, 8.5720, 0.8451
+Nantes, 2, 2.4492, 0.3010
+Valdemar Castro, 1, 1.2246, 0.0000
+Bicos, 1, 1.2246, 0.0000
+Norte, 62, 75.9237, 1.7924
+Lopes, 19, 23.2669, 1.2788
+Godim, 1, 1.2246, 0.0000
+Perafita, 1, 1.2246, 0.0000
+Mealhada, 3, 3.6737, 0.4771
+Juntos, 6, 7.3475, 0.7782
+Taipas, 1, 1.2246, 0.0000
+Piloto, 2, 2.4492, 0.3010
+Almancil, 2, 2.4492, 0.3010
+Muro, 1, 1.2246, 0.0000
+Valadares Gaia, 1, 1.2246, 0.0000
+Marco Almeida, 3, 3.6737, 0.4771
+Valdemar Pinheiro, 1, 1.2246, 0.0000
+Aeroporto do Porto, 4, 4.8983, 0.6021
+Santa Sé, 18, 22.0424, 1.2553
+Vila Praia, 1, 1.2246, 0.0000
+Lousada, 2, 2.4492, 0.3010
+Montalegre, 5, 6.1229, 0.6990
+Zebras, 1, 1.2246, 0.0000
+Reis, 3, 3.6737, 0.4771
+Loureiro, 1, 1.2246, 0.0000
+Montes, 10, 12.2458, 1.0000
+Salgueiros, 1, 1.2246, 0.0000
+Alfena, 5, 6.1229, 0.6990
+Leitão, 4, 4.8983, 0.6021
+Ribeira do Rodo, 1, 1.2246, 0.0000
+Nisa, 3, 3.6737, 0.4771
+Porto, 908, 1111.9152, 2.9581
+Mangualde, 1, 1.2246, 0.0000
+Prazeres, 2, 2.4492, 0.3010
+France, 1, 1.2246, 0.0000
+Fonte, 28, 34.2881, 1.4472
+Montouto, 1, 1.2246, 0.0000
+Rua de Santa Luzia, 1, 1.2246, 0.0000
+Chaves, 6, 7.3475, 0.7782
+Azevedo Pereira, 4, 4.8983, 0.6021
+Grândola, 5, 6.1229, 0.6990
+Cruz Vermelha, 1, 1.2246, 0.0000
+Elvas, 7, 8.5720, 0.8451
+Igreja, 31, 37.9619, 1.4914
+Guilherme, 3, 3.6737, 0.4771
+Odemira, 7, 8.5720, 0.8451
+Azenha Hotel, 1, 1.2246, 0.0000
+Mendes Ribeiro, 2, 2.4492, 0.3010
+Carviçais, 1, 1.2246, 0.0000
+Durão Barroso, 19, 23.2669, 1.2788
+Felgueiras, 7, 8.5720, 0.8451
+Ourém, 1, 1.2246, 0.0000
+Cabanelas, 1, 1.2246, 0.0000
+Memória, 1, 1.2246, 0.0000
+Cela, 1, 1.2246, 0.0000
+Silva, 8, 9.7966, 0.9031
+Sevilha, 19, 23.2669, 1.2788
+Cristelo, 1, 1.2246, 0.0000
+Sá, 2, 2.4492, 0.3010
+Hospital, 1, 1.2246, 0.0000
+Descoberto, 1, 1.2246, 0.0000
+Terras de Bouro, 3, 3.6737, 0.4771
+Mosqueirões, 1, 1.2246, 0.0000
+Beja, 32, 39.1864, 1.5051
+Passado, 1, 1.2246, 0.0000
+Mata da Machada, 1, 1.2246, 0.0000
+Passo, 3, 3.6737, 0.4771
+Marco Ferreira, 1, 1.2246, 0.0000
+Cardoso, 1, 1.2246, 0.0000
+Rosario, 1, 1.2246, 0.0000
+Preto, 1, 1.2246, 0.0000
+Cooperativa, 1, 1.2246, 0.0000
+Barcelos, 26, 31.8390, 1.4150
+Rota, 2, 2.4492, 0.3010
+Rafael, 1, 1.2246, 0.0000
+Bairro de Francos, 1, 1.2246, 0.0000
+Dueça, 2, 2.4492, 0.3010
+Cedofeita, 2, 2.4492, 0.3010
+Nevogilde, 3, 3.6737, 0.4771
+Benavente, 1, 1.2246, 0.0000
+Cantanhede, 1, 1.2246, 0.0000
+Santa Margarida, 3, 3.6737, 0.4771
+Vila da Feira, 1, 1.2246, 0.0000
+Gonçalo Rocha, 1, 1.2246, 0.0000
+Marinhas, 2, 2.4492, 0.3010
+Postos, 1, 1.2246, 0.0000
+Graça Fonseca, 4, 4.8983, 0.6021
+Cerdeira, 1, 1.2246, 0.0000
+Bairrada, 4, 4.8983, 0.6021
+Roussa de Cima, 1, 1.2246, 0.0000
+Corgo, 1, 1.2246, 0.0000
+Mogadouro, 8, 9.7966, 0.9031
+Góis, 4, 4.8983, 0.6021
+Paços de Ferreira de Mata Real, 1, 1.2246, 0.0000
+Margarida Pereira de Almeida, 1, 1.2246, 0.0000
+Alcanena, 1, 1.2246, 0.0000
+Massa, 1, 1.2246, 0.0000
+Salvador, 4, 4.8983, 0.6021
+Agra, 1, 1.2246, 0.0000
+Fundo, 26, 31.8390, 1.4150
+Valadares, 1, 1.2246, 0.0000
+Penas, 2, 2.4492, 0.3010
+Rio Meão, 1, 1.2246, 0.0000
+Veloso, 1, 1.2246, 0.0000
+Moreira da Costa, 1, 1.2246, 0.0000
+Baixo Vouga, 1, 1.2246, 0.0000
+Nelas, 1, 1.2246, 0.0000
+Marques, 1, 1.2246, 0.0000
+Caldas, 1, 1.2246, 0.0000
+Carvalhal, 1, 1.2246, 0.0000
+Azambuja, 1, 1.2246, 0.0000
+Vieira de Almeida, 1, 1.2246, 0.0000
+Passos, 55, 67.3517, 1.7404
+Ferreira Torres, 1, 1.2246, 0.0000
+Romeu, 4, 4.8983, 0.6021
+Ermesinde, 6, 7.3475, 0.7782
+Cabrito do Alentejo, 3, 3.6737, 0.4771
+Minas, 2, 2.4492, 0.3010
+Caniçada, 1, 1.2246, 0.0000
+Bispos, 1, 1.2246, 0.0000
+Paraíso, 1, 1.2246, 0.0000
+Sesimbra, 5, 6.1229, 0.6990
+Moreira da Silva, 2, 2.4492, 0.3010
+Rua do Godinho, 1, 1.2246, 0.0000
+Trigueira, 1, 1.2246, 0.0000
+Corrida, 1, 1.2246, 0.0000
+Torre de Palma, 5, 6.1229, 0.6990
+Gala, 1, 1.2246, 0.0000
+Mouriscas, 2, 2.4492, 0.3010
+Caminho, 3, 3.6737, 0.4771
+Vouga, 16, 19.5932, 1.2041
+Vasco Ribeiro, 2, 2.4492, 0.3010
+Sentinela, 2, 2.4492, 0.3010
+Penso, 7, 8.5720, 0.8451
+Regueira de Pontes, 1, 1.2246, 0.0000
+Zambujal, 1, 1.2246, 0.0000
+Praia, 1, 1.2246, 0.0000
+Romeu Ribeiro, 1, 1.2246, 0.0000
+Marias, 1, 1.2246, 0.0000
+Sobreiras, 2, 2.4492, 0.3010
+Santa, 2, 2.4492, 0.3010
+Guincho, 1, 1.2246, 0.0000
+Carro, 2, 2.4492, 0.3010
+Cádiz, 6, 7.3475, 0.7782
+Bravo, 1, 1.2246, 0.0000
+Carvalho, 3, 3.6737, 0.4771
+Douro Vinhateiro, 1, 1.2246, 0.0000
+Madalena Ferreira, 1, 1.2246, 0.0000
+Marvão, 5, 6.1229, 0.6990
+Abegoa, 1, 1.2246, 0.0000
+Ceira, 1, 1.2246, 0.0000
+Carneiro, 1, 1.2246, 0.0000
+Miranda do Douro, 10, 12.2458, 1.0000
+Portagem, 2, 2.4492, 0.3010
+Valongo, 12, 14.6949, 1.0792
+Peniche, 5, 6.1229, 0.6990
+Queda, 5, 6.1229, 0.6990
+Cortiços, 2, 2.4492, 0.3010
+Alijó, 4, 4.8983, 0.6021
+Santos Pereira, 3, 3.6737, 0.4771
+Serpa, 3, 3.6737, 0.4771
+Meda, 1, 1.2246, 0.0000
+Vieira da Silva, 32, 39.1864, 1.5051
+Relação de Lisboa, 7, 8.5720, 0.8451
+Praça de Flores, 1, 1.2246, 0.0000
+Julião do Tojal, 1, 1.2246, 0.0000
+Sé, 2, 2.4492, 0.3010
+Cotovia, 4, 4.8983, 0.6021
+Miranda, 4, 4.8983, 0.6021
+Oliveira do Bairro, 1, 1.2246, 0.0000
+Bigorne, 1, 1.2246, 0.0000
+Fornelos, 1, 1.2246, 0.0000
+Tondela, 25, 30.6144, 1.3979
+Ilha Sul, 1, 1.2246, 0.0000
+Taveiro, 3, 3.6737, 0.4771
+Correia, 3, 3.6737, 0.4771
+Carmo, 2, 2.4492, 0.3010
+Marão, 2, 2.4492, 0.3010
+Barca, 1, 1.2246, 0.0000
+Mesquita Machado, 3, 3.6737, 0.4771
+Sá da Bandeira, 1, 1.2246, 0.0000
+Barroselas, 1, 1.2246, 0.0000
+Barro, 1, 1.2246, 0.0000
+Pampilhosa, 4, 4.8983, 0.6021
+Fetal, 1, 1.2246, 0.0000
+Lajes, 5, 6.1229, 0.6990
+Avis, 1, 1.2246, 0.0000
+Mesa de Entradas, 1, 1.2246, 0.0000
+Fão, 2, 2.4492, 0.3010
+Capela, 2, 2.4492, 0.3010
+Fonte da Ordem, 1, 1.2246, 0.0000
+Francos, 2, 2.4492, 0.3010
+Rua de Gondarém, 1, 1.2246, 0.0000
+Terça, 1, 1.2246, 0.0000
+Gato, 3, 3.6737, 0.4771
+Luso, 5, 6.1229, 0.6990
+Abreu Amorim, 1, 1.2246, 0.0000
+Cidade da Maia, 1, 1.2246, 0.0000
+Estarreja, 8, 9.7966, 0.9031
+Travassos, 1, 1.2246, 0.0000
+Leiria, 26, 31.8390, 1.4150
+Mouraz Lopes, 1, 1.2246, 0.0000
+Garcia Pereira, 3, 3.6737, 0.4771
+Sete, 9, 11.0212, 0.9542
+Olival, 6, 7.3475, 0.7782
+Arez, 1, 1.2246, 0.0000
+Nordeste, 2, 2.4492, 0.3010
+Torna, 1, 1.2246, 0.0000
+Paços, 12, 14.6949, 1.0792
+Santarém Hotel, 1, 1.2246, 0.0000
+Esposende, 5, 6.1229, 0.6990
+Jardim, 7, 8.5720, 0.8451
+Rua Nova do Carvalho, 8, 9.7966, 0.9031
+Alfarelos, 6, 7.3475, 0.7782
+Quintos, 1, 1.2246, 0.0000
+Canelas, 1, 1.2246, 0.0000
+Leonel de Castro, 2, 2.4492, 0.3010
+Aldeia da Luz, 1, 1.2246, 0.0000
+Casada, 1, 1.2246, 0.0000
+Alcouce, 1, 1.2246, 0.0000
+Quintana, 1, 1.2246, 0.0000
+Santos, 35, 42.8602, 1.5441
+Alcoutim, 2, 2.4492, 0.3010
+Além, 128, 156.7458, 2.1072
+Lousã, 5, 6.1229, 0.6990
+Conde de Samodães, 1, 1.2246, 0.0000
+Praia da Vitória, 1, 1.2246, 0.0000
+Oliveira do Hospital, 2, 2.4492, 0.3010
+Vila Nova de Gaia, 15, 18.3686, 1.1761
+Casanova de Almeida, 2, 2.4492, 0.3010
+Namorados, 13, 15.9195, 1.1139
+Santana, 2, 2.4492, 0.3010
+Nespereira, 1, 1.2246, 0.0000
+Praia do Paraíso, 2, 2.4492, 0.3010
+Alto Alentejo, 1, 1.2246, 0.0000
+Fontanelas, 1, 1.2246, 0.0000
+Solar, 2, 2.4492, 0.3010
+Vasco Moniz, 1, 1.2246, 0.0000
+Paredes de Coura, 7, 8.5720, 0.8451
+Arinto, 1, 1.2246, 0.0000
+Santa Cruz, 3, 3.6737, 0.4771
+Ribeira, 2, 2.4492, 0.3010
+Sul, 45, 55.1059, 1.6532
+Bemposta, 1, 1.2246, 0.0000
+Termas de Luso, 1, 1.2246, 0.0000
+Bairro da Cruz Vermelha, 1, 1.2246, 0.0000
+Gigante, 1, 1.2246, 0.0000
+Travancinha, 1, 1.2246, 0.0000
+Vale do Douro, 1, 1.2246, 0.0000
+Costa, 71, 86.9449, 1.8513
+Guilherme Costa, 17, 20.8178, 1.2304
+Sines, 9, 11.0212, 0.9542
+Gonçalo Brandão, 1, 1.2246, 0.0000
+Charneca de Caparica, 1, 1.2246, 0.0000
+Guia, 1, 1.2246, 0.0000
+Calçada do Lavra, 1, 1.2246, 0.0000
+Escola de Penela, 1, 1.2246, 0.0000
+Dois, 66, 80.8220, 1.8195
+Resende, 3, 3.6737, 0.4771
+Cardosas, 3, 3.6737, 0.4771
+Vasco Mota, 3, 3.6737, 0.4771
+Mesa, 2, 2.4492, 0.3010
+Calçada do Combro, 1, 1.2246, 0.0000
+Ribeirão, 2, 2.4492, 0.3010
+Alvarinho, 1, 1.2246, 0.0000
+Bonfim, 1, 1.2246, 0.0000
+Convento do Espinheiro, 1, 1.2246, 0.0000
+Vila do Conde, 11, 13.4703, 1.0414
+Carlão, 1, 1.2246, 0.0000
+Laje, 1, 1.2246, 0.0000
+Rua do Padrão, 1, 1.2246, 0.0000
+Vidigueira, 2, 2.4492, 0.3010
+Torrão, 1, 1.2246, 0.0000
+Monte da Caparica, 1, 1.2246, 0.0000
+Sobrado, 1, 1.2246, 0.0000
+Formigueiro, 2, 2.4492, 0.3010
+Espinho, 3, 3.6737, 0.4771
+Pousada, 1, 1.2246, 0.0000
+Sameiro, 1, 1.2246, 0.0000
+Silgueiros, 1, 1.2246, 0.0000
+Setúbal, 43, 52.6568, 1.6335
+Talasnal, 1, 1.2246, 0.0000
+Carreço, 1, 1.2246, 0.0000
+Trofa, 5, 6.1229, 0.6990
+Gaia, 15, 18.3686, 1.1761
+Saúde, 41, 50.2076, 1.6128
+Vimioso, 3, 3.6737, 0.4771
+Moreira, 2, 2.4492, 0.3010
+Antigo, 5, 6.1229, 0.6990
+Vila Real, 37, 45.3093, 1.5682
+Charneca da Caparica, 2, 2.4492, 0.3010
+Várzea da Serra, 1, 1.2246, 0.0000
+Ouro, 5, 6.1229, 0.6990
+Salvador Agra, 1, 1.2246, 0.0000
+Silva Peneda, 1, 1.2246, 0.0000
+Canidelo, 1, 1.2246, 0.0000
+Marco Martins, 1, 1.2246, 0.0000
+Boavista, 39, 47.7585, 1.5911
+Serra Leoa, 3, 3.6737, 0.4771
+Linhares da Beira, 1, 1.2246, 0.0000
+Aeroporto da Portela, 1, 1.2246, 0.0000
+Cidade Barcelos, 1, 1.2246, 0.0000
+Escolas, 5, 6.1229, 0.6990
+Vaiamonte, 1, 1.2246, 0.0000
+Forno, 1, 1.2246, 0.0000
+Veiga, 2, 2.4492, 0.3010
+Hospital de Famalicão, 1, 1.2246, 0.0000
+Leonel Pereira, 1, 1.2246, 0.0000
+Olivais, 1, 1.2246, 0.0000
+Amor, 1, 1.2246, 0.0000
+Varais, 1, 1.2246, 0.0000
+Tróia, 5, 6.1229, 0.6990
+Penafiel, 11, 13.4703, 1.0414
+Açor, 1, 1.2246, 0.0000
+Matosinhos, 25, 30.6144, 1.3979
+Castelo de Vide, 2, 2.4492, 0.3010
+Lopes da Fonseca, 1, 1.2246, 0.0000
+Fratel, 1, 1.2246, 0.0000
+Costinha, 7, 8.5720, 0.8451
+Vá, 1, 1.2246, 0.0000
+Gostei, 2, 2.4492, 0.3010
+Ferreira, 3, 3.6737, 0.4771
+Porto do Douro, 1, 1.2246, 0.0000
+Coruche, 1, 1.2246, 0.0000
+Pico, 10, 12.2458, 1.0000
+Aeroporto Sá Carneiro, 1, 1.2246, 0.0000
+Juntas de Freguesia, 1, 1.2246, 0.0000
+Corvo, 1, 1.2246, 0.0000
+Gouveia, 3, 3.6737, 0.4771
+Chaos, 1, 1.2246, 0.0000
+Mateus, 2, 2.4492, 0.3010
+Douro, 51, 62.4534, 1.7076
+Campo de Besteiros, 2, 2.4492, 0.3010
+Sá Carneiro, 10, 12.2458, 1.0000
+Relação, 4, 4.8983, 0.6021
+Brinches, 2, 2.4492, 0.3010
+Praça, 1, 1.2246, 0.0000
+Padreiro, 1, 1.2246, 0.0000
+Rio Tinto, 5, 6.1229, 0.6990
+Fonseca, 1, 1.2246, 0.0000
+Aljezur, 2, 2.4492, 0.3010
+Lagoa, 1, 1.2246, 0.0000
+Gabriel Abrantes, 1, 1.2246, 0.0000
+Mira, 1, 1.2246, 0.0000
+Sumidouro, 2, 2.4492, 0.3010
+Ordem, 41, 50.2076, 1.6128
+Baixo Alentejo, 2, 2.4492, 0.3010
+Arouca, 49, 60.0042, 1.6902
+Viana do Castelo, 30, 36.7373, 1.4771
+Porta Santa, 1, 1.2246, 0.0000
+Lapa, 1, 1.2246, 0.0000
+Governos, 3, 3.6737, 0.4771
+Herdade da Torre de Palma, 1, 1.2246, 0.0000
+Pedrógão, 1, 1.2246, 0.0000
+Madalena, 1, 1.2246, 0.0000
+Monte Real, 2, 2.4492, 0.3010
+Alvarães, 1, 1.2246, 0.0000
+Marinha, 5, 6.1229, 0.6990
+Mosteiro, 1, 1.2246, 0.0000
+Açores, 83, 101.6398, 1.9191
+Santiago, 3, 3.6737, 0.4771
+Fornos de Algodres, 1, 1.2246, 0.0000
+Portela, 10, 12.2458, 1.0000
+Marco de Canavezes, 1, 1.2246, 0.0000
+Paul, 2, 2.4492, 0.3010
+Guilherme Silva, 1, 1.2246, 0.0000
+Barbosa, 1, 1.2246, 0.0000
+Troia, 1, 1.2246, 0.0000
+Barbas, 1, 1.2246, 0.0000
+Maranhão, 2, 2.4492, 0.3010
+Rebelo de Sousa, 5, 6.1229, 0.6990
+Baião, 3, 3.6737, 0.4771
+Mercado da Ribeira, 1, 1.2246, 0.0000
+Colégio, 1, 1.2246, 0.0000
+Mata Real, 7, 8.5720, 0.8451
+Lugar, 1, 1.2246, 0.0000
+Marco Caldas, 2, 2.4492, 0.3010
+Alto Douro, 2, 2.4492, 0.3010
+Peça, 1, 1.2246, 0.0000
+Bastos, 1, 1.2246, 0.0000
+Sendim, 4, 4.8983, 0.6021
+Angeja, 9, 11.0212, 0.9542
+Aeroporto de Lisboa, 4, 4.8983, 0.6021
+Tesouro, 5, 6.1229, 0.6990
+Cruzes do Monte, 2, 2.4492, 0.3010
+Rua de Valbom, 2, 2.4492, 0.3010
+Santana do Mato, 1, 1.2246, 0.0000
+Matos Correia, 1, 1.2246, 0.0000
+Rodeado, 1, 1.2246, 0.0000
+Bruçó, 3, 3.6737, 0.4771
+Porto Santo, 11, 13.4703, 1.0414
+Lenço de Namorados, 3, 3.6737, 0.4771
+Vitória, 14, 17.1441, 1.1461
+Pinhel, 1, 1.2246, 0.0000
+Coutinho, 4, 4.8983, 0.6021
+Marco Baixinho, 3, 3.6737, 0.4771
+Amorim, 1, 1.2246, 0.0000
+Rosas, 1, 1.2246, 0.0000
+Rio Lisboa, 3, 3.6737, 0.4771
+Cidadelhe, 1, 1.2246, 0.0000
+Rio Moinhos, 1, 1.2246, 0.0000
+Leão, 2, 2.4492, 0.3010
+Chaminé, 1, 1.2246, 0.0000
+Hospital da Prelada, 2, 2.4492, 0.3010
+Samodães, 1, 1.2246, 0.0000
+Vitória de Setúbal, 21, 25.7161, 1.3222
+Prelada, 1, 1.2246, 0.0000
+Passos Coelhos, 1, 1.2246, 0.0000
+Hospital de Cascais, 5, 6.1229, 0.6990
+Mercado, 1, 1.2246, 0.0000
+Azenha, 3, 3.6737, 0.4771
+Lixa, 3, 3.6737, 0.4771
+Melgaço, 1, 1.2246, 0.0000
+Viseu, 19, 23.2669, 1.2788
+Banco Carregosa, 3, 3.6737, 0.4771
+Marco, 2, 2.4492, 0.3010
+Amarela, 1, 1.2246, 0.0000
+Almeida Santos, 3, 3.6737, 0.4771
+Escada, 1, 1.2246, 0.0000
+Quiaios, 1, 1.2246, 0.0000
+Covelo, 2, 2.4492, 0.3010
+Alvaiázere, 1, 1.2246, 0.0000
+Almalaguês, 1, 1.2246, 0.0000
+Primeiro, 14, 17.1441, 1.1461
+Penela, 1, 1.2246, 0.0000
+Oliveira do Douro, 1, 1.2246, 0.0000
+Ramalho, 1, 1.2246, 0.0000
+Mafra, 2, 2.4492, 0.3010
+Seia, 5, 6.1229, 0.6990
+Fiscal de Almada, 1, 1.2246, 0.0000
+Obra, 2, 2.4492, 0.3010
+Barcarena, 1, 1.2246, 0.0000
+Salgado, 8, 9.7966, 0.9031
+Manhente, 1, 1.2246, 0.0000
+Silva Vieira, 1, 1.2246, 0.0000
+Rossio, 3, 3.6737, 0.4771
+Conceição Caldeira, 2, 2.4492, 0.3010
+Hotel Vitória, 3, 3.6737, 0.4771
+Caldas da Felgueira, 1, 1.2246, 0.0000
+Sousa, 1, 1.2246, 0.0000
+Fátima Felgueiras, 2, 2.4492, 0.3010
+Canaviais, 1, 1.2246, 0.0000
+Almendra, 2, 2.4492, 0.3010
+Ameixial, 1, 1.2246, 0.0000
+Cabeça, 1, 1.2246, 0.0000
+Bairro, 5, 6.1229, 0.6990
+Alcochete, 2, 2.4492, 0.3010
+Abel, 2, 2.4492, 0.3010
+Funchal, 33, 40.4110, 1.5185
+Foz, 5, 6.1229, 0.6990
+Guarda, 28, 34.2881, 1.4472
+Guarda Costeira, 1, 1.2246, 0.0000
+Estremoz, 3, 3.6737, 0.4771
+Residência, 6, 7.3475, 0.7782
+Santarém, 23, 28.1653, 1.3617
+Argozelo, 1, 1.2246, 0.0000
+Sacavém, 2, 2.4492, 0.3010
+Maiorca, 2, 2.4492, 0.3010
+Oeiras, 16, 19.5932, 1.2041
+Casal Vasco, 2, 2.4492, 0.3010
+Fátima Calvo, 1, 1.2246, 0.0000
+Trilho, 1, 1.2246, 0.0000
+Minutos, 1, 1.2246, 0.0000
+Real, 3, 3.6737, 0.4771
+Montijo, 10, 12.2458, 1.0000
+Trindade, 3, 3.6737, 0.4771
+Amares, 1, 1.2246, 0.0000
+Cruz, 4, 4.8983, 0.6021
+Barroso, 2, 2.4492, 0.3010
+Vouzela, 1, 1.2246, 0.0000
+Brufe, 1, 1.2246, 0.0000
+Bomba, 1, 1.2246, 0.0000
+Cais de Gaia, 3, 3.6737, 0.4771
+Guimarães, 32, 39.1864, 1.5051
+Fafe, 7, 8.5720, 0.8451
+Fragoso Gouveia, 1, 1.2246, 0.0000
+Margem Sul, 1, 1.2246, 0.0000
+Almeirim, 1, 1.2246, 0.0000
+Neves, 10, 12.2458, 1.0000
+Costa da Caparica, 2, 2.4492, 0.3010
+Estrada, 1, 1.2246, 0.0000
+Zebra, 2, 2.4492, 0.3010
+Silves, 2, 2.4492, 0.3010
+Amora, 1, 1.2246, 0.0000
+Rosario Porto, 5, 6.1229, 0.6990
+Praia da Rocha, 1, 1.2246, 0.0000
+Fundão, 2, 2.4492, 0.3010
+Glória Lopes, 5, 6.1229, 0.6990
+Castelo de Neiva, 2, 2.4492, 0.3010
+Marco Silva, 7, 8.5720, 0.8451
+Antes, 48, 58.7797, 1.6812
+Valpaços, 1, 1.2246, 0.0000
+Cascais, 23, 28.1653, 1.3617
+Tapada de Outeiro, 1, 1.2246, 0.0000
+Baía, 1, 1.2246, 0.0000
+Caparica, 1, 1.2246, 0.0000
+Belém, 27, 33.0636, 1.4314
+Ponte da Barca, 3, 3.6737, 0.4771
+Tavira, 2, 2.4492, 0.3010
+Pontes, 1, 1.2246, 0.0000
+Monforte, 4, 4.8983, 0.6021
+Grijó, 1, 1.2246, 0.0000
+Alva, 2, 2.4492, 0.3010
+Estação de Pampilhosa, 1, 1.2246, 0.0000
+Ester Alves, 1, 1.2246, 0.0000
+Rua do Bonjardim, 2, 2.4492, 0.3010
+Palma de Ouro, 1, 1.2246, 0.0000
+Maceira, 1, 1.2246, 0.0000
+Beira, 15, 18.3686, 1.1761
+Cabo Raso, 4, 4.8983, 0.6021
+Pisões, 2, 2.4492, 0.3010
+Rosário, 4, 4.8983, 0.6021
+Valdemar, 1, 1.2246, 0.0000
+Rio de Janeiro, 11, 13.4703, 1.0414
+Aljustrel, 1, 1.2246, 0.0000
+Freita, 1, 1.2246, 0.0000
+Vale de Cambra, 1, 1.2246, 0.0000
+Janeiro, 20, 24.4915, 1.3010
+Faial, 9, 11.0212, 0.9542
+Eirol, 4, 4.8983, 0.6021
+Cemitério, 2, 2.4492, 0.3010
+Vasco Guimarães, 1, 1.2246, 0.0000
+Novais, 1, 1.2246, 0.0000
+Milhões, 2, 2.4492, 0.3010
+Araújo, 1, 1.2246, 0.0000
+Rendeiro, 6, 7.3475, 0.7782
+Nazaré, 9, 11.0212, 0.9542
+Moreno, 1, 1.2246, 0.0000
+Rodas, 2, 2.4492, 0.3010
+Barcos, 1, 1.2246, 0.0000
+Oliveira, 4, 4.8983, 0.6021
+Aveiro Sul, 1, 1.2246, 0.0000
+Conceição, 1, 1.2246, 0.0000
+Silvestre Correia, 2, 2.4492, 0.3010
+Fiscal de Braga, 1, 1.2246, 0.0000
+Gondomar, 24, 29.3898, 1.3802
+Jogo, 2, 2.4492, 0.3010
+Amadora, 20, 24.4915, 1.3010
+Inferno, 1, 1.2246, 0.0000
+Fonseca Ferreira, 1, 1.2246, 0.0000
+Arganil, 2, 2.4492, 0.3010
+Banco, 7, 8.5720, 0.8451
+Chelas, 2, 2.4492, 0.3010
+Farol da Barra, 1, 1.2246, 0.0000
+Cova da Piedade, 1, 1.2246, 0.0000
+Flores, 5, 6.1229, 0.6990
+Sever, 2, 2.4492, 0.3010
+Fátima Santos, 1, 1.2246, 0.0000
+Belas, 1, 1.2246, 0.0000
+Margarida Bacelar, 1, 1.2246, 0.0000
+Mazarefes, 1, 1.2246, 0.0000
+Vieira, 6, 7.3475, 0.7782
+Mértola, 2, 2.4492, 0.3010
+Rua do Outeiro, 1, 1.2246, 0.0000
+Amarante, 13, 15.9195, 1.1139
+Loures, 10, 12.2458, 1.0000
+Serenada, 3, 3.6737, 0.4771
+Cerca, 65, 79.5975, 1.8129
+Godinho, 1, 1.2246, 0.0000
+Travessa, 1, 1.2246, 0.0000
+Almada, 10, 12.2458, 1.0000
+Quinta, 4, 4.8983, 0.6021
+Canada, 1, 1.2246, 0.0000
+Roque, 1, 1.2246, 0.0000
+Zambujeira, 1, 1.2246, 0.0000
+Casal, 8, 9.7966, 0.9031
+Estoril, 15, 18.3686, 1.1761
+Pombalinho, 1, 1.2246, 0.0000
+Barreiro, 9, 11.0212, 0.9542
+Pena, 6, 7.3475, 0.7782
+Hotel Santiago, 1, 1.2246, 0.0000
+Pico da Pedra, 1, 1.2246, 0.0000
+Viana, 6, 7.3475, 0.7782
+Fontes, 15, 18.3686, 1.1761
+Prova, 1, 1.2246, 0.0000
+Arco, 2, 2.4492, 0.3010
+Fonte Souto, 1, 1.2246, 0.0000
+Roca, 1, 1.2246, 0.0000
+Ilha, 1, 1.2246, 0.0000
+Tercena, 1, 1.2246, 0.0000
+Casais, 2, 2.4492, 0.3010
+Caldeira, 1, 1.2246, 0.0000
+Morgado, 1, 1.2246, 0.0000
+Bica, 4, 4.8983, 0.6021
+Herdade, 1, 1.2246, 0.0000
+Valença, 3, 3.6737, 0.4771
+Amendoeira da Serra, 1, 1.2246, 0.0000
+Alto, 1, 1.2246, 0.0000
+Crato, 1, 1.2246, 0.0000
+Sardoal, 4, 4.8983, 0.6021
+Miranda do Corvo, 9, 11.0212, 0.9542
+Talisca, 7, 8.5720, 0.8451
+Azeitão, 1, 1.2246, 0.0000
+Espera, 2, 2.4492, 0.3010
+Vasco Cordeiro, 11, 13.4703, 1.0414
+Carros, 2, 2.4492, 0.3010
+Algarvia, 1, 1.2246, 0.0000
+Cabral, 1, 1.2246, 0.0000
+Paços de Brandão, 1, 1.2246, 0.0000
+Verdasca, 3, 3.6737, 0.4771
+Faro, 24, 29.3898, 1.3802
+Prazo, 1, 1.2246, 0.0000
+Defesa, 27, 33.0636, 1.4314
+Rio, 6, 7.3475, 0.7782
+Novos, 4, 4.8983, 0.6021
+Pereira de Ermesinde, 1, 1.2246, 0.0000
+Castro Marim, 1, 1.2246, 0.0000
+Murteira Nabo, 1, 1.2246, 0.0000

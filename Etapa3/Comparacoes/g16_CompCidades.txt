@@ -1,0 +1,1254 @@
+Aguiar
+	Total: 2 - 20
+	Frequencia Absluta: 1.0625 - 8.2438
+	Frequencia Logaritmica: 0.3010 - 2.1095
+Alagoas
+	Total: 27 - 5
+	Frequencia Absluta: 14.3441 - 2.0610
+	Frequencia Logaritmica: 1.4314 - 0.7232
+Alcântara
+	Total: 4 - 4
+	Frequencia Absluta: 2.1251 - 1.6488
+	Frequencia Logaritmica: 0.6021 - 0.5000
+Alegre
+	Total: 8 - 28
+	Frequencia Absluta: 4.2501 - 11.5414
+	Frequencia Logaritmica: 0.9031 - 2.4459
+Alegria
+	Total: 10 - 53
+	Frequencia Absluta: 5.3126 - 21.8462
+	Frequencia Logaritmica: 1.0000 - 3.0840
+Alexandria
+	Total: 5 - 6
+	Frequencia Absluta: 2.6563 - 2.4731
+	Frequencia Logaritmica: 0.6990 - 0.9055
+Aliança
+	Total: 4 - 61
+	Frequencia Absluta: 2.1251 - 25.1437
+	Frequencia Logaritmica: 0.6021 - 3.2246
+Altos
+	Total: 2 - 153
+	Frequencia Absluta: 1.0625 - 63.0653
+	Frequencia Logaritmica: 0.3010 - 4.1442
+Alvorada
+	Total: 6 - 3
+	Frequencia Absluta: 3.1876 - 1.2366
+	Frequencia Logaritmica: 0.7782 - 0.2123
+Amapá
+	Total: 13 - 2
+	Frequencia Absluta: 6.9064 - 0.8244
+	Frequencia Logaritmica: 1.1139 - -0.1931
+Amazonas
+	Total: 44 - 3
+	Frequencia Absluta: 23.3756 - 1.2366
+	Frequencia Logaritmica: 1.6435 - 0.2123
+Americana
+	Total: 19 - 46
+	Frequencia Absluta: 10.0940 - 18.9608
+	Frequencia Logaritmica: 1.2788 - 2.9424
+Amparo
+	Total: 8 - 7
+	Frequencia Absluta: 4.2501 - 2.8853
+	Frequencia Logaritmica: 0.9031 - 1.0596
+Anchieta
+	Total: 8 - 1
+	Frequencia Absluta: 4.2501 - 0.4122
+	Frequencia Logaritmica: 0.9031 - -0.8863
+Angélica
+	Total: 2 - 3
+	Frequencia Absluta: 1.0625 - 1.2366
+	Frequencia Logaritmica: 0.3010 - 0.2123
+Araguari
+	Total: 1 - 1
+	Frequencia Absluta: 0.5313 - 0.4122
+	Frequencia Logaritmica: 0.0000 - -0.8863
+Arame
+	Total: 2 - 1
+	Frequencia Absluta: 1.0625 - 0.4122
+	Frequencia Logaritmica: 0.3010 - -0.8863
+Areia
+	Total: 4 - 36
+	Frequencia Absluta: 2.1251 - 14.8389
+	Frequencia Logaritmica: 0.6021 - 2.6973
+Armazém
+	Total: 2 - 8
+	Frequencia Absluta: 1.0625 - 3.2975
+	Frequencia Logaritmica: 0.3010 - 1.1932
+Assis
+	Total: 6 - 13
+	Frequencia Absluta: 3.1876 - 5.3585
+	Frequencia Logaritmica: 0.7782 - 1.6787
+Assunção
+	Total: 8 - 17
+	Frequencia Absluta: 4.2501 - 7.0073
+	Frequencia Logaritmica: 0.9031 - 1.9469
+Atibaia
+	Total: 3 - 3
+	Frequencia Absluta: 1.5938 - 1.2366
+	Frequencia Logaritmica: 0.4771 - 0.2123
+Aurora
+	Total: 9 - 8
+	Frequencia Absluta: 4.7814 - 3.2975
+	Frequencia Logaritmica: 0.9542 - 1.1932
+Bahia
+	Total: 118 - 18
+	Frequencia Absluta: 62.6892 - 7.4194
+	Frequencia Logaritmica: 2.0719 - 2.0041
+Bandeira
+	Total: 9 - 104
+	Frequencia Absluta: 4.7814 - 42.8679
+	Frequencia Logaritmica: 0.9542 - 3.7581
+Bandeirantes
+	Total: 4 - 4
+	Frequencia Absluta: 2.1251 - 1.6488
+	Frequencia Logaritmica: 0.6021 - 0.5000
+Barbosa
+	Total: 19 - 16
+	Frequencia Absluta: 10.0940 - 6.5951
+	Frequencia Logaritmica: 1.2788 - 1.8863
+Barcelona
+	Total: 205 - 42
+	Frequencia Absluta: 108.9091 - 17.3120
+	Frequencia Logaritmica: 2.3118 - 2.8514
+Barra
+	Total: 102 - 29
+	Frequencia Absluta: 54.1889 - 11.9536
+	Frequencia Logaritmica: 2.0086 - 2.4810
+Barras
+	Total: 1 - 15
+	Frequencia Absluta: 0.5313 - 6.1829
+	Frequencia Logaritmica: 0.0000 - 1.8218
+Barreira
+	Total: 1 - 39
+	Frequencia Absluta: 0.5313 - 16.0755
+	Frequencia Logaritmica: 0.0000 - 2.7773
+Barreiras
+	Total: 1 - 20
+	Frequencia Absluta: 0.5313 - 8.2438
+	Frequencia Logaritmica: 0.0000 - 2.1095
+Barro
+	Total: 1 - 6
+	Frequencia Absluta: 0.5313 - 2.4731
+	Frequencia Logaritmica: 0.0000 - 0.9055
+Barroso
+	Total: 5 - 25
+	Frequencia Absluta: 2.6563 - 10.3048
+	Frequencia Logaritmica: 0.6990 - 2.3326
+Barão
+	Total: 1 - 2
+	Frequencia Absluta: 0.5313 - 0.8244
+	Frequencia Logaritmica: 0.0000 - -0.1931
+Bastos
+	Total: 11 - 34
+	Frequencia Absluta: 5.8439 - 14.0145
+	Frequencia Logaritmica: 1.0414 - 2.6401
+Bebedouro
+	Total: 1 - 4
+	Frequencia Absluta: 0.5313 - 1.6488
+	Frequencia Logaritmica: 0.0000 - 0.5000
+Bela Vista
+	Total: 3 - 3
+	Frequencia Absluta: 1.5938 - 1.2366
+	Frequencia Logaritmica: 0.4771 - 0.2123
+Belo Horizonte
+	Total: 38 - 4
+	Frequencia Absluta: 20.1880 - 1.6488
+	Frequencia Logaritmica: 1.5798 - 0.5000
+Belém
+	Total: 8 - 11
+	Frequencia Absluta: 4.2501 - 4.5341
+	Frequencia Logaritmica: 0.9031 - 1.5116
+Boa Esperança
+	Total: 2 - 1
+	Frequencia Absluta: 1.0625 - 0.4122
+	Frequencia Logaritmica: 0.3010 - -0.8863
+Boa Vista
+	Total: 9 - 3
+	Frequencia Absluta: 4.7814 - 1.2366
+	Frequencia Logaritmica: 0.9542 - 0.2123
+Bonito
+	Total: 1 - 17
+	Frequencia Absluta: 0.5313 - 7.0073
+	Frequencia Logaritmica: 0.0000 - 1.9469
+Braga
+	Total: 6 - 9
+	Frequencia Absluta: 3.1876 - 3.7097
+	Frequencia Logaritmica: 0.7782 - 1.3110
+Brasileira
+	Total: 15 - 142
+	Frequencia Absluta: 7.9690 - 58.5312
+	Frequencia Logaritmica: 1.1761 - 4.0696
+Brasília
+	Total: 382 - 38
+	Frequencia Absluta: 202.9429 - 15.6633
+	Frequencia Logaritmica: 2.5821 - 2.7513
+Buenos Aires
+	Total: 109 - 6
+	Frequencia Absluta: 57.9078 - 2.4731
+	Frequencia Logaritmica: 2.0374 - 0.9055
+Cabo Verde
+	Total: 10 - 345
+	Frequencia Absluta: 5.3126 - 142.2061
+	Frequencia Logaritmica: 1.0000 - 4.9573
+Caldas
+	Total: 9 - 9
+	Frequencia Absluta: 4.7814 - 3.7097
+	Frequencia Logaritmica: 0.9542 - 1.3110
+Califórnia
+	Total: 48 - 19
+	Frequencia Absluta: 25.5007 - 7.8316
+	Frequencia Logaritmica: 1.6812 - 2.0582
+Camargo
+	Total: 12 - 5
+	Frequencia Absluta: 6.3752 - 2.0610
+	Frequencia Logaritmica: 1.0792 - 0.7232
+Campanha
+	Total: 12 - 390
+	Frequencia Absluta: 6.3752 - 160.7547
+	Frequencia Logaritmica: 1.0792 - 5.0799
+Campinas
+	Total: 31 - 2
+	Frequencia Absluta: 16.4692 - 0.8244
+	Frequencia Logaritmica: 1.4914 - -0.1931
+Campo Grande
+	Total: 77 - 2
+	Frequencia Absluta: 40.9073 - 0.8244
+	Frequencia Logaritmica: 1.8865 - -0.1931
+Canoas
+	Total: 1 - 4
+	Frequencia Absluta: 0.5313 - 1.6488
+	Frequencia Logaritmica: 0.0000 - 0.5000
+Capitão
+	Total: 4 - 46
+	Frequencia Absluta: 2.1251 - 18.9608
+	Frequencia Logaritmica: 0.6021 - 2.9424
+Capitólio
+	Total: 2 - 1
+	Frequencia Absluta: 1.0625 - 0.4122
+	Frequencia Logaritmica: 0.3010 - -0.8863
+Caraíbas
+	Total: 3 - 5
+	Frequencia Absluta: 1.5938 - 2.0610
+	Frequencia Logaritmica: 0.4771 - 0.7232
+Cardoso
+	Total: 7 - 75
+	Frequencia Absluta: 3.7188 - 30.9144
+	Frequencia Logaritmica: 0.8451 - 3.4312
+Carlos Gomes
+	Total: 1 - 7
+	Frequencia Absluta: 0.5313 - 2.8853
+	Frequencia Logaritmica: 0.0000 - 1.0596
+Carmo
+	Total: 26 - 51
+	Frequencia Absluta: 13.8129 - 21.0218
+	Frequencia Logaritmica: 1.4150 - 3.0456
+Carolina
+	Total: 18 - 25
+	Frequencia Absluta: 9.5628 - 10.3048
+	Frequencia Logaritmica: 1.2553 - 2.3326
+Casa Branca
+	Total: 145 - 29
+	Frequencia Absluta: 77.0333 - 11.9536
+	Frequencia Logaritmica: 2.1614 - 2.4810
+Castanheira
+	Total: 4 - 1
+	Frequencia Absluta: 2.1251 - 0.4122
+	Frequencia Logaritmica: 0.6021 - -0.8863
+Castelo
+	Total: 11 - 8
+	Frequencia Absluta: 5.8439 - 3.2975
+	Frequencia Logaritmica: 1.0414 - 1.1932
+Castro
+	Total: 94 - 350
+	Frequencia Absluta: 49.9388 - 144.2671
+	Frequencia Logaritmica: 1.9731 - 4.9717
+Catalão
+	Total: 1 - 13
+	Frequencia Absluta: 0.5313 - 5.3585
+	Frequencia Logaritmica: 0.0000 - 1.6787
+Catarina
+	Total: 1 - 42
+	Frequencia Absluta: 0.5313 - 17.3120
+	Frequencia Logaritmica: 0.0000 - 2.8514
+Cavalcante
+	Total: 2 - 2
+	Frequencia Absluta: 1.0625 - 0.8244
+	Frequencia Logaritmica: 0.3010 - -0.1931
+Ceará
+	Total: 79 - 2
+	Frequencia Absluta: 41.9699 - 0.8244
+	Frequencia Logaritmica: 1.8976 - -0.1931
+Centenário
+	Total: 3 - 1
+	Frequencia Absluta: 1.5938 - 0.4122
+	Frequencia Logaritmica: 0.4771 - -0.8863
+Central
+	Total: 55 - 680
+	Frequencia Absluta: 29.2195 - 280.2903
+	Frequencia Logaritmica: 1.7404 - 5.6358
+Chaves
+	Total: 1 - 20
+	Frequencia Absluta: 0.5313 - 8.2438
+	Frequencia Logaritmica: 0.0000 - 2.1095
+Cláudia
+	Total: 3 - 8
+	Frequencia Absluta: 1.5938 - 3.2975
+	Frequencia Logaritmica: 0.4771 - 1.1932
+Cláudio
+	Total: 4 - 23
+	Frequencia Absluta: 2.1251 - 9.4804
+	Frequencia Logaritmica: 0.6021 - 2.2492
+Coimbra
+	Total: 1 - 40
+	Frequencia Absluta: 0.5313 - 16.4877
+	Frequencia Logaritmica: 0.0000 - 2.8026
+Colina
+	Total: 4 - 2
+	Frequencia Absluta: 2.1251 - 0.8244
+	Frequencia Logaritmica: 0.6021 - -0.1931
+Coluna
+	Total: 1 - 37
+	Frequencia Absluta: 0.5313 - 15.2511
+	Frequencia Logaritmica: 0.0000 - 2.7247
+Colômbia
+	Total: 126 - 33
+	Frequencia Absluta: 66.9393 - 13.6023
+	Frequencia Logaritmica: 2.1004 - 2.6102
+Conceição
+	Total: 5 - 89
+	Frequencia Absluta: 2.6563 - 36.6851
+	Frequencia Logaritmica: 0.6990 - 3.6024
+Concórdia
+	Total: 2 - 2
+	Frequencia Absluta: 1.0625 - 0.8244
+	Frequencia Logaritmica: 0.3010 - -0.1931
+Conde
+	Total: 5 - 15
+	Frequencia Absluta: 2.6563 - 6.1829
+	Frequencia Logaritmica: 0.6990 - 1.8218
+Congo
+	Total: 10 - 370
+	Frequencia Absluta: 5.3126 - 152.5109
+	Frequencia Logaritmica: 1.0000 - 5.0272
+Congonhas
+	Total: 1 - 7
+	Frequencia Absluta: 0.5313 - 2.8853
+	Frequencia Logaritmica: 0.0000 - 1.0596
+Consolação
+	Total: 1 - 1
+	Frequencia Absluta: 0.5313 - 0.4122
+	Frequencia Logaritmica: 0.0000 - -0.8863
+Contagem
+	Total: 1 - 30
+	Frequencia Absluta: 0.5313 - 12.3657
+	Frequencia Logaritmica: 0.0000 - 2.5149
+Coração de Jesus
+	Total: 1 - 4
+	Frequencia Absluta: 0.5313 - 1.6488
+	Frequencia Logaritmica: 0.0000 - 0.5000
+Cordeiro
+	Total: 2 - 22
+	Frequencia Absluta: 1.0625 - 9.0682
+	Frequencia Logaritmica: 0.3010 - 2.2048
+Costa Rica
+	Total: 16 - 7
+	Frequencia Absluta: 8.5002 - 2.8853
+	Frequencia Logaritmica: 1.2041 - 1.0596
+Cristal
+	Total: 2 - 4
+	Frequencia Absluta: 1.0625 - 1.6488
+	Frequencia Logaritmica: 0.3010 - 0.5000
+Cristina
+	Total: 34 - 20
+	Frequencia Absluta: 18.0630 - 8.2438
+	Frequencia Logaritmica: 1.5315 - 2.1095
+Cruz
+	Total: 116 - 310
+	Frequencia Absluta: 61.6266 - 127.7794
+	Frequencia Logaritmica: 2.0645 - 4.8503
+Cruzeiro
+	Total: 39 - 21
+	Frequencia Absluta: 20.7193 - 8.6560
+	Frequencia Logaritmica: 1.5911 - 2.1583
+Cunha
+	Total: 4 - 116
+	Frequencia Absluta: 2.1251 - 47.8142
+	Frequencia Logaritmica: 0.6021 - 3.8673
+Curitiba
+	Total: 19 - 8
+	Frequencia Absluta: 10.0940 - 3.2975
+	Frequencia Logaritmica: 1.2788 - 1.1932
+Damião
+	Total: 8 - 12
+	Frequencia Absluta: 4.2501 - 4.9463
+	Frequencia Logaritmica: 0.9031 - 1.5986
+Datas
+	Total: 4 - 35
+	Frequencia Absluta: 2.1251 - 14.4267
+	Frequencia Logaritmica: 0.6021 - 2.6691
+Descoberto
+	Total: 1 - 37
+	Frequencia Absluta: 0.5313 - 15.2511
+	Frequencia Logaritmica: 0.0000 - 2.7247
+Diamante
+	Total: 2 - 51
+	Frequencia Absluta: 1.0625 - 21.0218
+	Frequencia Logaritmica: 0.3010 - 3.0456
+Dionísio
+	Total: 2 - 6
+	Frequencia Absluta: 1.0625 - 2.4731
+	Frequencia Logaritmica: 0.3010 - 0.9055
+Dourados
+	Total: 2 - 9
+	Frequencia Absluta: 1.0625 - 3.7097
+	Frequencia Logaritmica: 0.3010 - 1.3110
+Encanto
+	Total: 1 - 4
+	Frequencia Absluta: 0.5313 - 1.6488
+	Frequencia Logaritmica: 0.0000 - 0.5000
+Equador
+	Total: 64 - 13
+	Frequencia Absluta: 34.0009 - 5.3585
+	Frequencia Logaritmica: 1.8062 - 1.6787
+Esperança
+	Total: 5 - 341
+	Frequencia Absluta: 2.6563 - 140.5573
+	Frequencia Logaritmica: 0.6990 - 4.9456
+Espírito Santo
+	Total: 42 - 111
+	Frequencia Absluta: 22.3131 - 45.7533
+	Frequencia Logaritmica: 1.6232 - 3.8233
+Estação
+	Total: 10 - 76
+	Frequencia Absluta: 5.3126 - 31.3266
+	Frequencia Logaritmica: 1.0000 - 3.4445
+Esteio
+	Total: 1 - 2
+	Frequencia Absluta: 0.5313 - 0.8244
+	Frequencia Logaritmica: 0.0000 - -0.1931
+Estiva
+	Total: 1 - 2
+	Frequencia Absluta: 0.5313 - 0.8244
+	Frequencia Logaritmica: 0.0000 - -0.1931
+Estrela
+	Total: 6 - 26
+	Frequencia Absluta: 3.1876 - 10.7170
+	Frequencia Logaritmica: 0.7782 - 2.3718
+Fama
+	Total: 1 - 27
+	Frequencia Absluta: 0.5313 - 11.1292
+	Frequencia Logaritmica: 0.0000 - 2.4096
+Farol
+	Total: 1 - 8
+	Frequencia Absluta: 0.5313 - 3.2975
+	Frequencia Logaritmica: 0.0000 - 1.1932
+Feliz
+	Total: 2 - 49
+	Frequencia Absluta: 1.0625 - 20.1974
+	Frequencia Logaritmica: 0.3010 - 3.0056
+Filadélfia
+	Total: 16 - 4
+	Frequencia Absluta: 8.5002 - 1.6488
+	Frequencia Logaritmica: 1.2041 - 0.5000
+Flores
+	Total: 2 - 16
+	Frequencia Absluta: 1.0625 - 6.5951
+	Frequencia Logaritmica: 0.3010 - 1.8863
+Floresta
+	Total: 4 - 30
+	Frequencia Absluta: 2.1251 - 12.3657
+	Frequencia Logaritmica: 0.6021 - 2.5149
+Florestal
+	Total: 1 - 14
+	Frequencia Absluta: 0.5313 - 5.7707
+	Frequencia Logaritmica: 0.0000 - 1.7528
+Flórida
+	Total: 98 - 9
+	Frequencia Absluta: 52.0639 - 3.7097
+	Frequencia Logaritmica: 1.9912 - 1.3110
+Formiga
+	Total: 1 - 1
+	Frequencia Absluta: 0.5313 - 0.4122
+	Frequencia Logaritmica: 0.0000 - -0.8863
+Fortaleza
+	Total: 44 - 17
+	Frequencia Absluta: 23.3756 - 7.0073
+	Frequencia Logaritmica: 1.6435 - 1.9469
+Franca
+	Total: 2 - 6
+	Frequencia Absluta: 1.0625 - 2.4731
+	Frequencia Logaritmica: 0.3010 - 0.9055
+Fronteira
+	Total: 1 - 124
+	Frequencia Absluta: 0.5313 - 51.1118
+	Frequencia Logaritmica: 0.0000 - 3.9340
+Fronteiras
+	Total: 8 - 104
+	Frequencia Absluta: 4.2501 - 42.8679
+	Frequencia Logaritmica: 0.9031 - 3.7581
+Fátima
+	Total: 6 - 53
+	Frequencia Absluta: 3.1876 - 21.8462
+	Frequencia Logaritmica: 0.7782 - 3.0840
+Galvão
+	Total: 2 - 15
+	Frequencia Absluta: 1.0625 - 6.1829
+	Frequencia Logaritmica: 0.3010 - 1.8218
+Gaspar
+	Total: 1 - 41
+	Frequencia Absluta: 0.5313 - 16.8999
+	Frequencia Logaritmica: 0.0000 - 2.8273
+Getúlio Vargas
+	Total: 2 - 2
+	Frequencia Absluta: 1.0625 - 0.8244
+	Frequencia Logaritmica: 0.3010 - -0.1931
+Glória
+	Total: 14 - 9
+	Frequencia Absluta: 7.4377 - 3.7097
+	Frequencia Logaritmica: 1.1461 - 1.3110
+Goiás
+	Total: 66 - 3
+	Frequencia Absluta: 35.0634 - 1.2366
+	Frequencia Logaritmica: 1.8195 - 0.2123
+Gonzaga
+	Total: 1 - 2
+	Frequencia Absluta: 0.5313 - 0.8244
+	Frequencia Logaritmica: 0.0000 - -0.1931
+Gonçalves
+	Total: 7 - 173
+	Frequencia Absluta: 3.7188 - 71.3092
+	Frequencia Logaritmica: 0.8451 - 4.2670
+Gouveia
+	Total: 2 - 26
+	Frequencia Absluta: 1.0625 - 10.7170
+	Frequencia Logaritmica: 0.3010 - 2.3718
+Granja
+	Total: 2 - 1
+	Frequencia Absluta: 1.0625 - 0.4122
+	Frequencia Logaritmica: 0.3010 - -0.8863
+Guarujá
+	Total: 8 - 13
+	Frequencia Absluta: 4.2501 - 5.3585
+	Frequencia Logaritmica: 0.9031 - 1.6787
+Guimarães
+	Total: 13 - 27
+	Frequencia Absluta: 6.9064 - 11.1292
+	Frequencia Logaritmica: 1.1139 - 2.4096
+Harmonia
+	Total: 3 - 35
+	Frequencia Absluta: 1.5938 - 14.4267
+	Frequencia Logaritmica: 0.4771 - 2.6691
+Horizonte
+	Total: 10 - 42
+	Frequencia Absluta: 5.3126 - 17.3120
+	Frequencia Logaritmica: 1.0000 - 2.8514
+Imperatriz
+	Total: 29 - 1
+	Frequencia Absluta: 15.4067 - 0.4122
+	Frequencia Logaritmica: 1.4624 - -0.8863
+Independência
+	Total: 2 - 819
+	Frequencia Absluta: 1.0625 - 337.5850
+	Frequencia Logaritmica: 0.3010 - 5.8218
+Iracema
+	Total: 5 - 2
+	Frequencia Absluta: 2.6563 - 0.8244
+	Frequencia Logaritmica: 0.6990 - -0.1931
+Jardim
+	Total: 17 - 41
+	Frequencia Absluta: 9.0315 - 16.8999
+	Frequencia Logaritmica: 1.2304 - 2.8273
+Jordânia
+	Total: 19 - 9
+	Frequencia Absluta: 10.0940 - 3.7097
+	Frequencia Logaritmica: 1.2788 - 1.3110
+Juramento
+	Total: 1 - 3
+	Frequencia Absluta: 0.5313 - 1.2366
+	Frequencia Logaritmica: 0.0000 - 0.2123
+Lages
+	Total: 2 - 1
+	Frequencia Absluta: 1.0625 - 0.4122
+	Frequencia Logaritmica: 0.3010 - -0.8863
+Lagoa
+	Total: 39 - 14
+	Frequencia Absluta: 20.7193 - 5.7707
+	Frequencia Logaritmica: 1.5911 - 1.7528
+Lapa
+	Total: 77 - 5
+	Frequencia Absluta: 40.9073 - 2.0610
+	Frequencia Logaritmica: 1.8865 - 0.7232
+Laranjeiras
+	Total: 44 - 2
+	Frequencia Absluta: 23.3756 - 0.8244
+	Frequencia Logaritmica: 1.6435 - -0.1931
+Leme
+	Total: 29 - 5
+	Frequencia Absluta: 15.4067 - 2.0610
+	Frequencia Logaritmica: 1.4624 - 0.7232
+Lençóis
+	Total: 1 - 11
+	Frequencia Absluta: 0.5313 - 4.5341
+	Frequencia Logaritmica: 0.0000 - 1.5116
+Leopoldina
+	Total: 2 - 1
+	Frequencia Absluta: 1.0625 - 0.4122
+	Frequencia Logaritmica: 0.3010 - -0.8863
+Liberdade
+	Total: 13 - 1133
+	Frequencia Absluta: 6.9064 - 467.0131
+	Frequencia Logaritmica: 1.1139 - 6.1464
+Lorena
+	Total: 1 - 2
+	Frequencia Absluta: 0.5313 - 0.8244
+	Frequencia Logaritmica: 0.0000 - -0.1931
+Loreto
+	Total: 2 - 1
+	Frequencia Absluta: 1.0625 - 0.4122
+	Frequencia Logaritmica: 0.3010 - -0.8863
+Luz
+	Total: 10 - 319
+	Frequencia Absluta: 5.3126 - 131.4891
+	Frequencia Logaritmica: 1.0000 - 4.8789
+Macau
+	Total: 3 - 41
+	Frequencia Absluta: 1.5938 - 16.8999
+	Frequencia Logaritmica: 0.4771 - 2.8273
+Machado
+	Total: 7 - 34
+	Frequencia Absluta: 3.7188 - 14.0145
+	Frequencia Logaritmica: 0.8451 - 2.6401
+Madalena
+	Total: 1 - 7
+	Frequencia Absluta: 0.5313 - 2.8853
+	Frequencia Logaritmica: 0.0000 - 1.0596
+Malta
+	Total: 5 - 20
+	Frequencia Absluta: 2.6563 - 8.2438
+	Frequencia Logaritmica: 0.6990 - 2.1095
+Maracanã
+	Total: 54 - 4
+	Frequencia Absluta: 28.6883 - 1.6488
+	Frequencia Logaritmica: 1.7324 - 0.5000
+Maranhão
+	Total: 25 - 6
+	Frequencia Absluta: 13.2816 - 2.4731
+	Frequencia Logaritmica: 1.3979 - 0.9055
+Maravilha
+	Total: 1 - 4
+	Frequencia Absluta: 0.5313 - 1.6488
+	Frequencia Logaritmica: 0.0000 - 0.5000
+Maravilhas
+	Total: 2 - 10
+	Frequencia Absluta: 1.0625 - 4.1219
+	Frequencia Logaritmica: 0.3010 - 1.4163
+Marco
+	Total: 30 - 66
+	Frequencia Absluta: 15.9379 - 27.2046
+	Frequencia Logaritmica: 1.4771 - 3.3034
+Mariana
+	Total: 16 - 7
+	Frequencia Absluta: 8.5002 - 2.8853
+	Frequencia Logaritmica: 1.2041 - 1.0596
+Martins
+	Total: 9 - 124
+	Frequencia Absluta: 4.7814 - 51.1118
+	Frequencia Logaritmica: 0.9542 - 3.9340
+Marília
+	Total: 7 - 4
+	Frequencia Absluta: 3.7188 - 1.6488
+	Frequencia Logaritmica: 0.8451 - 0.5000
+Mata
+	Total: 11 - 109
+	Frequencia Absluta: 5.8439 - 44.9289
+	Frequencia Logaritmica: 1.0414 - 3.8051
+Mato Grosso
+	Total: 29 - 3
+	Frequencia Absluta: 15.4067 - 1.2366
+	Frequencia Logaritmica: 1.4624 - 0.2123
+Medina
+	Total: 12 - 5
+	Frequencia Absluta: 6.3752 - 2.0610
+	Frequencia Logaritmica: 1.0792 - 0.7232
+Mendes
+	Total: 16 - 264
+	Frequencia Absluta: 8.5002 - 108.8186
+	Frequencia Logaritmica: 1.2041 - 4.6897
+Mendonça
+	Total: 2 - 31
+	Frequencia Absluta: 1.0625 - 12.7779
+	Frequencia Logaritmica: 0.3010 - 2.5477
+Mercedes
+	Total: 13 - 12
+	Frequencia Absluta: 6.9064 - 4.9463
+	Frequencia Logaritmica: 1.1139 - 1.5986
+Mesquita
+	Total: 17 - 30
+	Frequencia Absluta: 9.0315 - 12.3657
+	Frequencia Logaritmica: 1.2304 - 2.5149
+Messias
+	Total: 1 - 3
+	Frequencia Absluta: 0.5313 - 1.2366
+	Frequencia Logaritmica: 0.0000 - 0.2123
+Minas Gerais
+	Total: 58 - 10
+	Frequencia Absluta: 30.8133 - 4.1219
+	Frequencia Logaritmica: 1.7634 - 1.4163
+Miranda
+	Total: 19 - 40
+	Frequencia Absluta: 10.0940 - 16.4877
+	Frequencia Logaritmica: 1.2788 - 2.8026
+Modelo
+	Total: 1 - 274
+	Frequencia Absluta: 0.5313 - 112.9405
+	Frequencia Logaritmica: 0.0000 - 4.7269
+Mombaça
+	Total: 3 - 3
+	Frequencia Absluta: 1.5938 - 1.2366
+	Frequencia Logaritmica: 0.4771 - 0.2123
+Monteiro
+	Total: 17 - 42
+	Frequencia Absluta: 9.0315 - 17.3120
+	Frequencia Logaritmica: 1.2304 - 2.8514
+Montenegro
+	Total: 2 - 13
+	Frequencia Absluta: 1.0625 - 5.3585
+	Frequencia Logaritmica: 0.3010 - 1.6787
+Nantes
+	Total: 9 - 1
+	Frequencia Absluta: 4.7814 - 0.4122
+	Frequencia Logaritmica: 0.9542 - -0.8863
+Natal
+	Total: 57 - 93
+	Frequencia Absluta: 30.2821 - 38.3338
+	Frequencia Logaritmica: 1.7559 - 3.6463
+Niterói
+	Total: 102 - 1
+	Frequencia Absluta: 54.1889 - 0.4122
+	Frequencia Logaritmica: 2.0086 - -0.8863
+Nobres
+	Total: 1 - 18
+	Frequencia Absluta: 0.5313 - 7.4194
+	Frequencia Logaritmica: 0.0000 - 2.0041
+Nova Iorque
+	Total: 10 - 107
+	Frequencia Absluta: 5.3126 - 44.1045
+	Frequencia Logaritmica: 1.0000 - 3.7866
+Olaria
+	Total: 12 - 2
+	Frequencia Absluta: 6.3752 - 0.8244
+	Frequencia Logaritmica: 1.0792 - -0.1931
+Olinda
+	Total: 24 - 2
+	Frequencia Absluta: 12.7503 - 0.8244
+	Frequencia Logaritmica: 1.3802 - -0.1931
+Oliveira
+	Total: 56 - 121
+	Frequencia Absluta: 29.7508 - 49.8752
+	Frequencia Logaritmica: 1.7482 - 3.9095
+Olímpia
+	Total: 8 - 2
+	Frequencia Absluta: 4.2501 - 0.8244
+	Frequencia Logaritmica: 0.9031 - -0.1931
+Oriente
+	Total: 6 - 57
+	Frequencia Absluta: 3.1876 - 23.4949
+	Frequencia Logaritmica: 0.7782 - 3.1568
+Orleans
+	Total: 1 - 2
+	Frequencia Absluta: 0.5313 - 0.8244
+	Frequencia Logaritmica: 0.0000 - -0.1931
+Osório
+	Total: 11 - 14
+	Frequencia Absluta: 5.8439 - 5.7707
+	Frequencia Logaritmica: 1.0414 - 1.7528
+Ouro
+	Total: 13 - 136
+	Frequencia Absluta: 6.9064 - 56.0581
+	Frequencia Logaritmica: 1.1139 - 4.0264
+Painel
+	Total: 1 - 23
+	Frequencia Absluta: 0.5313 - 9.4804
+	Frequencia Logaritmica: 0.0000 - 2.2492
+Palestina
+	Total: 7 - 13
+	Frequencia Absluta: 3.7188 - 5.3585
+	Frequencia Logaritmica: 0.8451 - 1.6787
+Palma
+	Total: 1 - 12
+	Frequencia Absluta: 0.5313 - 4.9463
+	Frequencia Logaritmica: 0.0000 - 1.5986
+Palmares
+	Total: 2 - 3
+	Frequencia Absluta: 1.0625 - 1.2366
+	Frequencia Logaritmica: 0.3010 - 0.2123
+Palmas
+	Total: 2 - 21
+	Frequencia Absluta: 1.0625 - 8.6560
+	Frequencia Logaritmica: 0.3010 - 2.1583
+Palmeira
+	Total: 2 - 1
+	Frequencia Absluta: 1.0625 - 0.4122
+	Frequencia Logaritmica: 0.3010 - -0.8863
+Palmeiras
+	Total: 171 - 3
+	Frequencia Absluta: 90.8462 - 1.2366
+	Frequencia Logaritmica: 2.2330 - 0.2123
+Panamá
+	Total: 20 - 82
+	Frequencia Absluta: 10.6253 - 33.7997
+	Frequencia Logaritmica: 1.3010 - 3.5205
+Panorama
+	Total: 3 - 33
+	Frequencia Absluta: 1.5938 - 13.6023
+	Frequencia Logaritmica: 0.4771 - 2.6102
+Paraná
+	Total: 44 - 9
+	Frequencia Absluta: 23.3756 - 3.7097
+	Frequencia Logaritmica: 1.6435 - 1.3110
+Paraíba
+	Total: 56 - 1
+	Frequencia Absluta: 29.7508 - 0.4122
+	Frequencia Logaritmica: 1.7482 - -0.8863
+Paraíso
+	Total: 4 - 26
+	Frequencia Absluta: 2.1251 - 10.7170
+	Frequencia Logaritmica: 0.6021 - 2.3718
+Pará
+	Total: 28 - 5
+	Frequencia Absluta: 14.8754 - 2.0610
+	Frequencia Logaritmica: 1.4472 - 0.7232
+Passagem
+	Total: 1 - 128
+	Frequencia Absluta: 0.5313 - 52.7605
+	Frequencia Logaritmica: 0.0000 - 3.9658
+Passos
+	Total: 8 - 199
+	Frequencia Absluta: 4.2501 - 82.0261
+	Frequencia Logaritmica: 0.9031 - 4.4070
+Patrocínio
+	Total: 3 - 33
+	Frequencia Absluta: 1.5938 - 13.6023
+	Frequencia Logaritmica: 0.4771 - 2.6102
+Paulista
+	Total: 40 - 4
+	Frequencia Absluta: 21.2506 - 1.6488
+	Frequencia Logaritmica: 1.6021 - 0.5000
+Paulo Afonso
+	Total: 1 - 5
+	Frequencia Absluta: 0.5313 - 2.0610
+	Frequencia Logaritmica: 0.0000 - 0.7232
+Pedra
+	Total: 4 - 59
+	Frequencia Absluta: 2.1251 - 24.3193
+	Frequencia Logaritmica: 0.6021 - 3.1913
+Pedreira
+	Total: 6 - 1
+	Frequencia Absluta: 3.1876 - 0.4122
+	Frequencia Logaritmica: 0.7782 - -0.8863
+Peixe
+	Total: 54 - 104
+	Frequencia Absluta: 28.6883 - 42.8679
+	Frequencia Logaritmica: 1.7324 - 3.7581
+Pernambuco
+	Total: 99 - 7
+	Frequencia Absluta: 52.5951 - 2.8853
+	Frequencia Logaritmica: 1.9956 - 1.0596
+Pescador
+	Total: 1 - 7
+	Frequencia Absluta: 0.5313 - 2.8853
+	Frequencia Logaritmica: 0.0000 - 1.0596
+Pesqueira
+	Total: 2 - 11
+	Frequencia Absluta: 1.0625 - 4.5341
+	Frequencia Logaritmica: 0.3010 - 1.5116
+Piedade
+	Total: 13 - 50
+	Frequencia Absluta: 6.9064 - 20.6096
+	Frequencia Logaritmica: 1.1139 - 3.0258
+Pimenta
+	Total: 7 - 3
+	Frequencia Absluta: 3.7188 - 1.2366
+	Frequencia Logaritmica: 0.8451 - 0.2123
+Pinheiro
+	Total: 17 - 23
+	Frequencia Absluta: 9.0315 - 9.4804
+	Frequencia Logaritmica: 1.2304 - 2.2492
+Pintadas
+	Total: 1 - 5
+	Frequencia Absluta: 0.5313 - 2.0610
+	Frequencia Logaritmica: 0.0000 - 0.7232
+Placas
+	Total: 4 - 6
+	Frequencia Absluta: 2.1251 - 2.4731
+	Frequencia Logaritmica: 0.6021 - 0.9055
+Planalto
+	Total: 7 - 44
+	Frequencia Absluta: 3.7188 - 18.1364
+	Frequencia Logaritmica: 0.8451 - 2.8979
+Porto
+	Total: 18 - 297
+	Frequencia Absluta: 9.5628 - 122.4209
+	Frequencia Logaritmica: 1.2553 - 4.8075
+Porto Alegre
+	Total: 28 - 31
+	Frequencia Absluta: 14.8754 - 12.7779
+	Frequencia Logaritmica: 1.4472 - 2.5477
+Porto Rico
+	Total: 25 - 7
+	Frequencia Absluta: 13.2816 - 2.8853
+	Frequencia Logaritmica: 1.3979 - 1.0596
+Portão
+	Total: 2 - 5
+	Frequencia Absluta: 1.0625 - 2.0610
+	Frequencia Logaritmica: 0.3010 - 0.7232
+Posse
+	Total: 3 - 231
+	Frequencia Absluta: 1.5938 - 95.2163
+	Frequencia Logaritmica: 0.4771 - 4.5562
+Prado
+	Total: 3 - 2
+	Frequencia Absluta: 1.5938 - 0.8244
+	Frequencia Logaritmica: 0.4771 - -0.1931
+Prata
+	Total: 2 - 27
+	Frequencia Absluta: 1.0625 - 11.1292
+	Frequencia Logaritmica: 0.3010 - 2.4096
+Primavera
+	Total: 5 - 67
+	Frequencia Absluta: 2.6563 - 27.6168
+	Frequencia Logaritmica: 0.6990 - 3.3184
+Princesa
+	Total: 2 - 19
+	Frequencia Absluta: 1.0625 - 7.8316
+	Frequencia Logaritmica: 0.3010 - 2.0582
+Progresso
+	Total: 2 - 345
+	Frequencia Absluta: 1.0625 - 142.2061
+	Frequencia Logaritmica: 0.3010 - 4.9573
+Quadra
+	Total: 3 - 15
+	Frequencia Absluta: 1.5938 - 6.1829
+	Frequencia Logaritmica: 0.4771 - 1.8218
+Queiroz
+	Total: 1 - 65
+	Frequencia Absluta: 0.5313 - 26.7925
+	Frequencia Logaritmica: 0.0000 - 3.2881
+Raposa
+	Total: 3 - 5
+	Frequencia Absluta: 1.5938 - 2.0610
+	Frequencia Logaritmica: 0.4771 - 0.7232
+Realeza
+	Total: 1 - 5
+	Frequencia Absluta: 0.5313 - 2.0610
+	Frequencia Logaritmica: 0.0000 - 0.7232
+Recife
+	Total: 121 - 4
+	Frequencia Absluta: 64.2830 - 1.6488
+	Frequencia Logaritmica: 2.0828 - 0.5000
+Recreio
+	Total: 32 - 4
+	Frequencia Absluta: 17.0005 - 1.6488
+	Frequencia Logaritmica: 1.5051 - 0.5000
+Renascença
+	Total: 2 - 13
+	Frequencia Absluta: 1.0625 - 5.3585
+	Frequencia Logaritmica: 0.3010 - 1.6787
+Resende
+	Total: 27 - 21
+	Frequencia Absluta: 14.3441 - 8.6560
+	Frequencia Logaritmica: 1.4314 - 2.1583
+Reserva
+	Total: 2 - 86
+	Frequencia Absluta: 1.0625 - 35.4485
+	Frequencia Logaritmica: 0.3010 - 3.5681
+Restinga
+	Total: 1 - 1
+	Frequencia Absluta: 0.5313 - 0.4122
+	Frequencia Logaritmica: 0.0000 - -0.8863
+Ribeira
+	Total: 9 - 1
+	Frequencia Absluta: 4.7814 - 0.4122
+	Frequencia Logaritmica: 0.9542 - -0.8863
+Rio de Janeiro
+	Total: 978 - 69
+	Frequencia Absluta: 519.5763 - 28.4412
+	Frequencia Logaritmica: 2.9903 - 3.3478
+Riqueza
+	Total: 2 - 194
+	Frequencia Absluta: 1.0625 - 79.9652
+	Frequencia Logaritmica: 0.3010 - 4.3816
+Rosana
+	Total: 2 - 1
+	Frequencia Absluta: 1.0625 - 0.4122
+	Frequencia Logaritmica: 0.3010 - -0.8863
+Rosário
+	Total: 3 - 30
+	Frequencia Absluta: 1.5938 - 12.3657
+	Frequencia Logaritmica: 0.4771 - 2.5149
+Roteiro
+	Total: 6 - 19
+	Frequencia Absluta: 3.1876 - 7.8316
+	Frequencia Logaritmica: 0.7782 - 2.0582
+Sabino
+	Total: 4 - 10
+	Frequencia Absluta: 2.1251 - 4.1219
+	Frequencia Logaritmica: 0.6021 - 1.4163
+Salgado
+	Total: 1 - 16
+	Frequencia Absluta: 0.5313 - 6.5951
+	Frequencia Logaritmica: 0.0000 - 1.8863
+Salgueiro
+	Total: 44 - 1
+	Frequencia Absluta: 23.3756 - 0.4122
+	Frequencia Logaritmica: 1.6435 - -0.8863
+Salinas
+	Total: 1 - 13
+	Frequencia Absluta: 0.5313 - 5.3585
+	Frequencia Logaritmica: 0.0000 - 1.6787
+Salto
+	Total: 4 - 20
+	Frequencia Absluta: 2.1251 - 8.2438
+	Frequencia Logaritmica: 0.6021 - 2.1095
+Salvador
+	Total: 100 - 46
+	Frequencia Absluta: 53.1264 - 18.9608
+	Frequencia Logaritmica: 2.0000 - 2.9424
+Sampaio
+	Total: 10 - 46
+	Frequencia Absluta: 5.3126 - 18.9608
+	Frequencia Logaritmica: 1.0000 - 2.9424
+Santa Bárbara
+	Total: 2 - 3
+	Frequencia Absluta: 1.0625 - 1.2366
+	Frequencia Logaritmica: 0.3010 - 0.2123
+Santa Cruz
+	Total: 68 - 1
+	Frequencia Absluta: 36.1260 - 0.4122
+	Frequencia Logaritmica: 1.8325 - -0.8863
+Santa Isabel
+	Total: 1 - 6
+	Frequencia Absluta: 0.5313 - 2.4731
+	Frequencia Logaritmica: 0.0000 - 0.9055
+Santa Maria
+	Total: 6 - 15
+	Frequencia Absluta: 3.1876 - 6.1829
+	Frequencia Logaritmica: 0.7782 - 1.8218
+Santana
+	Total: 12 - 27
+	Frequencia Absluta: 6.3752 - 11.1292
+	Frequencia Logaritmica: 1.0792 - 2.4096
+Santarém
+	Total: 5 - 7
+	Frequencia Absluta: 2.6563 - 2.8853
+	Frequencia Logaritmica: 0.6990 - 1.0596
+Santiago
+	Total: 8 - 21
+	Frequencia Absluta: 4.2501 - 8.6560
+	Frequencia Logaritmica: 0.9031 - 2.1583
+Santos
+	Total: 257 - 3614
+	Frequencia Absluta: 136.5349 - 1489.6606
+	Frequencia Logaritmica: 2.4099 - 7.3063
+Saúde
+	Total: 319 - 1379
+	Frequencia Absluta: 169.4732 - 568.4123
+	Frequencia Logaritmica: 2.5038 - 6.3428
+Seabra
+	Total: 1 - 8
+	Frequencia Absluta: 0.5313 - 3.2975
+	Frequencia Logaritmica: 0.0000 - 1.1932
+Segredo
+	Total: 1 - 43
+	Frequencia Absluta: 0.5313 - 17.7242
+	Frequencia Logaritmica: 0.0000 - 2.8749
+Sergipe
+	Total: 27 - 4
+	Frequencia Absluta: 14.3441 - 1.6488
+	Frequencia Logaritmica: 1.4314 - 0.5000
+Serra
+	Total: 8 - 88
+	Frequencia Absluta: 4.2501 - 36.2729
+	Frequencia Logaritmica: 0.9031 - 3.5911
+Simões
+	Total: 1 - 55
+	Frequencia Absluta: 0.5313 - 22.6705
+	Frequencia Logaritmica: 0.0000 - 3.1211
+Sobral
+	Total: 2 - 2
+	Frequencia Absluta: 1.0625 - 0.8244
+	Frequencia Logaritmica: 0.3010 - -0.1931
+Sombrio
+	Total: 1 - 6
+	Frequencia Absluta: 0.5313 - 2.4731
+	Frequencia Logaritmica: 0.0000 - 0.9055
+Sonora
+	Total: 3 - 13
+	Frequencia Absluta: 1.5938 - 5.3585
+	Frequencia Logaritmica: 0.4771 - 1.6787
+Sorriso
+	Total: 8 - 17
+	Frequencia Absluta: 4.2501 - 7.0073
+	Frequencia Logaritmica: 0.9031 - 1.9469
+Sousa
+	Total: 2 - 306
+	Frequencia Absluta: 1.0625 - 126.1306
+	Frequencia Logaritmica: 0.3010 - 4.8373
+São Bento
+	Total: 19 - 1
+	Frequencia Absluta: 10.0940 - 0.4122
+	Frequencia Logaritmica: 1.2788 - -0.8863
+São Bernardo
+	Total: 24 - 5
+	Frequencia Absluta: 12.7503 - 2.0610
+	Frequencia Logaritmica: 1.3802 - 0.7232
+São Francisco
+	Total: 11 - 2
+	Frequencia Absluta: 5.8439 - 0.8244
+	Frequencia Logaritmica: 1.0414 - -0.1931
+São Jorge
+	Total: 26 - 2
+	Frequencia Absluta: 13.8129 - 0.8244
+	Frequencia Logaritmica: 1.4150 - -0.1931
+São José
+	Total: 10 - 6
+	Frequencia Absluta: 5.3126 - 2.4731
+	Frequencia Logaritmica: 1.0000 - 0.9055
+São Paulo
+	Total: 647 - 157
+	Frequencia Absluta: 343.7279 - 64.7141
+	Frequencia Logaritmica: 2.8109 - 4.1700
+São Pedro
+	Total: 14 - 23
+	Frequencia Absluta: 7.4377 - 9.4804
+	Frequencia Logaritmica: 1.1461 - 2.2492
+São Sebastião
+	Total: 25 - 2
+	Frequencia Absluta: 13.2816 - 0.8244
+	Frequencia Logaritmica: 1.3979 - -0.1931
+São Tomé
+	Total: 4 - 202
+	Frequencia Absluta: 2.1251 - 83.2627
+	Frequencia Logaritmica: 0.6021 - 4.4220
+São Valentim
+	Total: 5 - 4
+	Frequencia Absluta: 2.6563 - 1.6488
+	Frequencia Logaritmica: 0.6990 - 0.5000
+São Vicente
+	Total: 4 - 3
+	Frequencia Absluta: 2.1251 - 1.2366
+	Frequencia Logaritmica: 0.6021 - 0.2123
+Sério
+	Total: 2 - 100
+	Frequencia Absluta: 1.0625 - 41.2192
+	Frequencia Logaritmica: 0.3010 - 3.7189
+Tailândia
+	Total: 27 - 6
+	Frequencia Absluta: 14.3441 - 2.4731
+	Frequencia Logaritmica: 1.4314 - 0.9055
+Tavares
+	Total: 3 - 126
+	Frequencia Absluta: 1.5938 - 51.9361
+	Frequencia Logaritmica: 0.4771 - 3.9500
+Teixeira
+	Total: 32 - 108
+	Frequencia Absluta: 17.0005 - 44.5167
+	Frequencia Logaritmica: 1.5051 - 3.7959
+Terra Nova
+	Total: 1 - 7
+	Frequencia Absluta: 0.5313 - 2.8853
+	Frequencia Logaritmica: 0.0000 - 1.0596
+Tesouro
+	Total: 10 - 100
+	Frequencia Absluta: 5.3126 - 41.2192
+	Frequencia Logaritmica: 1.0000 - 3.7189
+Tietê
+	Total: 3 - 1
+	Frequencia Absluta: 1.5938 - 0.4122
+	Frequencia Logaritmica: 0.4771 - -0.8863
+Tiros
+	Total: 2 - 79
+	Frequencia Absluta: 1.0625 - 32.5631
+	Frequencia Logaritmica: 0.3010 - 3.4832
+Tocantins
+	Total: 11 - 3
+	Frequencia Absluta: 5.8439 - 1.2366
+	Frequencia Logaritmica: 1.0414 - 0.2123
+Torres
+	Total: 6 - 26
+	Frequencia Absluta: 3.1876 - 10.7170
+	Frequencia Logaritmica: 0.7782 - 2.3718
+Trindade
+	Total: 10 - 4
+	Frequencia Absluta: 5.3126 - 1.6488
+	Frequencia Logaritmica: 1.0000 - 0.5000
+Triunfo
+	Total: 1 - 29
+	Frequencia Absluta: 0.5313 - 11.9536
+	Frequencia Logaritmica: 0.0000 - 2.4810
+Tubarão
+	Total: 3 - 1
+	Frequencia Absluta: 1.5938 - 0.4122
+	Frequencia Logaritmica: 0.4771 - -0.8863
+Turvo
+	Total: 1 - 1
+	Frequencia Absluta: 0.5313 - 0.4122
+	Frequencia Logaritmica: 0.0000 - -0.8863
+Ubatuba
+	Total: 4 - 1
+	Frequencia Absluta: 2.1251 - 0.4122
+	Frequencia Logaritmica: 0.6021 - -0.8863
+Una
+	Total: 2 - 5
+	Frequencia Absluta: 1.0625 - 2.0610
+	Frequencia Logaritmica: 0.3010 - 0.7232
+União
+	Total: 81 - 708
+	Frequencia Absluta: 43.0324 - 291.8317
+	Frequencia Logaritmica: 1.9085 - 5.6762
+Vassouras
+	Total: 12 - 1
+	Frequencia Absluta: 6.3752 - 0.4122
+	Frequencia Logaritmica: 1.0792 - -0.8863
+Vera
+	Total: 11 - 23
+	Frequencia Absluta: 5.8439 - 9.4804
+	Frequencia Logaritmica: 1.0414 - 2.2492
+Vera Cruz
+	Total: 1 - 4
+	Frequencia Absluta: 0.5313 - 1.6488
+	Frequencia Logaritmica: 0.0000 - 0.5000
+Vertentes
+	Total: 1 - 29
+	Frequencia Absluta: 0.5313 - 11.9536
+	Frequencia Logaritmica: 0.0000 - 2.4810
+Veríssimo
+	Total: 2 - 4
+	Frequencia Absluta: 1.0625 - 1.6488
+	Frequencia Logaritmica: 0.3010 - 0.5000
+Viana
+	Total: 4 - 221
+	Frequencia Absluta: 2.1251 - 91.0944
+	Frequencia Logaritmica: 0.6021 - 4.5119
+Virgínia
+	Total: 2 - 5
+	Frequencia Absluta: 1.0625 - 2.0610
+	Frequencia Logaritmica: 0.3010 - 0.7232
+Vitória
+	Total: 26 - 353
+	Frequencia Absluta: 13.8129 - 145.5036
+	Frequencia Logaritmica: 1.4150 - 4.9802
+Wagner
+	Total: 15 - 4
+	Frequencia Absluta: 7.9690 - 1.6488
+	Frequencia Logaritmica: 1.1761 - 0.5000
+Áurea
+	Total: 1 - 2
+	Frequencia Absluta: 0.5313 - 0.8244
+	Frequencia Logaritmica: 0.0000 - -0.1931
+Óleo
+	Total: 1 - 36
+	Frequencia Absluta: 0.5313 - 14.8389
+	Frequencia Logaritmica: 0.0000 - 2.6973
+
+Total de Cidades em Comum entre os dois Grupos: 313
