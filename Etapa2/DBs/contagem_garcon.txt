@@ -1,0 +1,113 @@
+Nomes
+Tanize Richa 1
+Selma Rodrigues 1
+Michael Pantera 1
+Thomaz Garcia 1
+Francisco 2
+Dario Viganò 1
+Viganò 1
+Kátia Coutinho 1
+Adriano Oliveira 1
+Mel Paes 1
+Mark Walker 1
+Breno Viola 1
+Bianca Mota de Moraes 1
+Margarida Maria do Nascimento 2
+Tomaz Silva 1
+Jussara Maria da Silva 1
+Miguel 1
+Jussara 1
+Israel Nascimento 1
+Alain Bourdon 1
+Gérard Chuzel 1
+Sandra Fernandes 1
+Eduardo Moacyr Krieger 2
+Alexandre Roccatto 1
+Ana Maria Fonseca Almeida 1
+Fernando Menezes 1
+Bourdon 2
+Krieger 2
+Chuzel 2
+Francesco Ubertini 1
+Roberto Bruno 1
+Alessandra Scagliarini 1
+Fabio Fava 1
+Ubertini 3
+José Goldemberg 1
+Carlos Eduardo Lins da Silva 1
+Bruna Cersózimo Arenque Musa 1
+Marie Anne Van Sluys 1
+Goldemberg 1
+Marco Antonio Zago 
+Dante Alighieri 1
+Francesco Petrarca 1
+Paracelso 1
+Nicolau Copérnico 1
+Luigi Galvani 1
+Alessandro Volta 1
+Benjamin Franklin 1
+Henry Cavendish 1
+Umberto Eco 
+Caio Barreto 1
+Luiz Amorim 1
+Getúlio Vargas 1
+Souza Aguiar 1
+Miguel Couto 1
+Rodrigo de Freitas 
+Giovana Correia 
+Armando Clemente 1
+Lucas Trambaiolli 1
+Vinuicius Milani 1
+Albert Einstein 1
+Henrique Lian 1
+Lian 1
+Carlos Peixoto 1
+Peixoto 2
+
+Cidades
+Brasília 7
+Gávea 3
+São Paulo 13
+Recife 5
+Água Fria 1
+Rio de Janeiro 9
+Nova Iguaçu 1
+Paris 1
+Bolonha 7
+Imola 1
+Ravenna 1
+Forlì 1
+Cesena 1
+Rimini 1
+Buenos Aires 1
+Vale do Paraíba 1
+Minas 1
+Belford Roxo 2
+Seropédica 2
+Baixada Fluminense 1
+Rio Comprido 1
+Barra 1
+Botafogo 1
+Méier 1
+São Gonçalo 1
+Taguatinga 2
+São Caetano do Sul 1
+Goiânia 1
+Goiás 1
+Manaus 1
+
+Paises
+EUA 1
+Brasil 15
+Vaticano 2
+Reino Unido 1
+Inglaterra 2
+País de Gales 1
+Hong Kong 1
+China 1
+Austrália 2
+França 8
+Itália 2
+Argentina 1
+Espanha 1
+Filipinas 1
