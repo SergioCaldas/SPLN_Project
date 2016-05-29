@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>SPLN - Jornal Brasileiro</title>
+
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <link href="css/simple-sidebar.css" rel="stylesheet">
+
+    </head>
+
+    <body>
+
+        <div id="wrapper">
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                        <a href="../../index.html">
+                            Jornal Brasileiro
+                        </a>
+                    </li>
+                    <li>
+                        <a href="cetenFolha.html">Ceten Folha</a>
+                    </li>
+                    <li>
+                       <a href="cidades.html">Cidade</a>
+                    </li>
+                    <li>
+                       <a href="comparison_cidades_grupo2.html">Comparar Cidades com o Grupo2</a>
+                    </li>
+                    <li>
+                       <a href="comparison_cidades_grupo3.html">Comparar Cidades com o Grupo3</a>
+                    </li>
+                    <li>
+                       <a href="comparison_cidades_grupo16.html">Comparar Cidades com o Grupo16</a>
+                    </li>
+                    <li>
+                        <a href="paises.html">Paises</a>
+                    </li>
+                    <li>
+                        <a href="comparison_paises_grupo2.html">Comparar Países com o Grupo2</a>
+                    </li>
+                    <li>
+                        <a href="comparison_paises_grupo2.html">Comparar Países com o Grupo3</a>
+                    </li>
+                    <li>
+                        <a href="comparison_paises_grupo2.html">Comparar Países com o Grupo16</a>
+                    </li>
+                    <li>
+                        <a href="names.html">Nomes</a>
+                    </li>
+                    <li>
+                        <a href="comparison_names_grupo2.html">Comparar Nomes com o Grupo2</a>
+                    </li>
+                    <li>
+                        <a href="comparison_names_grupo3.html">Comparar Nomes com o Grupo3</a>
+                    </li>
+                    <li>
+                        <a href="comparison_names_grupo16.html">Comparar Nomes com o Grupo16</a>
+                    </li>
+                    <li>
+                        <a href="validate.html">Validações</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div id="page-content-wrapper">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-12">
+
+<ul id="index">
+  <li><a href="#ComparacaoNomesGrupo3.pl">ComparacaoNomesGrupo3.pl</a>
+    <ul>
+      <li><a href="#Modulos">Modulos</a></li>
+      <li><a href="#Variaveis">Variaveis</a></li>
+      <li><a href="#Abertura-da-nossa-tabela-Nomes">Abertura da nossa tabela Nomes</a></li>
+      <li><a href="#Preenchimenento-das-Hashs-do-nosso-Grupo">Preenchimenento das Hash&#39;s do nosso Grupo</a></li>
+      <li><a href="#Abertura-da-tabela-Nomes-do-Grupo3">Abertura da tabela Nomes do Grupo3</a></li>
+      <li><a href="#Preenchimenento-das-Hashs-do-Grupo3">Preenchimenento das Hash&#39;s do Grupo3</a></li>
+      <li><a href="#Calculo-das-frequencias-dos-nomes-comuns-do-nosso-Grupo-e-do-Grupo3">Calculo das frequencias dos nomes comuns do nosso Grupo e do Grupo3</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="ComparacaoNomesGrupo3.pl">ComparacaoNomesGrupo3.pl</h1>
+
+<p>Esta script faz uma comparacao das nossas frequencias com as frequencias calculadas pelo grupo 3 relativamente aos nomes</p>
+
+<h2 id="Modulos">Modulos</h2>
+
+<p>Modulos usados nesta script:</p>
+
+<pre><code>    -&gt; use warnings;
+
+    -&gt; use strict;
+
+    -&gt; use Data::Dumper;
+
+    -&gt; use utf8::all;</code></pre>
+
+<h2 id="Variaveis">Variaveis</h2>
+
+<p>Variaveis utilizadas neste script:</p>
+
+<pre><code>    -&gt; my @my_campos;
+    -&gt; my @his_campos;
+    -&gt; my %my_hash;
+    -&gt; my %his_hash;
+    -&gt; my $total = &quot;Total&quot;;
+    -&gt; my $freq_abs = &quot;Freq Abs&quot;;
+    -&gt; my $freq_log = &quot;Freq Log&quot;;</code></pre>
+
+<h2 id="Abertura-da-nossa-tabela-Nomes">Abertura da nossa tabela Nomes</h2>
+
+<p>Leitura da nossa tabela de nomes e grava na variavel my_tabela_nomes</p>
+
+<pre><code>    -&gt; open (my $my_tabela_nomes, &quot;&lt;&quot;, &quot;../Tabelas/tabela_nomes_g7.txt&quot;) or die (&quot;Impossivel abrir o ficheiro tabela_nomes_g7.txt\n&quot;);</code></pre>
+
+<h2 id="Preenchimenento-das-Hashs-do-nosso-Grupo">Preenchimenento das Hash&#39;s do nosso Grupo</h2>
+
+<p>Este excerto de codigo preenche uma hash com a informacao das nossas cidades</p>
+
+<pre><code>    while(&lt;$my_tabela_nomes&gt;){
+      chomp;
+      @my_campos = split (/\,/, $_,4);
+      $my_hash{$my_campos[0]}{$total}=$my_campos[1];
+      $my_hash{$my_campos[0]}{$freq_abs}=$my_campos[2];
+      $my_hash{$my_campos[0]}{$freq_log}=$my_campos[3];
+    }
+    close ($my_tabela_nomes);</code></pre>
+
+<h2 id="Abertura-da-tabela-Nomes-do-Grupo3">Abertura da tabela Nomes do Grupo3</h2>
+
+<p>Funcao que abre a tabela de nomes do grupo 3 e grava na variavel his_tabela_nomes</p>
+
+<pre><code>    -&gt; open (my $his_tabela_nomes, &quot;&lt;&quot;, &quot;../Grupo03/g3_tabela_nomes.txt&quot;) or die (&quot;Impossivel abrir o ficheiro tabela_nomes_g3.txt\n&quot;);</code></pre>
+
+<h2 id="Preenchimenento-das-Hashs-do-Grupo3">Preenchimenento das Hash&#39;s do Grupo3</h2>
+
+<p>Este excerto de codigo preenche uma hash com a informacao dos nomes do grupo 3</p>
+
+<pre><code>    while(&lt;$his_tabela_nomes&gt;){
+      chomp;
+      @his_campos = split (/\,/, $_,4);
+      $his_hash{$his_campos[0]}{$total}=$his_campos[1];
+      $his_hash{$his_campos[0]}{$freq_abs}=$his_campos[2];
+      $his_hash{$his_campos[0]}{$freq_log}=$his_campos[3];
+    }
+
+    close ($his_tabela_nomes);</code></pre>
+
+<h2 id="Calculo-das-frequencias-dos-nomes-comuns-do-nosso-Grupo-e-do-Grupo3">Calculo das frequencias dos nomes comuns do nosso Grupo e do Grupo3</h2>
+
+<p>Este excerto de codigo faz um print dos nomes em comum com os dois grupos</p>
+
+<pre><code>    foreach my $my_name (sort keys %my_hash){
+      if(exists $his_hash{$my_name}){
+        $tnomes++;
+        print &quot;$my_name\n&quot;;
+        print &quot;\tTotal: $my_hash{$my_name}{$total} - $his_hash{$my_name}{$total}\n&quot;;
+        print &quot;\tFrequencia Absluta: $my_hash{$my_name}{$freq_abs} - $his_hash{$my_name}{$freq_abs}\n&quot;;
+        print &quot;\tFrequencia Logaritmica: $my_hash{$my_name}{$freq_log} - $his_hash{$my_name}{$freq_log}\n&quot;;
+      }
+    }
+
+    print &quot;\nTotal de Nomes em Comum entre os dois Grupos: $tnomes\n&quot;;</code></pre>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <script src="js/jquery.js"></script>
+
+        <script src="js/bootstrap.min.js"></script>
+
+        <script>
+        $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+        </script>
+
+    </body>
+
+</html>
+
+

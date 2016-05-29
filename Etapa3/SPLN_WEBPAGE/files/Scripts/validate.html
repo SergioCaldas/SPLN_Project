@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>SPLN - Jornal Brasileiro</title>
+
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <link href="css/simple-sidebar.css" rel="stylesheet">
+
+    </head>
+
+    <body>
+
+        <div id="wrapper">
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                        <a href="../../index.html">
+                            Jornal Brasileiro
+                        </a>
+                    </li>
+                    <li>
+                        <a href="cetenFolha.html">Ceten Folha</a>
+                    </li>
+                    <li>
+                       <a href="cidades.html">Cidade</a>
+                    </li>
+                    <li>
+                       <a href="comparison_cidades_grupo2.html">Comparar Cidades com o Grupo2</a>
+                    </li>
+                    <li>
+                       <a href="comparison_cidades_grupo3.html">Comparar Cidades com o Grupo3</a>
+                    </li>
+                    <li>
+                       <a href="comparison_cidades_grupo16.html">Comparar Cidades com o Grupo16</a>
+                    </li>
+                    <li>
+                        <a href="paises.html">Paises</a>
+                    </li>
+                    <li>
+                        <a href="comparison_paises_grupo2.html">Comparar Países com o Grupo2</a>
+                    </li>
+                    <li>
+                        <a href="comparison_paises_grupo2.html">Comparar Países com o Grupo3</a>
+                    </li>
+                    <li>
+                        <a href="comparison_paises_grupo2.html">Comparar Países com o Grupo16</a>
+                    </li>
+                    <li>
+                        <a href="names.html">Nomes</a>
+                    </li>
+                    <li>
+                        <a href="comparison_names_grupo2.html">Comparar Nomes com o Grupo2</a>
+                    </li>
+                    <li>
+                        <a href="comparison_names_grupo3.html">Comparar Nomes com o Grupo3</a>
+                    </li>
+                    <li>
+                        <a href="comparison_names_grupo16.html">Comparar Nomes com o Grupo16</a>
+                    </li>
+                    <li>
+                        <a href="validate.html">Validações</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div id="page-content-wrapper">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-12">
+
+<ul id="index">
+  <li><a href="#Validate.pl">Validate.pl</a>
+    <ul>
+      <li><a href="#Modulos">Modulos</a></li>
+      <li><a href="#Variaveis">Variaveis</a></li>
+      <li><a href="#Abertura-do-ficheiro-anotado-manualmente">Abertura do ficheiro anotado manualmente</a></li>
+      <li><a href="#Leitura-do-Ficheiro-anotado-manualmente">Leitura do Ficheiro anotado manualmente</a></li>
+      <li><a href="#Abertura-do-ficheiro-anotado-computacionalmente">Abertura do ficheiro anotado computacionalmente</a></li>
+      <li><a href="#Leitura-do-Ficheiro-anotado-computacionalmente">Leitura do Ficheiro anotado computacionalmente</a></li>
+      <li><a href="#ciclo-de-preenchimento-das-variavies-FP-TP-e-FN">ciclo de preenchimento das variavies FP,TP e FN</a>
+        <ul>
+          <li><a href="#Adicao-caso-seja-falso-positivo">Adicao caso seja falso positivo</a></li>
+          <li><a href="#Adicao-caso-seja-verdadeiro-positivo">Adicao caso seja verdadeiro positivo</a></li>
+          <li><a href="#Adicao-caso-seja-falso-negativo">Adicao caso seja falso negativo</a></li>
+        </ul>
+      </li>
+      <li><a href="#Calculo-da-variavel-Verdadeiros-Negativos">Calculo da variavel Verdadeiros Negativos</a></li>
+      <li><a href="#Valor-das-varias-variavies-TP-FP-FN-TN">Valor das varias variavies (TP,FP,FN,TN)</a></li>
+      <li><a href="#Valor-das-varias-variavies-TP-FP-FN-TN1">Valor das varias variavies (TP,FP,FN,TN)</a></li>
+      <li><a href="#Calculo-das-varias-funcoes">Calculo das varias funcoes</a>
+        <ul>
+          <li><a href="#Calculo-da-funcao-precision">Calculo da funcao precision</a></li>
+          <li><a href="#Calculo-da-funcao-recall">Calculo da funcao recall</a></li>
+          <li><a href="#Calculo-da-funcao-accuracy">Calculo da funcao accuracy</a></li>
+          <li><a href="#Calculo-da-funcao-f1">Calculo da funcao f1</a></li>
+        </ul>
+      </li>
+      <li><a href="#Valor-das-varias-funcoes">Valor das varias funcoes</a>
+        <ul>
+          <li><a href="#Valor-da-funcao-precision">Valor da funcao precision</a></li>
+          <li><a href="#Valor-da-funcao-recall">Valor da funcao recall</a></li>
+          <li><a href="#Valor-da-funcao-accuracy">Valor da funcao accuracy</a></li>
+          <li><a href="#Valor-da-funcao-f1">Valor da funcao f1</a></li>
+        </ul>
+      </li>
+      <li><a href="#Funcao-precision">Funcao precision</a></li>
+      <li><a href="#Funcao-recall">Funcao recall</a></li>
+      <li><a href="#Funcao-accuracy">Funcao accuracy</a></li>
+      <li><a href="#Funcao-accuracy1">Funcao accuracy</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="Validate.pl">Validate.pl</h1>
+
+<p>Esta script faz um reconhecimento das cidades que aparecem nas noticias.</p>
+
+<p>Alem disso, verifica se essas cidades existem na Hash respectiva onde se encontram todas as cidades presentes na Base de Dados.</p>
+
+<p>Posteriormente calcula as suas respectivas frequencias.</p>
+
+<h2 id="Modulos">Modulos</h2>
+
+<p>Modulos usados nesta script:</p>
+
+<pre><code>    -&gt; use warnings;
+
+    -&gt; use strict;
+
+    -&gt; use Data::Dumper;
+
+    -&gt; use utf8::all;</code></pre>
+
+<h2 id="Variaveis">Variaveis</h2>
+
+<p>Variaveis utilizadas neste script:</p>
+
+<pre><code>    -&gt; my $TP = 0;
+    -&gt; my $FP = 0;
+    -&gt; my $FN = 0;
+    -&gt; my $TN = 0;
+    -&gt; my $total = 0;
+    -&gt; my $precision;
+    -&gt; my $recall;
+    -&gt; my $accuracy;
+    -&gt; my $f1;
+    -&gt; my $eval_total = 0;
+    -&gt; my $total_words = 9455;
+    -&gt; my %my_entities;
+    -&gt; my %comp_entities;
+    -&gt; my @entry;</code></pre>
+
+<h2 id="Abertura-do-ficheiro-anotado-manualmente">Abertura do ficheiro anotado manualmente</h2>
+
+<p>Abre o ficheiro anotado manualmente e e guarda-o no array $myAnotations</p>
+
+<pre><code>    -&gt; open(my $myAnotations, &quot;&lt;&quot;, &quot;../Analise do Algoritmo/Fabio/cidadesFabio.txt&quot;) or die (&quot;Impossivel abrir o ficheiro nomes.txt\n&quot;);</code></pre>
+
+<h2 id="Leitura-do-Ficheiro-anotado-manualmente">Leitura do Ficheiro anotado manualmente</h2>
+
+<p>Leitura do ficheiro anotado manualmente e guarda cada anotacao.</p>
+
+<pre><code>    while(&lt;$myAnotations&gt;) {
+      @entry = split /,/, $_;
+      # This is id-&gt;mark
+      $my_entities{$entry[0]} = $entry[1];
+      $total++;
+    }</code></pre>
+
+<h2 id="Abertura-do-ficheiro-anotado-computacionalmente">Abertura do ficheiro anotado computacionalmente</h2>
+
+<p>Abre o ficheiro anotado manualmente e e guarda-o no array $myAnotations</p>
+
+<pre><code>    -&gt; open(my $compAnotations, &quot;&lt;&quot;, &quot;../Analise do Algoritmo/Fabio/cidadesCompFabio.txt&quot;) or die (&quot;Impossivel abrir o ficheiro nomes.txt\n&quot;);</code></pre>
+
+<h2 id="Leitura-do-Ficheiro-anotado-computacionalmente">Leitura do Ficheiro anotado computacionalmente</h2>
+
+<p>Leitura do ficheiro anotado computacionalmente e guarda cada anotacao.</p>
+
+<pre><code>      while(&lt;$compAnotations&gt;) {
+        @entry = split /,/, $_;
+        # This is id-&gt;mark
+        $comp_entities{$entry[0]} = $entry[1];
+        $eval_total++;
+      }</code></pre>
+
+<h2 id="ciclo-de-preenchimento-das-variavies-FP-TP-e-FN">ciclo de preenchimento das variavies FP,TP e FN</h2>
+
+<pre><code>      for my $id (keys %my_entities){</code></pre>
+
+<h3 id="Adicao-caso-seja-falso-positivo">Adicao caso seja falso positivo</h3>
+
+<pre><code>      if(!(exists $comp_entities{$id})){
+        $FP++;
+      }
+        </code></pre>
+
+<h3 id="Adicao-caso-seja-verdadeiro-positivo">Adicao caso seja verdadeiro positivo</h3>
+
+<pre><code>      if($my_entities{$id} eq $comp_entities{$id}){
+        $TP++;
+      }
+        </code></pre>
+
+<h3 id="Adicao-caso-seja-falso-negativo">Adicao caso seja falso negativo</h3>
+
+<pre><code>      $FN++;
+        </code></pre>
+
+<h2 id="Calculo-da-variavel-Verdadeiros-Negativos">Calculo da variavel Verdadeiros Negativos</h2>
+
+<pre><code>      $TN = $total_words - ($FP+$TP+$FN);
+        </code></pre>
+
+<h2 id="Valor-das-varias-variavies-TP-FP-FN-TN">Valor das varias variavies (TP,FP,FN,TN)</h2>
+
+<pre><code>      $TN = $total_words - ($FP+$TP+$FN);
+        </code></pre>
+
+<h2 id="Valor-das-varias-variavies-TP-FP-FN-TN1">Valor das varias variavies (TP,FP,FN,TN)</h2>
+
+<pre><code>      print &quot;True Positive = $TP\nFalse Positive = $FP\n&quot;;
+      print &quot;False Negative = $FN\nTrue Negative = $TN\n&quot;;
+        </code></pre>
+
+<h2 id="Calculo-das-varias-funcoes">Calculo das varias funcoes</h2>
+
+<h3 id="Calculo-da-funcao-precision">Calculo da funcao precision</h3>
+
+<p>$precision = precision($TP,$FP);</p>
+
+<h3 id="Calculo-da-funcao-recall">Calculo da funcao recall</h3>
+
+<p>$recall = recall($TP,$FN);</p>
+
+<h3 id="Calculo-da-funcao-accuracy">Calculo da funcao accuracy</h3>
+
+<p>$accuracy = accuracy($TP,$TN,$FP,$FN);</p>
+
+<h3 id="Calculo-da-funcao-f1">Calculo da funcao f1</h3>
+
+<p>$f1 = f1($precision,$recall);</p>
+
+<h2 id="Valor-das-varias-funcoes">Valor das varias funcoes</h2>
+
+<h3 id="Valor-da-funcao-precision">Valor da funcao precision</h3>
+
+<p>printf(&quot;Precision = %.4f\n&quot;, $precision);</p>
+
+<h3 id="Valor-da-funcao-recall">Valor da funcao recall</h3>
+
+<p>printf(&quot;Recall = %.4f\n&quot;, $recall);</p>
+
+<h3 id="Valor-da-funcao-accuracy">Valor da funcao accuracy</h3>
+
+<p>printf(&quot;Accuracy = %.4f\n&quot;, $accuracy);</p>
+
+<h3 id="Valor-da-funcao-f1">Valor da funcao f1</h3>
+
+<p>printf(&quot;F1 = %.4f\n&quot;, $f1);</p>
+
+<h2 id="Funcao-precision">Funcao precision</h2>
+
+<p>Funcao que calcula a precisao do algoritmo</p>
+
+<pre><code>      sub  precision { 
+        my $TP = shift;
+        my $FP = shift;
+        $precision = $TP / ($TP + $FP);
+        return $precision;
+      };</code></pre>
+
+<h2 id="Funcao-recall">Funcao recall</h2>
+
+<p>Funcao que calcula o recall do algoritmo</p>
+
+<pre><code>      sub  recall { 
+        my $TP = shift;
+        my $FN = shift;
+        $recall = $TP / ($TP + $FN);
+        return $recall;
+      };</code></pre>
+
+<h2 id="Funcao-accuracy">Funcao accuracy</h2>
+
+<p>Funcao que calcula a accuracy do algoritmo</p>
+
+<pre><code>      sub  accuracy { 
+        my $TP = shift;
+        my $TN = shift;
+        my $FP = shift;
+        my $FN = shift;
+        $accuracy = ($TP+$TN) / ($TP+$TN+$FP+$FN);
+        return $accuracy;
+      };</code></pre>
+
+<h2 id="Funcao-accuracy1">Funcao accuracy</h2>
+
+<pre><code>      sub  f1 { 
+        my $precision = shift;
+        my $recall = shift;
+        $f1 = (2*$precision*$recall) / ($precision+$recall);
+        return $f1;
+      };</code></pre>
+
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <script src="js/jquery.js"></script>
+
+        <script src="js/bootstrap.min.js"></script>
+
+        <script>
+        $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+        </script>
+
+    </body>
+
+</html>

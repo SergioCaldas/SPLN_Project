@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>SPLN - Jornal Brasileiro</title>
+
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <link href="css/simple-sidebar.css" rel="stylesheet">
+
+    </head>
+
+    <body>
+
+        <div id="wrapper">
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                        <a href="../../index.html">
+                            Jornal Brasileiro
+                        </a>
+                    </li>
+                    <li>
+                        <a href="cetenFolha.html">Ceten Folha</a>
+                    </li>
+                    <li>
+                       <a href="cidades.html">Cidade</a>
+                    </li>
+                    <li>
+                       <a href="comparison_cidades_grupo2.html">Comparar Cidades com o Grupo2</a>
+                    </li>
+                    <li>
+                       <a href="comparison_cidades_grupo3.html">Comparar Cidades com o Grupo3</a>
+                    </li>
+                    <li>
+                       <a href="comparison_cidades_grupo16.html">Comparar Cidades com o Grupo16</a>
+                    </li>
+                    <li>
+                        <a href="paises.html">Paises</a>
+                    </li>
+                    <li>
+                        <a href="comparison_paises_grupo2.html">Comparar Países com o Grupo2</a>
+                    </li>
+                    <li>
+                        <a href="comparison_paises_grupo2.html">Comparar Países com o Grupo3</a>
+                    </li>
+                    <li>
+                        <a href="comparison_paises_grupo2.html">Comparar Países com o Grupo16</a>
+                    </li>
+                    <li>
+                        <a href="names.html">Nomes</a>
+                    </li>
+                    <li>
+                        <a href="comparison_names_grupo2.html">Comparar Nomes com o Grupo2</a>
+                    </li>
+                    <li>
+                        <a href="comparison_names_grupo3.html">Comparar Nomes com o Grupo3</a>
+                    </li>
+                    <li>
+                        <a href="comparison_names_grupo16.html">Comparar Nomes com o Grupo16</a>
+                    </li>
+                    <li>
+                        <a href="validate.html">Validações</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div id="page-content-wrapper">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            
+<ul id="index">
+  <li><a href="#Cidades.pl">Cidades.pl</a>
+    <ul>
+      <li><a href="#Modulos">Modulos</a></li>
+      <li><a href="#Variaveis">Variaveis</a></li>
+      <li><a href="#Abertura-da-Base-de-Dados---Cidades">Abertura da Base de Dados - Cidades</a></li>
+      <li><a href="#Leitura-dos-Ficheiros">Leitura dos Ficheiros</a></li>
+      <li><a href="#Abertura-do-Ficheiro-com-as-noticias">Abertura do Ficheiro com as noticias</a></li>
+      <li><a href="#Variavel-Nome-Proprio">Variavel Nome Proprio</a></li>
+      <li><a href="#Variavel-Preposicoes">Variavel Preposicoes</a></li>
+      <li><a href="#Variavel-Combinada-com-Nome-Proprio-e-Preposicoes">Variavel Combinada com Nome Proprio e Preposicoes</a></li>
+      <li><a href="#Contagem-de-Cidades">Contagem de Cidades</a>
+        <ul>
+          <li><a href="#Processar-o-ficheiro-jb.xml">Processar o ficheiro jb.xml</a></li>
+          <li><a href="#ignorar-tags">ignorar tags (&lt; &lt;/ &gt; /&gt;)</a></li>
+          <li><a href="#ignore-text-from-tag-tags">ignore text from tag tags</a></li>
+          <li><a href="#ignore-text-from-tag-tag">ignore text from tag tag</a></li>
+          <li><a href="#ignore-text-form-tag-t-title">ignore text form tag t (title)</a></li>
+          <li><a href="#ignore-text-form-tag-sec-section">ignore text form tag sec (section)</a></li>
+          <li><a href="#Match-a-expressao-regular">Match a expressao regular</a></li>
+          <li><a href="#Se-a-palavra-expressao-existir-na-hash-cidades-adiciona">Se a palavra / expressao existir na hash cidades adiciona</a></li>
+        </ul>
+      </li>
+      <li><a href="#Calculo-das-frequencias">Calculo das frequencias</a></li>
+      <li><a href="#Funcao-logaritmo">Funcao logaritmo</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="Cidades.pl">Cidades.pl</h1>
+
+<p>Esta script faz um reconhecimento das cidades que aparecem nas noticias.</p>
+
+<p>Alem disso, verifica se essas cidades existem na Hash respectiva onde se encontram todas as cidades presentes na Base de Dados.</p>
+
+<p>Posteriormente calcula as suas respectivas frequencias.</p>
+
+<h2 id="Modulos">Modulos</h2>
+
+<p>Modulos usados nesta script:</p>
+
+<pre><code>    -&gt; use warnings;
+
+    -&gt; use strict;
+
+    -&gt; use Data::Dumper;
+
+    -&gt; use utf8::all;</code></pre>
+
+<h2 id="Variaveis">Variaveis</h2>
+
+<p>Variaveis utilizadas neste script:</p>
+
+<pre><code>    -&gt; my $total_palavras = 1882303;
+
+    -&gt; my %cidades;</code></pre>
+
+<h2 id="Abertura-da-Base-de-Dados---Cidades">Abertura da Base de Dados - Cidades</h2>
+
+<p>Abre o ficheiro cidades.txt e guarda-o na Hash %cidades.</p>
+
+<pre><code>    -&gt; open (my $file_cidades, &quot;&lt;&quot;, &quot;../DBs/cidades.txt&quot;) or die (&quot;Impossivel abrir o ficheiro cidades.txt\n&quot;);</code></pre>
+
+<h2 id="Leitura-dos-Ficheiros">Leitura dos Ficheiros</h2>
+
+<p>Leitura da ficheiro cidades.txt e guarda cada uma das cidades na hash %cidades</p>
+
+<pre><code>    while(&lt;$file_cidades&gt;){
+      $_ = substr($_,0,(length($_)-1));
+      $cidades{$_}=0;
+    }
+
+    close ($file_cidades);</code></pre>
+
+<h2 id="Abertura-do-Ficheiro-com-as-noticias">Abertura do Ficheiro com as noticias</h2>
+
+<p>Abre o ficheiro jb.xml e guarda-o na variavel $jb_file.</p>
+
+<pre><code>    -&gt; open (my $file_cidades, &quot;&lt;&quot;, &quot;../DBs/cidades.txt&quot;) or die (&quot;Impossivel abrir o ficheiro cidades.txt\n&quot;);</code></pre>
+
+<h2 id="Variavel-Nome-Proprio">Variavel Nome Proprio</h2>
+
+<pre><code>      -&gt; my $pm = qr{[[:upper:]]\w+};</code></pre>
+
+<h2 id="Variavel-Preposicoes">Variavel Preposicoes</h2>
+
+<pre><code>      -&gt; my $prep = qr{d[eoa`]s?};</code></pre>
+
+<h2 id="Variavel-Combinada-com-Nome-Proprio-e-Preposicoes">Variavel Combinada com Nome Proprio e Preposicoes</h2>
+
+<pre><code>      -&gt; my $np = qr{$pm( ($prep )?$pm)*};</code></pre>
+
+<h2 id="Contagem-de-Cidades">Contagem de Cidades</h2>
+
+<p>Leitura do ficheiro de noticias e contagem das cidades.</p>
+
+<h3 id="Processar-o-ficheiro-jb.xml">Processar o ficheiro jb.xml</h3>
+
+<pre><code>      while (&lt;$jb_file&gt;){</code></pre>
+
+<h3 id="ignorar-tags">ignorar tags (&lt; &lt;/ &gt; /&gt;)</h3>
+
+<pre><code>      -&gt; next if /^&lt;/;</code></pre>
+
+<h3 id="ignore-text-from-tag-tags">ignore text from tag tags</h3>
+
+<pre><code>      -&gt; next if /&lt;tags&gt;.*/;</code></pre>
+
+<h3 id="ignore-text-from-tag-tag">ignore text from tag tag</h3>
+
+<pre><code>      -&gt; next if /&lt;tag&gt;.*/;</code></pre>
+
+<h3 id="ignore-text-form-tag-t-title">ignore text form tag t (title)</h3>
+
+<pre><code>      -&gt; next if /&lt;t&gt;.*/;</code></pre>
+
+<h3 id="ignore-text-form-tag-sec-section">ignore text form tag sec (section)</h3>
+
+<pre><code>      -&gt; next if /&lt;sec&gt;.*/;</code></pre>
+
+<h3 id="Match-a-expressao-regular">Match a expressao regular</h3>
+
+<pre><code>      -&gt; while( /$np|\w+(-\w+)*/g ){</code></pre>
+
+<h3 id="Se-a-palavra-expressao-existir-na-hash-cidades-adiciona">Se a palavra / expressao existir na hash cidades adiciona</h3>
+
+<pre><code>      my $palavra = $&amp;;
+      if(exists $cidades{$palavra}){
+        $cidades{$palavra}++;
+      }</code></pre>
+
+<h2 id="Calculo-das-frequencias">Calculo das frequencias</h2>
+
+<p>Neste excerto de codigo sao calculadas as frequencias das cidades.</p>
+
+<pre><code>      foreach my $cidade (sort keys %cidades){
+        if($cidades{$cidade} &gt; 0){
+          my $freq = ($cidades{$cidade}*1000000)/$total_palavras;
+          $freq = sprintf(&quot;%.4f&quot;,$freq);
+          my $log = log10($cidades{$cidade});
+          $log = sprintf(&quot;%.4f&quot;,$log);
+          print &quot;$cidade,$cidades{$cidade},$freq,$log\n&quot;;
+        }
+      }</code></pre>
+
+<h2 id="Funcao-logaritmo">Funcao logaritmo</h2>
+
+<p>Funcao que calcula o logaritmo base 10 de n</p>
+
+<pre><code>      sub log10{
+        my $n = shift;
+        return log($n)/log(10);
+      }</code></pre>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <script src="js/jquery.js"></script>
+
+        <script src="js/bootstrap.min.js"></script>
+
+        <script>
+        $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+        </script>
+
+    </body>
+
+</html>
+
+

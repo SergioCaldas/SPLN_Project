@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>SPLN - Jornal Brasileiro</title>
+
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <link href="css/simple-sidebar.css" rel="stylesheet">
+
+    </head>
+
+    <body>
+
+        <div id="wrapper">
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                        <a href="../../index.html">
+                            Jornal Brasileiro
+                        </a>
+                    </li>
+                    <li>
+                        <a href="cetenFolha.html">Ceten Folha</a>
+                    </li>
+                    <li>
+                       <a href="cidades.html">Cidade</a>
+                    </li>
+                    <li>
+                       <a href="comparison_cidades_grupo2.html">Comparar Cidades com o Grupo2</a>
+                    </li>
+                    <li>
+                       <a href="comparison_cidades_grupo3.html">Comparar Cidades com o Grupo3</a>
+                    </li>
+                    <li>
+                       <a href="comparison_cidades_grupo16.html">Comparar Cidades com o Grupo16</a>
+                    </li>
+                    <li>
+                        <a href="paises.html">Paises</a>
+                    </li>
+                    <li>
+                        <a href="comparison_paises_grupo2.html">Comparar Países com o Grupo2</a>
+                    </li>
+                    <li>
+                        <a href="comparison_paises_grupo2.html">Comparar Países com o Grupo3</a>
+                    </li>
+                    <li>
+                        <a href="comparison_paises_grupo2.html">Comparar Países com o Grupo16</a>
+                    </li>
+                    <li>
+                        <a href="names.html">Nomes</a>
+                    </li>
+                    <li>
+                        <a href="comparison_names_grupo2.html">Comparar Nomes com o Grupo2</a>
+                    </li>
+                    <li>
+                        <a href="comparison_names_grupo3.html">Comparar Nomes com o Grupo3</a>
+                    </li>
+                    <li>
+                        <a href="comparison_names_grupo16.html">Comparar Nomes com o Grupo16</a>
+                    </li>
+                    <li>
+                        <a href="validate.html">Validações</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div id="page-content-wrapper">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <ul id="index">
+  <li><a href="#CetenFolha.pl">CetenFolha.pl</a>
+    <ul>
+      <li><a href="#Modulos">Modulos</a></li>
+      <li><a href="#Variaveis">Variaveis</a></li>
+      <li><a href="#Abertura-do-ficheiro-cetenFolha">Abertura do ficheiro cetenFolha</a></li>
+      <li><a href="#Abertura-do-Ficheiro-com-as-noticias">Abertura do Ficheiro com as noticias</a>
+        <ul>
+          <li><a href="#Processar-o-ficheiro-jb.xml">Processar o ficheiro jb.xml</a></li>
+          <li><a href="#ignorar-tags">ignorar tags (&lt; &lt;/ &gt; /&gt;)</a></li>
+          <li><a href="#ignore-text-from-tag-tags">ignore text from tag tags</a></li>
+          <li><a href="#ignore-text-from-tag-tag">ignore text from tag tag</a></li>
+          <li><a href="#ignore-text-form-tag-t-title">ignore text form tag t (title)</a></li>
+          <li><a href="#ignore-text-form-tag-sec-section">ignore text form tag sec (section)</a></li>
+          <li><a href="#Match-a-expressao-regular">Match a expressao regular</a></li>
+          <li><a href="#Se-a-palavra-expressao-existir-na-hash-adiciona">Se a palavra / expressao existir na hash adiciona</a></li>
+        </ul>
+      </li>
+      <li><a href="#Calculo-das-frequencias">Calculo das frequencias</a></li>
+      <li><a href="#Funcao-logaritmo">Funcao logaritmo</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="CetenFolha.pl">CetenFolha.pl</h1>
+
+<p>Esta script faz um reconhecimento de todas as palavras e caracteres que aparecem nas noticias.</p>
+
+<p>Posteriormente calcula as suas respectivas frequencias.</p>
+
+<h2 id="Modulos">Modulos</h2>
+
+<p>Modulos usados nesta script:</p>
+
+<pre><code>    -&gt; use warnings;
+
+    -&gt; use strict;
+
+    -&gt; use Data::Dumper;
+
+    -&gt; use utf8::all;</code></pre>
+
+<h2 id="Variaveis">Variaveis</h2>
+
+<p>Variaveis utilizadas neste script:</p>
+
+<pre><code>    -&gt; my $total_palavras = 562346;
+    -&gt; my %paises;
+    -&gt; my %nomes;
+    -&gt; my %cidades;
+    -&gt; my %freq;</code></pre>
+
+<h2 id="Abertura-do-ficheiro-cetenFolha">Abertura do ficheiro cetenFolha</h2>
+
+<p>Abre o ficheiro cetenFolha_lista_palavras.txt e guarda-o na Hash %cidades.</p>
+
+<pre><code>    -&gt; open (my $file_paises, &quot;&lt;&quot;, &quot;../DBs/cetenFolha_lista_palavras.txt&quot;) or die (&quot;Impossivel abrir o ficheiro centenFolha_lista_palavras.txt\n&quot;);</code></pre>
+
+<h2 id="Abertura-do-Ficheiro-com-as-noticias">Abertura do Ficheiro com as noticias</h2>
+
+<p>Abre o ficheiro jb.xml e guarda-o na variavel $jb_file.</p>
+
+<pre><code>    -&gt; open (my $file_cidades, &quot;&lt;&quot;, &quot;../DBs/cidades.txt&quot;) or die (&quot;Impossivel abrir o ficheiro cidades.txt\n&quot;);</code></pre>
+
+<h3 id="Processar-o-ficheiro-jb.xml">Processar o ficheiro jb.xml</h3>
+
+<pre><code>      while (&lt;$jb_file&gt;){</code></pre>
+
+<h3 id="ignorar-tags">ignorar tags (&lt; &lt;/ &gt; /&gt;)</h3>
+
+<pre><code>      -&gt; next if /^&lt;/;</code></pre>
+
+<h3 id="ignore-text-from-tag-tags">ignore text from tag tags</h3>
+
+<pre><code>      -&gt; next if /&lt;tags&gt;.*/;</code></pre>
+
+<h3 id="ignore-text-from-tag-tag">ignore text from tag tag</h3>
+
+<pre><code>      -&gt; next if /&lt;tag&gt;.*/;</code></pre>
+
+<h3 id="ignore-text-form-tag-t-title">ignore text form tag t (title)</h3>
+
+<pre><code>      -&gt; next if /&lt;t&gt;.*/;</code></pre>
+
+<h3 id="ignore-text-form-tag-sec-section">ignore text form tag sec (section)</h3>
+
+<pre><code>      -&gt; next if /&lt;sec&gt;.*/;</code></pre>
+
+<h3 id="Match-a-expressao-regular">Match a expressao regular</h3>
+
+<pre><code>      -&gt; while(/(\w+)*/g){</code></pre>
+
+<h3 id="Se-a-palavra-expressao-existir-na-hash-adiciona">Se a palavra / expressao existir na hash adiciona</h3>
+
+<pre><code>      my $palavra = $&amp;;
+      if(exists $paises{$palavra}){
+        $paises{$palavra}++;
+      } </code></pre>
+
+<h2 id="Calculo-das-frequencias">Calculo das frequencias</h2>
+
+<p>Neste excerto de codigo sao calculadas as frequencias.</p>
+
+<pre><code>    foreach my $name (sort keys %paises){
+      if($paises{$name} &gt; 0){
+        my $freq = ($paises{$name}*1000000)/$total_palavras;
+        $freq = sprintf(&quot;%.4f&quot;,$freq);
+        my $log = log10($paises{$name});
+        $log = sprintf(&quot;%.4f&quot;,$log);
+        print &quot;$name,$paises{$name},$freq,$log\n&quot;;
+      }
+    }</code></pre>
+
+<h2 id="Funcao-logaritmo">Funcao logaritmo</h2>
+
+<p>Funcao que calcula o logaritmo base 10 de n</p>
+
+<pre><code>      sub log10{
+        my $n = shift;
+        return log($n)/log(10);
+      }</code></pre>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <script src="js/jquery.js"></script>
+
+        <script src="js/bootstrap.min.js"></script>
+
+        <script>
+        $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+        </script>
+
+    </body>
+
+</html>
+
+
