@@ -1,650 +1,164 @@
-Adalberto
-	Total: 17 -  1
-	Frequencia Absluta: 9.0315 -  1.2246
-	Frequencia Logaritmica: 1.2304 -  0.0000
-Adriana
-	Total: 19 -  1
-	Frequencia Absluta: 10.0940 -  1.2246
-	Frequencia Logaritmica: 1.2788 -  0.0000
-Adriano
-	Total: 32 -  2
-	Frequencia Absluta: 17.0005 -  2.4492
-	Frequencia Logaritmica: 1.5051 -  0.3010
-Adrien
-	Total: 1 -  15
-	Frequencia Absluta: 0.5313 -  18.3686
-	Frequencia Logaritmica: 0.0000 -  1.1761
-Alan
-	Total: 36 -  5
-	Frequencia Absluta: 19.1255 -  6.1229
-	Frequencia Logaritmica: 1.5563 -  0.6990
-Alberto
-	Total: 47 -  2
-	Frequencia Absluta: 24.9694 -  2.4492
-	Frequencia Logaritmica: 1.6721 -  0.3010
-Alex
-	Total: 26 -  18
-	Frequencia Absluta: 13.8129 -  22.0424
-	Frequencia Logaritmica: 1.4150 -  1.2553
-Alex Sandro
-	Total: 5 -  1
-	Frequencia Absluta: 2.6563 -  1.2246
-	Frequencia Logaritmica: 0.6990 -  0.0000
-Alexandre
-	Total: 80 -  2
-	Frequencia Absluta: 42.5011 -  2.4492
-	Frequencia Logaritmica: 1.9031 -  0.3010
-Alice
-	Total: 16 -  3
-	Frequencia Absluta: 8.5002 -  3.6737
-	Frequencia Logaritmica: 1.2041 -  0.4771
-Alma
-	Total: 5 -  1
-	Frequencia Absluta: 2.6563 -  1.2246
-	Frequencia Logaritmica: 0.6990 -  0.0000
-Amanda
-	Total: 10 -  4
-	Frequencia Absluta: 5.3126 -  4.8983
-	Frequencia Logaritmica: 1.0000 -  0.6021
-Amaro
-	Total: 6 -  5
-	Frequencia Absluta: 3.1876 -  6.1229
-	Frequencia Logaritmica: 0.7782 -  0.6990
-América
-	Total: 392 -  9
-	Frequencia Absluta: 208.2555 -  11.0212
-	Frequencia Logaritmica: 2.5933 -  0.9542
-Ana
-	Total: 41 -  1
-	Frequencia Absluta: 21.7818 -  1.2246
-	Frequencia Logaritmica: 1.6128 -  0.0000
-Ana Sofia
-	Total: 1 -  5
-	Frequencia Absluta: 0.5313 -  6.1229
-	Frequencia Logaritmica: 0.0000 -  0.6990
-Andrea
-	Total: 33 -  5
-	Frequencia Absluta: 17.5317 -  6.1229
-	Frequencia Logaritmica: 1.5185 -  0.6990
-André
-	Total: 114 -  3
-	Frequencia Absluta: 60.5641 -  3.6737
-	Frequencia Logaritmica: 2.0569 -  0.4771
-Angel
-	Total: 10 -  4
-	Frequencia Absluta: 5.3126 -  4.8983
-	Frequencia Logaritmica: 1.0000 -  0.6021
-Aristóteles
-	Total: 4 -  1
-	Frequencia Absluta: 2.1251 -  1.2246
-	Frequencia Logaritmica: 0.6021 -  0.0000
-Artur
-	Total: 6 -  1
-	Frequencia Absluta: 3.1876 -  1.2246
-	Frequencia Logaritmica: 0.7782 -  0.0000
-Assis
-	Total: 17 -  1
-	Frequencia Absluta: 9.0315 -  1.2246
-	Frequencia Logaritmica: 1.2304 -  0.0000
-Beatriz
-	Total: 9 -  6
-	Frequencia Absluta: 4.7814 -  7.3475
-	Frequencia Logaritmica: 0.9542 -  0.7782
-Bela
-	Total: 10 -  1
-	Frequencia Absluta: 5.3126 -  1.2246
-	Frequencia Logaritmica: 1.0000 -  0.0000
-Beto
-	Total: 8 -  2
-	Frequencia Absluta: 4.2501 -  2.4492
-	Frequencia Logaritmica: 0.9031 -  0.3010
-Bruce
-	Total: 6 -  1
-	Frequencia Absluta: 3.1876 -  1.2246
-	Frequencia Logaritmica: 0.7782 -  0.0000
-Bárbara
-	Total: 9 -  2
-	Frequencia Absluta: 4.7814 -  2.4492
-	Frequencia Logaritmica: 0.9542 -  0.3010
-Caetano
-	Total: 28 -  1
-	Frequencia Absluta: 14.8754 -  1.2246
-	Frequencia Logaritmica: 1.4472 -  0.0000
-Carlos
-	Total: 96 -  7
-	Frequencia Absluta: 51.0014 -  8.5720
-	Frequencia Logaritmica: 1.9823 -  0.8451
-Carlos Alexandre
-	Total: 8 -  5
-	Frequencia Absluta: 4.2501 -  6.1229
-	Frequencia Logaritmica: 0.9031 -  0.6990
-Carlos Eduardo
-	Total: 2 -  1
-	Frequencia Absluta: 1.0625 -  1.2246
-	Frequencia Logaritmica: 0.3010 -  0.0000
-Carlota
-	Total: 20 -  1
-	Frequencia Absluta: 10.6253 -  1.2246
-	Frequencia Logaritmica: 1.3010 -  0.0000
-Carol
-	Total: 19 -  5
-	Frequencia Absluta: 10.0940 -  6.1229
-	Frequencia Logaritmica: 1.2788 -  0.6990
-Carolina
-	Total: 148 -  2
-	Frequencia Absluta: 78.6271 -  2.4492
-	Frequencia Logaritmica: 2.1703 -  0.3010
-Catarina
-	Total: 1 -  3
-	Frequencia Absluta: 0.5313 -  3.6737
-	Frequencia Logaritmica: 0.0000 -  0.4771
-Cinderela
-	Total: 1 -  1
-	Frequencia Absluta: 0.5313 -  1.2246
-	Frequencia Logaritmica: 0.0000 -  0.0000
-Clara
-	Total: 8 -  3
-	Frequencia Absluta: 4.2501 -  3.6737
-	Frequencia Logaritmica: 0.9031 -  0.4771
-Cláudia
-	Total: 17 -  3
-	Frequencia Absluta: 9.0315 -  3.6737
-	Frequencia Logaritmica: 1.2304 -  0.4771
-Cláudio
-	Total: 36 -  1
-	Frequencia Absluta: 19.1255 -  1.2246
-	Frequencia Logaritmica: 1.5563 -  0.0000
-Cosme
-	Total: 9 -  2
-	Frequencia Absluta: 4.7814 -  2.4492
-	Frequencia Logaritmica: 0.9542 -  0.3010
-Cristiano
-	Total: 20 -  5
-	Frequencia Absluta: 10.6253 -  6.1229
-	Frequencia Logaritmica: 1.3010 -  0.6990
-Cristiano Ronaldo
-	Total: 46 -  50
-	Frequencia Absluta: 24.4381 -  61.2288
-	Frequencia Logaritmica: 1.6628 -  1.6990
-Cássio
-	Total: 24 -  4
-	Frequencia Absluta: 12.7503 -  4.8983
-	Frequencia Logaritmica: 1.3802 -  0.6021
-Cândido
-	Total: 4 -  2
-	Frequencia Absluta: 2.1251 -  2.4492
-	Frequencia Logaritmica: 0.6021 -  0.3010
-Cícero
-	Total: 15 -  2
-	Frequencia Absluta: 7.9690 -  2.4492
-	Frequencia Logaritmica: 1.1761 -  0.3010
-Danilo
-	Total: 51 -  25
-	Frequencia Absluta: 27.0945 -  30.6144
-	Frequencia Logaritmica: 1.7076 -  1.3979
-David
-	Total: 180 -  3
-	Frequencia Absluta: 95.6275 -  3.6737
-	Frequencia Logaritmica: 2.2553 -  0.4771
-David Ferrer
-	Total: 8 -  1
-	Frequencia Absluta: 4.2501 -  1.2246
-	Frequencia Logaritmica: 0.9031 -  0.0000
-Delfim
-	Total: 9 -  1
-	Frequencia Absluta: 4.7814 -  1.2246
-	Frequencia Logaritmica: 0.9542 -  0.0000
-Diana
-	Total: 3 -  8
-	Frequencia Absluta: 1.5938 -  9.7966
-	Frequencia Logaritmica: 0.4771 -  0.9031
-Diego
-	Total: 77 -  4
-	Frequencia Absluta: 40.9073 -  4.8983
-	Frequencia Logaritmica: 1.8865 -  0.6021
-Diogo
-	Total: 31 -  5
-	Frequencia Absluta: 16.4692 -  6.1229
-	Frequencia Logaritmica: 1.4914 -  0.6990
-Domingos
-	Total: 12 -  1
-	Frequencia Absluta: 6.3752 -  1.2246
-	Frequencia Logaritmica: 1.0792 -  0.0000
-Duarte
-	Total: 3 -  1
-	Frequencia Absluta: 1.5938 -  1.2246
-	Frequencia Logaritmica: 0.4771 -  0.0000
-Edgar
-	Total: 5 -  2
-	Frequencia Absluta: 2.6563 -  2.4492
-	Frequencia Logaritmica: 0.6990 -  0.3010
-Elisa
-	Total: 18 -  3
-	Frequencia Absluta: 9.5628 -  3.6737
-	Frequencia Logaritmica: 1.2553 -  0.4771
-Eliseu
-	Total: 9 -  15
-	Frequencia Absluta: 4.7814 -  18.3686
-	Frequencia Logaritmica: 0.9542 -  1.1761
-Emanuel
-	Total: 1 -  1
-	Frequencia Absluta: 0.5313 -  1.2246
-	Frequencia Logaritmica: 0.0000 -  0.0000
-Emília
-	Total: 2 -  3
-	Frequencia Absluta: 1.0625 -  3.6737
-	Frequencia Logaritmica: 0.3010 -  0.4771
-Eric
-	Total: 10 -  2
-	Frequencia Absluta: 5.3126 -  2.4492
-	Frequencia Logaritmica: 1.0000 -  0.3010
-Estrela
-	Total: 11 -  8
-	Frequencia Absluta: 5.8439 -  9.7966
-	Frequencia Logaritmica: 1.0414 -  0.9031
-Eva
-	Total: 15 -  1
-	Frequencia Absluta: 7.9690 -  1.2246
-	Frequencia Logaritmica: 1.1761 -  0.0000
-Evandro
-	Total: 11 -  11
-	Frequencia Absluta: 5.8439 -  13.4703
-	Frequencia Logaritmica: 1.0414 -  1.0414
-Fabiano
-	Total: 18 -  3
-	Frequencia Absluta: 9.5628 -  3.6737
-	Frequencia Logaritmica: 1.2553 -  0.4771
-Felicidade
-	Total: 3 -  1
-	Frequencia Absluta: 1.5938 -  1.2246
-	Frequencia Logaritmica: 0.4771 -  0.0000
-Feliz
-	Total: 3 -  2
-	Frequencia Absluta: 1.5938 -  2.4492
-	Frequencia Logaritmica: 0.4771 -  0.3010
-Filipe
-	Total: 19 -  2
-	Frequencia Absluta: 10.0940 -  2.4492
-	Frequencia Logaritmica: 1.2788 -  0.3010
-Filipe Luís
-	Total: 8 -  1
-	Frequencia Absluta: 4.2501 -  1.2246
-	Frequencia Logaritmica: 0.9031 -  0.0000
-Florentino
-	Total: 3 -  1
-	Frequencia Absluta: 1.5938 -  1.2246
-	Frequencia Logaritmica: 0.4771 -  0.0000
-Florença
-	Total: 14 -  4
-	Frequencia Absluta: 7.4377 -  4.8983
-	Frequencia Logaritmica: 1.1461 -  0.6021
-Francisco
-	Total: 592 -  61
-	Frequencia Absluta: 314.5083 -  74.6992
-	Frequencia Logaritmica: 2.7723 -  1.7853
-Gustavo
-	Total: 80 -  1
-	Frequencia Absluta: 42.5011 -  1.2246
-	Frequencia Logaritmica: 1.9031 -  0.0000
-Gustavo Rodrigues
-	Total: 1 -  1
-	Frequencia Absluta: 0.5313 -  1.2246
-	Frequencia Logaritmica: 0.0000 -  0.0000
-Hamilton
-	Total: 24 -  11
-	Frequencia Absluta: 12.7503 -  13.4703
-	Frequencia Logaritmica: 1.3802 -  1.0414
-Helena
-	Total: 12 -  4
-	Frequencia Absluta: 6.3752 -  4.8983
-	Frequencia Logaritmica: 1.0792 -  0.6021
-Henrique
-	Total: 62 -  5
-	Frequencia Absluta: 32.9384 -  6.1229
-	Frequencia Logaritmica: 1.7924 -  0.6990
-India
-	Total: 2 -  1
-	Frequencia Absluta: 1.0625 -  1.2246
-	Frequencia Logaritmica: 0.3010 -  0.0000
-Infante
-	Total: 9 -  2
-	Frequencia Absluta: 4.7814 -  2.4492
-	Frequencia Logaritmica: 0.9542 -  0.3010
-Inês
-	Total: 1 -  1
-	Frequencia Absluta: 0.5313 -  1.2246
-	Frequencia Logaritmica: 0.0000 -  0.0000
-Isabel
-	Total: 12 -  9
-	Frequencia Absluta: 6.3752 -  11.0212
-	Frequencia Logaritmica: 1.0792 -  0.9542
-Ivo
-	Total: 4 -  6
-	Frequencia Absluta: 2.1251 -  7.3475
-	Frequencia Logaritmica: 0.6021 -  0.7782
-James
-	Total: 37 -  5
-	Frequencia Absluta: 19.6568 -  6.1229
-	Frequencia Logaritmica: 1.5682 -  0.6990
-Jardel
-	Total: 1 -  17
-	Frequencia Absluta: 0.5313 -  20.8178
-	Frequencia Logaritmica: 0.0000 -  1.2304
-Jesus
-	Total: 61 -  32
-	Frequencia Absluta: 32.4071 -  39.1864
-	Frequencia Logaritmica: 1.7853 -  1.5051
-Joana
-	Total: 12 -  1
-	Frequencia Absluta: 6.3752 -  1.2246
-	Frequencia Logaritmica: 1.0792 -  0.0000
-Jonas
-	Total: 14 -  44
-	Frequencia Absluta: 7.4377 -  53.8814
-	Frequencia Logaritmica: 1.1461 -  1.6435
-Jorge
-	Total: 132 -  6
-	Frequencia Absluta: 70.1269 -  7.3475
-	Frequencia Logaritmica: 2.1206 -  0.7782
-Josué
-	Total: 2 -  4
-	Frequencia Absluta: 1.0625 -  4.8983
-	Frequencia Logaritmica: 0.3010 -  0.6021
-José
-	Total: 125 -  20
-	Frequencia Absluta: 66.4080 -  24.4915
-	Frequencia Logaritmica: 2.0969 -  1.3010
-José Eduardo
-	Total: 1 -  4
-	Frequencia Absluta: 0.5313 -  4.8983
-	Frequencia Logaritmica: 0.0000 -  0.6021
-João
-	Total: 131 -  10
-	Frequencia Absluta: 69.5956 -  12.2458
-	Frequencia Logaritmica: 2.1173 -  1.0000
-João Paulo
-	Total: 35 -  1
-	Frequencia Absluta: 18.5942 -  1.2246
-	Frequencia Logaritmica: 1.5441 -  0.0000
-Juliana
-	Total: 28 -  1
-	Frequencia Absluta: 14.8754 -  1.2246
-	Frequencia Logaritmica: 1.4472 -  0.0000
-Juno
-	Total: 3 -  1
-	Frequencia Absluta: 1.5938 -  1.2246
-	Frequencia Logaritmica: 0.4771 -  0.0000
-Kelly
-	Total: 24 -  2
-	Frequencia Absluta: 12.7503 -  2.4492
-	Frequencia Logaritmica: 1.3802 -  0.3010
-Laura
-	Total: 46 -  1
-	Frequencia Absluta: 24.4381 -  1.2246
-	Frequencia Logaritmica: 1.6628 -  0.0000
-Leila
-	Total: 13 -  1
-	Frequencia Absluta: 6.9064 -  1.2246
-	Frequencia Logaritmica: 1.1139 -  0.0000
-Leo
-	Total: 8 -  3
-	Frequencia Absluta: 4.2501 -  3.6737
-	Frequencia Logaritmica: 0.9031 -  0.4771
-Liberdade
-	Total: 24 -  4
-	Frequencia Absluta: 12.7503 -  4.8983
-	Frequencia Logaritmica: 1.3802 -  0.6021
-Liz
-	Total: 2 -  1
-	Frequencia Absluta: 1.0625 -  1.2246
-	Frequencia Logaritmica: 0.3010 -  0.0000
-Lucas
-	Total: 110 -  8
-	Frequencia Absluta: 58.4391 -  9.7966
-	Frequencia Logaritmica: 2.0414 -  0.9031
-Luciana
-	Total: 15 -  4
-	Frequencia Absluta: 7.9690 -  4.8983
-	Frequencia Logaritmica: 1.1761 -  0.6021
-Luna
-	Total: 7 -  2
-	Frequencia Absluta: 3.7188 -  2.4492
-	Frequencia Logaritmica: 0.8451 -  0.3010
-Lusa
-	Total: 4 -  484
-	Frequencia Absluta: 2.1251 -  592.6949
-	Frequencia Logaritmica: 0.6021 -  2.6848
-Luís
-	Total: 22 -  7
-	Frequencia Absluta: 11.6878 -  8.5720
-	Frequencia Logaritmica: 1.3424 -  0.8451
-Lígia
-	Total: 7 -  5
-	Frequencia Absluta: 3.7188 -  6.1229
-	Frequencia Logaritmica: 0.8451 -  0.6990
-Lúcio
-	Total: 1 -  1
-	Frequencia Absluta: 0.5313 -  1.2246
-	Frequencia Logaritmica: 0.0000 -  0.0000
-Marcelo
-	Total: 256 -  15
-	Frequencia Absluta: 136.0036 -  18.3686
-	Frequencia Logaritmica: 2.4082 -  1.1761
-Maria
-	Total: 159 -  15
-	Frequencia Absluta: 84.4710 -  18.3686
-	Frequencia Logaritmica: 2.2014 -  1.1761
-Maria Inês
-	Total: 4 -  2
-	Frequencia Absluta: 2.1251 -  2.4492
-	Frequencia Logaritmica: 0.6021 -  0.3010
-Maria José
-	Total: 2 -  2
-	Frequencia Absluta: 1.0625 -  2.4492
-	Frequencia Logaritmica: 0.3010 -  0.3010
-Mariana
-	Total: 34 -  1
-	Frequencia Absluta: 18.0630 -  1.2246
-	Frequencia Logaritmica: 1.5315 -  0.0000
-Mariano
-	Total: 12 -  1
-	Frequencia Absluta: 6.3752 -  1.2246
-	Frequencia Logaritmica: 1.0792 -  0.0000
-Marina
-	Total: 30 -  7
-	Frequencia Absluta: 15.9379 -  8.5720
-	Frequencia Logaritmica: 1.4771 -  0.8451
-Marisa
-	Total: 15 -  2
-	Frequencia Absluta: 7.9690 -  2.4492
-	Frequencia Logaritmica: 1.1761 -  0.3010
-Marlene
-	Total: 7 -  1
-	Frequencia Absluta: 3.7188 -  1.2246
-	Frequencia Logaritmica: 0.8451 -  0.0000
-Marta
-	Total: 12 -  1
-	Frequencia Absluta: 6.3752 -  1.2246
-	Frequencia Logaritmica: 1.0792 -  0.0000
-Mauro
-	Total: 37 -  1
-	Frequencia Absluta: 19.6568 -  1.2246
-	Frequencia Logaritmica: 1.5682 -  0.0000
-Mercedes
-	Total: 11 -  18
-	Frequencia Absluta: 5.8439 -  22.0424
-	Frequencia Logaritmica: 1.0414 -  1.2553
-Miguel
-	Total: 54 -  5
-	Frequencia Absluta: 28.6883 -  6.1229
-	Frequencia Logaritmica: 1.7324 -  0.6990
-Mário
-	Total: 20 -  1
-	Frequencia Absluta: 10.6253 -  1.2246
-	Frequencia Logaritmica: 1.3010 -  0.0000
-Nascimento
-	Total: 20 -  1
-	Frequencia Absluta: 10.6253 -  1.2246
-	Frequencia Logaritmica: 1.3010 -  0.0000
-Nuno
-	Total: 4 -  24
-	Frequencia Absluta: 2.1251 -  29.3898
-	Frequencia Logaritmica: 0.6021 -  1.3802
-Osvaldo
-	Total: 13 -  11
-	Frequencia Absluta: 6.9064 -  13.4703
-	Frequencia Logaritmica: 1.1139 -  1.0414
-Patrício
-	Total: 3 -  1
-	Frequencia Absluta: 1.5938 -  1.2246
-	Frequencia Logaritmica: 0.4771 -  0.0000
-Paulo
-	Total: 281 -  1
-	Frequencia Absluta: 149.2852 -  1.2246
-	Frequencia Logaritmica: 2.4487 -  0.0000
-Paulo Henrique
-	Total: 14 -  1
-	Frequencia Absluta: 7.4377 -  1.2246
-	Frequencia Logaritmica: 1.1461 -  0.0000
-Paulo Sérgio
-	Total: 2 -  1
-	Frequencia Absluta: 1.0625 -  1.2246
-	Frequencia Logaritmica: 0.3010 -  0.0000
-Pedro
-	Total: 116 -  6
-	Frequencia Absluta: 61.6266 -  7.3475
-	Frequencia Logaritmica: 2.0645 -  0.7782
-Pinto
-	Total: 3 -  5
-	Frequencia Absluta: 1.5938 -  6.1229
-	Frequencia Logaritmica: 0.4771 -  0.6990
-Ricardo
-	Total: 33 -  18
-	Frequencia Absluta: 17.5317 -  22.0424
-	Frequencia Logaritmica: 1.5185 -  1.2553
-Ricardo Gomes
-	Total: 6 -  1
-	Frequencia Absluta: 3.1876 -  1.2246
-	Frequencia Logaritmica: 0.7782 -  0.0000
-Rita
-	Total: 27 -  7
-	Frequencia Absluta: 14.3441 -  8.5720
-	Frequencia Logaritmica: 1.4314 -  0.8451
-Rodrigo
-	Total: 126 -  2
-	Frequencia Absluta: 66.9393 -  2.4492
-	Frequencia Logaritmica: 2.1004 -  0.3010
-Rodrigues
-	Total: 20 -  2
-	Frequencia Absluta: 10.6253 -  2.4492
-	Frequencia Logaritmica: 1.3010 -  0.3010
-Ronaldo
-	Total: 23 -  23
-	Frequencia Absluta: 12.2191 -  28.1653
-	Frequencia Logaritmica: 1.3617 -  1.3617
-Rosa
-	Total: 42 -  1
-	Frequencia Absluta: 22.3131 -  1.2246
-	Frequencia Logaritmica: 1.6232 -  0.0000
-Rosana
-	Total: 10 -  2
-	Frequencia Absluta: 5.3126 -  2.4492
-	Frequencia Logaritmica: 1.0000 -  0.3010
-Rui
-	Total: 4 -  4
-	Frequencia Absluta: 2.1251 -  4.8983
-	Frequencia Logaritmica: 0.6021 -  0.6021
-Samir
-	Total: 3 -  1
-	Frequencia Absluta: 1.5938 -  1.2246
-	Frequencia Logaritmica: 0.4771 -  0.0000
-Sandra
-	Total: 13 -  4
-	Frequencia Absluta: 6.9064 -  4.8983
-	Frequencia Logaritmica: 1.1139 -  0.6021
-Sara
-	Total: 4 -  1
-	Frequencia Absluta: 2.1251 -  1.2246
-	Frequencia Logaritmica: 0.6021 -  0.0000
-Silvério
-	Total: 1 -  1
-	Frequencia Absluta: 0.5313 -  1.2246
-	Frequencia Logaritmica: 0.0000 -  0.0000
-Simone
-	Total: 18 -  1
-	Frequencia Absluta: 9.5628 -  1.2246
-	Frequencia Logaritmica: 1.2553 -  0.0000
-Sofia
-	Total: 3 -  2
-	Frequencia Absluta: 1.5938 -  2.4492
-	Frequencia Logaritmica: 0.4771 -  0.3010
-Sol
-	Total: 76 -  9
-	Frequencia Absluta: 40.3761 -  11.0212
-	Frequencia Logaritmica: 1.8808 -  0.9542
-Susana
-	Total: 17 -  7
-	Frequencia Absluta: 9.0315 -  8.5720
-	Frequencia Logaritmica: 1.2304 -  0.8451
-Sílvio
-	Total: 2 -  5
-	Frequencia Absluta: 1.0625 -  6.1229
-	Frequencia Logaritmica: 0.3010 -  0.6990
-Sócrates
-	Total: 2 -  28
-	Frequencia Absluta: 1.0625 -  34.2881
-	Frequencia Logaritmica: 0.3010 -  1.4472
-Tiago
-	Total: 26 -  6
-	Frequencia Absluta: 13.8129 -  7.3475
-	Frequencia Logaritmica: 1.4150 -  0.7782
-Tiago Rodrigues
-	Total: 1 -  1
-	Frequencia Absluta: 0.5313 -  1.2246
-	Frequencia Logaritmica: 0.0000 -  0.0000
-Toni
-	Total: 3 -  6
-	Frequencia Absluta: 1.5938 -  7.3475
-	Frequencia Logaritmica: 0.4771 -  0.7782
-Tânia
-	Total: 1 -  3
-	Frequencia Absluta: 0.5313 -  3.6737
-	Frequencia Logaritmica: 0.0000 -  0.4771
-Valentim
-	Total: 3 -  2
-	Frequencia Absluta: 1.5938 -  2.4492
-	Frequencia Logaritmica: 0.4771 -  0.3010
-Valéria
-	Total: 14 -  3
-	Frequencia Absluta: 7.4377 -  3.6737
-	Frequencia Logaritmica: 1.1461 -  0.4771
-Vanessa
-	Total: 8 -  1
-	Frequencia Absluta: 4.2501 -  1.2246
-	Frequencia Logaritmica: 0.9031 -  0.0000
-Vida
-	Total: 23 -  13
-	Frequencia Absluta: 12.2191 -  15.9195
-	Frequencia Logaritmica: 1.3617 -  1.1139
-Viriato
-	Total: 1 -  1
-	Frequencia Absluta: 0.5313 -  1.2246
-	Frequencia Logaritmica: 0.0000 -  0.0000
-Wilson
-	Total: 20 -  2
-	Frequencia Absluta: 10.6253 -  2.4492
-	Frequencia Logaritmica: 1.3010 -  0.3010
-Zara
-	Total: 1 -  1
-	Frequencia Absluta: 0.5313 -  1.2246
-	Frequencia Logaritmica: 0.0000 -  0.0000
-Zé
-	Total: 32 -  1
-	Frequencia Absluta: 17.0005 -  1.2246
-	Frequencia Logaritmica: 1.5051 -  0.0000
-Zé Gomes
-	Total: 1 -  1
-	Frequencia Absluta: 0.5313 -  1.2246
-	Frequencia Logaritmica: 0.0000 -  0.0000
+Adalberto,17, 1,9.0315, 1.2246,1.2304, 0.0000
+Adriana,19, 1,10.0940, 1.2246,1.2788, 0.0000
+Adriano,32, 2,17.0005, 2.4492,1.5051, 0.3010
+Adrien,1, 15,0.5313, 18.3686,0.0000, 1.1761
+Alan,36, 5,19.1255, 6.1229,1.5563, 0.6990
+Alberto,47, 2,24.9694, 2.4492,1.6721, 0.3010
+Alex,26, 18,13.8129, 22.0424,1.4150, 1.2553
+Alex Sandro,5, 1,2.6563, 1.2246,0.6990, 0.0000
+Alexandre,80, 2,42.5011, 2.4492,1.9031, 0.3010
+Alice,16, 3,8.5002, 3.6737,1.2041, 0.4771
+Alma,5, 1,2.6563, 1.2246,0.6990, 0.0000
+Amanda,10, 4,5.3126, 4.8983,1.0000, 0.6021
+Amaro,6, 5,3.1876, 6.1229,0.7782, 0.6990
+América,392, 9,208.2555, 11.0212,2.5933, 0.9542
+Ana,41, 1,21.7818, 1.2246,1.6128, 0.0000
+Ana Sofia,1, 5,0.5313, 6.1229,0.0000, 0.6990
+Andrea,33, 5,17.5317, 6.1229,1.5185, 0.6990
+André,114, 3,60.5641, 3.6737,2.0569, 0.4771
+Angel,10, 4,5.3126, 4.8983,1.0000, 0.6021
+Aristóteles,4, 1,2.1251, 1.2246,0.6021, 0.0000
+Artur,6, 1,3.1876, 1.2246,0.7782, 0.0000
+Assis,17, 1,9.0315, 1.2246,1.2304, 0.0000
+Beatriz,9, 6,4.7814, 7.3475,0.9542, 0.7782
+Bela,10, 1,5.3126, 1.2246,1.0000, 0.0000
+Beto,8, 2,4.2501, 2.4492,0.9031, 0.3010
+Bruce,6, 1,3.1876, 1.2246,0.7782, 0.0000
+Bárbara,9, 2,4.7814, 2.4492,0.9542, 0.3010
+Caetano,28, 1,14.8754, 1.2246,1.4472, 0.0000
+Carlos,96, 7,51.0014, 8.5720,1.9823, 0.8451
+Carlos Alexandre,8, 5,4.2501, 6.1229,0.9031, 0.6990
+Carlos Eduardo,2, 1,1.0625, 1.2246,0.3010, 0.0000
+Carlota,20, 1,10.6253, 1.2246,1.3010, 0.0000
+Carol,19, 5,10.0940, 6.1229,1.2788, 0.6990
+Carolina,148, 2,78.6271, 2.4492,2.1703, 0.3010
+Catarina,1, 3,0.5313, 3.6737,0.0000, 0.4771
+Cinderela,1, 1,0.5313, 1.2246,0.0000, 0.0000
+Clara,8, 3,4.2501, 3.6737,0.9031, 0.4771
+Cláudia,17, 3,9.0315, 3.6737,1.2304, 0.4771
+Cláudio,36, 1,19.1255, 1.2246,1.5563, 0.0000
+Cosme,9, 2,4.7814, 2.4492,0.9542, 0.3010
+Cristiano,20, 5,10.6253, 6.1229,1.3010, 0.6990
+Cristiano Ronaldo,46, 50,24.4381, 61.2288,1.6628, 1.6990
+Cássio,24, 4,12.7503, 4.8983,1.3802, 0.6021
+Cândido,4, 2,2.1251, 2.4492,0.6021, 0.3010
+Cícero,15, 2,7.9690, 2.4492,1.1761, 0.3010
+Danilo,51, 25,27.0945, 30.6144,1.7076, 1.3979
+David,180, 3,95.6275, 3.6737,2.2553, 0.4771
+David Ferrer,8, 1,4.2501, 1.2246,0.9031, 0.0000
+Delfim,9, 1,4.7814, 1.2246,0.9542, 0.0000
+Diana,3, 8,1.5938, 9.7966,0.4771, 0.9031
+Diego,77, 4,40.9073, 4.8983,1.8865, 0.6021
+Diogo,31, 5,16.4692, 6.1229,1.4914, 0.6990
+Domingos,12, 1,6.3752, 1.2246,1.0792, 0.0000
+Duarte,3, 1,1.5938, 1.2246,0.4771, 0.0000
+Edgar,5, 2,2.6563, 2.4492,0.6990, 0.3010
+Elisa,18, 3,9.5628, 3.6737,1.2553, 0.4771
+Eliseu,9, 15,4.7814, 18.3686,0.9542, 1.1761
+Emanuel,1, 1,0.5313, 1.2246,0.0000, 0.0000
+Emília,2, 3,1.0625, 3.6737,0.3010, 0.4771
+Eric,10, 2,5.3126, 2.4492,1.0000, 0.3010
+Estrela,11, 8,5.8439, 9.7966,1.0414, 0.9031
+Eva,15, 1,7.9690, 1.2246,1.1761, 0.0000
+Evandro,11, 11,5.8439, 13.4703,1.0414, 1.0414
+Fabiano,18, 3,9.5628, 3.6737,1.2553, 0.4771
+Felicidade,3, 1,1.5938, 1.2246,0.4771, 0.0000
+Feliz,3, 2,1.5938, 2.4492,0.4771, 0.3010
+Filipe,19, 2,10.0940, 2.4492,1.2788, 0.3010
+Filipe Luís,8, 1,4.2501, 1.2246,0.9031, 0.0000
+Florentino,3, 1,1.5938, 1.2246,0.4771, 0.0000
+Florença,14, 4,7.4377, 4.8983,1.1461, 0.6021
+Francisco,592, 61,314.5083, 74.6992,2.7723, 1.7853
+Gustavo,80, 1,42.5011, 1.2246,1.9031, 0.0000
+Gustavo Rodrigues,1, 1,0.5313, 1.2246,0.0000, 0.0000
+Hamilton,24, 11,12.7503, 13.4703,1.3802, 1.0414
+Helena,12, 4,6.3752, 4.8983,1.0792, 0.6021
+Henrique,62, 5,32.9384, 6.1229,1.7924, 0.6990
+India,2, 1,1.0625, 1.2246,0.3010, 0.0000
+Infante,9, 2,4.7814, 2.4492,0.9542, 0.3010
+Inês,1, 1,0.5313, 1.2246,0.0000, 0.0000
+Isabel,12, 9,6.3752, 11.0212,1.0792, 0.9542
+Ivo,4, 6,2.1251, 7.3475,0.6021, 0.7782
+James,37, 5,19.6568, 6.1229,1.5682, 0.6990
+Jardel,1, 17,0.5313, 20.8178,0.0000, 1.2304
+Jesus,61, 32,32.4071, 39.1864,1.7853, 1.5051
+Joana,12, 1,6.3752, 1.2246,1.0792, 0.0000
+Jonas,14, 44,7.4377, 53.8814,1.1461, 1.6435
+Jorge,132, 6,70.1269, 7.3475,2.1206, 0.7782
+Josué,2, 4,1.0625, 4.8983,0.3010, 0.6021
+José,125, 20,66.4080, 24.4915,2.0969, 1.3010
+José Eduardo,1, 4,0.5313, 4.8983,0.0000, 0.6021
+João,131, 10,69.5956, 12.2458,2.1173, 1.0000
+João Paulo,35, 1,18.5942, 1.2246,1.5441, 0.0000
+Juliana,28, 1,14.8754, 1.2246,1.4472, 0.0000
+Juno,3, 1,1.5938, 1.2246,0.4771, 0.0000
+Kelly,24, 2,12.7503, 2.4492,1.3802, 0.3010
+Laura,46, 1,24.4381, 1.2246,1.6628, 0.0000
+Leila,13, 1,6.9064, 1.2246,1.1139, 0.0000
+Leo,8, 3,4.2501, 3.6737,0.9031, 0.4771
+Liberdade,24, 4,12.7503, 4.8983,1.3802, 0.6021
+Liz,2, 1,1.0625, 1.2246,0.3010, 0.0000
+Lucas,110, 8,58.4391, 9.7966,2.0414, 0.9031
+Luciana,15, 4,7.9690, 4.8983,1.1761, 0.6021
+Luna,7, 2,3.7188, 2.4492,0.8451, 0.3010
+Lusa,4, 484,2.1251, 592.6949,0.6021, 2.6848
+Luís,22, 7,11.6878, 8.5720,1.3424, 0.8451
+Lígia,7, 5,3.7188, 6.1229,0.8451, 0.6990
+Lúcio,1, 1,0.5313, 1.2246,0.0000, 0.0000
+Marcelo,256, 15,136.0036, 18.3686,2.4082, 1.1761
+Maria,159, 15,84.4710, 18.3686,2.2014, 1.1761
+Maria Inês,4, 2,2.1251, 2.4492,0.6021, 0.3010
+Maria José,2, 2,1.0625, 2.4492,0.3010, 0.3010
+Mariana,34, 1,18.0630, 1.2246,1.5315, 0.0000
+Mariano,12, 1,6.3752, 1.2246,1.0792, 0.0000
+Marina,30, 7,15.9379, 8.5720,1.4771, 0.8451
+Marisa,15, 2,7.9690, 2.4492,1.1761, 0.3010
+Marlene,7, 1,3.7188, 1.2246,0.8451, 0.0000
+Marta,12, 1,6.3752, 1.2246,1.0792, 0.0000
+Mauro,37, 1,19.6568, 1.2246,1.5682, 0.0000
+Mercedes,11, 18,5.8439, 22.0424,1.0414, 1.2553
+Miguel,54, 5,28.6883, 6.1229,1.7324, 0.6990
+Mário,20, 1,10.6253, 1.2246,1.3010, 0.0000
+Nascimento,20, 1,10.6253, 1.2246,1.3010, 0.0000
+Nuno,4, 24,2.1251, 29.3898,0.6021, 1.3802
+Osvaldo,13, 11,6.9064, 13.4703,1.1139, 1.0414
+Patrício,3, 1,1.5938, 1.2246,0.4771, 0.0000
+Paulo,281, 1,149.2852, 1.2246,2.4487, 0.0000
+Paulo Henrique,14, 1,7.4377, 1.2246,1.1461, 0.0000
+Paulo Sérgio,2, 1,1.0625, 1.2246,0.3010, 0.0000
+Pedro,116, 6,61.6266, 7.3475,2.0645, 0.7782
+Pinto,3, 5,1.5938, 6.1229,0.4771, 0.6990
+Ricardo,33, 18,17.5317, 22.0424,1.5185, 1.2553
+Ricardo Gomes,6, 1,3.1876, 1.2246,0.7782, 0.0000
+Rita,27, 7,14.3441, 8.5720,1.4314, 0.8451
+Rodrigo,126, 2,66.9393, 2.4492,2.1004, 0.3010
+Rodrigues,20, 2,10.6253, 2.4492,1.3010, 0.3010
+Ronaldo,23, 23,12.2191, 28.1653,1.3617, 1.3617
+Rosa,42, 1,22.3131, 1.2246,1.6232, 0.0000
+Rosana,10, 2,5.3126, 2.4492,1.0000, 0.3010
+Rui,4, 4,2.1251, 4.8983,0.6021, 0.6021
+Samir,3, 1,1.5938, 1.2246,0.4771, 0.0000
+Sandra,13, 4,6.9064, 4.8983,1.1139, 0.6021
+Sara,4, 1,2.1251, 1.2246,0.6021, 0.0000
+Silvério,1, 1,0.5313, 1.2246,0.0000, 0.0000
+Simone,18, 1,9.5628, 1.2246,1.2553, 0.0000
+Sofia,3, 2,1.5938, 2.4492,0.4771, 0.3010
+Sol,76, 9,40.3761, 11.0212,1.8808, 0.9542
+Susana,17, 7,9.0315, 8.5720,1.2304, 0.8451
+Sílvio,2, 5,1.0625, 6.1229,0.3010, 0.6990
+Sócrates,2, 28,1.0625, 34.2881,0.3010, 1.4472
+Tiago,26, 6,13.8129, 7.3475,1.4150, 0.7782
+Tiago Rodrigues,1, 1,0.5313, 1.2246,0.0000, 0.0000
+Toni,3, 6,1.5938, 7.3475,0.4771, 0.7782
+Tânia,1, 3,0.5313, 3.6737,0.0000, 0.4771
+Valentim,3, 2,1.5938, 2.4492,0.4771, 0.3010
+Valéria,14, 3,7.4377, 3.6737,1.1461, 0.4771
+Vanessa,8, 1,4.2501, 1.2246,0.9031, 0.0000
+Vida,23, 13,12.2191, 15.9195,1.3617, 1.1139
+Viriato,1, 1,0.5313, 1.2246,0.0000, 0.0000
+Wilson,20, 2,10.6253, 2.4492,1.3010, 0.3010
+Zara,1, 1,0.5313, 1.2246,0.0000, 0.0000
+Zé,32, 1,17.0005, 1.2246,1.5051, 0.0000
+Zé Gomes,1, 1,0.5313, 1.2246,0.0000, 0.0000
 
 Total de Nomes em Comum entre os dois Grupos: 162

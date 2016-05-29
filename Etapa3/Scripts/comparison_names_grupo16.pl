@@ -73,10 +73,10 @@ my $tnomes = 0;
 foreach my $my_name (sort keys %my_hash){
   if(exists $his_hash{$my_name}){
     $tnomes++;
-    print "$my_name\n";
-    print "\tTotal: $my_hash{$my_name}{$total} - $his_hash{$my_name}{$total}\n";
-    print "\tFrequencia Absluta: $my_hash{$my_name}{$freq_abs} - $his_hash{$my_name}{$freq_abs}\n";
-    print "\tFrequencia Logaritmica: $my_hash{$my_name}{$freq_log} - $his_hash{$my_name}{$freq_log}\n";
+    print "$my_name,";
+    print "$my_hash{$my_name}{$total},$his_hash{$my_name}{$total},";
+    print "$my_hash{$my_name}{$freq_abs},$his_hash{$my_name}{$freq_abs},";
+    print "$my_hash{$my_name}{$freq_log},$his_hash{$my_name}{$freq_log}\n";
   }
 }
 

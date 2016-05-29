@@ -1,446 +1,113 @@
-Afeganistão
-	Total: 47 - 30
-	Frequencia Absluta: 24.9694 - 12.3712
-	Frequencia Logaritmica: 1.6721 - 2.5154
-Albânia
-	Total: 8 - 1
-	Frequencia Absluta: 4.2501 - 0.4124
-	Frequencia Logaritmica: 0.9031 - -0.8858
-Alemanha
-	Total: 296 - 165
-	Frequencia Absluta: 157.2542 - 68.0417
-	Frequencia Logaritmica: 2.4713 - 4.2201
-Andorra
-	Total: 4 - 2
-	Frequencia Absluta: 2.1251 - 0.8247
-	Frequencia Logaritmica: 0.6021 - -0.1927
-Angola
-	Total: 12 - 10211
-	Frequencia Absluta: 6.3752 - 4210.7477
-	Frequencia Logaritmica: 1.0792 - 8.3454
-Argentina
-	Total: 402 - 71
-	Frequencia Absluta: 213.5682 - 29.2785
-	Frequencia Logaritmica: 2.6042 - 3.3769
-Argélia
-	Total: 4 - 58
-	Frequencia Absluta: 2.1251 - 23.9177
-	Frequencia Logaritmica: 0.6021 - 3.1746
-Arábia Saudita
-	Total: 31 - 146
-	Frequencia Absluta: 16.4692 - 60.2066
-	Frequencia Logaritmica: 1.4914 - 4.0978
-Austrália
-	Total: 90 - 50
-	Frequencia Absluta: 47.8138 - 20.6187
-	Frequencia Logaritmica: 1.9542 - 3.0262
-Azerbaijão
-	Total: 5 - 10
-	Frequencia Absluta: 2.6563 - 4.1237
-	Frequencia Logaritmica: 0.6990 - 1.4168
-Bolívia
-	Total: 84 - 2
-	Frequencia Absluta: 44.6262 - 0.8247
-	Frequencia Logaritmica: 1.9243 - -0.1927
-Brasil
-	Total: 1927 - 663
-	Frequencia Absluta: 1023.7459 - 273.4038
-	Frequencia Logaritmica: 3.2849 - 5.6109
-Brunei
-	Total: 2 - 1
-	Frequencia Absluta: 1.0625 - 0.4124
-	Frequencia Logaritmica: 0.3010 - -0.8858
-Bulgária
-	Total: 4 - 3
-	Frequencia Absluta: 2.1251 - 1.2371
-	Frequencia Logaritmica: 0.6021 - 0.2128
-Bélgica
-	Total: 181 - 70
-	Frequencia Absluta: 96.1588 - 28.8662
-	Frequencia Logaritmica: 2.2577 - 3.3627
-Camarões
-	Total: 4 - 54
-	Frequencia Absluta: 2.1251 - 22.2682
-	Frequencia Logaritmica: 0.6021 - 3.1032
-Camboja
-	Total: 4 - 5
-	Frequencia Absluta: 2.1251 - 2.0619
-	Frequencia Logaritmica: 0.6021 - 0.7236
-Canadá
-	Total: 70 - 69
-	Frequencia Absluta: 37.1885 - 28.4538
-	Frequencia Logaritmica: 1.8451 - 3.3483
-Cazaquistão
-	Total: 6 - 4
-	Frequencia Absluta: 3.1876 - 1.6495
-	Frequencia Logaritmica: 0.7782 - 0.5005
-Chade
-	Total: 1 - 39
-	Frequencia Absluta: 0.5313 - 16.0826
-	Frequencia Logaritmica: 0.0000 - 2.7777
-Chile
-	Total: 79 - 24
-	Frequencia Absluta: 41.9699 - 9.8970
-	Frequencia Logaritmica: 1.8976 - 2.2922
-China
-	Total: 310 - 589
-	Frequencia Absluta: 164.6919 - 242.8881
-	Frequencia Logaritmica: 2.4914 - 5.4926
-Chipre
-	Total: 3 - 18
-	Frequencia Absluta: 1.5938 - 7.4227
-	Frequencia Logaritmica: 0.4771 - 2.0045
-Colômbia
-	Total: 126 - 33
-	Frequencia Absluta: 66.9393 - 13.6083
-	Frequencia Logaritmica: 2.1004 - 2.6107
-Costa Rica
-	Total: 16 - 7
-	Frequencia Absluta: 8.5002 - 2.8866
-	Frequencia Logaritmica: 1.2041 - 1.0601
-Costa do Marfim
-	Total: 25 - 49
-	Frequencia Absluta: 13.2816 - 20.2063
-	Frequencia Logaritmica: 1.3979 - 3.0060
-Croácia
-	Total: 25 - 8
-	Frequencia Absluta: 13.2816 - 3.2990
-	Frequencia Logaritmica: 1.3979 - 1.1936
-Cuba
-	Total: 415 - 247
-	Frequencia Absluta: 220.4746 - 101.8563
-	Frequencia Logaritmica: 2.6180 - 4.6236
-Dinamarca
-	Total: 25 - 12
-	Frequencia Absluta: 13.2816 - 4.9485
-	Frequencia Logaritmica: 1.3979 - 1.5991
-Equador
-	Total: 64 - 13
-	Frequencia Absluta: 34.0009 - 5.3609
-	Frequencia Logaritmica: 1.8062 - 1.6791
-Eslováquia
-	Total: 12 - 2
-	Frequencia Absluta: 6.3752 - 0.8247
-	Frequencia Logaritmica: 1.0792 - -0.1927
-Espanha
-	Total: 143 - 231
-	Frequencia Absluta: 75.9708 - 95.2583
-	Frequencia Logaritmica: 2.1553 - 4.5566
-Estados Unidos
-	Total: 997 - 362
-	Frequencia Absluta: 529.6703 - 149.2793
-	Frequencia Logaritmica: 2.9987 - 5.0058
-Etiópia
-	Total: 10 - 49
-	Frequencia Absluta: 5.3126 - 20.2063
-	Frequencia Logaritmica: 1.0000 - 3.0060
-Filipinas
-	Total: 24 - 14
-	Frequencia Absluta: 12.7503 - 5.7732
-	Frequencia Logaritmica: 1.3802 - 1.7532
-Finlândia
-	Total: 11 - 17
-	Frequencia Absluta: 5.8439 - 7.0104
-	Frequencia Logaritmica: 1.0414 - 1.9474
-França
-	Total: 358 - 227
-	Frequencia Absluta: 190.1925 - 93.6088
-	Frequencia Logaritmica: 2.5539 - 4.5391
-Gabão
-	Total: 1 - 75
-	Frequencia Absluta: 0.5313 - 30.9280
-	Frequencia Logaritmica: 0.0000 - 3.4317
-Gana
-	Total: 4 - 73
-	Frequencia Absluta: 2.1251 - 30.1033
-	Frequencia Logaritmica: 0.6021 - 3.4046
-Geórgia
-	Total: 5 - 11
-	Frequencia Absluta: 2.6563 - 4.5361
-	Frequencia Logaritmica: 0.6990 - 1.5121
-Granada
-	Total: 3 - 3
-	Frequencia Absluta: 1.5938 - 1.2371
-	Frequencia Logaritmica: 0.4771 - 0.2128
-Grécia
-	Total: 280 - 43
-	Frequencia Absluta: 148.7539 - 17.7321
-	Frequencia Logaritmica: 2.4472 - 2.8754
-Guiné
-	Total: 19 - 102
-	Frequencia Absluta: 10.0940 - 42.0621
-	Frequencia Logaritmica: 1.2788 - 3.7391
-Guiné Equatorial
-	Total: 5 - 202
-	Frequencia Absluta: 2.6563 - 83.2995
-	Frequencia Logaritmica: 0.6990 - 4.4224
-Haiti
-	Total: 45 - 10
-	Frequencia Absluta: 23.9069 - 4.1237
-	Frequencia Logaritmica: 1.6532 - 1.4168
-Honduras
-	Total: 19 - 3
-	Frequencia Absluta: 10.0940 - 1.2371
-	Frequencia Logaritmica: 1.2788 - 0.2128
-Hong Kong
-	Total: 26 - 58
-	Frequencia Absluta: 13.8129 - 23.9177
-	Frequencia Logaritmica: 1.4150 - 3.1746
-Hungria
-	Total: 43 - 15
-	Frequencia Absluta: 22.8444 - 6.1856
-	Frequencia Logaritmica: 1.6335 - 1.8222
-Indonésia
-	Total: 13 - 31
-	Frequencia Absluta: 6.9064 - 12.7836
-	Frequencia Logaritmica: 1.1139 - 2.5482
-Iraque
-	Total: 191 - 140
-	Frequencia Absluta: 101.4714 - 57.7323
-	Frequencia Logaritmica: 2.2810 - 4.0558
-Irlanda
-	Total: 11 - 5
-	Frequencia Absluta: 5.8439 - 2.0619
-	Frequencia Logaritmica: 1.0414 - 0.7236
-Islândia
-	Total: 2 - 13
-	Frequencia Absluta: 1.0625 - 5.3609
-	Frequencia Logaritmica: 0.3010 - 1.6791
-Israel
-	Total: 47 - 49
-	Frequencia Absluta: 24.9694 - 20.2063
-	Frequencia Logaritmica: 1.6721 - 3.0060
-Itália
-	Total: 790 - 114
-	Frequencia Absluta: 419.6986 - 47.0106
-	Frequencia Logaritmica: 2.8976 - 3.8504
-Jamaica
-	Total: 8 - 3
-	Frequencia Absluta: 4.2501 - 1.2371
-	Frequencia Logaritmica: 0.9031 - 0.2128
-Japão
-	Total: 122 - 92
-	Frequencia Absluta: 64.8142 - 37.9384
-	Frequencia Logaritmica: 2.0864 - 3.6360
-Jordânia
-	Total: 19 - 9
-	Frequencia Absluta: 10.0940 - 3.7114
-	Frequencia Logaritmica: 1.2788 - 1.3114
-Laos
-	Total: 3 - 2
-	Frequencia Absluta: 1.5938 - 0.8247
-	Frequencia Logaritmica: 0.4771 - -0.1927
-Libéria
-	Total: 8 - 48
-	Frequencia Absluta: 4.2501 - 19.7939
-	Frequencia Logaritmica: 0.9031 - 2.9854
-Lituânia
-	Total: 6 - 23
-	Frequencia Absluta: 3.1876 - 9.4846
-	Frequencia Logaritmica: 0.7782 - 2.2497
-Luxemburgo
-	Total: 6 - 21
-	Frequencia Absluta: 3.1876 - 8.6598
-	Frequencia Logaritmica: 0.7782 - 2.1587
-Líbano
-	Total: 28 - 24
-	Frequencia Absluta: 14.8754 - 9.8970
-	Frequencia Logaritmica: 1.4472 - 2.2922
-Líbia
-	Total: 155 - 124
-	Frequencia Absluta: 82.3459 - 51.1343
-	Frequencia Logaritmica: 2.1903 - 3.9345
-Macau
-	Total: 3 - 41
-	Frequencia Absluta: 1.5938 - 16.9073
-	Frequencia Logaritmica: 0.4771 - 2.8277
-Mali
-	Total: 13 - 48
-	Frequencia Absluta: 6.9064 - 19.7939
-	Frequencia Logaritmica: 1.1139 - 2.9854
-Malta
-	Total: 5 - 20
-	Frequencia Absluta: 2.6563 - 8.2475
-	Frequencia Logaritmica: 0.6990 - 2.1099
-Malásia
-	Total: 18 - 11
-	Frequencia Absluta: 9.5628 - 4.5361
-	Frequencia Logaritmica: 1.2553 - 1.5121
-Marrocos
-	Total: 7 - 70
-	Frequencia Absluta: 3.7188 - 28.8662
-	Frequencia Logaritmica: 0.8451 - 3.3627
-Mauritânia
-	Total: 2 - 11
-	Frequencia Absluta: 1.0625 - 4.5361
-	Frequencia Logaritmica: 0.3010 - 1.5121
-Mongólia
-	Total: 1 - 5
-	Frequencia Absluta: 0.5313 - 2.0619
-	Frequencia Logaritmica: 0.0000 - 0.7236
-Montenegro
-	Total: 2 - 13
-	Frequencia Absluta: 1.0625 - 5.3609
-	Frequencia Logaritmica: 0.3010 - 1.6791
-Moçambique
-	Total: 30 - 713
-	Frequencia Absluta: 15.9379 - 294.0224
-	Frequencia Logaritmica: 1.4771 - 5.6837
-México
-	Total: 255 - 50
-	Frequencia Absluta: 135.4723 - 20.6187
-	Frequencia Logaritmica: 2.4065 - 3.0262
-Namíbia
-	Total: 1 - 133
-	Frequencia Absluta: 0.5313 - 54.8457
-	Frequencia Logaritmica: 0.0000 - 4.0045
-Nepal
-	Total: 4 - 4
-	Frequencia Absluta: 2.1251 - 1.6495
-	Frequencia Logaritmica: 0.6021 - 0.5005
-Nicarágua
-	Total: 14 - 1
-	Frequencia Absluta: 7.4377 - 0.4124
-	Frequencia Logaritmica: 1.1461 - -0.8858
-Nigéria
-	Total: 31 - 208
-	Frequencia Absluta: 16.4692 - 85.7737
-	Frequencia Logaritmica: 1.4914 - 4.4517
-Noruega
-	Total: 4 - 29
-	Frequencia Absluta: 2.1251 - 11.9588
-	Frequencia Logaritmica: 0.6021 - 2.4815
-Nova Zelândia
-	Total: 10 - 10
-	Frequencia Absluta: 5.3126 - 4.1237
-	Frequencia Logaritmica: 1.0000 - 1.4168
-Níger
-	Total: 6 - 23
-	Frequencia Absluta: 3.1876 - 9.4846
-	Frequencia Logaritmica: 0.7782 - 2.2497
-Panamá
-	Total: 20 - 82
-	Frequencia Absluta: 10.6253 - 33.8146
-	Frequencia Logaritmica: 1.3010 - 3.5209
-Paquistão
-	Total: 19 - 25
-	Frequencia Absluta: 10.0940 - 10.3093
-	Frequencia Logaritmica: 1.2788 - 2.3331
-Paraguai
-	Total: 73 - 4
-	Frequencia Absluta: 38.7823 - 1.6495
-	Frequencia Logaritmica: 1.8633 - 0.5005
-Peru
-	Total: 64 - 14
-	Frequencia Absluta: 34.0009 - 5.7732
-	Frequencia Logaritmica: 1.8062 - 1.7532
-Porto Rico
-	Total: 25 - 7
-	Frequencia Absluta: 13.2816 - 2.8866
-	Frequencia Logaritmica: 1.3979 - 1.0601
-Portugal
-	Total: 58 - 2219
-	Frequencia Absluta: 30.8133 - 915.0572
-	Frequencia Logaritmica: 1.7634 - 6.8190
-República Dominicana
-	Total: 14 - 7
-	Frequencia Absluta: 7.4377 - 2.8866
-	Frequencia Logaritmica: 1.1461 - 1.0601
-Ruanda
-	Total: 2 - 53
-	Frequencia Absluta: 1.0625 - 21.8558
-	Frequencia Logaritmica: 0.3010 - 3.0845
-Senegal
-	Total: 16 - 70
-	Frequencia Absluta: 8.5002 - 28.8662
-	Frequencia Logaritmica: 1.2041 - 3.3627
-Somália
-	Total: 14 - 55
-	Frequencia Absluta: 7.4377 - 22.6806
-	Frequencia Logaritmica: 1.1461 - 3.1215
-Sri Lanka
-	Total: 4 - 4
-	Frequencia Absluta: 2.1251 - 1.6495
-	Frequencia Logaritmica: 0.6021 - 0.5005
-Sudão
-	Total: 3 - 120
-	Frequencia Absluta: 1.5938 - 49.4848
-	Frequencia Logaritmica: 0.4771 - 3.9017
-Suécia
-	Total: 52 - 16
-	Frequencia Absluta: 27.6257 - 6.5980
-	Frequencia Logaritmica: 1.7160 - 1.8868
-Suíça
-	Total: 85 - 83
-	Frequencia Absluta: 45.1574 - 34.2270
-	Frequencia Logaritmica: 1.9294 - 3.5330
-Sérvia
-	Total: 31 - 17
-	Frequencia Absluta: 16.4692 - 7.0104
-	Frequencia Logaritmica: 1.4914 - 1.9474
-Síria
-	Total: 460 - 203
-	Frequencia Absluta: 244.3815 - 83.7119
-	Frequencia Logaritmica: 2.6628 - 4.4274
-Tailândia
-	Total: 27 - 6
-	Frequencia Absluta: 14.3441 - 2.4742
-	Frequencia Logaritmica: 1.4314 - 0.9059
-Taiwan
-	Total: 42 - 8
-	Frequencia Absluta: 22.3131 - 3.2990
-	Frequencia Logaritmica: 1.6232 - 1.1936
-Tanzânia
-	Total: 1 - 49
-	Frequencia Absluta: 0.5313 - 20.2063
-	Frequencia Logaritmica: 0.0000 - 3.0060
-Timor Leste
-	Total: 2 - 10
-	Frequencia Absluta: 1.0625 - 4.1237
-	Frequencia Logaritmica: 0.3010 - 1.4168
-Togo
-	Total: 1 - 18
-	Frequencia Absluta: 0.5313 - 7.4227
-	Frequencia Logaritmica: 0.0000 - 2.0045
-Tunísia
-	Total: 16 - 85
-	Frequencia Absluta: 8.5002 - 35.0518
-	Frequencia Logaritmica: 1.2041 - 3.5568
-Turquia
-	Total: 344 - 119
-	Frequencia Absluta: 182.7548 - 49.0725
-	Frequencia Logaritmica: 2.5366 - 3.8933
-Ucrânia
-	Total: 34 - 45
-	Frequencia Absluta: 18.0630 - 18.5568
-	Frequencia Logaritmica: 1.5315 - 2.9208
-Uganda
-	Total: 22 - 41
-	Frequencia Absluta: 11.6878 - 16.9073
-	Frequencia Logaritmica: 1.3424 - 2.8277
-Uruguai
-	Total: 88 - 10
-	Frequencia Absluta: 46.7512 - 4.1237
-	Frequencia Logaritmica: 1.9445 - 1.4168
-Vaticano
-	Total: 208 - 27
-	Frequencia Absluta: 110.5029 - 11.1341
-	Frequencia Logaritmica: 2.3181 - 2.4100
-Venezuela
-	Total: 198 - 62
-	Frequencia Absluta: 105.1903 - 25.5672
-	Frequencia Logaritmica: 2.2967 - 3.2413
-África do Sul
-	Total: 29 - 282
-	Frequencia Absluta: 15.4067 - 116.2894
-	Frequencia Logaritmica: 1.4624 - 4.7561
-Áustria
-	Total: 80 - 23
-	Frequencia Absluta: 42.5011 - 9.4846
-	Frequencia Logaritmica: 1.9031 - 2.2497
-Índia
-	Total: 58 - 51
-	Frequencia Absluta: 30.8133 - 21.0311
-	Frequencia Logaritmica: 1.7634 - 3.0460
+Afeganistão,47,30,24.9694,12.3712,1.6721,2.5154
+Albânia,8,1,4.2501,0.4124,0.9031,-0.8858
+Alemanha,296,165,157.2542,68.0417,2.4713,4.2201
+Andorra,4,2,2.1251,0.8247,0.6021,-0.1927
+Angola,12,10211,6.3752,4210.7477,1.0792,8.3454
+Argentina,402,71,213.5682,29.2785,2.6042,3.3769
+Argélia,4,58,2.1251,23.9177,0.6021,3.1746
+Arábia Saudita,31,146,16.4692,60.2066,1.4914,4.0978
+Austrália,90,50,47.8138,20.6187,1.9542,3.0262
+Azerbaijão,5,10,2.6563,4.1237,0.6990,1.4168
+Bolívia,84,2,44.6262,0.8247,1.9243,-0.1927
+Brasil,1927,663,1023.7459,273.4038,3.2849,5.6109
+Brunei,2,1,1.0625,0.4124,0.3010,-0.8858
+Bulgária,4,3,2.1251,1.2371,0.6021,0.2128
+Bélgica,181,70,96.1588,28.8662,2.2577,3.3627
+Camarões,4,54,2.1251,22.2682,0.6021,3.1032
+Camboja,4,5,2.1251,2.0619,0.6021,0.7236
+Canadá,70,69,37.1885,28.4538,1.8451,3.3483
+Cazaquistão,6,4,3.1876,1.6495,0.7782,0.5005
+Chade,1,39,0.5313,16.0826,0.0000,2.7777
+Chile,79,24,41.9699,9.8970,1.8976,2.2922
+China,310,589,164.6919,242.8881,2.4914,5.4926
+Chipre,3,18,1.5938,7.4227,0.4771,2.0045
+Colômbia,126,33,66.9393,13.6083,2.1004,2.6107
+Costa Rica,16,7,8.5002,2.8866,1.2041,1.0601
+Costa do Marfim,25,49,13.2816,20.2063,1.3979,3.0060
+Croácia,25,8,13.2816,3.2990,1.3979,1.1936
+Cuba,415,247,220.4746,101.8563,2.6180,4.6236
+Dinamarca,25,12,13.2816,4.9485,1.3979,1.5991
+Equador,64,13,34.0009,5.3609,1.8062,1.6791
+Eslováquia,12,2,6.3752,0.8247,1.0792,-0.1927
+Espanha,143,231,75.9708,95.2583,2.1553,4.5566
+Estados Unidos,997,362,529.6703,149.2793,2.9987,5.0058
+Etiópia,10,49,5.3126,20.2063,1.0000,3.0060
+Filipinas,24,14,12.7503,5.7732,1.3802,1.7532
+Finlândia,11,17,5.8439,7.0104,1.0414,1.9474
+França,358,227,190.1925,93.6088,2.5539,4.5391
+Gabão,1,75,0.5313,30.9280,0.0000,3.4317
+Gana,4,73,2.1251,30.1033,0.6021,3.4046
+Geórgia,5,11,2.6563,4.5361,0.6990,1.5121
+Granada,3,3,1.5938,1.2371,0.4771,0.2128
+Grécia,280,43,148.7539,17.7321,2.4472,2.8754
+Guiné,19,102,10.0940,42.0621,1.2788,3.7391
+Guiné Equatorial,5,202,2.6563,83.2995,0.6990,4.4224
+Haiti,45,10,23.9069,4.1237,1.6532,1.4168
+Honduras,19,3,10.0940,1.2371,1.2788,0.2128
+Hong Kong,26,58,13.8129,23.9177,1.4150,3.1746
+Hungria,43,15,22.8444,6.1856,1.6335,1.8222
+Indonésia,13,31,6.9064,12.7836,1.1139,2.5482
+Iraque,191,140,101.4714,57.7323,2.2810,4.0558
+Irlanda,11,5,5.8439,2.0619,1.0414,0.7236
+Islândia,2,13,1.0625,5.3609,0.3010,1.6791
+Israel,47,49,24.9694,20.2063,1.6721,3.0060
+Itália,790,114,419.6986,47.0106,2.8976,3.8504
+Jamaica,8,3,4.2501,1.2371,0.9031,0.2128
+Japão,122,92,64.8142,37.9384,2.0864,3.6360
+Jordânia,19,9,10.0940,3.7114,1.2788,1.3114
+Laos,3,2,1.5938,0.8247,0.4771,-0.1927
+Libéria,8,48,4.2501,19.7939,0.9031,2.9854
+Lituânia,6,23,3.1876,9.4846,0.7782,2.2497
+Luxemburgo,6,21,3.1876,8.6598,0.7782,2.1587
+Líbano,28,24,14.8754,9.8970,1.4472,2.2922
+Líbia,155,124,82.3459,51.1343,2.1903,3.9345
+Macau,3,41,1.5938,16.9073,0.4771,2.8277
+Mali,13,48,6.9064,19.7939,1.1139,2.9854
+Malta,5,20,2.6563,8.2475,0.6990,2.1099
+Malásia,18,11,9.5628,4.5361,1.2553,1.5121
+Marrocos,7,70,3.7188,28.8662,0.8451,3.3627
+Mauritânia,2,11,1.0625,4.5361,0.3010,1.5121
+Mongólia,1,5,0.5313,2.0619,0.0000,0.7236
+Montenegro,2,13,1.0625,5.3609,0.3010,1.6791
+Moçambique,30,713,15.9379,294.0224,1.4771,5.6837
+México,255,50,135.4723,20.6187,2.4065,3.0262
+Namíbia,1,133,0.5313,54.8457,0.0000,4.0045
+Nepal,4,4,2.1251,1.6495,0.6021,0.5005
+Nicarágua,14,1,7.4377,0.4124,1.1461,-0.8858
+Nigéria,31,208,16.4692,85.7737,1.4914,4.4517
+Noruega,4,29,2.1251,11.9588,0.6021,2.4815
+Nova Zelândia,10,10,5.3126,4.1237,1.0000,1.4168
+Níger,6,23,3.1876,9.4846,0.7782,2.2497
+Panamá,20,82,10.6253,33.8146,1.3010,3.5209
+Paquistão,19,25,10.0940,10.3093,1.2788,2.3331
+Paraguai,73,4,38.7823,1.6495,1.8633,0.5005
+Peru,64,14,34.0009,5.7732,1.8062,1.7532
+Porto Rico,25,7,13.2816,2.8866,1.3979,1.0601
+Portugal,58,2219,30.8133,915.0572,1.7634,6.8190
+República Dominicana,14,7,7.4377,2.8866,1.1461,1.0601
+Ruanda,2,53,1.0625,21.8558,0.3010,3.0845
+Senegal,16,70,8.5002,28.8662,1.2041,3.3627
+Somália,14,55,7.4377,22.6806,1.1461,3.1215
+Sri Lanka,4,4,2.1251,1.6495,0.6021,0.5005
+Sudão,3,120,1.5938,49.4848,0.4771,3.9017
+Suécia,52,16,27.6257,6.5980,1.7160,1.8868
+Suíça,85,83,45.1574,34.2270,1.9294,3.5330
+Sérvia,31,17,16.4692,7.0104,1.4914,1.9474
+Síria,460,203,244.3815,83.7119,2.6628,4.4274
+Tailândia,27,6,14.3441,2.4742,1.4314,0.9059
+Taiwan,42,8,22.3131,3.2990,1.6232,1.1936
+Tanzânia,1,49,0.5313,20.2063,0.0000,3.0060
+Timor Leste,2,10,1.0625,4.1237,0.3010,1.4168
+Togo,1,18,0.5313,7.4227,0.0000,2.0045
+Tunísia,16,85,8.5002,35.0518,1.2041,3.5568
+Turquia,344,119,182.7548,49.0725,2.5366,3.8933
+Ucrânia,34,45,18.0630,18.5568,1.5315,2.9208
+Uganda,22,41,11.6878,16.9073,1.3424,2.8277
+Uruguai,88,10,46.7512,4.1237,1.9445,1.4168
+Vaticano,208,27,110.5029,11.1341,2.3181,2.4100
+Venezuela,198,62,105.1903,25.5672,2.2967,3.2413
+África do Sul,29,282,15.4067,116.2894,1.4624,4.7561
+Áustria,80,23,42.5011,9.4846,1.9031,2.2497
+Índia,58,51,30.8133,21.0311,1.7634,3.0460
 
 Total de Cidades em Comum entre os dois Grupos: 111

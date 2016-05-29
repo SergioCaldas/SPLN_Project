@@ -71,10 +71,10 @@ my $tpaises = 0;
 foreach my $my_paises (sort keys %my_hash){
   if(exists $his_hash{$my_paises}){
     $tpaises++;
-    print "$my_paises\n";
-    print "\tTotal: $my_hash{$my_paises}{$total} - $his_hash{$my_paises}{$total}\n";
-    print "\tFrequencia Absluta: $my_hash{$my_paises}{$freq_abs} - $his_hash{$my_paises}{$freq_abs}\n";
-    print "\tFrequencia Logaritmica: $my_hash{$my_paises}{$freq_log} - $his_hash{$my_paises}{$freq_log}\n";
+    print "$my_paises,";
+    print "$my_hash{$my_paises}{$total},$his_hash{$my_paises}{$total},";
+    print "$my_hash{$my_paises}{$freq_abs},$his_hash{$my_paises}{$freq_abs},";
+    print "$my_hash{$my_paises}{$freq_log},$his_hash{$my_paises}{$freq_log}\n";
   }
 }
 

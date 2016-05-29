@@ -73,10 +73,10 @@ my $tcidades = 0;
 foreach my $my_cidade (sort keys %my_hash){
   if(exists $his_hash{$my_cidade}){
     $tcidades++;
-    print "$my_cidade\n";
-    print "\tTotal: $my_hash{$my_cidade}{$total} - $his_hash{$my_cidade}{$total}\n";
-    print "\tFrequencia Absluta: $my_hash{$my_cidade}{$freq_abs} - $his_hash{$my_cidade}{$freq_abs}\n";
-    print "\tFrequencia Logaritmica: $my_hash{$my_cidade}{$freq_log} - $his_hash{$my_cidade}{$freq_log}\n";
+    print "$my_cidade,";
+    print "$my_hash{$my_cidade}{$total},$his_hash{$my_cidade}{$total},";
+    print "$my_hash{$my_cidade}{$freq_abs},$his_hash{$my_cidade}{$freq_abs},";
+    print "$my_hash{$my_cidade}{$freq_log},$his_hash{$my_cidade}{$freq_log}\n";
   }
 }
 
